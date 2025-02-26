@@ -1,0 +1,439 @@
+
+ <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabla de Roles y API</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        section:nth-child(odd){
+            background-color: #f7f7f7;
+        }
+    </style>
+</head>
+<body>
+
+<section>
+    <div class="container pt-5 pb-5">
+
+        <h2 class="card-title text-center mb-4">Aplicación Individual - Reglas de Presentación</h2>
+
+
+        <p class="card-text">La aplicación individual consta de <strong>16 actividades</strong>, cada una enfocada en desarrollar características esenciales en la creación de software. Cada actividad tiene un valor de <strong>3.33 puntos</strong>, por lo que completar <strong>15 de 16 actividades</strong> resultará en una calificación de <strong>50 puntos</strong> al final del tercer corte.</p>
+        
+        <p class="card-text">Durante el primer y segundo corte, se evaluarán avances parciales según el desarrollo de la aplicación.</p>
+        
+        <div class="alert alert-warning" role="alert">
+            La aplicación debe estar instalada en un <strong>telefono android</strong> y debe estar realizada en <strong>react native</strong>.
+            Es fundamental que la aplicación utilice la <strong>API asignada en clase</strong>, según la lista dentro del documento. Solo se podrá cambiar de API si no ha sido asignada a otro compañero, <strong>excepto PokeAPI</strong>, que está reservada para el docente.<br>.
+        </div>
+        <h5 class="mt-4">Para la entrega final, la aplicación debe cumplir con:</h5>
+        <ol class="list-group list-group-numbered">
+            <li class="list-group-item">✅ Contar con al menos <strong>6 pestañas</strong>. (3.33 puntos)</li>
+            <li class="list-group-item">✅ Tener un menú inferior</strong> con 4 ítems. (3.33 puntos)</li>
+            <li class="list-group-item">✅ Tener un <strong>buscador</strong>. (3.33 puntos)</li>
+            <li class="list-group-item">✅ Implementar un <strong>filtro</strong>. (3.33 puntos)</li>
+            <li class="list-group-item">✅ Listar elementos obtenidos desde la API asignada. (3.33 puntos)</li>
+            <li class="list-group-item">✅ Incluir una funcionalidad original (feature único). (3.33 puntos)</li>
+            <li class="list-group-item">✅ Agregar un <strong>botón de sorpresa</strong> (aleatorio). (3.33 puntos)</li>
+            <li class="list-group-item">✅ Implementar un <strong>CRUD de favoritos</strong> en almacenamiento local. (3.33 puntos)</li>
+            <li class="list-group-item">✅ Garantizar un <strong>diseño homogéneo</strong> y una buena experiencia de usuario. (3.33 puntos)</li>
+            <li class="list-group-item">✅ Contar con un <strong>objeto de prueba</strong> para login. (3.33 puntos)</li>
+            <li class="list-group-item">✅ Incluir un <strong>splash screen</strong> e ícono personalizado. (3.33 puntos)</li>
+            <li class="list-group-item">✅ Mostrar al menos <strong>una notificación</strong>. (3.33 puntos)</li>
+            <li class="list-group-item">✅ Conectarse a una <strong>segunda API</strong>. (3.33 puntos)</li>
+            <li class="list-group-item">✅ Agregar un <strong>botón que cambie de colores</strong>. (3.33 puntos)</li>
+            <li class="list-group-item">✅ Incluir <strong>botones para compartir</strong> en redes sociales. (3.33 puntos)</li>
+            <li class="list-group-item">✅ Ser compatible e instalable en <strong>iOS</strong>. (3.33 puntos)</li>
+        </ol>
+        <div class="alert alert-info mt-3" role="alert">
+            Con autorización del profesor, una característica puede cambiarse por otra.
+        </div>
+        
+
+    <table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Nombre</th>
+            <th>API Asignada</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>ALVAREZ BERNAL SANTIAGO</td>
+            <td>Lorem Picsum</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>ALZATE ALFONSO FELIPE</td>
+            <td>Advice Slip API</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>CASTRO LADINO KEVIN MATEO</td>
+            <td>digimon-api.vercel.app</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>GARZON CONTRERAS DAVID SANTIAGO</td>
+            <td>Harry Potter API</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>GONZALEZ BENAVIDES CARLOS ARTURO</td>
+            <td>TVMaze API</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>GONZALEZ PADILLA MICHAEL LEANDRO</td>
+            <td>Studio Ghibli API</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>GUERRERO FONSECA BRAYAN DAVID</td>
+            <td>Game of Thrones API</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>LONDOÑO PIÑEROS IVAN DANIEL</td>
+            <td>fakestoreapi</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>MOSQUERA BECERRA RICARDO MAURICIO</td>
+            <td>Star Wars API</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>NIETO PARRA PAULA VALENTINA</td>
+            <td>iTunes API</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>PIÑEROS NIÑO HAROL YESID</td>
+            <td>joke api</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>PUENTES QUIMBAYA SEBASTIAN</td>
+            <td>Random User Generator</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>PULIDO GUERRERO CHRISTIAN CAMILO</td>
+            <td>CoinGecko API</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>RODRIGUEZ MORENO NICOLAS OVED</td>
+            <td>Rick and Morty API</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>RODRIGUEZ PERALTA JUAN FELIPE</td>
+            <td>Numbers API</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>SANTAMARIA SANCHEZ JUAN CAMILO</td>
+            <td>fakeapi</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>TRIANA GOMEZ DAVID FELIPE</td>
+            <td>platzi fake api</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>VIEDA BETANCOURT DANIEL ARTURO</td>
+            <td>SpaceX API</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>VILLARRAGA QUIROGA YORK MAICOLL</td>
+            <td>opentdb</td>
+        </tr>
+    </tbody>
+</table>    
+
+
+    
+    </div>
+
+</section>
+
+
+
+
+<section>
+    <div class="container mt-5">
+        <h2  class="card-title text-center mb-4">Aplicación Replica</h2>
+        <p class="card-text">Esta aplicación se calificará bajo los criterios de competencias. El grupo que realice más actividades obtendrá una mejor calificación, mientras que aquellos con menos actividades recibirán una menor nota.</p>
+        <p class="card-text">Por ejemplo, si el grupo que desarrolla más características logra implementar 10, cada punto valdrá <strong>0,5</strong>, otorgando una calificación de <strong>5.0</strong> al equipo que las completó. Si el grupo con menor cantidad realiza 6 actividades, su calificación será de <strong>3.0</strong> (6x0.5).</p>
+        <p class="card-text">Una característica se define como una actividad que incluya un <strong>CRUD</strong> (crear, mostrar, actualizar y borrar). Por ejemplo, mostrar los elementos de un feed es una característica, y actualizar un dato en la base de datos es otra.</p>
+        <div class="alert alert-warning" role="alert">
+            Todas las actividades desarrolladas deben estar documentadas y todos los integrantes del grupo deben tener la aplicación instalada en sus dispositivos.
+        </div>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Nombre</th>
+            <th>APP A REPLICAR</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>11</td>
+            <td>PIÑEROS NIÑO HAROL YESID</td>
+            <td>Mercadolibre</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>GONZALEZ BENAVIDES CARLOS ARTURO</td>
+            <td>Mercadolibre</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>GUERRERO FONSECA BRAYAN DAVID</td>
+            <td>Mercadolibre</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>ALZATE ALFONSO FELIPE</td>
+            <td>pinterest</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>ALVAREZ BERNAL SANTIAGO</td>
+            <td>pinterest</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>TRIANA GOMEZ DAVID FELIPE</td>
+            <td>pinterest</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>MOSQUERA BECERRA RICARDO MAURICIO</td>
+            <td>spotify</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>NIETO PARRA PAULA VALENTINA</td>
+            <td>spotify</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>VILLARRAGA QUIROGA YORK MAICOLL</td>
+            <td>nequi</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>PUENTES QUIMBAYA SEBASTIAN</td>
+            <td>nequi</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>RODRIGUEZ PERALTA JUAN FELIPE</td>
+            <td>nequi</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>PULIDO GUERRERO CHRISTIAN CAMILO</td>
+            <td>instagram</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>VIEDA BETANCOURT DANIEL ARTURO</td>
+            <td>instagram</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>RODRIGUEZ MORENO NICOLAS OVED</td>
+            <td>instagram</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>CASTRO LADINO KEVIN MATEO</td>
+            <td>instagram</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>GONZALEZ PADILLA MICHAEL LEANDRO</td>
+            <td>daviplata</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>SANTAMARIA SANCHEZ JUAN CAMILO</td>
+            <td>daviplata</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>LONDOÑO PIÑEROS IVAN DANIEL</td>
+            <td>daviplata</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>GARZON CONTRERAS DAVID SANTIAGO</td>
+            <td>daviplata</td>
+        </tr>
+    </tbody>
+</table>
+
+    </div>
+    
+</section>
+
+<section class="pb-5">
+    <div class="container mt-5">
+    
+        <div class="container pt-5 pb-5">
+            <h2 class="card-title text-center mb-4">Aplicación Grupal - Reglas de Presentación</h2>
+            <p class="card-text">La aplicación grupal tendrá <strong>dos calificaciones</strong>: una grupal que evaluará el avance general y una individual que medirá el progreso de cada integrante.</p>
+            <p class="card-text">Cada rol se evaluará de la siguiente manera:</p>
+            <ul class="list-group">
+                <li class="list-group-item">✅ <strong>Front y Back:</strong> Evaluación del código en GitHub.</li>
+                <li class="list-group-item">✅ <strong>Pruebas:</strong> Presentación de documentos de ejecución de pruebas.</li>
+                <li class="list-group-item">✅ <strong>Diseño:</strong> Entrega de mockups.</li>
+                <li class="list-group-item">✅ <strong>Scrum:</strong> Gestión del tablero con asignaciones y control de actividades.</li>
+            </ul>
+            <p class="mt-3">Cada integrante desarrollará <strong>hasta 2 actividades por corte</strong>. Solo el Scrum deberá tener la app instalada.</p>
+            <h5 class="mt-4">Criterios Aplicación de Fútbol de Fantasía</h5>
+            <ol class="list-group list-group-numbered">
+                <li class="list-group-item">✅ <strong>Selección de jugadores:</strong> Elegir 5 jugadores de una lista de 20 futbolistas europeos.</li>
+                <li class="list-group-item">✅ <strong>Calificación de jugadores:</strong> Puntajes actualizados manualmente desde un panel administrativo con datos de Sofascore.</li>
+                <li class="list-group-item">✅ <strong>Cálculo de puntaje:</strong> Promedio de las calificaciones semanales de los jugadores elegidos.</li>
+                <li class="list-group-item">✅ <strong>Ranking de usuarios:</strong> Mostrar los usuarios con los puntajes más altos.</li>
+                <li class="list-group-item">✅ <strong>Registro de usuarios:</strong> Formulario con nombre, correo y teléfono, accesible desde el perfil del usuario.</li>
+                <li class="list-group-item">✅ <strong>Información de jugadores:</strong> Nombre, equipo, foto y últimos 4 promedios. Notificación de cierre de fecha límite definida por el administrador.</li>
+                <li class="list-group-item">✅ <strong>Límite de elección:</strong> Elección de jugadores antes de la hora establecida por el administrador.</li>
+                <li class="list-group-item">✅ <strong>Reemplazo de jugadores:</strong> Posibilidad de sustituir jugadores desde el panel administrativo en caso de lesión.</li>
+                <li class="list-group-item">✅ <strong>Botón de favoritos:</strong> Marcar jugadores favoritos en el entorno local.</li>
+                <li class="list-group-item">✅ <strong>Frase del ganador:</strong> Destacar una frase del usuario con mayor puntaje semanal.</li>
+            </ol>
+        </div>
+    
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Nombre</th>
+            <th>Rol</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>14</td>
+            <td>RODRIGUEZ MORENO NICOLAS OVED</td>
+            <td>Diseño</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>GONZALEZ BENAVIDES CARLOS ARTURO</td>
+            <td>Diseño</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>ALVAREZ BERNAL SANTIAGO</td>
+            <td>Diseño</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>PULIDO GUERRERO CHRISTIAN CAMILO</td>
+            <td>Backend (L)</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>PIÑEROS NIÑO HAROL YESID</td>
+            <td>Backend</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>GONZALEZ PADILLA MICHAEL LEANDRO</td>
+            <td>Backend</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>MOSQUERA BECERRA RICARDO MAURICIO</td>
+            <td>Backend</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>CASTRO LADINO KEVIN MATEO</td>
+            <td>Backend</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>RODRIGUEZ PERALTA JUAN FELIPE</td>
+            <td>Backend</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>VIEDA BETANCOURT DANIEL ARTURO</td>
+            <td>Backend</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>LONDOÑO PIÑEROS IVAN DANIEL</td>
+            <td>Front (L)</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>TRIANA GOMEZ DAVID FELIPE</td>
+            <td>Front</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>PUENTES QUIMBAYA SEBASTIAN</td>
+            <td>Front</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>GARZON CONTRERAS DAVID SANTIAGO</td>
+            <td>Front</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>VILLARRAGA QUIROGA YORK MAICOLL</td>
+            <td>Front</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>SANTAMARIA SANCHEZ JUAN CAMILO</td>
+            <td>Front</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>ALZATE ALFONSO FELIPE</td>
+            <td>Pruebas</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>NIETO PARRA PAULA VALENTINA</td>
+            <td>Pruebas</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>GUERRERO FONSECA BRAYAN DAVID</td>
+            <td>Pruebas</td>
+        </tr>
+    </tbody>
+</table>
+
+    </div>
+</section>
+
+
+
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
