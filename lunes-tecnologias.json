@@ -1,0 +1,18 @@
+[
+  {
+    nombreapp: "Calculadora283",
+    descripcion: "Esta es una calculadora web simple y funcional, desarrollada con HTML, CSS y JavaScript, que permite realizar operaciones aritméticas básicas como suma, resta, multiplicación y división. Su diseño es moderno, con una interfaz de estilo oscuro y botones responsivos que mejoran la experiencia del usuario.",
+    icono: "https://www.flaticon.es/icono-gratis/calculadora_1176238",
+    integrantes: "daniel diaz, daniel tibata, profe 283",
+    actividad: "webintoapp",
+    url: "https://drive.google.com/file/d/1R6zbKCTnWSB23elKOmcVcFT-fmNfyo4M/view?usp=drive_link"
+  },
+  {
+    nombreapp: "Prueba2",
+    descripcion: "descipcion de 30 palabras",
+    icono: "link del icono usado para la app",
+    integrantes: "nombres separados por comas",
+    actividad: "nombre de la actividad a la que pertenece",
+    url: "link del archivo subido a la carpeta"
+  }
+ ]
