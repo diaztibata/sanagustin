@@ -1,0 +1,37 @@
+[
+    {
+        "nombreapp": "AnimeApp",
+        "descripción": "Anime App es una aplicación móvil diseñada para que los aficionados al anime descubran, busquen y sigan sus series favoritas. Ofrece una interfaz de usuario limpia y moderna, permitiendo a los usuarios navegar por los títulos más populares y los lanzamientos de temporada. La aplicación proporciona información clave sobre cada anime, incluyendo calificaciones, resúmenes y títulos. Su potente buscador y la organización por categorías (Inició, Populares, Temporada) la convierten en una herramienta esencial para mantenerse al día con el mundo del anime.",
+        "icono": "",
+        "integrantes": "Johan Sebastian Torres",
+        "actividad": "Webintoapp",
+        "url": "https://drive.google.com/file/d/1ppu9Lvfhp1CLe2wRqVzO2RPZsTzwKNOw/view?usp=drive_link"
+    },
+    {
+        "nombreapp": "Juego Pong",
+        "descripción": "Juego web interactivo desarrollado con HTML, CSS y JavaScript inspirado en el clásico Pong. Donde 2 jugadores controlan 2 barras cada uno para devolver una pelota que rebota en la pantalla, intentando evitar que pase su lado. Incluye un marcador de puntos, aumento progresivo de velocidad y la pelota sale instantáneamente después de que la pelota cruce el lado de alguno de los jugadores.",
+        "icono": "Icono pong.jpg",
+        "integrantes": "Andres Ceballos, Santiago Guzman, Ruben Gonzalez",
+        "actividad": "Webintoapp",
+        "url": "https://drive.google.com/drive/u/1/folders/1nLhUiUUXFWdMKfqJvl1t-SXhG8xJffvx"
+    },
+    {
+        "nombreapp": "Calculadora química de gases reales",
+        "descripción": "Calculadora química virtual desarrollada con HTML, CSS y JavaScript, responsive al cambio de tamaño de la aplicación que tiene como objetivo ayudar a las personas a determinar el volumen y el factor de compresibilidad de un gas real, usando la ecuación virial.",
+        "icono": "https://www.flaticon.es/icono-gratis/quimica_1157001?term=laboratorio&page=1&position=44&origin=search&related_id=1157001",
+        "integrantes": "Julian Maldonado, Santiago, Juan Pablo Castañeda",
+        "actividad": "webintoapp",
+        "url": ""
+    },
+    {
+        "nombreapp": "Prueba de Reacción",
+        "descripcion": "Juego web interactivo desarrollado con HTML, CSS y JavaScript en el que el jugador mide su tiempo de reacción tocando la pantalla cuando cambia a verde. Incluye registro de mejores tiempos, promedio, historial de rondas, vibración al iniciar y al ganar, y compatibilidad con dispositivos móviles. El objetivo es lograr el menor tiempo posible y compartir el récord.",
+        "icono": "https://www.flaticon.es/icono-gratis/destello_252590?term=rayo&page=1&position=39&origin=search&related_id=252590",
+        "integrantes": "Martin Ramirez,Javier Torres, Daniel Steven",
+        "actividad": "webintoapp",
+        "url": ""
+    }
+
+
+
+]

@@ -8,11 +8,99 @@
     "url": "https://drive.google.com/file/d/1R6zbKCTnWSB23elKOmcVcFT-fmNfyo4M/view?usp=drive_link"
   },
   {
-    "nombreapp": "Prueba2",
-    "descripcion": "descipcion de 30 palabras",
-    "icono": "link del icono usado para la app",
-    "integrantes": "nombres separados por comas",
-    "actividad": "nombre de la actividad a la que pertenece",
-    "url": "link del archivo subido a la carpeta"
+    "nombreapp": "Balance Corporal",
+    "descripcion": "Balance Corporal es tu compañero de bienestar personal. Calcula tu Índice de Masa Corporal (IMC) de forma precisa y rápida. Conviértete en el mejor administrador de tu salud y alcanza tus objetivos de peso y bienestar de manera sostenible y consciente.",
+    "icono": "Icono Balance Corporal",
+    "integrantes": "Daymon Diaz, Samuel Diaz, Jaime Antonio Poveda martinez ",
+    "actividad": "webintoapp",
+    "url": "https://drive.google.com/file/d/1R6zbKCTnWSB23elKOmcVcFT-fmNfyo4M/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Balatro Wiki",
+    "descripcion": "Balatro Wiki es una aplicación móvil diseñada para jugadores de Balatro. Contiene información detallada sobre el videojuego, incluyendo las reglas básicas, los diferentes tipos de cartas, y sus efectos. La aplicación se destaca por su potente buscador de etiquetas (tags), que permite a los usuarios filtrar y encontrar rápidamente la información que necesitan para planificar sus estrategias. Con una interfaz sencilla y amigable, es una herramienta esencial para aquellos que quieren dominar el juego. El objetivo principal es ofrecer una guía completa y accesible para jugadores de todos los niveles.",
+    "icono": "",
+    "integrantes": "Jesús Flórez, Sergio Ramirez, Matias Ramirez",
+    "actividad": "webintoapp",             
+    "url":""
+  },
+  {
+    "nombreapp": "Cronux",
+    "descripcion": "Este es un cronometro de muy facil acceso y funcional, fue hecha con HTML, CSS y JavaScript, este app esta diseñada para medir tiempos con facilidad. Ideal para deportes, entrenamientos, estudios y actividades diarias, con una interfaz clara y funcional y de facil acceso para el usuario que la vaya a usar",
+    "icono":  "https://www.flaticon.es/icono-gratis/reloj_3837463?term=cron%C3%B3metro&page=1&position=8&origin=tag&related_id=3837463",
+    "integrantes": "Juan Sebastian Rojas Lamprea, Juan Esteban Arias, Juan Pablo Zambrano Rojas",
+    "actividad": "webintoapp",
+    "url": "https://drive.google.com/file/d/1XijkexfZMs0GwLNdYs2mWV0-f2o19a-z/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Emoji Clicker",
+    "descripcion": "Juego web interactivo desarrollado con HTML, CSS y JavaScript en el que el jugador debe atrapar emojis buenos y evitar los malos mientras sube de nivel. Incluye diferentes modos de dificultad, enemigos como demonios y bombas, y un sistema de puntuación con metas representadas por trofeos. Tiene animaciones fluidas, efectos visuales de victoria, y es compatible con dispositivos móviles. El objetivo es lograr la mayor puntuación posible alcanzando varios trofeos.",
+    "icono": "Logo emoji (1).png",
+    "integrantes": "Andres De la rue, Ivan Sterling, Andres Castillo",
+    "actividad": "webintoapp",             
+    "url":"https://drive.google.com/file/d/1AYIJI4BBomO9IRcqOS5b801lTKQ2Pzza/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Memory Cards",
+    "descripcion": "Este es un juego de memoria web interactivo, desarrollado con HTML, CSS y JavaScript, que desafía a los usuarios a encontrar pares de cartas con emojis de animales. Su diseño es moderno, con tonos coloridos y animaciones suaves que mejoran la experiencia del usuario. Incluye cronómetro y contador de movimientos para tener seguimiento del rendimiento.",
+    "icono": "https://acortar.link/2dyUZf",
+    "integrantes": "Jossie Esteban Rico",
+    "actividad": "webintoapp",
+    "url":  "https://acortar.link/A9goLT  "
+  },
+  {
+    "NombreApp": "MicroLecturas",
+    "Descripcion": "Nuestra aplicación te ofrece lecturas breves y fascinantes sobre los temas que más te apasionan, para que aprendas algo nuevo en cualquier momento del día. Pon a prueba tu comprensión con retos interactivos, guarda tus textos favoritos para volver a ellos cuando quieras y personaliza tu experiencia con modo claro u oscuro. Todo en un solo lugar, rápido, sencillo y hecho para ti.",
+    "Icono": "MicroLecturas.jpeg",
+    "Integrantes": "Camilo Alarcon, Juan Rodriguez y Sofia Rueda",
+    "Actividad": "webintoapp",
+    "URL": "https://drive.google.com/file/d/1V-lykHsRpKk_CEw7D5EjHnFGQogSKAYz/view?usp=drivesdk"
+  },
+  {
+    "nombreApp": "Piedra papel o tijera",
+    "descripcion": "Un divertido juego de Piedra, Papel o Tijera para dos jugadores, con elecciones secretas y retos aleatorios. Perfecto para fiestas y reuniones, donde cada ronda trae sorpresas y risas aseguradas.",
+    "icono": "",
+    "integrantes": "Carlos Eduardo Alvarez Moreno, Samuel Alejandro Ramírez Benitez, Kevin Julian Romero Mateus",
+    "actividad": "webintoapp",
+    "url": "https://drive.google.com/drive/folders/1-oZczusNcf069Lby2WaVtrSCB3lpgB66?usp=drive_link"
+  },
+  {
+    "nombreApp": "Riega Riega",
+    "descripcion": "Riega Riega es una aplicación diseñada para ayudarte a gestionar de forma sencilla y eficiente el riego de tus plantas. Con ella podrás registrar cada una de tus plantas, añadirles una foto personalizada para identificarlas fácilmente y establecer la frecuencia de riego ideal según sus necesidades. La app te enviará notificaciones para recordarte cuándo es momento de aplicar agua, evitando olvidos y asegurando que tus plantas reciban el cuidado que merecen.",
+    "icono": "",
+    "integrantes": "Carlo Riaño",
+    "actividad": "Riega Riega",
+    "url": "https://drive.google.com/file/d/1NwsIFx62Sxm5CgTP-mtc4qHoKt1fPYqg/view?usp=drive_link"
+  },
+  {
+    "nombreApp": "Ruleta",
+    "descripcion": "Esta es una aplicación interactiva desarrollada con HTML, CSS y JavaScript que permite crear y personalizar ruletas para seleccionar opciones al azar, siendo perfecta para juegos, sorteos, retos divertidos o tomar decisiones rápidamente.",
+    "icono": "https://www.flaticon.es/icono-gratis/ruleta_419465?term=ruleta&page=1&position=3&origin=search&related_id=419465",
+    "integrantes": "Andres Lopez, Juan Blanco, Helen Linares",
+    "actividad": "webintoapp",
+    "url": "https://drive.google.com/file/d/190Y59oqZN_szFuS6OqOCTWOFYBb_qPG9/view?usp=drive_link"
+  },
+    {
+    "nombreApp": "Tap Symphony",
+    "descripcion": "Tap Symphony es una aplicación web musical interactiva que permite crear secuencias de sonidos tocando pads coloridos. Desarrollada con HTML, CSS y JavaScript, incluye funciones de grabación, reproducción y limpieza de secuencias musicales.",
+    "icono": "https://www.flaticon.es/icono-gratis/notas-musicales_2907253?term=music&page=1&position=5&origin=search&related_id=2907253",
+    "integrantes": "Laura Valentina Cardona Guarín, Yesica Causado Alvarado, Luisa Sofía Aguilar Vargas",
+    "actividad": "webintoapp",
+    "url": "https://drive.google.com/file/d/1pZqb-Dcy8HPTdX6CSzjzxTf1WaPceihf/view?usp=drive_link"
+  },
+  {
+    "nombreApp": "Tridente del conocimiento",
+    "descripcion": "Es una app interactiva que presenta siluetas y reproduce audios relacionados con fútbol, baloncesto y videojuegos. El usuario debe observar las imágenes y escuchar con atención, luego debe elegir la opción correcta, poniendo a prueba sus conocimientos en estos temas.",
+    "icono": "https://www.flaticon.es/icono-gratis/audio_5039088?term=audio&page=1&position=56&origin=search&related_id=5039088",
+    "integrantes": "Julian Lozano, David Sarmiento, Jesus Vargas",
+    "actividad": "webintoapp",
+    "url": "https://drive.google.com/file/d/1A9fLFKCGPPK9LBWSs4K9wdm_Fn694XNb/view?usp=sharing"
+  },
+  {
+    "nombreApp": "Triqui",
+    "descripcion": "Es un juego de triqui interactivo en línea, para dos jugadores, con diseño atractivo, pantalla completa, marcador de puntuaciones y reinicio rápido, totalmente responsive y fácil de usar desde cualquier dispositivo.",
+    "icono": "",
+    "integrantes": "Juan Jose Gonzales, Sebastian Piñeros, Sebastian Montiel",
+    "actividad": "webintoapp",
+    "url": "https://drive.google.com/drive/folders/1HZeNfw7RY185MYVLCuL79mHscOMjAxFf"
   }
 ]
