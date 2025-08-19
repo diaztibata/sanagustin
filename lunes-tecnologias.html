@@ -45,7 +45,7 @@
   <div id="contenedor"></div>
 
   <script>
-const URL = "/sanagustin/json/lunes-tecnologias.json";
+const URL = "/json/lunes-tecnologias.json";
 const contenedor = document.getElementById("contenedor");
 
 fetch(URL)
@@ -55,12 +55,17 @@ fetch(URL)
       const card = document.createElement("div");
       card.className = "app-card";
 
+      // convertir el array de integrantes en lista
+      const integrantesLista = app.integrantes
+        .map(integrante => `${integrante}`)
+        .join(", ");
+
       card.innerHTML = `
         <img src="${app.icono}" alt="Icono de ${app.nombreapp}" />
         <div class="app-info">
           <h2>${app.nombreapp}</h2>
           <p><strong>Descripción:</strong> ${app.descripcion}</p>
-          <p><strong>Integrantes:</strong> ${app.integrantes}</p>
+          <p><strong>Integrantes:</strong> ${integrantesLista}</p>
           <p><strong>Actividad:</strong> ${app.actividad}</p>
           <p><a href="${app.url}" target="_blank">Ver archivo</a></p>
         </div>
