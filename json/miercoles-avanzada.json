@@ -42,7 +42,7 @@
     "nombreapp": "Sudoku Mobile",
     "descripcion": "Un juego interactivo de Sudoku 9x9 adaptable a móviles y computadoras. Permite seleccionar celdas y llenarlas con un teclado numérico en pantalla, generando desafíos aleatorios. Desarrollado con HTML, CSS y JavaScript, pensado para su uso principal en dispositivos móviles y empaquetado como aplicación Android.",
     "icono": "https://www.flaticon.es/icono-gratis/juego_10595686?term=sudoku&page=1&position=10&origin=search&related_id=10595686",
-    "integrantes": "Jose Grass, Elmer Cabrera, Alejandro Rubio",
+    "integrantes": ["Jose Grass", "Elmer Cabrera", "Alejandro Rubio"],
     "actividad": "Android Studio",
     "url": "https://josegrass.github.io/Sudoku/"
   },
