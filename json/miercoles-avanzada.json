@@ -19,7 +19,7 @@
     "nombreapp": "Semáforo Interactivo",
     "descripcion": "Es una aplicación web hecha con HTML, CSS y JavaScript que simula un semáforo. El usuario puede encender las luces roja, amarilla o verde de forma manual o activar un modo automático que cambia las luces cada pocos segundos. Funciona en navegadores y puede integrarse en apps móviles con WebView.",
     "icono": "https://www.flaticon.es/icono-gratis/semaforos_3267422?term=semaforo&page=1&position=4&origin=search&related_id=3267422",
-    "integrantes": "Santiago Castellanos - Angie Rincon",
+    "integrantes": ["Santiago Castellanos", "Angie Rincon"],
     "actividad": "Android Studio",
     "url": "https://santiago1902200.github.io/Semaforo/"
   },
