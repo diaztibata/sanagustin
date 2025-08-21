@@ -90,9 +90,9 @@
   {
     "nombreapp": "Stopwatch",
     "descripcion": "Tienes un stopwatch para configurar alarmas en horas, minutos y segundos, muy útiles para deportistas o para tareas que se deben realizar en un muy corto periodo de tiempo.",
-    "icono": "https://www.flaticon.es/icono-gratis/hora_2982765?term=cronometro&page=1&position=38&origin=search&related_id=2982765",
-    "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2982/2982765.png",
+    "integrantes": ["Carlos Eduardo Cruz", "Cristian Rojas"],
     "actividad": "Android Studio",
-    "url": "https://eduardocr91.github.io/Stopwatch2/"
+    "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
   }
 ]
