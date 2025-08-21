@@ -2,8 +2,8 @@
   {
     "nombreapp": "Adivinar",
     "descripcion": "Adivina la Fruta es un juego web interactivo desarrollado con HTML, CSS y JavaScript, diseñado para ofrecer una experiencia visual sencilla pero entretenida. El jugador observa varias imágenes de frutas en pantalla y debe seleccionar la correcta para adivinar cuál es la fruta objetivo. Gracias a la combinación de HTML para la estructura, CSS para el estilo atractivo y JavaScript para la lógica interactiva, el juego funciona de manera fluida tanto en navegadores como dentro de aplicaciones móviles mediante WebView.",
-    "icono": "https://www.flaticon.es/resultados?word=adivinaar",
-    "integrantes": "Oscar Herrera, Katherin Aviles",
+    "icono": "https://www.flaticon.es/resultados?word=adivinaa",
+    "integrantes": ["Oscar Herrera", "Katherin Aviles"],
     "actividad": "Android Studio",
     "url": "https://katherin2024.github.io/AdivinarApk/"
   },
