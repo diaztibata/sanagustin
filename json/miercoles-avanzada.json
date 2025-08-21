@@ -10,9 +10,10 @@
   {
     "nombreapp": "Crushed controller",
     "descripcion": "Es un juego interactivo que usa imágenes para su funcionamiento, consiste en juntar tres imágenes del mismo para así juntar puntos en un tablero hasta llegar a 5000, desarrollado con HTML, CSS, y JavaScript, su principal funcionamiento es en móviles, usando Android Studio para que sea una app.",
-    "integrantes": "Juan Esteban Urriago Calderon",
+    "icono":"https://cdn-icons-png.flaticon.com/512/686/686589.png",
+    "integrantes": ["Juan Esteban Urriago Calderon"],
     "actividad": "Android Studio",
-    "url": "https://juanu79.github.io/-crushed-control/"
+    "url": "https://drive.google.com/file/d/105SP2xXyZNvgLyhxfGtppU64VXUwHg1b/view?usp=sharing"
   },
   {
     "nombreapp": "Semáforo Interactivo",
