@@ -50,7 +50,7 @@
     "nombreapp": "Memoria Emoji",
     "descripcion": "Un juego interactivo de memoria con temática de emojis, donde el jugador debe encontrar las parejas idénticas en el menor número de intentos posible. Adaptado para dispositivos móviles y computadoras, desarrollado con HTML, CSS y JavaScript, y empaquetado como aplicación Android para su uso principal en móviles.",
     "icono": "https://www.flaticon.es/icono-gratis/amigos_8048367?term=emojis&page=1&position=5&origin=search&related_id=8048367",
-    "integrantes": "Felipe Rivera, Duban Salguero",
+    "integrantes": ["Felipe Rivera", "Duban Salguero", "Juan Herrera"],
     "actividad": "Android Studio",
     "url": "https://duban77.github.io/Dados-Doble/"
   },
