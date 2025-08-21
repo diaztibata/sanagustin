@@ -82,7 +82,7 @@
     "nombreapp": "Juego dados",
     "descripcion": "El juego de dados es una aplicación web interactiva en la que uno o más jugadores lanzan virtualmente uno o dos dados para obtener un resultado aleatorio entre 1 y 6. El objetivo puede variar según las reglas implementadas: acumular la mayor cantidad de puntos, alcanzar un puntaje exacto o superar al oponente en menos tiradas. El jugador pulsa un botón para lanzar, y en pantalla se muestran las caras de los dados mediante imágenes o gráficos, acompañados de efectos visuales y animaciones para simular el movimiento real. El juego combina azar, rapidez y diversión, ofreciendo una experiencia sencilla pero entretenida directamente desde el navegador.",
     "icono": "https://www.flaticon.es/icono-gratis/dado_9003230?k=1755128188942&sign-up=google",
-    "integrantes": "Juan Buitrago , Juan Chaparro , Juan Quintero",
+    "integrantes": ["Juan Buitrago" ," Juan Chaparro" ," Juan Quintero"],
     "actividad": "Android Studio",
     "url": "https://github.com/juanbuitri/juego-dados.git"
   },
