@@ -2,25 +2,26 @@
   {
     "nombreapp": "Adivinar",
     "descripcion": "Adivina la Fruta es un juego web interactivo desarrollado con HTML, CSS y JavaScript, diseñado para ofrecer una experiencia visual sencilla pero entretenida. El jugador observa varias imágenes de frutas en pantalla y debe seleccionar la correcta para adivinar cuál es la fruta objetivo. Gracias a la combinación de HTML para la estructura, CSS para el estilo atractivo y JavaScript para la lógica interactiva, el juego funciona de manera fluida tanto en navegadores como dentro de aplicaciones móviles mediante WebView.",
-    "icono": "https://www.flaticon.es/resultados?word=adivinaar",
-    "integrantes": "Oscar Herrera, Katherin Aviles",
+    "icono": "   https://cdn-icons-png.flaticon.com/512/3339/3339137.png ",
+    "integrantes": ["Oscar Herrera", "Katherin Aviles"],
     "actividad": "Android Studio",
-    "url": "https://katherin2024.github.io/AdivinarApk/"
+    "url": "https://drive.google.com/file/d/1KhvBqIybXU5PQai2N7CRdJ3NKAzvUbpf/view?usp=sharing"
   },
   {
     "nombreapp": "Crushed controller",
     "descripcion": "Es un juego interactivo que usa imágenes para su funcionamiento, consiste en juntar tres imágenes del mismo para así juntar puntos en un tablero hasta llegar a 5000, desarrollado con HTML, CSS, y JavaScript, su principal funcionamiento es en móviles, usando Android Studio para que sea una app.",
-    "integrantes": "Juan Esteban Urriago Calderon",
+    "icono": "   https://cdn-icons-png.flaticon.com/512/686/686589.png ",
+    "integrantes": ["Juan Esteban Urriago Calderon"],
     "actividad": "Android Studio",
-    "url": "https://juanu79.github.io/-crushed-control/"
+    "url": "https://drive.google.com/file/d/105SP2xXyZNvgLyhxfGtppU64VXUwHg1b/view?usp=sharing"
   },
   {
     "nombreapp": "Semáforo Interactivo",
     "descripcion": "Es una aplicación web hecha con HTML, CSS y JavaScript que simula un semáforo. El usuario puede encender las luces roja, amarilla o verde de forma manual o activar un modo automático que cambia las luces cada pocos segundos. Funciona en navegadores y puede integrarse en apps móviles con WebView.",
-    "icono": "https://www.flaticon.es/icono-gratis/semaforos_3267422?term=semaforo&page=1&position=4&origin=search&related_id=3267422",
-    "integrantes": "Santiago Castellanos - Angie Rincon",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3267/3267422.png",
+    "integrantes": ["Santiago Castellanos", "Angie Rincon"],
     "actividad": "Android Studio",
-    "url": "https://santiago1902200.github.io/Semaforo/"
+    "url": "/https://drive.google.com/file/d/1BjD5f7HvgXfBkGGIM4y_0PnyFsSZ3oxE/view?usp=sharing"
   },
   {
     "nombreapp": "Buscaminas v1.0",
