@@ -58,10 +58,12 @@
   {
     "nombreapp": "Color Memory",
     "descripcion": "Es un juego de memoria interactivo en el cual aparecen varios botones de colores. El juego muestra una secuencia de colores y el objetivo es repetir el patrón exactamente en el mismo orden, fue creado utilizando JavaScript, CSS y HTML, y Android para que pueda desarrollarse como aplicación móvil.",
-    "icono": "https://www.flaticon.es/icono-gratis/juego_1138727?term=juego+de+memoria&page=1&position=7&origin=search&related_id=1138727",
-    "integrantes": ["María Paula Almario", "Maicol López", "Karen Borda"],
+    "icono": "https://cdn-icons-png.flaticon.com/512/1138/1138727.png",
+
+      "integrantes": ["María Paula Almario", "Maicol López", "Karen Borda"],
+
     "actividad": "Android Studio",
-    "url": "https://github.com/MariaAlmario/SIMON_DICE"
+    "url": "https://drive.google.com/file/d/1IXn9NoE-ERuSXvQNI3cDBwFqT7x5zn_K/view?usp=drivesdk"
   },
   {
     "nombreapp": "MOTOS",
