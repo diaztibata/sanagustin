@@ -26,7 +26,7 @@
     "nombreapp": "Buscaminas v1.0",
     "descripcion": "Es un juego interactivo basado en el clásico buscaminas de Windows realizado plenamente en HTML, CSS y JavaScript, el usuario usará el clic izquierdo para revelar las casillas y clic derecho para marcar y desmarcar con una bandera las casillas con bombas, y en caso de celular un toque para revelar y pulsación mantenida para marcar y desmarcar.",
     "icono": "https://www.flaticon.es/icono-gratis/explosivo_15394833?term=explosivo&page=1&position=30&origin=search&related_id=15394833",
-    "integrantes": ["Wilson Carmona ", "Juan Esteban Leon Padilla ", "Nicolas Alarcon Mendoza"],
+    "integrantes": "Wilson Carmona, Juan Esteban Leon Padilla, Nicolas Alarcon Mendoza",
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1Gk4rxS3bFCCsnTEoJRcRRous6Am7Cpyk/view?usp=drive_link"
   },
