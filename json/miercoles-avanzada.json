@@ -2,17 +2,18 @@
   {
     "nombreapp": "Adivinar",
     "descripcion": "Adivina la Fruta es un juego web interactivo desarrollado con HTML, CSS y JavaScript, diseñado para ofrecer una experiencia visual sencilla pero entretenida. El jugador observa varias imágenes de frutas en pantalla y debe seleccionar la correcta para adivinar cuál es la fruta objetivo. Gracias a la combinación de HTML para la estructura, CSS para el estilo atractivo y JavaScript para la lógica interactiva, el juego funciona de manera fluida tanto en navegadores como dentro de aplicaciones móviles mediante WebView.",
-    "icono": "https://www.flaticon.es/resultados?word=adivinaar",
-    "integrantes": "Oscar Herrera, Katherin Aviles",
+    "icono": "https://www.flaticon.es/resultados?word=adivinaa",
+    "integrantes": ["Oscar Herrera", "Katherin Aviles"],
     "actividad": "Android Studio",
     "url": "https://katherin2024.github.io/AdivinarApk/"
   },
   {
     "nombreapp": "Crushed controller",
     "descripcion": "Es un juego interactivo que usa imágenes para su funcionamiento, consiste en juntar tres imágenes del mismo para así juntar puntos en un tablero hasta llegar a 5000, desarrollado con HTML, CSS, y JavaScript, su principal funcionamiento es en móviles, usando Android Studio para que sea una app.",
-    "integrantes": "Juan Esteban Urriago Calderon",
+    "icono":"https://cdn-icons-png.flaticon.com/512/686/686589.png",
+    "integrantes": ["Juan Esteban Urriago Calderon"],
     "actividad": "Android Studio",
-    "url": "https://juanu79.github.io/-crushed-control/"
+    "url": "https://drive.google.com/file/d/105SP2xXyZNvgLyhxfGtppU64VXUwHg1b/view?usp=sharing"
   },
   {
     "nombreapp": "Semáforo Interactivo",
@@ -25,7 +26,7 @@
   {
     "nombreapp": "Buscaminas v1.0",
     "descripcion": "Es un juego interactivo basado en el clásico buscaminas de Windows realizado plenamente en HTML, CSS y JavaScript, el usuario usará el clic izquierdo para revelar las casillas y clic derecho para marcar y desmarcar con una bandera las casillas con bombas, y en caso de celular un toque para revelar y pulsación mantenida para marcar y desmarcar.",
-    "icono": "https://www.flaticon.es/icono-gratis/explosivo_15394833?term=explosivo&page=1&position=30&origin=search&related_id=15394833",
+    "icono": "https://cdn-icons-png.flaticon.com/512/15394/15394833.png",
     "integrantes": "Wilson Carmona, Juan Esteban Leon Padilla, Nicolas Alarcon Mendoza",
     "actividad": "Android Studio",
     "url": "https://bakup11.github.io/otro-buscaminas/"
@@ -34,9 +35,9 @@
     "nombreapp": "Urbanvibe Clothing",
     "descripcion": "Una aplicación simulando un ecommerce de venta de ropa con varias secciones interactivas. Esta fue hecha con JavaScript, HTML y CSS. Se hizo llamada de artículos a través de una API.",
     "icono": "https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-4f08-622f-8b62-620eaa5e9c74/raw?se=2025-08-12T21%3A22%3A18Z&sp=r&sv=2024-08-04&sr=b&scid=533be6fa-8a87-5b8d-9096-6d272ef5fe98&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-12T17%3A46%3A35Z&ske=2025-08-13T17%3A46%3A35Z&sks=b&skv=2024-08-04&sig=OGQMAXU/AtGKInoVC6%2BQmfxusU4xCExBmgC4nezzXi8%3D",
-    "integrantes": "Juan Vargas - Cristian Vega - Daniela Parra",
+    "integrantes": ["Juan Vargas", "Cristian Vega","Daniela Parra"],
     "actividad": "Android Studio",
-    "url": "https://judavago1.github.io/UrbanVibe-Clothing/"
+    "url": "https://drive.google.com/file/d/17Zm-rzwxINWMV-SegCQ-YnjBBtL_YFH4/view?usp=drive_link"
   },
   {
     "nombreapp": "Sudoku Mobile",
@@ -50,7 +51,7 @@
     "nombreapp": "Memoria Emoji",
     "descripcion": "Un juego interactivo de memoria con temática de emojis, donde el jugador debe encontrar las parejas idénticas en el menor número de intentos posible. Adaptado para dispositivos móviles y computadoras, desarrollado con HTML, CSS y JavaScript, y empaquetado como aplicación Android para su uso principal en móviles.",
     "icono": "https://www.flaticon.es/icono-gratis/amigos_8048367?term=emojis&page=1&position=5&origin=search&related_id=8048367",
-    "integrantes": "Felipe Rivera, Duban Salguero",
+    "integrantes": ["Felipe Rivera", "Duban Salguero", "Juan Herrera"],
     "actividad": "Android Studio",
     "url": "https://duban77.github.io/Dados-Doble/"
   },
@@ -74,15 +75,16 @@
     "nombreapp": "BuscaMinas",
     "descripcion": "Es un juego de lógica en el que debes descubrir celdas de un tablero sin seleccionar ninguna que contenga minas ocultas. Cada celda descubierta te indica cuántas minas hay alrededor, y con esa información debes deducir dónde están las minas para evitarlas. El objetivo es destapar todas las casillas seguras sin explotar ninguna mina.",
     "icono": "https://play-lh.googleusercontent.com/eX5S3Tv3eSO1aWDMQ7MGRO1AaZM-mF0EvRbNsUM887kJVHj0aKv4GnDNj6ds_qvhpak",
-    "integrantes": "YONHEY BONILLA, FELIPE PIRAGAUTA, ANDREY FAJARDO",
+    "integrantes": ["YONHEY BONILLA", "FELIPE PIRAGAUTA", "ANDREY FAJARDO"],
     "actividad": "Android Studio",
-    "url": "https://andfkx.github.io/apk1/"
+    "url": "https://drive.google.com/file/d/1hmw5SUqdjMZ9OcZTZCiiaY0kEIppcBL3/view?usp=drive_link"
   },
   {
     "nombreapp": "Juego dados",
     "descripcion": "El juego de dados es una aplicación web interactiva en la que uno o más jugadores lanzan virtualmente uno o dos dados para obtener un resultado aleatorio entre 1 y 6. El objetivo puede variar según las reglas implementadas: acumular la mayor cantidad de puntos, alcanzar un puntaje exacto o superar al oponente en menos tiradas. El jugador pulsa un botón para lanzar, y en pantalla se muestran las caras de los dados mediante imágenes o gráficos, acompañados de efectos visuales y animaciones para simular el movimiento real. El juego combina azar, rapidez y diversión, ofreciendo una experiencia sencilla pero entretenida directamente desde el navegador.",
     "icono": "https://cdn-icons-png.flaticon.com/128/522/522123.png",
     "integrantes": "Juan Buitrago , Juan Chaparro , Juan Quintero",
+    "integrantes": ["Juan Buitrago" ," Juan Chaparro" ," Juan Quintero"],
     "actividad": "Android Studio",
     "url": "https://github.com/juanbuitri/juego-dados.git"
   },
