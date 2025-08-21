@@ -27,7 +27,7 @@
     "nombreapp": "Buscaminas v1.0",
     "descripcion": "Es un juego interactivo basado en el clásico buscaminas de Windows realizado plenamente en HTML, CSS y JavaScript, el usuario usará el clic izquierdo para revelar las casillas y clic derecho para marcar y desmarcar con una bandera las casillas con bombas, y en caso de celular un toque para revelar y pulsación mantenida para marcar y desmarcar.",
     "icono": "https://cdn-icons-png.flaticon.com/512/15394/15394833.png",
-    "integrantes": "Wilson Carmona, Juan Esteban Leon Padilla, Nicolas Alarcon Mendoza",
+    "integrantes": ["Wilson Carmona", "Juan Esteban Leon Padilla", "Nicolas Alarcon Mendoza"],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1Gk4rxS3bFCCsnTEoJRcRRous6Am7Cpyk/view?usp=drive_link"
   },
@@ -72,7 +72,7 @@
     "nombreapp": "MOTOS",
     "descripcion": "Es una página que permite mostrar motocicletas según marca, modelo y opcionalmente año. Devuelve hasta 30 resultados de motos de categoría ninja.",
     "icono": "https://cdn-icons-png.flaticon.com/128/705/705637.png",
-    "integrantes": "Juan Fernando Caicedo - Oscar Julian Villamarin - John Anderson Yate",
+    "integrantes": ["Juan Fernando Caicedo", "Oscar Julian Villamarin","John Anderson Yate"],
     "actividad": "Android Studio",
     "url": "https://github.com/Julianv2903/motos-kawa"
   },
@@ -87,7 +87,7 @@
   {
     "nombreapp": "Juego dados",
     "descripcion": "El juego de dados es una aplicación web interactiva en la que uno o más jugadores lanzan virtualmente uno o dos dados para obtener un resultado aleatorio entre 1 y 6. El objetivo puede variar según las reglas implementadas: acumular la mayor cantidad de puntos, alcanzar un puntaje exacto o superar al oponente en menos tiradas. El jugador pulsa un botón para lanzar, y en pantalla se muestran las caras de los dados mediante imágenes o gráficos, acompañados de efectos visuales y animaciones para simular el movimiento real. El juego combina azar, rapidez y diversión, ofreciendo una experiencia sencilla pero entretenida directamente desde el navegador.",
-    "icono": "https://www.flaticon.es/icono-gratis/dado_9003230?k=1755128188942&sign-up=google",
+    "icono": "https://cdn-icons-png.flaticon.com/512/9003/9003230.png",
     "integrantes": ["Juan Buitrago" ," Juan Chaparro" ," Juan Quintero"],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1xv0-_ALlIMtrz4GjYEL2zHauUddf6tsu/view?usp=drive_link"
