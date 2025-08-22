@@ -2,9 +2,9 @@
     {
         "nombreapp": "AnimeApp",
         "descripción": "Anime App es una aplicación móvil diseñada para que los aficionados al anime descubran, busquen y sigan sus series favoritas. Ofrece una interfaz de usuario limpia y moderna, permitiendo a los usuarios navegar por los títulos más populares y los lanzamientos de temporada. La aplicación proporciona información clave sobre cada anime, incluyendo calificaciones, resúmenes y títulos. Su potente buscador y la organización por categorías (Inició, Populares, Temporada) la convierten en una herramienta esencial para mantenerse al día con el mundo del anime.",
-        "icono": "",
-        "integrantes": "Johan Sebastian Torres",
-        "actividad": "Webintoapp",
+        "icono": "https://e1.pxfuel.com/desktop-wallpaper/768/964/desktop-wallpaper-anime-icon-anime-app-icons.jpg",
+        "integrantes": ["Johan Sebastian Torres"],
+        "actividad": "Android Studio",
         "url": "https://drive.google.com/file/d/1ppu9Lvfhp1CLe2wRqVzO2RPZsTzwKNOw/view?usp=drive_link"
     },
     {
