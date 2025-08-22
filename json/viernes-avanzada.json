@@ -30,7 +30,16 @@
         "integrantes": "Martin Ramirez,Javier Torres, Daniel Steven",
         "actividad": "webintoapp",
         "url": ""
-    }
+    },
+    {
+        "nombreapp": "Orbit Notes",
+        "descripción": "Orbit Notes nos permite tomar notas rápidas con un diseño inspirado en un tema espacial/orbital, de esta manera podremos crear, guardar y eliminar notas, todo esto, de forma rápida y con un diseño adaptable ya sea a pantallas móviles como pantallas de escritorio.",
+        "icono": "https://cdn-icons-png.flaticon.com/512/15643/15643951.png",
+        "integrantes": [“Andres Puentes”, “Daniel Murillo”, “Alejandro Garcia”],
+        "actividad": "Webintoapp",
+        "url":" https://drive.google.com/file/d/1NVZgPx-sxjSBNpA-Mk60IOhYZJ8mtUdE/view?usp=drive_link "
+    },
+
 
 
 
