@@ -18,7 +18,7 @@
     {
         "nombreapp": "Calculadora química de gases reales",
         "descripción": "Calculadora química virtual desarrollada con HTML, CSS y JavaScript, responsive al cambio de tamaño de la aplicación que tiene como objetivo ayudar a las personas a determinar el volumen y el factor de compresibilidad de un gas real, usando la ecuación virial.",
-        "icono": "https://www.flaticon.es/icono-gratis/quimica_1157001?term=laboratorio&page=1&position=44&origin=search&related_id=1157001",
+        "icono": "https://cdn-icons-png.flaticon.com/512/1157/1157001.png",
         "integrantes": "Julian Maldonado, Santiago, Juan Pablo Castañeda",
         "actividad": "webintoapp",
         "url": ""
