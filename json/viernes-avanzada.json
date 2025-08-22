@@ -10,8 +10,8 @@
     {
         "nombreapp": "Juego Pong",
         "descripción": "Juego web interactivo desarrollado con HTML, CSS y JavaScript inspirado en el clásico Pong. Donde 2 jugadores controlan 2 barras cada uno para devolver una pelota que rebota en la pantalla, intentando evitar que pase su lado. Incluye un marcador de puntos, aumento progresivo de velocidad y la pelota sale instantáneamente después de que la pelota cruce el lado de alguno de los jugadores.",
-        "icono": "Icono pong.jpg",
-        "integrantes": "Andres Ceballos, Santiago Guzman, Ruben Gonzalez",
+        "icono": "https://cdn-icons-png.flaticon.com/512/6234/6234006.png",
+        "integrantes": ["Andres Ceballos, Santiago Guzman, Ruben Gonzalez"],
         "actividad": "Webintoapp",
         "url": "https://drive.google.com/drive/u/1/folders/1nLhUiUUXFWdMKfqJvl1t-SXhG8xJffvx"
     },
