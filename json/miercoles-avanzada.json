@@ -93,5 +93,13 @@
     "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },
+  {
+    "nombreapp": "Color Game",
+    "descripcion": "Es un juego en el cual te dira un color y tendras que espichar el color que te dice sin equivocarte .",
+    "icono": "https://drive.google.com/file/d/11qBG56RtYjQl1YfYlWE8PA8MTjeX0AiU/view?usp=sharing",
+    "integrantes": "Karen Borda , Juan Caicedo",
+    "actividad": "App react 1",
+    "url": "https://github.com/karen111-star/ColorGame"
   }
 ]
