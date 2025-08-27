@@ -93,5 +93,13 @@
     "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },
+    {
+    "nombreapp": "Trivia General",
+    "descripcion": "Aplicacion Sencilla que cuenta con 15 preguntas de Cultura general para probar conocimientos de cultura general",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3273/3273599.png",
+    "integrantes": "Wilson Carmona",
+    "actividad": "Apk React",
+    "url": "https://drive.google.com/file/d/1ZBWtPDL6e3wcvI1IZN1j9By0AdlDQ9sh/view?usp=drive_link"
   }
 ]
