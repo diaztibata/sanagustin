@@ -102,7 +102,7 @@
   },
 
   {
-  "nombreapp": "Calculadora de Promedios",
+  "nombreapp": "Calculadora de Promedios.",
   "descripcion": "Aplicación interactiva para calcular promedios de notas por materia y del semestre. Permite agregar materias, definir cortes con porcentajes, ingresar notas parciales o completas, y calcular cuánto se necesita para aprobar. Funciona en móviles y en web, con soporte para React y React Native.",
   "icono": "https://cdn-icons-png.flaticon.com/512/5345/5345743.png",
   "integrantes": ["Jose Grass", "Alejandro Rubio"],
