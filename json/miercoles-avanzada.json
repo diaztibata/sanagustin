@@ -16,6 +16,14 @@
     "url": "https://drive.google.com/file/d/105SP2xXyZNvgLyhxfGtppU64VXUwHg1b/view?usp=sharing"
   },
   {
+  "nombreapp": "Conversor de Monedas",
+  "descripcion": "Aplicación en React Native con Expo que convierte de USD a EUR, COP y MXN.",
+  "integrantes": ["Juan Esteban Urriago Calderon"],
+  "actividad": "Expo (React Native)",
+  "url": "https://drive.google.com/file/d/1cdODxHR7c_l-V1VrhYYwJLaZD3mJZ-2Y/view?usp=sharing"
+},
+
+{
     "nombreapp": "Semáforo Interactivo",
     "descripcion": "Es una aplicación web hecha con HTML, CSS y JavaScript que simula un semáforo. El usuario puede encender las luces roja, amarilla o verde de forma manual o activar un modo automático que cambia las luces cada pocos segundos. Funciona en navegadores y puede integrarse en apps móviles con WebView.",
     "icono": "https://www.flaticon.es/icono-gratis/semaforos_3267422?term=semaforo&page=1&position=4&origin=search&related_id=3267422",
