@@ -22,6 +22,14 @@
     "actividad": "Android Studio",
     "url": "https://santiago1902200.github.io/Semaforo/"
   },
+   {
+    "nombreapp": "Lista de tareas",
+    "descripcion": "Es una aplicación sencilla y práctica que permite al usuario ingresar, gestionar y eliminar tareas, ofreciendo la opción de marcar cuáles han sido completadas y cuáles no. Su objetivo es brindar una forma organizada de llevar el control de pendientes diarios, facilitando la administración del tiempo y manteniendo siempre visible el progreso de las actividades.",
+    "icono": "   https://cdn-icons-png.flaticon.com/512/2666/2666436.png ",
+    "integrantes": "Santiago Castellanos",
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/file/d/158cMxuuLaoyFhh5bUuxvhbpaVqBAr887/view?usp=sharing"
+  },
   {
     "nombreapp": "Buscaminas v1.0",
     "descripcion": "Es un juego interactivo basado en el clásico buscaminas de Windows realizado plenamente en HTML, CSS y JavaScript, el usuario usará el clic izquierdo para revelar las casillas y clic derecho para marcar y desmarcar con una bandera las casillas con bombas, y en caso de celular un toque para revelar y pulsación mantenida para marcar y desmarcar.",
