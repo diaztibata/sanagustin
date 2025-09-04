@@ -93,5 +93,13 @@
     "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },  
+  {
+    "nombreapp": "contador",
+    "descripcion": "un contador que te permite, sumar y restar numeros,(no calculadora)",
+    "icono": "https://www.flaticon.es/icono-gratis/contabilidad_6712858?term=contador&page=1&position=8&origin=search&related_id=6712858",
+    "integrantes": ["angie rincon", "Juan Herrera"],
+    "actividad": "capacitor_y_expo(expo)",
+    "url": "https://juanse68.github.io/Capacitor_exp/"
   }
 ]
