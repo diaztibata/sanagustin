@@ -63,6 +63,14 @@
     "url": "https://github.com/MariaAlmario/SIMON_DICE"
   },
   {
+  "nombreapp": "Conversor de Unidades",
+    "descripcion": "Puedes convertir diferentes unidades de medida como: Longitud, temperatura y moneda. Muy útil para estudiantes o profesionales que necesiten realizar conversiones rápidas y precisas.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3310/3310608.png",
+    "integrantes": ["María Paula Almario", "Maicol López"],
+    "actividad": "Capacitor y expo",
+    "url": "https://drive.google.com/file/d/11xmHmha61PSpMxw3wxq3GkdCCmu4V3QE/view?usp=drive_link"
+  },
+  {
     "nombreapp": "MOTOS",
     "descripcion": "Es una página que permite mostrar motocicletas según marca, modelo y opcionalmente año. Devuelve hasta 30 resultados de motos de categoría ninja.",
     "icono": "https://www.flaticon.es/icono-gratis/casco_705637?term=cascoas&page=1&position=90&origin=search&related_id=705637",
@@ -89,6 +97,14 @@
   {
     "nombreapp": "Stopwatch",
     "descripcion": "Tienes un stopwatch para configurar alarmas en horas, minutos y segundos, muy útiles para deportistas o para tareas que se deben realizar en un muy corto periodo de tiempo.",
+    "icono": "https://www.flaticon.es/icono-gratis/hora_2982765?term=cronometro&page=1&position=38&origin=search&related_id=2982765",
+    "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
+    "actividad": "Android Studio",
+    "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },
+   {
+    "nombreapp": "Conversor de Unidades",
+    "descripcion": "Puedes convertir diferentes unidades de medida como: Longitud, temperatura y moneda. Muy útil para estudiantes o profesionales que necesiten realizar conversiones rápidas y precisas.",
     "icono": "https://www.flaticon.es/icono-gratis/hora_2982765?term=cronometro&page=1&position=38&origin=search&related_id=2982765",
     "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
     "actividad": "Android Studio",
