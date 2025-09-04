@@ -116,5 +116,13 @@
     "integrantes": ["prueba 2"],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
+  },
+    {
+    "nombreapp": "Ahorcado",
+    "descripcion": "ejercita tu mente con palabras oculatas de IA y programación",
+    "icono": "https://www.freepik.es/vector-premium/ilustracion-linea-suicidio_153599670.htm#fromView=search&page=1&position=16&uuid=9b3b86d3-76b9-4222-8678-b4b6880f7376&query=icono+ahorcado",
+    "integrantes": ["Elmer Cabrera", "Nicolas Alarcon"],
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/drive/folders/1gBc2S9mZrEx_uOJl9U6iiXK-bm3AroZP?usp=drive_link"
   }
 ]
