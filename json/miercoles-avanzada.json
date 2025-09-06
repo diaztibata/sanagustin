@@ -93,5 +93,13 @@
     "integrantes": ["Carlos Eduardo Cruz", "Cristian Rojas"],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
+  },
+    {
+    "nombreapp": "TodoList",
+    "descripcion": "Es una aplicacion para gestionar recordatorios de tareas importantes donde podras agregar una descipcion de la tarea, poner una fecha de recordatorio y una hora. Adicional puedes marcarla cuando la tarea este terminada",
+    "icono": "https://cdn-icons-png.flaticon.com/128/14991/14991730.png",
+    "integrantes": ["Carlos Eduardo Cruz", "Juan Esteban Leon"],
+    "actividad": "App react 1",
+    "url": "https://drive.google.com/file/d/14ObvT2HrKg99zicwnj3pE3HU0oh1FXR7/view?usp=drive_link"
   }
 ]
