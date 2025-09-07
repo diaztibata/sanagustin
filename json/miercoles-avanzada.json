@@ -101,5 +101,13 @@
     "integrantes": ["Carlos Eduardo Cruz", "Juan Esteban Leon"],
     "actividad": "App react 1",
     "url": "https://drive.google.com/file/d/14ObvT2HrKg99zicwnj3pE3HU0oh1FXR7/view?usp=drive_link"
+  },
+      {
+    "nombreapp": "GastosMensuales",
+    "descripcion": "Es una aplicacion para gestionar Los gastos mensuales que se tiene con base en un limite establecido por el usuario desde el inicio.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3882/3882164.png",
+    "integrantes": ["Carlos Eduardo Cruz", "Juan Manuel Chaparro"],
+    "actividad": "actividad react native 3",
+    "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
   }
 ]
