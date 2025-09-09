@@ -154,6 +154,14 @@
     "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
   },
     {
+
+    "nombreapp": "Trivia General",
+    "descripcion": "Aplicacion Sencilla que cuenta con 15 preguntas de Cultura general para probar conocimientos de cultura general",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3273/3273599.png",
+    "integrantes": "Wilson Carmona",
+    "actividad": "Apk React no Native",
+    "url": "https://drive.google.com/file/d/1wVZ9_Zp5VdUHxVsBhhjasfwFCf4b3N-E/view?usp=sharing"
+    },{
     "nombreapp": "TodoList",
     "descripcion": "Es una aplicacion para gestionar recordatorios de tareas importantes donde podras agregar una descipcion de la tarea, poner una fecha de recordatorio y una hora. Adicional puedes marcarla cuando la tarea este terminada",
     "icono": "https://cdn-icons-png.flaticon.com/128/14991/14991730.png",
