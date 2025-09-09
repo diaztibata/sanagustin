@@ -76,6 +76,22 @@
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1IXn9NoE-ERuSXvQNI3cDBwFqT7x5zn_K/view?usp=drivesdk"
   },
+ {
+  "nombreapp": "Conversor de Unidades",
+    "descripcion": "Puedes convertir diferentes unidades de medida como: Longitud, temperatura y moneda. Muy útil para estudiantes o profesionales que necesiten realizar conversiones rápidas y precisas.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3310/3310608.png",
+    "integrantes": ["María Paula Almario", "Maicol López"],
+    "actividad": "Capacitor y expo",
+    "url": "https://drive.google.com/file/d/11xmHmha61PSpMxw3wxq3GkdCCmu4V3QE/view?usp=drive_link"
+  },
+     {
+  "nombreapp": "Generador de excusas",
+    "descripcion": "Puedes generar excusas para cualquier situación, ya sea para llegar tarde, faltar al trabajo o a una reunión. Muy útil para estudiantes o profesionales que necesiten una excusa rápida y creativa.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/3680/3680202.png",
+    "integrantes": ["Juan Esteban Leon Padilla", "Maicol López"],
+    "actividad": "React Native",
+    "url": "https://expo.dev/accounts/jelp12/projects/Excusas/builds/411d8e77-91c3-467a-86b1-12819779473c"
+  },
   {
     "nombreapp": "MOTOS",
     "descripcion": "Es una página que permite mostrar motocicletas según marca, modelo y opcionalmente año. Devuelve hasta 30 resultados de motos de categoría ninja.",
@@ -105,6 +121,14 @@
     "descripcion": "Tienes un stopwatch para configurar alarmas en horas, minutos y segundos, muy útiles para deportistas o para tareas que se deben realizar en un muy corto periodo de tiempo.",
     "icono": "https://cdn-icons-png.flaticon.com/512/2982/2982765.png",
     "integrantes": ["Carlos Eduardo Cruz", "Cristian Rojas"],
+    "actividad": "Android Studio",
+    "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },
+   {
+    "nombreapp": "Conversor de Unidades",
+    "descripcion": "Puedes convertir diferentes unidades de medida como: Longitud, temperatura y moneda. Muy útil para estudiantes o profesionales que necesiten realizar conversiones rápidas y precisas.",
+    "icono": "https://www.flaticon.es/icono-gratis/hora_2982765?term=cronometro&page=1&position=38&origin=search&related_id=2982765",
+    "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
   },
