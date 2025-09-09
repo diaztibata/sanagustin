@@ -93,5 +93,13 @@
     "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },
+  {
+    "nombreapp": "memoria-y-bienestar",
+    "descripcion": "Nuestra app tiene como función guardar tanto citas medicas o medicamento, para que a las personas que se dificulta memorizar o recordar estas necesidades, las tengan a la mano",
+    "icono": "https://drive.google.com/file/d/1XzC2DtBEZ9kCLh0IqElB1M5LzObKRgkJ/view?usp=sharing",
+    "integrantes": "Cabrera Elmer, Juan Caicedo",
+    "actividad": "App Expo react native",
+    "url": "https://drive.google.com/file/d/1St3CUegt8Ai0dKSkRiiYcxeo64oQC1Ei/view?usp=sharing"
   }
 ]
