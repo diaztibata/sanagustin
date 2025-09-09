@@ -31,6 +31,14 @@
     "url": "https://drive.google.com/file/d/158cMxuuLaoyFhh5bUuxvhbpaVqBAr887/view?usp=sharing"
   },
   {
+    "nombreapp": "Trivia, señales de transito",
+    "descripcion": "Es una aplicación interactiva de preguntas y respuestas diseñada para poner a prueba el conocimiento básico sobre señales de tránsito. Su objetivo es ayudar a los usuarios a familiarizarse con las señales más comunes, reforzar el aprendizaje de la normativa vial y promover la seguridad en la vía de una manera sencilla y práctica.",
+    "icono": "   https://cdn-icons-png.flaticon.com/512/5125/5125341.png ",
+    "integrantes": "Santiago Castellanos - Wilson Carmona",
+    "actividad": "React Native",
+    "url": "https://expo.dev/accounts/wilson_carmona/projects/ReactNative_10-09-2025/builds/be7a63cc-0ec9-46dc-8837-5ae467f26caf"
+  },
+  {
     "nombreapp": "Buscaminas v1.0",
     "descripcion": "Es un juego interactivo basado en el clásico buscaminas de Windows realizado plenamente en HTML, CSS y JavaScript, el usuario usará el clic izquierdo para revelar las casillas y clic derecho para marcar y desmarcar con una bandera las casillas con bombas, y en caso de celular un toque para revelar y pulsación mantenida para marcar y desmarcar.",
     "icono": "https://www.flaticon.es/icono-gratis/explosivo_15394833?term=explosivo&page=1&position=30&origin=search&related_id=15394833",
