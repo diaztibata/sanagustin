@@ -16,6 +16,14 @@
     "url": "https://drive.google.com/file/d/105SP2xXyZNvgLyhxfGtppU64VXUwHg1b/view?usp=sharing"
   },
   {
+  "nombreapp": "Conversor de Monedas",
+  "descripcion": "Aplicación en React Native con Expo que convierte de USD a EUR, COP y MXN.",
+  "integrantes": ["Juan Esteban Urriago Calderon"],
+  "actividad": "Expo (React Native)",
+  "url": "https://drive.google.com/file/d/1cdODxHR7c_l-V1VrhYYwJLaZD3mJZ-2Y/view?usp=sharing"
+},
+
+{
     "nombreapp": "Semáforo Interactivo",
     "descripcion": "Es una aplicación web hecha con HTML, CSS y JavaScript que simula un semáforo. El usuario puede encender las luces roja, amarilla o verde de forma manual o activar un modo automático que cambia las luces cada pocos segundos. Funciona en navegadores y puede integrarse en apps móviles con WebView.",
     "icono": "https://www.flaticon.es/icono-gratis/semaforos_3267422?term=semaforo&page=1&position=4&origin=search&related_id=3267422",
@@ -50,11 +58,9 @@
   {
     "nombreapp": "Memoria Emoji",
     "descripcion": "Un juego interactivo de memoria con temática de emojis, donde el jugador debe encontrar las parejas idénticas en el menor número de intentos posible. Adaptado para dispositivos móviles y computadoras, desarrollado con HTML, CSS y JavaScript, y empaquetado como aplicación Android para su uso principal en móviles.",
-
+    "icono": "https://www.flaticon.es/icono-gratis/amigos_8048367?term=emojis&page=1&position=5&origin=search&related_id=8048367",
+    "integrantes": ["Felipe Rivera", "Duban Salguero", "Juan Herrera"],
     "icono": "https://cdn-icons-png.flaticon.com/128/8048/8048319.png",
-
-       "integrantes": ["Felipe Rivera", "Duban Salguero", "Juan Herrera"],
-
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/11nnixiF1UtcPS1umGfa7NcD3vRSijpaO/view?usp=drive_link"
   },
@@ -67,6 +73,22 @@
 
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1IXn9NoE-ERuSXvQNI3cDBwFqT7x5zn_K/view?usp=drivesdk"
+  },
+ {
+  "nombreapp": "Conversor de Unidades",
+    "descripcion": "Puedes convertir diferentes unidades de medida como: Longitud, temperatura y moneda. Muy útil para estudiantes o profesionales que necesiten realizar conversiones rápidas y precisas.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3310/3310608.png",
+    "integrantes": ["María Paula Almario", "Maicol López"],
+    "actividad": "Capacitor y expo",
+    "url": "https://drive.google.com/file/d/11xmHmha61PSpMxw3wxq3GkdCCmu4V3QE/view?usp=drive_link"
+  },
+     {
+  "nombreapp": "Generador de excusas",
+    "descripcion": "Puedes generar excusas para cualquier situación, ya sea para llegar tarde, faltar al trabajo o a una reunión. Muy útil para estudiantes o profesionales que necesiten una excusa rápida y creativa.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/3680/3680202.png",
+    "integrantes": ["Juan Esteban Leon Padilla", "Maicol López"],
+    "actividad": "React Native",
+    "url": "https://expo.dev/accounts/jelp12/projects/Excusas/builds/411d8e77-91c3-467a-86b1-12819779473c"
   },
   {
     "nombreapp": "MOTOS",
@@ -98,31 +120,46 @@
     "icono": "https://cdn-icons-png.flaticon.com/512/2982/2982765.png",
     "integrantes": ["Carlos Eduardo Cruz", "Cristian Rojas"],
     "actividad": "Android Studio",
-    "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
+    "url": "https://eduardocr91.github.io/Stopwatch2/"
   },
-
-  {
-    "nombreapp": "Esto es un aprueba",
-    "descripcion": "prueba.",
-    "icono": "https://cdn-icons-png.flaticon.com/512/2982/2982765.png",
-    "integrantes": ["prueba"],
+   {
+    "nombreapp": "Conversor de Unidades",
+    "descripcion": "Puedes convertir diferentes unidades de medida como: Longitud, temperatura y moneda. Muy útil para estudiantes o profesionales que necesiten realizar conversiones rápidas y precisas.",
+    "icono": "https://www.flaticon.es/icono-gratis/hora_2982765?term=cronometro&page=1&position=38&origin=search&related_id=2982765",
+    "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
     "actividad": "Android Studio",
-    "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
-  },
+    "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },  
   {
-    "nombreapp": "Esto es un aprueba 2",
-    "descripcion": "prueba 2.",
-    "icono": "https://cdn-icons-png.flaticon.com/512/2982/2982765.png",
-    "integrantes": ["prueba 2"],
-    "actividad": "Android Studio",
+    "nombreapp": "contador",
+    "descripcion": "un contador que te permite, sumar y restar numeros,(no calculadora)",
+    "icono": "https://www.flaticon.es/icono-gratis/contabilidad_6712929?related_id=6712929https://www.flaticon.es/icono-gratis/semaforos_3267422?term=semaforo&page=1&position=4&origin=search&related_id=3267422",
+    "integrantes": ["angie rincon", "Juan Herrera"],
+    "actividad": "capacitor_y_expo(expo)",
     "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
   },
     {
+
     "nombreapp": "Ahorcado",
     "descripcion": "ejercita tu mente con palabras oculatas de IA y programación",
     "icono": "https://www.freepik.es/vector-premium/ilustracion-linea-suicidio_153599670.htm#fromView=search&page=1&position=16&uuid=9b3b86d3-76b9-4222-8678-b4b6880f7376&query=icono+ahorcado",
     "integrantes": ["Elmer Cabrera", "Nicolas Alarcon"],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/drive/folders/1gBc2S9mZrEx_uOJl9U6iiXK-bm3AroZP?usp=drive_link"
+},{
+    "nombreapp": "TodoList",
+    "descripcion": "Es una aplicacion para gestionar recordatorios de tareas importantes donde podras agregar una descipcion de la tarea, poner una fecha de recordatorio y una hora. Adicional puedes marcarla cuando la tarea este terminada",
+    "icono": "https://cdn-icons-png.flaticon.com/128/14991/14991730.png",
+    "integrantes": ["Carlos Eduardo Cruz", "Juan Esteban Leon"],
+    "actividad": "App react 1",
+    "url": "https://drive.google.com/file/d/14ObvT2HrKg99zicwnj3pE3HU0oh1FXR7/view?usp=drive_link"
+  },
+      {
+    "nombreapp": "GastosMensuales",
+    "descripcion": "Es una aplicacion para gestionar Los gastos mensuales que se tiene con base en un limite establecido por el usuario desde el inicio.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3882/3882164.png",
+    "integrantes": ["Carlos Eduardo Cruz", "Juan Manuel Chaparro"],
+    "actividad": "actividad react native 3",
+    "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
   }
 ]
