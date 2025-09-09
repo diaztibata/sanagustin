@@ -10,8 +10,8 @@
     {
         "nombreapp": "Juego Pong",
         "descripción": "Juego web interactivo desarrollado con HTML, CSS y JavaScript inspirado en el clásico Pong. Donde 2 jugadores controlan 2 barras cada uno para devolver una pelota que rebota en la pantalla, intentando evitar que pase su lado. Incluye un marcador de puntos, aumento progresivo de velocidad y la pelota sale instantáneamente después de que la pelota cruce el lado de alguno de los jugadores.",
-        "icono": "Icono pong.jpg",
-        "integrantes": "Andres Ceballos, Santiago Guzman, Ruben Gonzalez",
+        "icono": "https://cdn-icons-png.flaticon.com/512/6234/6234006.png",
+        "integrantes": ["Andres Ceballos, Santiago Guzman, Ruben Gonzalez"],
         "actividad": "Webintoapp",
         "url": "https://drive.google.com/drive/u/1/folders/1nLhUiUUXFWdMKfqJvl1t-SXhG8xJffvx"
     },
@@ -27,10 +27,20 @@
         "nombreapp": "Prueba de Reacción",
         "descripcion": "Juego web interactivo desarrollado con HTML, CSS y JavaScript en el que el jugador mide su tiempo de reacción tocando la pantalla cuando cambia a verde. Incluye registro de mejores tiempos, promedio, historial de rondas, vibración al iniciar y al ganar, y compatibilidad con dispositivos móviles. El objetivo es lograr el menor tiempo posible y compartir el récord.",
         "icono": "https://www.flaticon.es/icono-gratis/destello_252590?term=rayo&page=1&position=39&origin=search&related_id=252590",
-        "integrantes": "Martin Ramirez,Javier Torres, Daniel Steven",
+        "integrantes": "Martin Ramirez,Javier Torres, Daniel Guerrero",
         "actividad": "webintoapp",
         "url": ""
-    }
+    },
+
+{
+        "nombreapp": "Dulceria-Sweethub.",
+        "descripcion": "Aplicación web de una tienda de dulces desarrollada con React y CSS. Los usuarios pueden explorar un catálogo de golosinas, filtrar por categorías, ordenar por precio o nombre, buscar productos y añadirlos a su carrito. La experiencia está optimizada para móviles y escritorio, ofreciendo una interfaz colorida, intuitiva y divertida.",
+        "icono": "   https://cdn-icons-png.flaticon.com/512/1359/1359326.png ",
+        "integrantes": "Juan Paplo Castañeda,Santiago Guzman",
+        "actividad": "Actividad react + capacitor",
+        "url": "https://drive.google.com/file/d/1h_VBI0Z55aeJI9bUXhflCamDmfAyfNs5/view?usp=drive_link"
+    },
+
 
     
 
@@ -43,5 +53,17 @@
     "url": ""
   }
  
+
+
+
+{
+        "nombreapp": "Car Rush Challenge.",
+        "descripcion": "Juego móvil desarrollado en React Native con Expo. El jugador controla un carro que debe esquivar múltiples obstáculos que caen a gran velocidad en una carretera. La dificultad aumenta progresivamente con más velocidad y frecuencia de aparición de obstáculos. El control se realiza deslizando el dedo a la izquierda o derecha en la pantalla, lo que hace que la experiencia sea intuitiva y divertida.",
+        "icono": "     https://cdn-icons-png.flaticon.com/512/2555/2555021.png ",
+        "integrantes": "Daniel Steven Guerrero,Santiago Guzman",
+        "actividad": "Actividad react native",
+        "url": "https://drive.google.com/file/d/1HM9OCUWvC8zdoRAdY_t8PtuakYwSGWJ7/view?usp=drive_link"
+    }
+
 
 ]
