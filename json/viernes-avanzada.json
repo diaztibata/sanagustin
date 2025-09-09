@@ -2,11 +2,29 @@
     {
         "nombreapp": "AnimeApp",
         "descripción": "Anime App es una aplicación móvil diseñada para que los aficionados al anime descubran, busquen y sigan sus series favoritas. Ofrece una interfaz de usuario limpia y moderna, permitiendo a los usuarios navegar por los títulos más populares y los lanzamientos de temporada. La aplicación proporciona información clave sobre cada anime, incluyendo calificaciones, resúmenes y títulos. Su potente buscador y la organización por categorías (Inició, Populares, Temporada) la convierten en una herramienta esencial para mantenerse al día con el mundo del anime.",
-        "icono": "",
-        "integrantes": "Johan Sebastian Torres",
-        "actividad": "Webintoapp",
+        "icono": "https://e1.pxfuel.com/desktop-wallpaper/768/964/desktop-wallpaper-anime-icon-anime-app-icons.jpg",
+        "integrantes": ["Johan Sebastian Torres"],
+        "actividad": "Android Studio",
         "url": "https://drive.google.com/file/d/1ppu9Lvfhp1CLe2wRqVzO2RPZsTzwKNOw/view?usp=drive_link"
     },
+    {
+        "nombreapp": "AnimeMusic",
+        "descripción": "AnimeMusic es una aplicación móvil pensada para los fans del anime que quieren descubrir y recordar los openings y endings de sus series favoritas. Con una interfaz sencilla y optimizada para celulares, permite buscar cualquier anime y mostrar sus temas musicales oficiales usando la Jikan API. La aplicación organiza la información de forma clara, diferenciando openings y endings, y mostrando cada título en listas fáciles de explorar. AnimeMusic es ideal para quienes disfrutan la música de anime y quieren llevarla siempre en su bolsillo.",
+        "icono": "https://cdn6.aptoide.com/imgs/f/a/0/fa09e649e67d44f6abe20d80b87ca210_icon.png",
+        "integrantes": ["Johan Sebastian Torres"],
+        "actividad": "React Native (Expo)",
+        "url": "https://drive.google.com/drive/folders/13DWnNrPkQ6unRx9HAxGNDjCKcpUgn2UA?usp=drive_link"
+        },
+    {
+        "nombreapp": "EnglishDictionary",
+        "descripción": "EnglishDictionary es una aplicación móvil desarrollada con React y Capacitor que permite a los usuarios consultar de manera rápida y sencilla el significado de palabras en inglés. Su diseño ligero y amigable está pensado para estudiantes y personas que buscan mejorar su vocabulario. La app integra un buscador eficiente, muestra definiciones claras y ejemplos de uso, además de ser totalmente funcional sin necesidad de un navegador. Gracias a su integración con Capacitor, está optimizada para ejecutarse en dispositivos móviles como una aplicación nativa.",
+        "icono": "https://cdn-icons-png.flaticon.com/128/4033/4033369.png",
+        "integrantes": ["Johan Sebastian Torres, Ruben Gonzalez"],
+        "actividad": "React + Capacitor",
+        "url": "https://drive.google.com/drive/folders/1V5zlSFmWkGA5PxSZKk3YyBbXzfaJbZdR?usp=drive_link"
+    },
+
+
     {
         "nombreapp": "Juego Pong",
         "descripción": "Juego web interactivo desarrollado con HTML, CSS y JavaScript inspirado en el clásico Pong. Donde 2 jugadores controlan 2 barras cada uno para devolver una pelota que rebota en la pantalla, intentando evitar que pase su lado. Incluye un marcador de puntos, aumento progresivo de velocidad y la pelota sale instantáneamente después de que la pelota cruce el lado de alguno de los jugadores.",
