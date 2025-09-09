@@ -122,7 +122,15 @@
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
   },
-   {
+  {
+  "nombreapp": "Calculadora de Promedios.",
+  "descripcion": "Aplicación interactiva para calcular promedios de notas por materia y del semestre. Permite agregar materias, definir cortes con porcentajes, ingresar notas parciales o completas, y calcular cuánto se necesita para aprobar. Funciona en móviles y en web, con soporte para React y React Native.",
+  "icono": "https://cdn-icons-png.flaticon.com/512/5345/5345743.png",
+  "integrantes": ["Jose Grass", "Alejandro Rubio"],
+  "actividad": "Desarrollo en React y React Native",
+  "url": "https://drive.google.com/file/d/1bQ56gAVSWv23l4TJr5Xu6EmjEmvI-p7U/view?usp=drive_link"
+  },
+    {
     "nombreapp": "Conversor de Unidades",
     "descripcion": "Puedes convertir diferentes unidades de medida como: Longitud, temperatura y moneda. Muy útil para estudiantes o profesionales que necesiten realizar conversiones rápidas y precisas.",
     "icono": "https://www.flaticon.es/icono-gratis/hora_2982765?term=cronometro&page=1&position=38&origin=search&related_id=2982765",
@@ -153,5 +161,6 @@
     "integrantes": ["Carlos Eduardo Cruz", "Juan Manuel Chaparro"],
     "actividad": "actividad react native 3",
     "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
+
   }
 ]
