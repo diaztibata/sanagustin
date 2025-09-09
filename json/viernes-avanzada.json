@@ -67,6 +67,16 @@
         "actividad": "Actividad react native",
         "url": "https://drive.google.com/file/d/1HM9OCUWvC8zdoRAdY_t8PtuakYwSGWJ7/view?usp=drive_link"
     }
+    
+    {
+        "nombreapp": "Riega Riega",
+        "descripcion": "Riega Riega es una aplicación diseñada para ayudarte a gestionar de forma sencilla y eficiente el riego de tus plantas. Con ella podrás registrar cada una de tus plantas, añadirles una foto personalizada para identificarlas fácilmente y establecer la frecuencia de riego ideal según sus necesidades. La app te enviará notificaciones para recordarte cuándo es momento de aplicar agua, evitando olvidos y asegurando que tus plantas reciban el cuidado que merecen.",
+        "icono": "   https://cdn-icons-png.flaticon.com/512/17858/17858503.png ",
+        "integrantes": "Carlos Riaño",
+        "actividad": "webintoapp",
+        "url": "https://drive.google.com/file/d/1NwsIFx62Sxm5CgTP-mtc4qHoKt1fPYqg/view?usp=drive_link"
+    }
+    
 
 
 ]
