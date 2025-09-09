@@ -58,11 +58,9 @@
   {
     "nombreapp": "Memoria Emoji",
     "descripcion": "Un juego interactivo de memoria con temática de emojis, donde el jugador debe encontrar las parejas idénticas en el menor número de intentos posible. Adaptado para dispositivos móviles y computadoras, desarrollado con HTML, CSS y JavaScript, y empaquetado como aplicación Android para su uso principal en móviles.",
-
+    "icono": "https://www.flaticon.es/icono-gratis/amigos_8048367?term=emojis&page=1&position=5&origin=search&related_id=8048367",
+    "integrantes": ["Felipe Rivera", "Duban Salguero", "Juan Herrera"],
     "icono": "https://cdn-icons-png.flaticon.com/128/8048/8048319.png",
-
-       "integrantes": ["Felipe Rivera", "Duban Salguero", "Juan Herrera"],
-
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/11nnixiF1UtcPS1umGfa7NcD3vRSijpaO/view?usp=drive_link"
   },
@@ -130,6 +128,14 @@
     "icono": "https://www.flaticon.es/icono-gratis/hora_2982765?term=cronometro&page=1&position=38&origin=search&related_id=2982765",
     "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
     "actividad": "Android Studio",
+    "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },  
+  {
+    "nombreapp": "contador",
+    "descripcion": "un contador que te permite, sumar y restar numeros,(no calculadora)",
+    "icono": "https://www.flaticon.es/icono-gratis/contabilidad_6712929?related_id=6712929https://www.flaticon.es/icono-gratis/semaforos_3267422?term=semaforo&page=1&position=4&origin=search&related_id=3267422",
+    "integrantes": ["angie rincon", "Juan Herrera"],
+    "actividad": "capacitor_y_expo(expo)",
     "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
   },
     {
