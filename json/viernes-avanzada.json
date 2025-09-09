@@ -55,7 +55,17 @@
     },
 
 
+    
 
+  {
+    "nombreapp": "peliemoji",
+    "descripcion": "Peliemoji esta consiste en adivinar la película es un divertido juego de adivinanzas en el que el reto consiste en descubrir películas de animación a partir de una combinación de emojis. El jugador debe escribir el título este puede ser tanto en español o en inglés y una vez correcto el titulo acumulara puntos mientras avanza por rondas, con un número limitado de vidas.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/18458/18458223.png",
+    "integrantes": "Daniel Nomeli, Andres Pedroza, Nicolle Carvajal",
+    "actividad": "webintoapp",
+    "url": ""
+  }
+ 
 
 
 
