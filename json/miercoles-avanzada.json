@@ -122,7 +122,22 @@
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
   },
-   {
+  {
+    "nombreapp": "Color Game",
+    "descripcion": "Es un juego en el cual te dira un color y tendras que espichar el color que te dice sin equivocarte .",
+    "icono": "https://drive.google.com/file/d/11qBG56RtYjQl1YfYlWE8PA8MTjeX0AiU/view?usp=sharing",
+    "integrantes": "Karen Borda , Juan Caicedo..",
+    "actividad": "App react 1",
+    "url": "https://github.com/karen111-star/ColorGame"
+  },{
+  "nombreapp": "Calculadora de Promedios.",
+  "descripcion": "Aplicación interactiva para calcular promedios de notas por materia y del semestre. Permite agregar materias, definir cortes con porcentajes, ingresar notas parciales o completas, y calcular cuánto se necesita para aprobar. Funciona en móviles y en web, con soporte para React y React Native.",
+  "icono": "https://cdn-icons-png.flaticon.com/512/5345/5345743.png",
+  "integrantes": ["Jose Grass", "Alejandro Rubio"],
+  "actividad": "Desarrollo en React y React Native",
+  "url": "https://drive.google.com/file/d/1bQ56gAVSWv23l4TJr5Xu6EmjEmvI-p7U/view?usp=drive_link"
+  },
+    {
     "nombreapp": "Conversor de Unidades",
     "descripcion": "Puedes convertir diferentes unidades de medida como: Longitud, temperatura y moneda. Muy útil para estudiantes o profesionales que necesiten realizar conversiones rápidas y precisas.",
     "icono": "https://www.flaticon.es/icono-gratis/hora_2982765?term=cronometro&page=1&position=38&origin=search&related_id=2982765",
@@ -147,6 +162,15 @@
     "actividad": "Android Studio",
     "url": "https://drive.google.com/drive/folders/1gBc2S9mZrEx_uOJl9U6iiXK-bm3AroZP?usp=drive_link"
 },{
+
+    "nombreapp": "Trivia General",
+    "descripcion": "Aplicacion Sencilla que cuenta con 15 preguntas de Cultura general para probar conocimientos de cultura general",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3273/3273599.png",
+    "integrantes": "Wilson Carmona",
+    "actividad": "Apk React no Native",
+    "url": "https://drive.google.com/file/d/1wVZ9_Zp5VdUHxVsBhhjasfwFCf4b3N-E/view?usp=sharing"
+    },{
+
     "nombreapp": "TodoList",
     "descripcion": "Es una aplicacion para gestionar recordatorios de tareas importantes donde podras agregar una descipcion de la tarea, poner una fecha de recordatorio y una hora. Adicional puedes marcarla cuando la tarea este terminada",
     "icono": "https://cdn-icons-png.flaticon.com/128/14991/14991730.png",
@@ -161,5 +185,6 @@
     "integrantes": ["Carlos Eduardo Cruz", "Juan Manuel Chaparro"],
     "actividad": "actividad react native 3",
     "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
+
   }
 ]
