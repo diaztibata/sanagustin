@@ -38,6 +38,14 @@
     "actividad": "Android Studio",
     "url": "https://judavago1.github.io/UrbanVibe-Clothing/"
   },
+   {
+    "nombreapp": "Basketball",
+    "descripcion": "Un juego de basketball donde se mide la fuerza de cada intento, cuenta con un contador y un boton de reinicio de puntaje.",
+    "icono": "https://www.freepik.es/vector-gratis/plantilla-logotipo-baloncesto-vintage-coloreado_10094043.htm",
+    "integrantes": ["Juan Vargas","Daniela Parra"],
+    "actividad": "React, capcitor, andrioid studio",
+    "url": " https://drive.google.com/drive/folders/1kvi1pxbICEmMueOQdsa-bT2ZPdp83WKi?usp=drive_link"
+  },
   {
     "nombreapp": "Sudoku Mobile",
     "descripcion": "Un juego interactivo de Sudoku 9x9 adaptable a móviles y computadoras. Permite seleccionar celdas y llenarlas con un teclado numérico en pantalla, generando desafíos aleatorios. Desarrollado con HTML, CSS y JavaScript, pensado para su uso principal en dispositivos móviles y empaquetado como aplicación Android.",
