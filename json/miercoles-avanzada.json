@@ -174,5 +174,13 @@
     "integrantes": ["Carlos Eduardo Cruz", "Juan Manuel Chaparro"],
     "actividad": "React Native 3",
     "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
+  },
+   {
+    "nombreapp": "Music_reactNative",
+    "descripcion": "Recomendación de canciones según tu estado de ánimo",
+    "icono": "https://github.com/JuanQuintero773/Music_reactNative/blob/1978f1928ea697867819303a074ee75483026224/assets/adaptive-icon.png?raw=true",
+    "integrantes": ["Angie Tatiana Rincon Torres", "Juan Felipe Quintero Cruz"],
+    "actividad": "React Native 3",
+    "url": "https://drive.google.com/file/d/14kTS9_37MQgDIVFMtO02eQtC3PCVKl1D/view?usp=drive_link"
   }
 ]
