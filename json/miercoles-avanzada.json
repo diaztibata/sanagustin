@@ -99,5 +99,15 @@
     "integrantes": ["Carlos Eduardo Cruz", "Cristian Rojas"],
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },
+
+  {
+  "nombreapp": "Flappy Bird Mobile",
+  "descripcion": "Un juego tipo endless runner en el que controlas a un pájaro que debe volar entre tubos sin chocar. Toque la pantalla para que el pájaro suba; la gravedad lo hará bajar si no tocas. Incluye puntuación, tabla de récords y niveles de dificultad. Desarrollado con React Native (compatible con Android e iOS).",
+  "icono": "https://cdn-icons-png.flaticon.com/512/3002/3002714.png",
+  "integrantes": ["Jose Grass", "Andrey Fajardo"],
+  "actividad": "React Native",
+  "url": "https://drive.google.com/file/d/11cGvePRqZEGTV-Plu9kakrvz3CQwm9pl/view?usp=drive_link"
   }
+
 ]
