@@ -174,5 +174,16 @@
     "integrantes": ["Carlos Eduardo Cruz", "Juan Manuel Chaparro"],
     "actividad": "React Native 3",
     "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
+  },
+    {
+    "nombreapp": "sabes",
+    "descripcion": "Un juego interactivo de preguntas con multiple respuestas, desarrollado con react y capacitor, y empaquetado como aplicación Android para su uso principal en móviles.",
+
+    "icono": "https://mangoanimate.com/blog/wp-content/uploads/2023/12/Interactive-Slides-Body-Language.png.webp",
+
+       "integrantes": ["Felipe Rivera", "Duban Salguero"],
+
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/file/d/1n6S1o0MGPiIL4Ku5kXFqMnLRaS2nV2yL/view?usp=drive_link"
   }
 ]
