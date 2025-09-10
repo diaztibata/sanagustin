@@ -15,15 +15,20 @@
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/105SP2xXyZNvgLyhxfGtppU64VXUwHg1b/view?usp=sharing"
   },
+  
   {
-    "nombreapp": "Conversor de Monedas",
-    "descripcion": "Aplicación en React Native con Expo que convierte de USD a EUR, COP y MXN.",
-    "icono": "",
-    "integrantes": ["Juan Esteban Urriago Calderon"],
-    "actividad": "Expo (React Native)",
-    "url": "https://drive.google.com/file/d/1cdODxHR7c_l-V1VrhYYwJLaZD3mJZ-2Y/view?usp=sharing"
-  },
-  {
+  "nombreapp": "EcoTrivia",
+  "descripcion": "Aplicación en React Native con Expo, tipo trivia de preguntas ambientales, que muestra puntaje y permite reiniciar el juego.",
+  "icono": "",
+  "integrantes": [
+    "SALGUERO VARGAS DUBAN SANTIAGO",
+    "URRIAGO CALDERON JUAN ESTEBAN"
+  ],
+  "actividad": "React Native",
+  "url": "https://drive.google.com/file/d/1YLs6M5hrJzz1h83n_c1dAFFYWv1MDeQa/view?usp=sharing"
+},
+
+{
     "nombreapp": "Semáforo Interactivo",
     "descripcion": "Simula un semáforo en HTML, CSS y JavaScript. Modo manual y automático.",
     "icono": "https://www.flaticon.es/icono-gratis/semaforos_3267422",
