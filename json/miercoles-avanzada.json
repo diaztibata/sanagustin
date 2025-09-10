@@ -1,97 +1,178 @@
 [
   {
     "nombreapp": "Adivinar",
-    "descripcion": "Adivina la Fruta es un juego web interactivo desarrollado con HTML, CSS y JavaScript, diseñado para ofrecer una experiencia visual sencilla pero entretenida. El jugador observa varias imágenes de frutas en pantalla y debe seleccionar la correcta para adivinar cuál es la fruta objetivo. Gracias a la combinación de HTML para la estructura, CSS para el estilo atractivo y JavaScript para la lógica interactiva, el juego funciona de manera fluida tanto en navegadores como dentro de aplicaciones móviles mediante WebView.",
-    "icono": "https://www.flaticon.es/resultados?word=adivinaar",
-    "integrantes": "Oscar Herrera, Katherin Aviles",
+    "descripcion": "Adivina la Fruta es un juego web interactivo desarrollado con HTML, CSS y JavaScript...",
+    "icono": "https://www.flaticon.es/resultados?word=adivinaa",
+    "integrantes": ["Oscar Herrera", "Katherin Aviles"],
     "actividad": "Android Studio",
     "url": "https://katherin2024.github.io/AdivinarApk/"
   },
   {
     "nombreapp": "Crushed controller",
-    "descripcion": "Es un juego interactivo que usa imágenes para su funcionamiento, consiste en juntar tres imágenes del mismo para así juntar puntos en un tablero hasta llegar a 5000, desarrollado con HTML, CSS, y JavaScript, su principal funcionamiento es en móviles, usando Android Studio para que sea una app.",
-    "integrantes": "Juan Esteban Urriago Calderon",
+    "descripcion": "Juego de juntar tres imágenes iguales para sumar puntos hasta llegar a 5000.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/686/686589.png",
+    "integrantes": ["Juan Esteban Urriago Calderon"],
     "actividad": "Android Studio",
-    "url": "https://juanu79.github.io/-crushed-control/"
+    "url": "https://drive.google.com/file/d/105SP2xXyZNvgLyhxfGtppU64VXUwHg1b/view?usp=sharing"
+  },
+  {
+    "nombreapp": "Conversor de Monedas",
+    "descripcion": "Aplicación en React Native con Expo que convierte de USD a EUR, COP y MXN.",
+    "icono": "",
+    "integrantes": ["Juan Esteban Urriago Calderon"],
+    "actividad": "Expo (React Native)",
+    "url": "https://drive.google.com/file/d/1cdODxHR7c_l-V1VrhYYwJLaZD3mJZ-2Y/view?usp=sharing"
   },
   {
     "nombreapp": "Semáforo Interactivo",
-    "descripcion": "Es una aplicación web hecha con HTML, CSS y JavaScript que simula un semáforo. El usuario puede encender las luces roja, amarilla o verde de forma manual o activar un modo automático que cambia las luces cada pocos segundos. Funciona en navegadores y puede integrarse en apps móviles con WebView.",
-    "icono": "https://www.flaticon.es/icono-gratis/semaforos_3267422?term=semaforo&page=1&position=4&origin=search&related_id=3267422",
-    "integrantes": "Santiago Castellanos - Angie Rincon",
+    "descripcion": "Simula un semáforo en HTML, CSS y JavaScript. Modo manual y automático.",
+    "icono": "https://www.flaticon.es/icono-gratis/semaforos_3267422",
+    "integrantes": ["Santiago Castellanos", "Angie Rincon"],
     "actividad": "Android Studio",
     "url": "https://santiago1902200.github.io/Semaforo/"
   },
   {
     "nombreapp": "Buscaminas v1.0",
-    "descripcion": "Es un juego interactivo basado en el clásico buscaminas de Windows realizado plenamente en HTML, CSS y JavaScript, el usuario usará el clic izquierdo para revelar las casillas y clic derecho para marcar y desmarcar con una bandera las casillas con bombas, y en caso de celular un toque para revelar y pulsación mantenida para marcar y desmarcar.",
-    "icono": "https://www.flaticon.es/icono-gratis/explosivo_15394833?term=explosivo&page=1&position=30&origin=search&related_id=15394833",
-    "integrantes": "Wilson Carmona, Juan Esteban Leon Padilla, Nicolas Alarcon Mendoza",
+    "descripcion": "Versión clásica del juego Buscaminas, optimizada para dispositivos móviles.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/15394/15394833.png",
+    "integrantes": ["Wilson Carmona", "Juan Esteban Leon Padilla", "Nicolas Alarcon Mendoza"],
     "actividad": "Android Studio",
-    "url": "https://bakup11.github.io/otro-buscaminas/"
+    "url": "https://drive.google.com/file/d/1Gk4rxS3bFCCsnTEoJRcRRous6Am7Cpyk/view?usp=drive_link"
   },
   {
     "nombreapp": "Urbanvibe Clothing",
-    "descripcion": "Una aplicación simulando un ecommerce de venta de ropa con varias secciones interactivas. Esta fue hecha con JavaScript, HTML y CSS. Se hizo llamada de artículos a través de una API.",
-    "icono": "https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-4f08-622f-8b62-620eaa5e9c74/raw?se=2025-08-12T21%3A22%3A18Z&sp=r&sv=2024-08-04&sr=b&scid=533be6fa-8a87-5b8d-9096-6d272ef5fe98&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-12T17%3A46%3A35Z&ske=2025-08-13T17%3A46%3A35Z&sks=b&skv=2024-08-04&sig=OGQMAXU/AtGKInoVC6%2BQmfxusU4xCExBmgC4nezzXi8%3D",
-    "integrantes": "Juan Vargas - Cristian Vega - Daniela Parra",
+    "descripcion": "Simula un ecommerce de ropa con consumo de API, hecho en JS, HTML y CSS.",
+    "icono": "https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-4f08-622f-8b62-620eaa5e9c74/raw",
+    "integrantes": ["Juan Vargas", "Cristian Vega", "Daniela Parra"],
     "actividad": "Android Studio",
-    "url": "https://judavago1.github.io/UrbanVibe-Clothing/"
+    "url": "https://drive.google.com/file/d/17Zm-rzwxINWMV-SegCQ-YnjBBtL_YFH4/view?usp=drive_link"
   },
   {
     "nombreapp": "Sudoku Mobile",
-    "descripcion": "Un juego interactivo de Sudoku 9x9 adaptable a móviles y computadoras. Permite seleccionar celdas y llenarlas con un teclado numérico en pantalla, generando desafíos aleatorios. Desarrollado con HTML, CSS y JavaScript, pensado para su uso principal en dispositivos móviles y empaquetado como aplicación Android.",
-    "icono": "https://www.flaticon.es/icono-gratis/juego_10595686?term=sudoku&page=1&position=10&origin=search&related_id=10595686",
-    "integrantes": "Jose Grass, Elmer Cabrera, Alejandro Rubio",
+    "descripcion": "Juego de Sudoku 9x9 para móviles, con teclado numérico en pantalla.",
+    "icono": "https://www.flaticon.es/icono-gratis/juego_10595686",
+    "integrantes": ["Jose Grass", "Elmer Cabrera", "Alejandro Rubio"],
     "actividad": "Android Studio",
-    "url": "https://josegrass.github.io/Sudoku/"
+    "url": "https://drive.google.com/file/d/1mPe4jiAUu-swfvNxg0mZ-Kamwg8mUmvs/view?usp=drive_link"
   },
   {
     "nombreapp": "Memoria Emoji",
-    "descripcion": "Un juego interactivo de memoria con temática de emojis, donde el jugador debe encontrar las parejas idénticas en el menor número de intentos posible. Adaptado para dispositivos móviles y computadoras, desarrollado con HTML, CSS y JavaScript, y empaquetado como aplicación Android para su uso principal en móviles.",
-    "icono": "https://www.flaticon.es/icono-gratis/amigos_8048367?term=emojis&page=1&position=5&origin=search&related_id=8048367",
-    "integrantes": "Felipe Rivera, Duban Salguero",
+    "descripcion": "Juego de memoria con emojis, para encontrar pares idénticos.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/8048/8048319.png",
+    "integrantes": ["Felipe Rivera", "Duban Salguero", "Juan Herrera"],
     "actividad": "Android Studio",
-    "url": "https://duban77.github.io/Dados-Doble/"
+    "url": "https://drive.google.com/file/d/11nnixiF1UtcPS1umGfa7NcD3vRSijpaO/view?usp=drive_link"
   },
   {
     "nombreapp": "Color Memory",
-    "descripcion": "Es un juego de memoria interactivo en el cual aparecen varios botones de colores. El juego muestra una secuencia de colores y el objetivo es repetir el patrón exactamente en el mismo orden, fue creado utilizando JavaScript, CSS y HTML, y Android para que pueda desarrollarse como aplicación móvil.",
-    "icono": "https://www.flaticon.es/icono-gratis/juego_1138727?term=juego+de+memoria&page=1&position=7&origin=search&related_id=1138727",
-    "integrantes": "María Paula Almario, Maicol López, Karen Borda",
+    "descripcion": "Juego de secuencia de colores que el jugador debe repetir correctamente.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1138/1138727.png",
+    "integrantes": ["María Paula Almario", "Maicol López", "Karen Borda"],
     "actividad": "Android Studio",
-    "url": "https://github.com/MariaAlmario/SIMON_DICE"
+    "url": "https://drive.google.com/file/d/1IXn9NoE-ERuSXvQNI3cDBwFqT7x5zn_K/view?usp=drivesdk"
+  },
+  {
+    "nombreapp": "Conversor de Unidades",
+    "descripcion": "Convierte longitud, temperatura y moneda.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3310/3310608.png",
+    "integrantes": ["María Paula Almario", "Maicol López"],
+    "actividad": "Capacitor y Expo",
+    "url": "https://drive.google.com/file/d/11xmHmha61PSpMxw3wxq3GkdCCmu4V3QE/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Generador de excusas",
+    "descripcion": "Genera excusas para diferentes situaciones, como llegar tarde o faltar al trabajo.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/3680/3680202.png",
+    "integrantes": ["Juan Esteban Leon Padilla", "Maicol López"],
+    "actividad": "React Native",
+    "url": "https://expo.dev/accounts/jelp12/projects/Excusas/builds/411d8e77-91c3-467a-86b1-12819779473c"
   },
   {
     "nombreapp": "MOTOS",
-    "descripcion": "Es una página que permite mostrar motocicletas según marca, modelo y opcionalmente año. Devuelve hasta 30 resultados de motos de categoría ninja.",
-    "icono": "https://www.flaticon.es/icono-gratis/casco_705637?term=cascoas&page=1&position=90&origin=search&related_id=705637",
-    "integrantes": "Juan Fernando Caicedo - Oscar Julian Villamarin - John Anderson Yate",
+    "descripcion": "Muestra motocicletas según marca, modelo y año.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/705/705637.png",
+    "integrantes": ["Juan Fernando Caicedo", "Oscar Julian Villamarin", "John Anderson Yate"],
     "actividad": "Android Studio",
     "url": "https://github.com/Julianv2903/motos-kawa"
   },
   {
     "nombreapp": "BuscaMinas",
-    "descripcion": "Es un juego de lógica en el que debes descubrir celdas de un tablero sin seleccionar ninguna que contenga minas ocultas. Cada celda descubierta te indica cuántas minas hay alrededor, y con esa información debes deducir dónde están las minas para evitarlas. El objetivo es destapar todas las casillas seguras sin explotar ninguna mina.",
+    "descripcion": "Versión de buscaminas donde debes evitar las minas y descubrir todas las casillas seguras.",
     "icono": "https://play-lh.googleusercontent.com/eX5S3Tv3eSO1aWDMQ7MGRO1AaZM-mF0EvRbNsUM887kJVHj0aKv4GnDNj6ds_qvhpak",
-    "integrantes": "YONHEY BONILLA, FELIPE PIRAGAUTA, ANDREY FAJARDO",
+    "integrantes": ["YONHEY BONILLA", "FELIPE PIRAGAUTA", "ANDREY FAJARDO"],
     "actividad": "Android Studio",
-    "url": "https://andfkx.github.io/apk1/"
+    "url": "https://drive.google.com/file/d/1hmw5SUqdjMZ9OcZTZCiiaY0kEIppcBL3/view?usp=drive_link"
   },
   {
     "nombreapp": "Juego dados",
-    "descripcion": "El juego de dados es una aplicación web interactiva en la que uno o más jugadores lanzan virtualmente uno o dos dados para obtener un resultado aleatorio entre 1 y 6. El objetivo puede variar según las reglas implementadas: acumular la mayor cantidad de puntos, alcanzar un puntaje exacto o superar al oponente en menos tiradas. El jugador pulsa un botón para lanzar, y en pantalla se muestran las caras de los dados mediante imágenes o gráficos, acompañados de efectos visuales y animaciones para simular el movimiento real. El juego combina azar, rapidez y diversión, ofreciendo una experiencia sencilla pero entretenida directamente desde el navegador.",
-    "icono": "https://www.flaticon.es/icono-gratis/dado_9003230?k=1755128188942&sign-up=google",
-    "integrantes": "Juan Buitrago , Juan Chaparro , Juan Quintero",
+    "descripcion": "Lanza dados de forma aleatoria y visualiza el resultado.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/9003/9003230.png",
+    "integrantes": ["Juan Buitrago", "Juan Chaparro", "Juan Quintero"],
     "actividad": "Android Studio",
-    "url": "https://github.com/juanbuitri/juego-dados.git"
+    "url": "https://drive.google.com/file/d/1xv0-_ALlIMtrz4GjYEL2zHauUddf6tsu/view?usp=drive_link"
   },
   {
     "nombreapp": "Stopwatch",
-    "descripcion": "Tienes un stopwatch para configurar alarmas en horas, minutos y segundos, muy útiles para deportistas o para tareas que se deben realizar en un muy corto periodo de tiempo.",
-    "icono": "https://www.flaticon.es/icono-gratis/hora_2982765?term=cronometro&page=1&position=38&origin=search&related_id=2982765",
-    "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
+    "descripcion": "Cronómetro para configurar alarmas por tiempo.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2982/2982765.png",
+    "integrantes": ["Carlos Eduardo Cruz", "Cristian Rojas"],
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },
+  {
+    "nombreapp": "Color Game",
+    "descripcion": "Juego donde debes seleccionar el color correcto según la instrucción.",
+    "icono": "",
+    "integrantes": ["Karen Borda", "Juan Caicedo"],
+    "actividad": "App React 1",
+    "url": "https://github.com/karen111-star/ColorGame"
+  },
+  {
+    "nombreapp": "Calculadora de Promedios",
+    "descripcion": "Calcula promedios por materia y semestre. Permite definir cortes y notas requeridas.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/5345/5345743.png",
+    "integrantes": ["Jose Grass", "Alejandro Rubio"],
+    "actividad": "React y React Native",
+    "url": "https://drive.google.com/file/d/1bQ56gAVSWv23l4TJr5Xu6EmjEmvI-p7U/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Contador",
+    "descripcion": "Aplicación que permite sumar o restar números. (No calculadora)",
+    "icono": "https://www.flaticon.es/icono-gratis/contabilidad_6712929",
+    "integrantes": ["Angie Rincon", "Juan Herrera"],
+    "actividad": "Capacitor y Expo",
+    "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Ahorcado",
+    "descripcion": "Ejercita tu mente con palabras ocultas relacionadas con IA y programación.",
+    "icono": "https://www.freepik.es/vector-premium/ilustracion-linea-suicidio_153599670",
+    "integrantes": ["Elmer Cabrera", "Nicolas Alarcon"],
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/drive/folders/1gBc2S9mZrEx_uOJl9U6iiXK-bm3AroZP?usp=drive_link"
+  },
+  {
+    "nombreapp": "Trivia General",
+    "descripcion": "Aplicación de 15 preguntas de cultura general.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3273/3273599.png",
+    "integrantes": ["Wilson Carmona"],
+    "actividad": "Apk React no Native",
+    "url": "https://drive.google.com/file/d/1wVZ9_Zp5VdUHxVsBhhjasfwFCf4b3N-E/view?usp=sharing"
+  },
+  {
+    "nombreapp": "TodoList",
+    "descripcion": "Aplicación para gestionar tareas con fechas y hora de recordatorio.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/14991/14991730.png",
+    "integrantes": ["Carlos Eduardo Cruz", "Juan Esteban Leon"],
+    "actividad": "App React 1",
+    "url": "https://drive.google.com/file/d/14ObvT2HrKg99zicwnj3pE3HU0oh1FXR7/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "GastosMensuales",
+    "descripcion": "Gestiona gastos mensuales con base en un límite preestablecido por el usuario.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3882/3882164.png",
+    "integrantes": ["Carlos Eduardo Cruz", "Juan Manuel Chaparro"],
+    "actividad": "React Native 3",
+    "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
   }
 ]
