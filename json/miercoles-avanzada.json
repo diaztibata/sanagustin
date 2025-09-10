@@ -174,5 +174,13 @@
     "integrantes": ["Carlos Eduardo Cruz", "Juan Manuel Chaparro"],
     "actividad": "React Native 3",
     "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
+  },
+    {
+    "nombreapp": "Culebrapp",
+    "descripcion": "Aplicación del juego de la culebrita para diverstirse de una manera clasica.",
+    "icono": "https://image.winudf.com/v2/image1/Y29tLmhhbmdvdmVyc3R1ZGlvcy5zbGl0aGVyLnNuYWtlem9uZV9pY29uXzE2NzUwNTE2MDJfMDk1/icon.png?w=212&fakeurl=1",
+    "integrantes": ["Oscar Julian Villamarin Wilches", "John Anderson Yate Agredo"],
+    "actividad": "App React 1",
+    "url": "https://drive.google.com/file/d/15vyJD3ZCNJLf_Z37z8MGI51w7__9C-gL/view?usp=drive_link"
   }
 ]
