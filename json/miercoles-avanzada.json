@@ -80,12 +80,12 @@
   },
   {
     "nombreapp": "Geometry",
-    "descripcion": "es un videojuego de plataformas rítmicas creado por RobTop Games, donde el jugador controla una figura geométrica que debe superar obstáculos al ritmo de la música. Con una jugabilidad sencilla pero desafiante, reinicia el nivel cada vez que se falla, lo que lo convierte en un reto de precisión y memoria. Además, cuenta con un editor de niveles que ha impulsado una gran comunidad creativa alrededor del juego.",
+    "descripcion": "Es un videojuego de plataformas rítmicas creado por RobTop Games, donde el jugador controla una figura geométrica que debe superar obstáculos al ritmo de la música. Con una jugabilidad sencilla pero desafiante, reinicia el nivel cada vez que se falla, lo que lo convierte en un reto de precisión y memoria. Además, cuenta con un editor de niveles que ha impulsado una gran comunidad creativa alrededor del juego.",
     "icono": "https://drive.google.com/file/d/10blTD_6BeUpu9UmORLwiMdLSwDZU3KbX/view?usp=drive_link",
     "integrantes": "YONHEY BONILLA, Heidy aviles",
     "actividad": "Android Studio",
     "url": "https://vigilant-adventure-5g5497v56rprh7vg5-5173.app.github.dev/"
-  },
+  }, 
   {
     "nombreapp": "Juego dados",
     "descripcion": "El juego de dados es una aplicación web interactiva en la que uno o más jugadores lanzan virtualmente uno o dos dados para obtener un resultado aleatorio entre 1 y 6. El objetivo puede variar según las reglas implementadas: acumular la mayor cantidad de puntos, alcanzar un puntaje exacto o superar al oponente en menos tiradas. El jugador pulsa un botón para lanzar, y en pantalla se muestran las caras de los dados mediante imágenes o gráficos, acompañados de efectos visuales y animaciones para simular el movimiento real. El juego combina azar, rapidez y diversión, ofreciendo una experiencia sencilla pero entretenida directamente desde el navegador.",
