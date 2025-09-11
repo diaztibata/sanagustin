@@ -175,4 +175,12 @@
     "actividad": "React Native 3",
     "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
   }
+  {    
+  "nombreapp": "Calculadora Habitos",    
+"descripcion": "Una app donde puedes poner tus habitos diarios y vas marcando si si los cumples o no.",    
+"icono": "https://img.freepik.com/foto-gratis/concepto-vuelta-al-cole-calculadora-libro_23-2147662321.jpg?ga=GA1.1.1636767663.1757555832&semt=ais_hybrid&w=740&q=80",    
+"integrantes": ["Daniela Parra"],    "actividad": "React, expo,",    
+"url":"https://drive.google.com/drive/folders/1nHMvP9gpVrYG56zPxn_WaqZFp09nsPEN?usp=drive_link"  
+},
+
 ]
