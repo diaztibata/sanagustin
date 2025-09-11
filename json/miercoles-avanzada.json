@@ -99,7 +99,7 @@
     "descripcion": "Es un juego donde una persona (o la computadora) piensa un número secreto y el jugador tiene que adivinar cuál es.",
     "icono": "https://www.flaticon.es/icono-gratis/confuso_2577567?term=adivinaar&page=1&position=2&origin=search&related_id=2577567",
     "integrantes": ["Oscar Herrera", "Katherin Aviles"],
-    "actividad": "React Expo",
+    "actividad": "React_Expo",
     "url": "https://katherin2024.github.io/V_ESCAPE_ROOM/"
   }
 
