@@ -174,5 +174,13 @@
     "integrantes": ["Carlos Eduardo Cruz", "Juan Manuel Chaparro"],
     "actividad": "React Native 3",
     "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
+  },
+    {
+    "nombreapp": "Listapp",
+    "descripcion": "Gestiona las tareas que surgen en la vida cotidiana, facilita recordatorios para el ususario.",
+    "icono": "",
+    "integrantes": ["Oscar Julian Villamarin Wilches", "John Anderson Yate Agredo"],
+    "actividad": "React Native",
+    "url": "https://drive.google.com/file/d/12SM3h1-pd2JGiy4_YJV3SvgxZU7HTJM0/view?usp=drive_link"
   }
 ]
