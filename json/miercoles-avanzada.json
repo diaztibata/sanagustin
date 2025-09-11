@@ -87,6 +87,14 @@
     "url": "https://github.com/juanbuitri/juego-dados.git"
   },
   {
+    "nombreapp": "Piedra,papel y tijeras",
+    "descripcion": "Juego de piedra papel y tijeras clasico para jugar contra la CPU.",
+    "icono": "hhttps://cdn-icons-png.flaticon.com/512/6729/6729732.png",
+    "integrantes": "Alejandro Rubio , Cristian Rojas , Carlos Rivera",
+    "actividad": "React Native",
+    "url": "https://drive.google.com/drive/folders/1mL4APaVNPN8Th8nSIp2isTRcj99GRjEP"
+  },
+  {
     "nombreapp": "Stopwatch",
     "descripcion": "Tienes un stopwatch para configurar alarmas en horas, minutos y segundos, muy útiles para deportistas o para tareas que se deben realizar en un muy corto periodo de tiempo.",
     "icono": "https://www.flaticon.es/icono-gratis/hora_2982765?term=cronometro&page=1&position=38&origin=search&related_id=2982765",
