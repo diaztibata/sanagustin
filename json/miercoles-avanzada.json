@@ -15,6 +15,7 @@
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/105SP2xXyZNvgLyhxfGtppU64VXUwHg1b/view?usp=sharing"
   },
+
   {
     "nombreapp": "Conversor de Monedas",
     "descripcion": "Aplicación en React Native con Expo que convierte de USD a EUR, COP y MXN.",
@@ -39,6 +40,15 @@
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1Gk4rxS3bFCCsnTEoJRcRRous6Am7Cpyk/view?usp=drive_link"
   },
+  {
+    "nombreapp": "Cargame",
+    "descripcion": "Un juego de un carro que con un touch debe esquivar los obstaculos que hayan en su camino, si se hace contacto con uno de ellos el contador del score se reiniciara.",
+    "icono": "https://www.flaticon.es/icono-gratis/coche_859864?term=car&page=1&position=3&origin=search&related_id=859864",
+    "integrantes": ["Juan Vargas","Cristian Vega"],
+    "actividad": "React Native, Expo",
+    "url": "https://drive.google.com/drive/folders/1oCId1BC3iwsEtM5APPjM5Sx2sGkiMKcP?usp=drive_link"
+  },
+
   {
     "nombreapp": "Urbanvibe Clothing",
     "descripcion": "Simula un ecommerce de ropa con consumo de API, hecho en JS, HTML y CSS.",
