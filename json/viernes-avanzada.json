@@ -30,8 +30,20 @@
         "integrantes": "Martin Ramirez,Javier Torres, Daniel Steven",
         "actividad": "webintoapp",
         "url": ""
-    }
+    },
 
+
+
+
+
+     {
+        "nombreapp": "JuegoOriginal",
+        "descripcion": "Una aplicación de agenda simple está diseñada para ayudarte a organizar tu tiempo y tus tareas de manera eficiente.",
+        "icono": "https://www.flaticon.es/icono-gratis/destello_252590?term=rayo&page=1&position=39&origin=search&related_id=252590",
+        "integrantes": "Javier Torres,Andres Ceballos",
+        "actividad": "Actividad react native",
+        "url": ""
+    }
 
 
 ]
