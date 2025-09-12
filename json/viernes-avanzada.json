@@ -30,7 +30,25 @@
         "integrantes": "Martin Ramirez,Javier Torres, Daniel Steven",
         "actividad": "webintoapp",
         "url": ""
+    },
+    {
+        "nombreapp": "Pong en capacitor",
+        "descripcion": "Este proyecto es una implementación moderna del clásico juego Pong, desarrollada utilizando React y JavaScript vanilla, y empaquetada como aplicación móvil mediante Capacitor. El juego cuenta con una interfaz sencilla y responsiva, controles táctiles y marcador en tiempo real. El objetivo es competir contra la inteligencia artificial, siendo el primer jugador en alcanzar 10 puntos. Gracias a Capacitor, el juego puede ejecutarse tanto en navegadores web como en dispositivos Android, aprovechando las capacidades nativas de cada plataforma..",
+        "icono": "Na",
+        "integrantes": "Santiago Ramirez Torres, Daniel Nomelin",
+        "actividad": "React + capacitor",
+        "url": "https://drive.google.com/file/d/1iuK7e7r1V8155UJo6d0-w5G5t-5ldujm/view?usp=drive_link"
+    },
+    {
+        "nombreapp": "Frases Motivacionales",
+        "descripcion": "Aplicación móvil desarrollada con React Native y Expo, diseñada para una única plataforma (Android). La app presenta un mural digital de frases motivacionales, permitiendo a los usuarios explorar mensajes inspiradores a través de una interfaz sencilla, fluida y visualmente atractiva.",
+        "icono": "Na",
+        "integrantes": "Santiago Ramirez Torres, Carlos Fernando Riano Bedoya",
+        "actividad": "App React native",
+        "url": "https://drive.google.com/file/d/1xX6cN680glFW_L9p8MsQ3R9tduNKzIJ_/view?usp=drive_link"
     }
+
+
 
 
 
