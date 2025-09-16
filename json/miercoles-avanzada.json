@@ -176,11 +176,22 @@
     "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
   },
     {
+
     "nombreapp": "Listapp",
     "descripcion": "Gestiona las tareas que surgen en la vida cotidiana, facilita recordatorios para el ususario.",
     "icono": "",
     "integrantes": ["Oscar Julian Villamarin Wilches", "John Anderson Yate Agredo"],
     "actividad": "React Native",
     "url": "https://drive.google.com/file/d/12SM3h1-pd2JGiy4_YJV3SvgxZU7HTJM0/view?usp=drive_link"
+    },{
+    "nombreapp": "Esquiva",
+    "descripcion": "Juego que consiste en matenerse el mayor tiempo posible sin dejarse tocar de las nubes que van cayendo desde el cielo ",
+    "icono": "https://cdn-icons-png.flaticon.com/128/1779/1779812.png",
+    "integrantes": ["Karen Borda", "Juan Diego Buitrago"],
+    "actividad": "React Native 3",
+    "url": "https://drive.google.com/file/d/1I3SWTBQRS2PkOjAweyezenQCmYfGQWAH/view?usp=drive_link"
+
   }
+
+
 ]
