@@ -33,7 +33,6 @@
         "url": ""
     },
 
-
     {
 
         "nombreapp": "Pong en capacitor",
@@ -60,6 +59,24 @@
 
     }
 
+
+    {
+        "nombreapp": "Generador de Excusas",
+        "descripcion": "Juego web interactivo desarrollado con capacitor en el que el jugador puede generar excusas aleatorias para no asistir a un evento. Incluye una variedad de categorías de excusas y permite al usuario personalizar su excusa antes de compartirla.",
+        "icono": "https://cdn-icons-png.flaticon.com/512/3680/3680202.png",
+        "integrantes": "Julian Maldonado, Andres Ceballos",
+        "actividad": "webintoapp",
+        "url": "https://drive.google.com/file/d/1Ws1aDgPakSp5eS2kxnNfdkdr3VO2V5Vq/view?usp=sharing"
+    },
+
+    {
+        "nombreapp": "Randomizador de Elementos de la tabla periódica",
+        "descripcion": "Aplicación web desarrollada con expo que permite a los usuarios obtener un elemento aleatorio de la tabla periódica. La aplicación muestra información relevante sobre el elemento seleccionado, incluyendo su símbolo, número atómico y propiedades principales. Ideal para estudiantes y entusiastas de la química que desean aprender más sobre los elementos de manera interactiva.",
+        "icono": "https://cdn-icons-png.flaticon.com/512/4027/4027148.png",
+        "integrantes": "Julian Maldonado, Andres Ceballos",
+        "actividad": "webintoapp",
+        "url": "https://drive.google.com/file/d/1L4itdMQg43OA5zT-sOPNadVfbG3GwNdT/view?usp=sharing"
+    }
 
   {
     "nombreapp": "AnimeApp",
