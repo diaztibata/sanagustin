@@ -236,5 +236,13 @@
 
   }
 
+  {
+    "nombreapp": "Preguntas",
+    "descripcion": "Tienes un menu de cuatro respuestas a una pregunta en ingles.",
+    "icono": "https://www.flaticon.es/icono-gratis/pregunta_2353678?term=preguntas&page=1&position=1&origin=search&related_id=2353678",
+    "integrantes": "Sebastian Herrera, Oscar Herrera",
+    "actividad": "Terminal expo",
+    "url": "https://fontecha011137.github.io/expo-go/"
+  }
 
 ]
