@@ -135,6 +135,15 @@
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
   },
+
+    {
+    "nombreapp": "mi_app",
+    "descripcion": "es una app de preguntas con multiples respuestas",
+    "icono": "https://www.flaticon.es/icono-gratis/signo-de-interrogacion_5726775?term=preguntas&page=1&position=11&origin=search&related_id=5726775",
+    "integrantes": "Oscar_Herrera,Juan_Herrera",
+    "actividad": "react_native",
+    "url": "https://juanse68.github.io/react_native/"
+
   {
 
     "nombreapp": "V_ESCAPE_ROOM",
