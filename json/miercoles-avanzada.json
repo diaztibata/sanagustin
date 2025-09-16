@@ -128,6 +128,14 @@
     "url": " https://drive.google.com/drive/folders/1kvi1pxbICEmMueOQdsa-bT2ZPdp83WKi?usp=drive_link"
   },
   {
+    "nombreapp": "Piedra,papel y tijeras",
+    "descripcion": "Juego de piedra papel y tijeras clasico para jugar contra la CPU.",
+    "icono": "hhttps://cdn-icons-png.flaticon.com/512/6729/6729732.png",
+    "integrantes": "Alejandro Rubio , Cristian Rojas , Carlos Rivera",
+    "actividad": "React Native",
+    "url": "https://drive.google.com/drive/folders/1mL4APaVNPN8Th8nSIp2isTRcj99GRjEP"
+  },
+  {
     "nombreapp": "Stopwatch",
     "descripcion": "Cronómetro para configurar alarmas por tiempo.",
     "icono": "https://cdn-icons-png.flaticon.com/512/2982/2982765.png",
