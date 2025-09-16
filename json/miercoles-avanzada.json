@@ -104,12 +104,36 @@
     "url": "https://drive.google.com/file/d/1hmw5SUqdjMZ9OcZTZCiiaY0kEIppcBL3/view?usp=drive_link"
   },
   {
+    "nombreapp": "Geometry",
+    "descripcion": "Es un videojuego de plataformas rítmicas creado por RobTop Games, donde el jugador controla una figura geométrica que debe superar obstáculos al ritmo de la música. Con una jugabilidad sencilla pero desafiante, reinicia el nivel cada vez que se falla, lo que lo convierte en un reto de precisión y memoria. Además, cuenta con un editor de niveles que ha impulsado una gran comunidad creativa alrededor del juego.",
+    "icono": "https://drive.google.com/file/d/10blTD_6BeUpu9UmORLwiMdLSwDZU3KbX/view?usp=drive_link",
+    "integrantes": "YONHEY BONILLA, Heidy aviles",
+    "actividad": "Android Studio",
+    "url": "https://vigilant-adventure-5g5497v56rprh7vg5-5173.app.github.dev/"
+  }, 
+  {
     "nombreapp": "Juego dados",
     "descripcion": "Lanza dados de forma aleatoria y visualiza el resultado.",
     "icono": "https://cdn-icons-png.flaticon.com/512/9003/9003230.png",
     "integrantes": ["Juan Buitrago", "Juan Chaparro", "Juan Quintero"],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1xv0-_ALlIMtrz4GjYEL2zHauUddf6tsu/view?usp=drive_link"
+  },
+   {
+    "nombreapp": "Basketball",
+    "descripcion": "Un juego de basketball donde se mide la fuerza de cada intento, cuenta con un contador y un boton de reinicio de puntaje.",
+    "icono": "https://www.freepik.es/vector-gratis/plantilla-logotipo-baloncesto-vintage-coloreado_10094043.htm",
+    "integrantes": ["Juan Vargas","Daniela Parra"],
+    "actividad": "React, capcitor, andrioid studio",
+    "url": " https://drive.google.com/drive/folders/1kvi1pxbICEmMueOQdsa-bT2ZPdp83WKi?usp=drive_link"
+  },
+  {
+    "nombreapp": "Piedra,papel y tijeras",
+    "descripcion": "Juego de piedra papel y tijeras clasico para jugar contra la CPU.",
+    "icono": "hhttps://cdn-icons-png.flaticon.com/512/6729/6729732.png",
+    "integrantes": "Alejandro Rubio , Cristian Rojas , Carlos Rivera",
+    "actividad": "React Native",
+    "url": "https://drive.google.com/drive/folders/1mL4APaVNPN8Th8nSIp2isTRcj99GRjEP"
   },
   {
     "nombreapp": "Stopwatch",
@@ -119,7 +143,24 @@
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
   },
+
+    {
+    "nombreapp": "mi_app",
+    "descripcion": "es una app de preguntas con multiples respuestas",
+    "icono": "https://www.flaticon.es/icono-gratis/signo-de-interrogacion_5726775?term=preguntas&page=1&position=11&origin=search&related_id=5726775",
+    "integrantes": "Oscar_Herrera,Juan_Herrera",
+    "actividad": "react_native",
+    "url": "https://juanse68.github.io/react_native/"
+
   {
+
+    "nombreapp": "V_ESCAPE_ROOM",
+    "descripcion": "Es un juego donde una persona (o la computadora) piensa un número secreto y el jugador tiene que adivinar cuál es.",
+    "icono": "https://www.flaticon.es/icono-gratis/confuso_2577567?term=adivinaar&page=1&position=2&origin=search&related_id=2577567",
+    "integrantes": ["Oscar Herrera", "Katherin Aviles"],
+    "actividad": "React_Expo",
+    "url": "https://katherin2024.github.io/V_ESCAPE_ROOM/"
+
     "nombreapp": "Color Game",
     "descripcion": "Juego donde debes seleccionar el color correcto según la instrucción.",
     "icono": "",
@@ -174,7 +215,44 @@
     "integrantes": ["Carlos Eduardo Cruz", "Juan Manuel Chaparro"],
     "actividad": "React Native 3",
     "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
+  },
+    {
+
+    "nombreapp": "sabes",
+    "descripcion": "Un juego interactivo de preguntas con multiple respuestas, desarrollado con react y capacitor, y empaquetado como aplicación Android para su uso principal en móviles.",
+
+    "icono": "https://mangoanimate.com/blog/wp-content/uploads/2023/12/Interactive-Slides-Body-Language.png.webp",
+
+       "integrantes": ["Felipe Rivera", "Duban Salguero"],
+
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/file/d/1n6S1o0MGPiIL4Ku5kXFqMnLRaS2nV2yL/view?usp=drive_link"
+
+    "nombreapp": "Listapp",
+    "descripcion": "Gestiona las tareas que surgen en la vida cotidiana, facilita recordatorios para el ususario.",
+    "icono": "",
+    "integrantes": ["Oscar Julian Villamarin Wilches", "John Anderson Yate Agredo"],
+    "actividad": "React Native",
+    "url": "https://drive.google.com/file/d/12SM3h1-pd2JGiy4_YJV3SvgxZU7HTJM0/view?usp=drive_link"
+    },{
+    "nombreapp": "Esquiva",
+    "descripcion": "Juego que consiste en matenerse el mayor tiempo posible sin dejarse tocar de las nubes que van cayendo desde el cielo ",
+    "icono": "https://cdn-icons-png.flaticon.com/128/1779/1779812.png",
+    "integrantes": ["Karen Borda", "Juan Diego Buitrago"],
+    "actividad": "React Native 3",
+    "url": "https://drive.google.com/file/d/1I3SWTBQRS2PkOjAweyezenQCmYfGQWAH/view?usp=drive_link"
+
   }
+
+  {
+    "nombreapp": "Preguntas",
+    "descripcion": "Tienes un menu de cuatro respuestas a una pregunta en ingles.",
+    "icono": "https://www.flaticon.es/icono-gratis/pregunta_2353678?term=preguntas&page=1&position=1&origin=search&related_id=2353678",
+    "integrantes": "Sebastian Herrera, Oscar Herrera",
+    "actividad": "Terminal expo",
+    "url": "https://fontecha011137.github.io/expo-go/"
+  }
+
   {    
   "nombreapp": "Calculadora Habitos",    
 "descripcion": "Una app donde puedes poner tus habitos diarios y vas marcando si si los cumples o no.",    
@@ -182,5 +260,6 @@
 "integrantes": ["Daniela Parra"],    "actividad": "React, expo,",    
 "url":"https://drive.google.com/drive/folders/1nHMvP9gpVrYG56zPxn_WaqZFp09nsPEN?usp=drive_link"  
 },
+
 
 ]
