@@ -198,6 +198,16 @@
     "icono": "https://www.freepik.es/vector-premium/ilustracion-linea-suicidio_153599670",
     "integrantes": ["Elmer Cabrera", "Nicolas Alarcon"],
     "actividad": "Android Studio",
+    "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Random_english",
+    "descripcion": "Esta aplicación genera palabras aleatorias en inglés y muestra un ejemplo de cómo se usa en una oración. Además, permite escuchar la pronunciación correcta al hacer clic en un botón, ayudando así a mejorar el vocabulario y la pronunciación en inglés de forma interactiva y práctica.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/4928/4928912.png",
+    "integrantes": ["Nicolas Alarcon Mendoza", "Maaria Paula Almario Beas"],
+    "actividad": "React Native",
+    "url": "https://drive.google.com/drive/folders/1J8FdKggS5UZ42IM2SA0FO6khFkncmtHt?usp=drive_link"
+
     "url": "https://drive.google.com/drive/folders/1gBc2S9mZrEx_uOJl9U6iiXK-bm3AroZP?usp=drive_link"
   },
   {
