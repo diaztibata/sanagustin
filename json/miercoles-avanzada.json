@@ -104,6 +104,14 @@
     "url": "https://drive.google.com/file/d/1hmw5SUqdjMZ9OcZTZCiiaY0kEIppcBL3/view?usp=drive_link"
   },
   {
+    "nombreapp": "Geometry",
+    "descripcion": "Es un videojuego de plataformas rítmicas creado por RobTop Games, donde el jugador controla una figura geométrica que debe superar obstáculos al ritmo de la música. Con una jugabilidad sencilla pero desafiante, reinicia el nivel cada vez que se falla, lo que lo convierte en un reto de precisión y memoria. Además, cuenta con un editor de niveles que ha impulsado una gran comunidad creativa alrededor del juego.",
+    "icono": "https://drive.google.com/file/d/10blTD_6BeUpu9UmORLwiMdLSwDZU3KbX/view?usp=drive_link",
+    "integrantes": "YONHEY BONILLA, Heidy aviles",
+    "actividad": "Android Studio",
+    "url": "https://vigilant-adventure-5g5497v56rprh7vg5-5173.app.github.dev/"
+  }, 
+  {
     "nombreapp": "Juego dados",
     "descripcion": "Lanza dados de forma aleatoria y visualiza el resultado.",
     "icono": "https://cdn-icons-png.flaticon.com/512/9003/9003230.png",
