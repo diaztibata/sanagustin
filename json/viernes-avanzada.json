@@ -53,6 +53,19 @@
         "integrantes": "Daniel Steven Guerrero,Santiago Guzman",
         "actividad": "Actividad react native",
         "url": "https://drive.google.com/file/d/1HM9OCUWvC8zdoRAdY_t8PtuakYwSGWJ7/view?usp=drive_link"
+    },
+
+
+
+
+
+    {
+        "nombreapp": "PorkyJump.",
+        "descripcion":"Juego móvil desarrollado en React y empaquetado para APK con webview. El jugador controla a un cerdito que debe saltar obstáculos para no chocar con ellos. La dificultad aumenta progresivamente con mayor velocidad y frecuencia de obstáculos. El control se realiza tocando la pantalla para saltar, haciendo que la experiencia sea sencilla y divertida.",
+        "icono": "    https://cdn-icons-png.flaticon.com/128/11045/11045775.png ",
+        "integrantes": "Santiago Guzman",
+        "actividad": "webview",
+        "url": "https://drive.google.com/file/d/1y4j37VOmhTSF80lSRU2JgR19HEfm0aQr/view?usp=drive_link"
     }
 
 
