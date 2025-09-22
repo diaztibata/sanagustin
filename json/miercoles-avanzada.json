@@ -278,5 +278,13 @@
     "integrantes": ["Daniela Parra"],
     "actividad": "React, expo",
     "url": "https://drive.google.com/drive/folders/1nHMvP9gpVrYG56zPxn_WaqZFp09nsPEN?usp=drive_link"
+  },
+  {
+    "nombreapp": "Soccer_Game",
+    "descripcion": "Un juego de futbol con un ambiente natural donde el usuario tiene que medir su destreza con punteria y habilidad para despistar al portero ya que este siempre atajara la pelota.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/33/33736.png",
+    "integrantes": ["Juan Vargas"],
+    "actividad": "Hacer Deploy (React-Netlify)",
+    "url": "Vite + React"
   }
 ]
