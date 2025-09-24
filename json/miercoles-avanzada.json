@@ -93,5 +93,13 @@
     "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },
+  {
+    "nombreapp": "Cuello de botella",
+    "descripcion": "Aplicacion que calcula el cuello de botella que tiene un procesador y una tarjeta grafica",
+    "icono": "https://www.flaticon.es/icono-gratis/botella-de-vino_45637?term=botella&page=1&position=5&origin=search&related_id=45637",
+    "integrantes": "Juan Leon ",
+    "actividad": "Android Studio",
+    "url": "https://jubilant-meme-jr445g4j7p259pp-5173.app.github.dev/"
   }
 ]
