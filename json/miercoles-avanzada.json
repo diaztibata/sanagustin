@@ -1,0 +1,192 @@
+[
+  {
+    "nombreapp": "Adivinar",
+    "descripcion": "Adivina la Fruta es un juego web interactivo desarrollado con HTML, CSS y JavaScript...",
+    "icono": "https://www.flaticon.es/resultados?word=adivinaa",
+    "integrantes": ["Oscar Herrera", "Katherin Aviles"],
+    "actividad": "Android Studio",
+    "url": "https://katherin2024.github.io/AdivinarApk/"
+  },
+  {
+    "nombreapp": "Crushed controller",
+    "descripcion": "Juego de juntar tres imágenes iguales para sumar puntos hasta llegar a 5000.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/686/686589.png",
+    "integrantes": ["Juan Esteban Urriago Calderon"],
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/file/d/105SP2xXyZNvgLyhxfGtppU64VXUwHg1b/view?usp=sharing"
+  },
+  
+  {
+  "nombreapp": "EcoTrivia",
+  "descripcion": "Aplicación en React Native con Expo, tipo trivia de preguntas ambientales, que muestra puntaje y permite reiniciar el juego.",
+  "icono": "",
+  "integrantes": [
+    "SALGUERO VARGAS DUBAN SANTIAGO",
+    "URRIAGO CALDERON JUAN ESTEBAN"
+  ],
+  "actividad": "React Native",
+  "url": "https://drive.google.com/file/d/1YLs6M5hrJzz1h83n_c1dAFFYWv1MDeQa/view?usp=sharing"
+},
+{
+  "nombreapp": "Postits",
+  "descripcion": "Aplicación en React que permite crear y gestionar notas rápidas.",
+  "icono": "https://drive.google.com/file/d/1Xn12VUrJ1GrgC15tLdHMHxrMs6nMV76z/view?usp=sharing",
+  "integrantes": ["Juan Esteban Urriago Calderon"],
+  "actividad": "React",
+  "url": "https://subtle-mooncake-d253ec.netlify.app/",
+  "splash": "https://drive.google.com/file/d/1uYldrJBmJiOMs1CJAYrOmnVdm5fx68X4/view?usp=sharing"
+},
+
+{
+    "nombreapp": "Semáforo Interactivo",
+    "descripcion": "Simula un semáforo en HTML, CSS y JavaScript. Modo manual y automático.",
+    "icono": "https://www.flaticon.es/icono-gratis/semaforos_3267422",
+    "integrantes": ["Santiago Castellanos", "Angie Rincon"],
+    "actividad": "Android Studio",
+    "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "Buscaminas v1.0",
+    "descripcion": "Versión clásica del juego Buscaminas, optimizada para dispositivos móviles.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/15394/15394833.png",
+    "integrantes": ["Wilson Carmona", "Juan Esteban Leon Padilla", "Nicolas Alarcon Mendoza"],
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/file/d/1Gk4rxS3bFCCsnTEoJRcRRous6Am7Cpyk/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Urbanvibe Clothing",
+    "descripcion": "Simula un ecommerce de ropa con consumo de API, hecho en JS, HTML y CSS.",
+    "icono": "https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-4f08-622f-8b62-620eaa5e9c74/raw",
+    "integrantes": ["Juan Vargas", "Cristian Vega", "Daniela Parra"],
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/file/d/17Zm-rzwxINWMV-SegCQ-YnjBBtL_YFH4/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Sudoku Mobile",
+    "descripcion": "Juego de Sudoku 9x9 para móviles, con teclado numérico en pantalla.",
+    "icono": "https://www.flaticon.es/icono-gratis/juego_10595686",
+    "integrantes": ["Jose Grass", "Elmer Cabrera", "Alejandro Rubio"],
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/file/d/1mPe4jiAUu-swfvNxg0mZ-Kamwg8mUmvs/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Memoria Emoji",
+    "descripcion": "Juego de memoria con emojis, para encontrar pares idénticos.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/8048/8048319.png",
+    "integrantes": ["Felipe Rivera", "Duban Salguero", "Juan Herrera"],
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/file/d/11nnixiF1UtcPS1umGfa7NcD3vRSijpaO/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Color Memory",
+    "descripcion": "Juego de secuencia de colores que el jugador debe repetir correctamente.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1138/1138727.png",
+    "integrantes": ["María Paula Almario", "Maicol López", "Karen Borda"],
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/file/d/1IXn9NoE-ERuSXvQNI3cDBwFqT7x5zn_K/view?usp=drivesdk"
+  },
+  {
+    "nombreapp": "Conversor de Unidades",
+    "descripcion": "Convierte longitud, temperatura y moneda.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3310/3310608.png",
+    "integrantes": ["María Paula Almario", "Maicol López"],
+    "actividad": "Capacitor y Expo",
+    "url": "https://drive.google.com/file/d/11xmHmha61PSpMxw3wxq3GkdCCmu4V3QE/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Generador de excusas",
+    "descripcion": "Genera excusas para diferentes situaciones, como llegar tarde o faltar al trabajo.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/3680/3680202.png",
+    "integrantes": ["Juan Esteban Leon Padilla", "Maicol López"],
+    "actividad": "React Native",
+    "url": "https://expo.dev/accounts/jelp12/projects/Excusas/builds/411d8e77-91c3-467a-86b1-12819779473c"
+  },
+  {
+    "nombreapp": "MOTOS",
+    "descripcion": "Muestra motocicletas según marca, modelo y año.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/705/705637.png",
+    "integrantes": ["Juan Fernando Caicedo", "Oscar Julian Villamarin", "John Anderson Yate"],
+    "actividad": "Android Studio",
+    "url": "https://github.com/Julianv2903/motos-kawa"
+  },
+  {
+    "nombreapp": "BuscaMinas",
+    "descripcion": "Versión de buscaminas donde debes evitar las minas y descubrir todas las casillas seguras.",
+    "icono": "https://play-lh.googleusercontent.com/eX5S3Tv3eSO1aWDMQ7MGRO1AaZM-mF0EvRbNsUM887kJVHj0aKv4GnDNj6ds_qvhpak",
+    "integrantes": ["YONHEY BONILLA", "FELIPE PIRAGAUTA", "ANDREY FAJARDO"],
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/file/d/1hmw5SUqdjMZ9OcZTZCiiaY0kEIppcBL3/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Juego dados",
+    "descripcion": "Lanza dados de forma aleatoria y visualiza el resultado.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/9003/9003230.png",
+    "integrantes": ["Juan Buitrago", "Juan Chaparro", "Juan Quintero"],
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/file/d/1xv0-_ALlIMtrz4GjYEL2zHauUddf6tsu/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Stopwatch",
+    "descripcion": "Cronómetro para configurar alarmas por tiempo.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2982/2982765.png",
+    "integrantes": ["Carlos Eduardo Cruz", "Cristian Rojas"],
+    "actividad": "Android Studio",
+    "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },
+  {
+    "nombreapp": "Color Game",
+    "descripcion": "Juego donde debes seleccionar el color correcto según la instrucción.",
+    "icono": "",
+    "integrantes": ["Karen Borda", "Juan Caicedo"],
+    "actividad": "App React 1",
+    "url": "https://github.com/karen111-star/ColorGame"
+  },
+  {
+    "nombreapp": "Calculadora de Promedios",
+    "descripcion": "Calcula promedios por materia y semestre. Permite definir cortes y notas requeridas.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/5345/5345743.png",
+    "integrantes": ["Jose Grass", "Alejandro Rubio"],
+    "actividad": "React y React Native",
+    "url": "https://drive.google.com/file/d/1bQ56gAVSWv23l4TJr5Xu6EmjEmvI-p7U/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Contador",
+    "descripcion": "Aplicación que permite sumar o restar números. (No calculadora)",
+    "icono": "https://www.flaticon.es/icono-gratis/contabilidad_6712929",
+    "integrantes": ["Angie Rincon", "Juan Herrera"],
+    "actividad": "Capacitor y Expo",
+    "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Ahorcado",
+    "descripcion": "Ejercita tu mente con palabras ocultas relacionadas con IA y programación.",
+    "icono": "https://www.freepik.es/vector-premium/ilustracion-linea-suicidio_153599670",
+    "integrantes": ["Elmer Cabrera", "Nicolas Alarcon"],
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/drive/folders/1gBc2S9mZrEx_uOJl9U6iiXK-bm3AroZP?usp=drive_link"
+  },
+  {
+    "nombreapp": "Trivia General",
+    "descripcion": "Aplicación de 15 preguntas de cultura general.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3273/3273599.png",
+    "integrantes": ["Wilson Carmona"],
+    "actividad": "Apk React no Native",
+    "url": "https://drive.google.com/file/d/1wVZ9_Zp5VdUHxVsBhhjasfwFCf4b3N-E/view?usp=sharing"
+  },
+  {
+    "nombreapp": "TodoList",
+    "descripcion": "Aplicación para gestionar tareas con fechas y hora de recordatorio.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/14991/14991730.png",
+    "integrantes": ["Carlos Eduardo Cruz", "Juan Esteban Leon"],
+    "actividad": "App React 1",
+    "url": "https://drive.google.com/file/d/14ObvT2HrKg99zicwnj3pE3HU0oh1FXR7/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "GastosMensuales",
+    "descripcion": "Gestiona gastos mensuales con base en un límite preestablecido por el usuario.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3882/3882164.png",
+    "integrantes": ["Carlos Eduardo Cruz", "Juan Manuel Chaparro"],
+    "actividad": "React Native 3",
+    "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
+  }
+]
