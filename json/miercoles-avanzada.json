@@ -278,5 +278,14 @@
     "integrantes": ["Daniela Parra"],
     "actividad": "React, expo",
     "url": "https://drive.google.com/drive/folders/1nHMvP9gpVrYG56zPxn_WaqZFp09nsPEN?usp=drive_link"
+  },
+  {
+    "nombreapp": "Brujula_Digital",
+    "descripcion": "La app tiene como función ubicar a los usuario de acuerdo a los puntos cardinales ",
+    "icono": "https://www.flaticon.es/icono-gratis/brujulas_804878?term=brujula&page=1&position=&origin=search&related_id=804878",
+    "integrantes": ["Juan Caicedo"],
+    "actividad": " react- Webview",
+    "url": "https://drive.google.com/file/d/1JXyJEppfR6hJkG2yelPGUbLuNUmg_0Tb/view?usp=drive_link"
   }
+
 ]
