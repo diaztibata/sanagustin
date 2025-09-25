@@ -110,12 +110,13 @@
   },
 
   {
-    "nombreapp": "Esto es un aprueba",
-    "descripcion": "prueba.",
-    "icono": "https://cdn-icons-png.flaticon.com/512/2982/2982765.png",
-    "integrantes": ["prueba"],
-    "actividad": "Android Studio",
-    "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
+    "nombreapp": "Figuras",
+    "descripcion": "Esta aplicación es un visualizador interactivo de figuras geométricas desarrollado en React con Vite, donde el usuario puede recorrer de forma dinámica diferentes formas (triángulo, cuadrado, pentágono, hexágono, heptágono, octágono y círculo) mediante un botón que cambia la figura en pantalla y muestra su nombre, además de personalizar su apariencia con tres colores suaves (morado claro, azul claro y rosa), ofreciendo una experiencia sencilla, educativa y visualmente atractiva.",
+    "icono": "   https://cdn-icons-png.flaticon.com/512/5090/5090472.png ",
+    "integrantes": ["Santiago Castellanos", "Angie Rincon"],
+    "actividad": "React, Netlify",
+    "url": "https://drive.google.com/file/d/1vhpgnb6M4fxBHxdKsSPUKBlI5tS4W2Ot/view?usp=sharing"
+
   },
   {
     "nombreapp": "Esto es un aprueba 2",
