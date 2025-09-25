@@ -23,8 +23,14 @@
         "actividad": "React + Capacitor",
         "url": "https://drive.google.com/drive/folders/1V5zlSFmWkGA5PxSZKk3YyBbXzfaJbZdR?usp=drive_link"
     },
-
-
+    {
+        "nombreapp": "Buscador de Música",
+        "descripción": "Aplicación web desarrollada con React y Vite que permite buscar canciones y artistas en la API pública de iTunes. El usuario puede escuchar un preview de 30 segundos, ver la portada del álbum, el nombre de la canción y el artista, todo en una interfaz sencilla y responsive.",
+        "icono": "https://cdn-icons-png.flaticon.com/128/1014/1014333.png",
+        "integrantes": "Johan Sebastian Torres Sotelo",
+        "actividad": "webintoapp",
+        "url": "https://drive.google.com/drive/folders/1OC2zklcMI_Dt1wnOhG8zVdY0OEM2yC__?usp=drive_link"
+    },
     {
         "nombreapp": "Juego Pong",
         "descripción": "Juego web interactivo desarrollado con HTML, CSS y JavaScript inspirado en el clásico Pong. Donde 2 jugadores controlan 2 barras cada uno para devolver una pelota que rebota en la pantalla, intentando evitar que pase su lado. Incluye un marcador de puntos, aumento progresivo de velocidad y la pelota sale instantáneamente después de que la pelota cruce el lado de alguno de los jugadores.",
