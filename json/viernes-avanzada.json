@@ -134,5 +134,13 @@
     "integrantes": ["Javier Torres", "Andres Ceballos"],
     "actividad": "React Native",
     "url": ""
+  },
+  {
+    "nombreapp": "ActividadWebView(22-02)",
+    "descripcion": "Una aplicacion conectada a una api la cual es capaz de acceder a la camara de tu telefono, tablet o computadora y tomar fotos, las cuales puedes copiar y enviar por redes sociales.",
+    "icono": "https://www.flaticon.es/icono-gratis/galeria_8775713?term=galeria&page=1&position=13&origin=search&related_id=8775713",
+    "integrantes":["Martin Ramirez"],
+    "actividad": "WebView",
+    "url":"https://magenta-cajeta-5522e1.netlify.app/"
   }
 ]
