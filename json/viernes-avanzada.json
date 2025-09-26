@@ -30,7 +30,18 @@
         "integrantes": "Martin Ramirez,Javier Torres, Daniel Steven",
         "actividad": "webintoapp",
         "url": ""
+    },
+
+    {
+        "nombreapp": "Ecotips",
+        "descripcion": "Ecotips para poder tener consiencia a la hora de reciclar, desarrollada con HTML, CSS y JavaScript,",
+        "icono": "https://www.flaticon.es/icono-gratis/planta_1892751?term=planta&page=1&position=3&origin=search&related_id=1892751",
+        "integrantes": "Nicolle Alejandra Carvajal Guzman",
+        "actividad": "webintoapp",
+        "url": "https://drive.google.com/drive/folders/17xV9uCGenTgao3Wuwkf5QMemw3HfDmjg"
     }
+
+
 
 
 
