@@ -118,5 +118,14 @@
     "integrantes": ["Carlos Eduardo Cruz", "Cristian Rojas"],
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
-  }
+  },
+
+  {
+  "nombreapp": "Geometry Dash Clone",
+  "descripcion": "Juego de plataformas rítmico tipo Geometry Dash, donde el jugador esquiva obstáculos saltando",
+  "icono": "https://cdn-icons-png.flaticon.com/512/5291/5291527.png",
+  "integrantes": ["Jose Grass"],
+  "actividad": "React+Webview",
+  "url": "https://drive.google.com/file/d/1D0kWAnoAvqZnesxob5-DWINFfrs7FuxU/view?usp=drive_link"
+}
 ]
