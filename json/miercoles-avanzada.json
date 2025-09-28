@@ -122,7 +122,7 @@
 
   {
   "nombreapp": "Geometry Dash Clone",
-  "descripcion": "Juego de plataformas rítmico tipo Geometry Dash, donde el jugador esquiva obstáculos saltando",
+  "descripcion": "Juego de plataformas rítmico tipo Geometry Dash, donde el jugador esquiva obstáculos saltando.",
   "icono": "https://cdn-icons-png.flaticon.com/512/5291/5291527.png",
   "integrantes": ["Jose Grass"],
   "actividad": "React+Webview",
