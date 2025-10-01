@@ -278,5 +278,13 @@
     "integrantes": ["Daniela Parra"],
     "actividad": "React, expo",
     "url": "https://drive.google.com/drive/folders/1nHMvP9gpVrYG56zPxn_WaqZFp09nsPEN?usp=drive_link"
+  },
+  {
+    "nombreapp": "Simon dice",
+    "descripcion": "Aplicación basada en el clasico juego de simon dice, el juego almacena las victorias y secuencias consecutivas",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1831/1831908.png",
+    "integrantes": ["Wilson Carmona"],
+    "actividad": "Apk React Native con netlify",
+    "url": "https://drive.google.com/file/d/1AXGAznpo2qrTHsPmfktI9_ZK2EEVSHPs/view?usp=sharing"
   }
 ]
