@@ -78,6 +78,14 @@
     "actividad": "React Native",
     "url": "https://expo.dev/accounts/jelp12/projects/Excusas/builds/411d8e77-91c3-467a-86b1-12819779473c"
   },
+     {
+  "nombreapp": "Carritos chocones",
+    "descripcion": "Puedes jugar a los carritos chocones, donde puedes elegir tu carrito y chocar con los demás jugadores. Muy divertido para pasar el rato con amigos y familiares.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2555/2555021.png",
+    "integrantes": ["Maria Paula Almario", "Maicol López"],
+    "actividad": "React Native con Netlify",
+    "url": "https://drive.google.com/file/d/1FTlAKwlMVPCktRNIUWixoYn0O6d_9kh7/view?usp=drive_link"
+  },
   {
     "nombreapp": "MOTOS",
     "descripcion": "Es una página que permite mostrar motocicletas según marca, modelo y opcionalmente año. Devuelve hasta 30 resultados de motos de categoría ninja.",
