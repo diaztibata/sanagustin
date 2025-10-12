@@ -216,6 +216,14 @@
     "url": "https://drive.google.com/drive/folders/1gBc2S9mZrEx_uOJl9U6iiXK-bm3AroZP?usp=drive_link"
   },
   {
+    "nombreapp": "River_Legend",
+    "descripcion": "Una app dedicada a mostrar la biodiversidad de nuestros parques naturales , y sumergirnos en el mundo de la pesca sostenible y responsabel.",
+    "icono": "https://drive.google.com/thumbnail?id=14DHS0kzCeJusxZ3mRRlcgfYK1oKhVxw9&sz=w1000",
+    "integrantes": ["Elmer Cabrera"],
+    "actividad": "Deploy_Netlify_webview",
+    "url": "https://riverl.netlify.app"
+  },
+  {
     "nombreapp": "Trivia General",
     "descripcion": "Aplicación de 15 preguntas de cultura general.",
     "icono": "https://cdn-icons-png.flaticon.com/512/3273/3273599.png",
@@ -279,4 +287,5 @@
     "actividad": "React, expo",
     "url": "https://drive.google.com/drive/folders/1nHMvP9gpVrYG56zPxn_WaqZFp09nsPEN?usp=drive_link"
   }
+  
 ]
