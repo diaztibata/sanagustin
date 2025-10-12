@@ -179,6 +179,14 @@
     "integrantes": ["Javier Torres", "Andres Ceballos"],
     "actividad": "React Native",
     "url": ""
+  },
+  {
+    "nombreapp": "PiedraPapelTijera",
+    "descripcion": "Una app que permite jugar el clasico juego de piedra, papel y tijera con un bot de forma ilimitada.",
+    "icono": "https://www.flaticon.es/icono-gratis/tijeras_4151780?term=tijera&page=1&position=33&origin=search&related_id=4151780",
+    "integrantes": ["Andres Puentes"],
+    "actividad": "Web view",
+    "url": "https://drive.google.com/drive/folders/1HzYm7-MuVHKPBat4bBi3QG6rBIBNgJpk"
   }
 ]
 
