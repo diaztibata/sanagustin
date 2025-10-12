@@ -212,8 +212,29 @@
     "actividad": "React Native",
     "url": ""
   },
-  {
+  
+{
+        "nombreapp": "Car Rush Challenge.",
+        "descripcion": "Juego móvil desarrollado en React Native con Expo. El jugador controla un carro que debe esquivar múltiples obstáculos que caen a gran velocidad en una carretera. La dificultad aumenta progresivamente con más velocidad y frecuencia de aparición de obstáculos. El control se realiza deslizando el dedo a la izquierda o derecha en la pantalla, lo que hace que la experiencia sea intuitiva y divertida.",
+        "icono": "     https://cdn-icons-png.flaticon.com/512/2555/2555021.png ",
+        "integrantes": "Daniel Steven Guerrero,Santiago Guzman",
+        "actividad": "Actividad react native",
+        "url": "https://drive.google.com/file/d/1HM9OCUWvC8zdoRAdY_t8PtuakYwSGWJ7/view?usp=drive_link"
+    },
 
+
+
+
+
+    {
+        "nombreapp": "PorkyJump.",
+        "descripcion":"Juego móvil desarrollado en React y empaquetado para APK con webview. El jugador controla a un cerdito que debe saltar obstáculos para no chocar con ellos. La dificultad aumenta progresivamente con mayor velocidad y frecuencia de obstáculos. El control se realiza tocando la pantalla para saltar, haciendo que la experiencia sea sencilla y divertida.",
+        "icono": "    https://cdn-icons-png.flaticon.com/128/11045/11045775.png ",
+        "integrantes": "Santiago Guzman",
+        "actividad": "webview",
+        "url": "https://drive.google.com/file/d/1y4j37VOmhTSF80lSRU2JgR19HEfm0aQr/view?usp=drive_link"
+    },
+{
     "nombreapp": "ActividadWebView(22-02)",
     "descripcion": "Una aplicacion conectada a una api la cual es capaz de acceder a la camara de tu telefono, tablet o computadora y tomar fotos, las cuales puedes copiar y enviar por redes sociales.",
     "icono": "https://www.flaticon.es/icono-gratis/galeria_8775713?term=galeria&page=1&position=13&origin=search&related_id=8775713",
@@ -227,6 +248,7 @@
     "integrantes": ["Andres Puentes"],
     "actividad": "Web view",
     "url": "https://drive.google.com/drive/folders/1HzYm7-MuVHKPBat4bBi3QG6rBIBNgJpk"
+
 
   }
 ]
