@@ -181,12 +181,21 @@
     "url": ""
   },
   {
+
+    "nombreapp": "ActividadWebView(22-02)",
+    "descripcion": "Una aplicacion conectada a una api la cual es capaz de acceder a la camara de tu telefono, tablet o computadora y tomar fotos, las cuales puedes copiar y enviar por redes sociales.",
+    "icono": "https://www.flaticon.es/icono-gratis/galeria_8775713?term=galeria&page=1&position=13&origin=search&related_id=8775713",
+    "integrantes":["Martin Ramirez"],
+    "actividad": "WebView",
+    "url":"https://magenta-cajeta-5522e1.netlify.app/"
+  },{
     "nombreapp": "PiedraPapelTijera",
     "descripcion": "Una app que permite jugar el clasico juego de piedra, papel y tijera con un bot de forma ilimitada.",
     "icono": "https://www.flaticon.es/icono-gratis/tijeras_4151780?term=tijera&page=1&position=33&origin=search&related_id=4151780",
     "integrantes": ["Andres Puentes"],
     "actividad": "Web view",
     "url": "https://drive.google.com/drive/folders/1HzYm7-MuVHKPBat4bBi3QG6rBIBNgJpk"
+
   }
 ]
 
