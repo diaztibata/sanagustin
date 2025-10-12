@@ -57,6 +57,14 @@
         "url": ""
     },
 
+    {
+        "nombreapp": "RopeCabeza",
+        "descripcion": "Juego interactivo e Intuitivo que te rompre la cabeza meintras la armas",
+        "icono": "https://cdn-icons-png.flaticon.com/512/228/228380.png",
+        "integrantes": "Daniel Murillo",
+        "actividad": "webintoapp",
+        "url": ""
+    },
 
     {
         "nombreapp": "Mindado",
@@ -272,4 +280,3 @@
 
   }
 ]
-
