@@ -55,6 +55,14 @@
         "integrantes": "Martin Ramirez,Javier Torres, Daniel Steven",
         "actividad": "webintoapp",
         "url": ""
+    },
+    {
+        "nombreapp": "CultiTest",
+        "descripcion": "App de test sobre cultura general, que te da estadisticas acerca de tus resultadas, esta hecho en react y desplegado en netlify",
+        "icono": "https://www.flaticon.es/icono-gratis/problema_3240831?term=adivinanza&page=1&position=7&origin=search&related_id=3240831",
+        "integrantes": "Santiago Ramirez Torres",
+        "actividad": "App Netlify",
+        "url": "https://drive.google.com/drive/folders/1vWTuSVkol-l4x4bLTz1hp8mYJM5jKuUP?usp=drive_link"
     }
 ,{
         "nombreapp": "Tankcity",
