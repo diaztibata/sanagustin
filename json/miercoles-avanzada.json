@@ -327,6 +327,14 @@
     "actividad": "Deploy",
     "url": "juegopiedrapapel.netlify.app"
 
+  },
+  {
+    "nombreapp": "BeatBox",
+    "descripcion": "BeatBox es una aplicación interactiva desarrollada en React que permite al usuario generar sonidos musicales al presionar diferentes botones.",
+    "icono": "https://mangoanimate.com/blog/wp-content/uploads/2023/12/Interactive-Slides-Body-Language.png.webp",
+    "integrantes": ["Felipe Rivera", "Duban Salguero"],
+    "actividad": "webviews",
+    "url": "https://cdn-icons-png.flaticon.com/512/709/709559.png"
   }
 
 ]
