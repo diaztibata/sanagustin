@@ -261,6 +261,14 @@
     "integrantes": ["Carlos Eduardo Cruz", "Juan Manuel Chaparro"],
     "actividad": "React Native 3",
     "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
+
+  },{
+    "nombreapp": "Puzzle",
+    "descripcion": "Es un juego de puzzle donde tu puedes elegir una imagen y dividirla en varias piezas para vovler a unirlas",
+    "icono": "https://cdn-icons-png.flaticon.com/512/10350/10350171.png",
+    "integrantes": ["Carlos Eduardo Cruz"],
+    "actividad": "Hacer deploy - avanzadas",
+    "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
   },
   {
     "nombreapp": "sabes",
