@@ -161,6 +161,13 @@
   },
   {
 
+    "nombreapp": "Figuras",
+    "descripcion": "Esta aplicación es un visualizador interactivo de figuras geométricas desarrollado en React con Vite, donde el usuario puede recorrer de forma dinámica diferentes formas (triángulo, cuadrado, pentágono, hexágono, heptágono, octágono y círculo) mediante un botón que cambia la figura en pantalla y muestra su nombre, además de personalizar su apariencia con tres colores suaves (morado claro, azul claro y rosa), ofreciendo una experiencia sencilla, educativa y visualmente atractiva.",
+    "icono": "   https://cdn-icons-png.flaticon.com/512/5090/5090472.png ",
+    "integrantes": ["Santiago Castellanos", "Angie Rincon"],
+    "actividad": "React, Netlify",
+    "url": "https://drive.google.com/file/d/1vhpgnb6M4fxBHxdKsSPUKBlI5tS4W2Ot/view?usp=sharing"
+  },{
     "nombreapp": "Cuello de botella",
     "descripcion": "Aplicacion que calcula el cuello de botella que tiene un procesador y una tarjeta grafica",
     "icono": "https://www.flaticon.es/icono-gratis/botella-de-vino_45637?term=botella&page=1&position=5&origin=search&related_id=45637",
@@ -213,6 +220,7 @@
     "integrantes": ["Angie Rincon", "Juan Herrera"],
     "actividad": "Capacitor y Expo",
     "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
+
   },
   {
     "nombreapp": "Ahorcado",
