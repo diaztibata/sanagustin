@@ -160,6 +160,13 @@
     "url": "https://eduardocr91.github.io/Stopwatch2/"
   },
   {
+
+    "nombreapp": "Cuello de botella",
+    "descripcion": "Aplicacion que calcula el cuello de botella que tiene un procesador y una tarjeta grafica",
+    "icono": "https://www.flaticon.es/icono-gratis/botella-de-vino_45637?term=botella&page=1&position=5&origin=search&related_id=45637",
+    "integrantes": "Juan Leon ",
+    "actividad": "Android Studio",
+  },{
     "nombreapp": "memoria-y-bienestar",
     "descripcion": "App para guardar citas médicas o recordatorios de medicamentos.",
     "icono": "https://cdn-icons-png.flaticon.com/512/1510/1510738.png",
