@@ -4,7 +4,7 @@
         "nombreapp": "AnimeApp",
         "descripción": "Anime App es una aplicación móvil diseñada para que los aficionados al anime descubran, busquen y sigan sus series favoritas. Ofrece una interfaz de usuario limpia y moderna, permitiendo a los usuarios navegar por los títulos más populares y los lanzamientos de temporada. La aplicación proporciona información clave sobre cada anime, incluyendo calificaciones, resúmenes y títulos. Su potente buscador y la organización por categorías (Inició, Populares, Temporada) la convierten en una herramienta esencial para mantenerse al día con el mundo del anime.",
         "icono": "",
-        "integrantes": "Johan Sebastian Torres",
+  "integrantes": ["Johan Sebastian Torres"],
         "actividad": "Webintoapp",
         "url": "https://drive.google.com/file/d/1ppu9Lvfhp1CLe2wRqVzO2RPZsTzwKNOw/view?usp=drive_link"
     },
@@ -28,7 +28,7 @@
         "nombreapp": "Buscador de Música",
         "descripción": "Aplicación web desarrollada con React y Vite que permite buscar canciones y artistas en la API pública de iTunes. El usuario puede escuchar un preview de 30 segundos, ver la portada del álbum, el nombre de la canción y el artista, todo en una interfaz sencilla y responsive.",
         "icono": "https://cdn-icons-png.flaticon.com/128/1014/1014333.png",
-        "integrantes": "Johan Sebastian Torres Sotelo",
+  "integrantes": ["Johan Sebastian Torres Sotelo"],
         "actividad": "webintoapp",
         "url": "https://drive.google.com/drive/folders/1OC2zklcMI_Dt1wnOhG8zVdY0OEM2yC__?usp=drive_link"
     },
@@ -36,7 +36,7 @@
         "nombreapp": "Juego Pong",
         "descripción": "Juego web interactivo desarrollado con HTML, CSS y JavaScript inspirado en el clásico Pong. Donde 2 jugadores controlan 2 barras cada uno para devolver una pelota que rebota en la pantalla, intentando evitar que pase su lado. Incluye un marcador de puntos, aumento progresivo de velocidad y la pelota sale instantáneamente después de que la pelota cruce el lado de alguno de los jugadores.",
         "icono": "Icono pong.jpg",
-        "integrantes": "Andres Ceballos, Santiago Guzman, Ruben Gonzalez",
+  "integrantes": ["Andres Ceballos", "Santiago Guzman", "Ruben Gonzalez"],
         "actividad": "Webintoapp",
         "url": "https://drive.google.com/drive/u/1/folders/1nLhUiUUXFWdMKfqJvl1t-SXhG8xJffvx"
     },
@@ -44,7 +44,7 @@
         "nombreapp": "Calculadora química de gases reales",
         "descripción": "Calculadora química virtual desarrollada con HTML, CSS y JavaScript, responsive al cambio de tamaño de la aplicación que tiene como objetivo ayudar a las personas a determinar el volumen y el factor de compresibilidad de un gas real, usando la ecuación virial.",
         "icono": "https://www.flaticon.es/icono-gratis/quimica_1157001?term=laboratorio&page=1&position=44&origin=search&related_id=1157001",
-        "integrantes": "Julian Maldonado, Santiago, Juan Pablo Castañeda",
+  "integrantes": ["Julian Maldonado", "Santiago", "Juan Pablo Castañeda"],
         "actividad": "webintoapp",
         "url": ""
     },
@@ -52,7 +52,7 @@
         "nombreapp": "Prueba de Reacción",
         "descripcion": "Juego web interactivo desarrollado con HTML, CSS y JavaScript en el que el jugador mide su tiempo de reacción tocando la pantalla cuando cambia a verde. Incluye registro de mejores tiempos, promedio, historial de rondas, vibración al iniciar y al ganar, y compatibilidad con dispositivos móviles. El objetivo es lograr el menor tiempo posible y compartir el récord.",
         "icono": "https://www.flaticon.es/icono-gratis/destello_252590?term=rayo&page=1&position=39&origin=search&related_id=252590",
-        "integrantes": "Martin Ramirez,Javier Torres, Daniel Steven",
+  "integrantes": ["Martin Ramirez", "Javier Torres", "Daniel Steven"],
         "actividad": "webintoapp",
         "url": ""
     },
@@ -61,7 +61,7 @@
         "nombreapp": "RopeCabeza",
         "descripcion": "Juego interactivo e Intuitivo que te rompre la cabeza meintras la armas",
         "icono": "https://cdn-icons-png.flaticon.com/512/228/228380.png",
-        "integrantes": "Daniel Murillo",
+  "integrantes": ["Daniel Murillo"],
         "actividad": "webintoapp",
         "url": ""
     },
@@ -70,7 +70,7 @@
         "nombreapp": "Mindado",
         "descripcion": "Juego web interactivo desarrollado con HTML, CSS y JavaScript en el que el jugador mide su suerte calculando cual es el mayor puntaje al lanzar el dado puntuación que se visauiza en la interfa del usuario.",
         "icono": "https://www.flaticon.es/icono-gratis/destello_252590?term=rayo&page=1&position=39&origin=search&related_id=252590",
-        "integrantes": "Carlos Fernando Riaño Bedoya y Jose Alejandro",
+  "integrantes": ["Carlos Fernando Riaño Bedoya", "Jose Alejandro"],
         "actividad": "webintoapp",
         "url": ""
 
@@ -81,7 +81,7 @@
       "nombreapp": "StyleColor",
       "descripcion": "Juego web interactivo  en el que el jugador evalúa su estado de ánimo mediante colores y dinámicas visuales que se muestran en la interfaz del usuario.",
       "icono": "https://www.flaticon.es/icono-gratis/paleta-de-colores_18099441?term=colors&page=2&position=49&origin=search&related_id=18099441",
-      "integrantes": "Carlos Fernando Riaño Bedoya",
+  "integrantes": ["Carlos Fernando Riaño Bedoya"],
       "actividad": "Webview with Netlify",
       "url": "https://drive.google.com/drive/u/2/folders/1d92b7swp9X6BmC07_NjW9q1yzuKLySLq"
      },
@@ -89,7 +89,7 @@
         "nombreapp": "CultiTest",
         "descripcion": "App de test sobre cultura general, que te da estadisticas acerca de tus resultadas, esta hecho en react y desplegado en netlify",
         "icono": "https://www.flaticon.es/icono-gratis/problema_3240831?term=adivinanza&page=1&position=7&origin=search&related_id=3240831",
-        "integrantes": "Santiago Ramirez Torres",
+  "integrantes": ["Santiago Ramirez Torres"],
         "actividad": "App Netlify",
         "url": "https://drive.google.com/drive/folders/1vWTuSVkol-l4x4bLTz1hp8mYJM5jKuUP?usp=drive_link"
     }
@@ -97,7 +97,7 @@
         "nombreapp": "Tankcity",
         "descripcion": "JuegoUna app basada en el juego Battle City (nes) donde el jugador mueve un tanque por laberintos de obstáculos y destruye tanques enemigos, en una version muy compacta, disponible para cualquier telefono.",
         "icono": "https://drive.google.com/file/d/1AUzVtuSDJeVBmKvaCS98PyH_iA-63AdC/view?usp=sharing",
-        "integrantes": "Ruben Gonzalez Grajales.",
+  "integrantes": ["Ruben Gonzalez Grajales"],
         "actividad": "aplicacion original",
         "url": "https://drive.google.com/file/d/13_ZNju58_V0fnYuAn-iqBdpn15OQBhDD/view?usp=sharing"
 
@@ -245,7 +245,7 @@
         "nombreapp": "Car Rush Challenge.",
         "descripcion": "Juego móvil desarrollado en React Native con Expo. El jugador controla un carro que debe esquivar múltiples obstáculos que caen a gran velocidad en una carretera. La dificultad aumenta progresivamente con más velocidad y frecuencia de aparición de obstáculos. El control se realiza deslizando el dedo a la izquierda o derecha en la pantalla, lo que hace que la experiencia sea intuitiva y divertida.",
         "icono": "     https://cdn-icons-png.flaticon.com/512/2555/2555021.png ",
-        "integrantes": "Daniel Steven Guerrero,Santiago Guzman",
+  "integrantes": ["Daniel Steven Guerrero", "Santiago Guzman"],
         "actividad": "Actividad react native",
         "url": "https://drive.google.com/file/d/1HM9OCUWvC8zdoRAdY_t8PtuakYwSGWJ7/view?usp=drive_link"
     },
@@ -258,7 +258,7 @@
         "nombreapp": "PorkyJump.",
         "descripcion":"Juego móvil desarrollado en React y empaquetado para APK con webview. El jugador controla a un cerdito que debe saltar obstáculos para no chocar con ellos. La dificultad aumenta progresivamente con mayor velocidad y frecuencia de obstáculos. El control se realiza tocando la pantalla para saltar, haciendo que la experiencia sea sencilla y divertida.",
         "icono": "    https://cdn-icons-png.flaticon.com/128/11045/11045775.png ",
-        "integrantes": "Santiago Guzman",
+  "integrantes": ["Santiago Guzman"],
         "actividad": "webview",
         "url": "https://drive.google.com/file/d/1y4j37VOmhTSF80lSRU2JgR19HEfm0aQr/view?usp=drive_link"
     },
