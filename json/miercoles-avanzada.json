@@ -246,6 +246,14 @@
     "url": "https://riverl.netlify.app"
   },
   {
+    "nombreapp": "SurAmerica Viva",
+    "descripcion": "Explora Suramérica es una ventana digital hacia la magia, cultura y naturaleza incomparable de América del Sur. Desde las playas paradisíacas de Brasil hasta los glaciares patagónicos, desde el café colombiano hasta el tango argentino, esta app te sumerge en la riqueza de un continente que lo tiene todo.",
+    "icono": "https://drive.google.com/file/d/143VEl5gVrdZSfxEBgNejAwxhviU4HBDy/preview",
+    "integrantes": ["Elmer Cabrera cortez"],
+    "actividad": "Deploy_Netlify_Api_restcountries",
+    "url": "https://destinosuramerica.netlify.app"
+  },
+  {
     "nombreapp": "Trivia General",
     "descripcion": "Aplicación de 15 preguntas de cultura general.",
     "icono": "https://cdn-icons-png.flaticon.com/512/3273/3273599.png",
