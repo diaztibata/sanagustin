@@ -165,8 +165,9 @@
     "descripcion": "Aplicacion que calcula el cuello de botella que tiene un procesador y una tarjeta grafica",
     "icono": "https://www.flaticon.es/icono-gratis/botella-de-vino_45637?term=botella&page=1&position=5&origin=search&related_id=45637",
     "integrantes": "Juan Leon ",
-    "actividad": "Android Studio",
-  },{
+    "actividad": "Android Studio"
+  },
+  {
     "nombreapp": "memoria-y-bienestar",
     "descripcion": "App para guardar citas médicas o recordatorios de medicamentos.",
     "icono": "https://cdn-icons-png.flaticon.com/512/1510/1510738.png",
@@ -319,6 +320,14 @@
     "actividad": "Deploy",
     "url": "juegopiedrapapel.netlify.app"
 
+  },
+    {
+    "nombreapp": "Anime",
+  "descripcion": "Esta aplicaion muestra animes gracias a el enlace a la api myanimelist",
+    "icono": "https://cdn-icons-png.flaticon.com/512/17734/17734796.png",
+    "integrantes": "Juan Leon",
+    "actividad": "Android Studio",
+    "url": "https://github.com/Jelp13/Tarea-tibata"
   }
 
 ]
