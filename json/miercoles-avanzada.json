@@ -93,5 +93,13 @@
     "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },
+    {
+    "nombreapp": "Spacex",
+    "descripcion": "Aplicación desarrollada con tecnologías web modernas que consume la API de SpaceX para visualizar datos actualizados sobre sus misiones espaciales.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/9961/9961510.png",
+    "integrantes": "Nicolas Alarcón",
+    "actividad": "Android Studio",
+    "url": "https://github.com/Nicolas-alark/SpaceX"
   }
 ]
