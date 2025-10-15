@@ -66,6 +66,30 @@
         "integrantes": "Santiago Guzman",
         "actividad": "webview",
         "url": "https://drive.google.com/file/d/1y4j37VOmhTSF80lSRU2JgR19HEfm0aQr/view?usp=drive_link"
+    },
+
+
+
+
+
+     {
+        "nombreapp": "ApiGutendex",
+        "descripcion":"Aplicacion la cual muestra informacion sobre diversos libros y autores ademas un juego de memoria donde aparecen las caratulas de los diversos libros",
+        "icono": "      https://cdn-icons-png.flaticon.com/512/8602/8602729.png  ",
+        "integrantes": "Santiago Guzman",
+        "actividad": "API individual",
+        "url": "https://drive.google.com/file/d/1QRD3G1tjF3E6BGNZXlF4SjCtgZFv_JTz/view?usp=drive_link"
+    },
+
+
+
+       {
+        "nombreapp": "Colombia",
+        "descripcion":"Aplicacion la cual muestra informacion sobre diversos departamentos y capitales de colombia permite visualizar detalles,porcentajes y otros datos relevantes de cada region del pais",
+        "icono": "         https://cdn-icons-png.flaticon.com/512/203/203041.png  ",
+        "integrantes": "Santiago Guzman",
+        "actividad": "API trabajo en clase colombia",
+        "url": "https://drive.google.com/file/d/1PoDWpEyaA66ftWZsTV9IBMvUNtjaKuVL/view?usp=drive_link"
     }
 
 
