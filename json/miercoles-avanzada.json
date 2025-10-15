@@ -327,6 +327,13 @@
     "actividad": "Deploy",
     "url": "juegopiedrapapel.netlify.app"
 
+  },{
+    "nombreapp": "Api-Digimon",
+    "descripcion": "Webview donde podras contrar todos los gidimon con su clasificacion y caracteristicas",
+    "icono": "https://i.pinimg.com/474x/0e/e0/b6/0ee0b6350b8ccfd2d31014ad3768a19d.jpg",
+    "integrantes": ["Carlos Eduardo Cruz"],
+    "actividad": "API individual",
+    "url": "https://drive.google.com/file/d/1cdAq97RGDJ_27slO-3_GCuWx3aYd5Ed3/view?usp=drive_link"
   }
 
 ]
