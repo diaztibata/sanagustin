@@ -67,11 +67,6 @@
         "actividad": "webview",
         "url": "https://drive.google.com/file/d/1y4j37VOmhTSF80lSRU2JgR19HEfm0aQr/view?usp=drive_link"
     },
-
-
-
-
-
      {
         "nombreapp": "ApiGutendex",
         "descripcion":"Aplicacion la cual muestra informacion sobre diversos libros y autores ademas un juego de memoria donde aparecen las caratulas de los diversos libros",
@@ -91,6 +86,11 @@
         "actividad": "API trabajo en clase colombia",
         "url": "https://drive.google.com/file/d/1PoDWpEyaA66ftWZsTV9IBMvUNtjaKuVL/view?usp=drive_link"
     }
+
+
+
+
+    
 
 
 ]
