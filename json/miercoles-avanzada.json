@@ -350,6 +350,14 @@
     "actividad": "React Native con Netlify",
      "URL": "https://github.com/karen111-star/mobiles2025ii"
     
+  },
+  {
+    "nombreapp": "Universidades-api",
+    "descripcion": "una aplicacion en la cual puedes mirar los diferentes tipos de universidades de colombia y argentiana con sus paginas web directos .",
+    "integrantes": ["Karen Borda"],
+    "actividad": "API",
+     "URL": "https://github.com/karen111-star/api-uni"
+    
   }
 
 
