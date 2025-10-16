@@ -347,10 +347,8 @@
     "nombreapp": "Cultura_general",
     "descripcion": "Es una aplicacion que da preguntas aleatorias de cultura general y permite al usuario interactuar y aprender.",
     "icono": "https://img.freepik.com/foto-gratis/vista-superior-cadena-origami-personas-globo_23-2148621071.jpg?ga=GA1.1.1631010449.1760571785&semt=ais_hybrid&w=740&q=80",
-    "integrantes": ["Paula Parra",],
+    "integrantes": ["Paula Parra"],
     "actividad": "webviews",
     "url": "https://drive.google.com/drive/folders/1DycCKmQRmxr6r2_mWpAxd1oCZftiOAgG?usp=drive_link"
   }
-  
-
 ]
