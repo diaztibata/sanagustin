@@ -342,6 +342,14 @@
     "integrantes": ["Felipe Rivera", "Duban Salguero"],
     "actividad": "webviews",
     "url": "https://cdn-icons-png.flaticon.com/512/709/709559.png"
+  },
+    {
+    "nombreapp": "Apifake",
+    "descripcion": "Es una api que trae productos aleatorios que contienen una clasificacion, se hace uso aproximado de 20 productos, la aplicacion cuenta de un menu interactivo donde el usuario puede descubrir ofertas, precios...",
+    "icono": "https://cdn-icons-png.flaticon.com/128/10753/10753489.png",
+    "integrantes": ["Juan Vargas"],
+    "actividad": "Api",
+    "url": "https://drive.google.com/drive/folders/1C6oKDqtRJZJgCemPeH1QcIiat7ls0GLH?usp=drive_link"
   }
 
 ]
