@@ -30,6 +30,22 @@
         "integrantes": "Martin Ramirez,Javier Torres, Daniel Steven",
         "actividad": "webintoapp",
         "url": ""
+    },
+    {
+        "nombreapp": "PlatziStore",
+        "descripcion": "Es una app diseñada con la api de platzi sobre veta y visualizacion de productos",
+        "icono": "https://www.flaticon.es/icono-gratis/letra-p_8142724?term=p&page=1&position=30&origin=search&related_id=8142724",
+        "integrantes": "Carlos Fernando Riaño Bedoya",
+        "actividad": "API-PROPIA",
+        "url": ""
+    },
+    {
+        "nombreapp": "Colombia",
+        "descripcion": "App que muestra los departamentos y capitales sobre las elecciones",
+        "icono": "https://www.flaticon.es/icono-gratis/destello_252590?term=rayo&page=1&position=39&origin=search&related_id=252590",
+        "integrantes": "Carlos Fernando Riaño Bedoya",
+        "actividad": "Colombia",
+        "url": ""
     }
 
 
