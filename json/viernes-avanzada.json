@@ -7,6 +7,14 @@
         "actividad": "Webintoapp",
         "url": "https://drive.google.com/file/d/1ppu9Lvfhp1CLe2wRqVzO2RPZsTzwKNOw/view?usp=drive_link"
     },
+        {
+        "nombreapp": "ApiUniversity",
+        "descripción": "ApiUniversity es una aplicación móvil desarrollada en Colombia que busca facilitar el acceso a información académica y de aprendizaje digital. Su objetivo es ofrecer a los estudiantes y docentes una plataforma moderna donde puedan consultar recursos, materiales y herramientas relacionadas con la educación universitaria. Con una interfaz limpia y sencilla, ApiUniversity permite navegar entre secciones como Inicio, Populares y Recientes, brindando una experiencia intuitiva y adaptada al entorno educativo colombiano. Es una aplicación ideal para quienes desean mantenerse conectados con el mundo académico de manera ágil y actualizada",
+        "icono": "   https://cdn-icons-png.flaticon.com/512/3976/3976625.png ",
+        "integrantes": "[Johan Sebastian Torres]",
+        "actividad": "Webview android studio",
+        "url": "https://drive.google.com/file/d/1VM8sobjkQ3FwXHj4hIChg5oqWyq0cuym/view?usp=drive_link"
+    },
     {
         "nombreapp": "Juego Pong",
         "descripción": "Juego web interactivo desarrollado con HTML, CSS y JavaScript inspirado en el clásico Pong. Donde 2 jugadores controlan 2 barras cada uno para devolver una pelota que rebota en la pantalla, intentando evitar que pase su lado. Incluye un marcador de puntos, aumento progresivo de velocidad y la pelota sale instantáneamente después de que la pelota cruce el lado de alguno de los jugadores.",
