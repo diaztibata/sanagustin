@@ -30,27 +30,6 @@
         "integrantes": "Martin Ramirez,Javier Torres, Daniel Steven",
         "actividad": "webintoapp",
         "url": ""
-    },
-
-    {
-        "nombreapp": "Mindado",
-        "descripcion": "Juego web interactivo desarrollado con HTML, CSS y JavaScript en el que el jugador mide su suerte calculando cual es el mayor puntaje al lanzar el dado puntuación que se visauiza en la interfa del usuario.",
-        "icono": "https://www.flaticon.es/icono-gratis/destello_252590?term=rayo&page=1&position=39&origin=search&related_id=252590",
-        "integrantes": "Carlos Fernando Riaño Bedoya y Jose Alejandro",
-        "actividad": "webintoapp",
-        "url": ""
-
-    },
-
-     {  
-     
-      "nombreapp": "StyleColor",
-      "descripcion": "Juego web interactivo  en el que el jugador evalúa su estado de ánimo mediante colores y dinámicas visuales que se muestran en la interfaz del usuario.",
-      "icono": "https://www.flaticon.es/icono-gratis/paleta-de-colores_18099441?term=colors&page=2&position=49&origin=search&related_id=18099441",
-      "integrantes": "Carlos Fernando Riaño Bedoya",
-      "actividad": "Webview with Netlify",
-      "url": "https://drive.google.com/drive/u/2/folders/1d92b7swp9X6BmC07_NjW9q1yzuKLySLq"
-
     }
 
 
