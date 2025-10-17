@@ -30,6 +30,14 @@
         "integrantes": "Martin Ramirez,Javier Torres, Daniel Steven",
         "actividad": "webintoapp",
         "url": ""
+    },
+    {
+        "nombreapp": "Paises",
+        "descripcion": "Aplicacion de informacion de los paises, con un juego incorporado de adivinar la bandera",
+        "icono": "https://images.vexels.com/media/users/3/157673/isolated/preview/0a5b883af4c94ae12330075f427c073f-icono-de-mapa-del-mundo.png",
+        "integrantes": "Daniel Guerrero",
+        "actividad": "webintoapp",
+        "url": "https://drive.google.com/file/d/1_XfDNdL5OaGF2OMuqgpCvDt_zs-lfqz9/view?usp=drive_link"
     }
 
 
