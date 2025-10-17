@@ -278,5 +278,14 @@
     "url": "https://drive.google.com/drive/folders/1HzYm7-MuVHKPBat4bBi3QG6rBIBNgJpk"
 
 
+  },{
+    "nombreapp": "Cirpto",
+    "descripcion": "APP donde puedesw verificar el mercado de monedas",
+    "icono": "https://cdn-icons-png.flaticon.com/512/13453/13453099.png ",
+    "integrantes": ["Daniel Murillo"],
+    "actividad": "Web view",
+    "url": "https://drive.google.com/file/d/1d0tDEZxBNivAlM5LuMkekicNnrVcWHg8/view?usp=drive_link"
+
+
   }
 ]
