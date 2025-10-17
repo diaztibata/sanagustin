@@ -278,5 +278,13 @@
     "url": "https://drive.google.com/drive/folders/1HzYm7-MuVHKPBat4bBi3QG6rBIBNgJpk"
 
 
-  }
+  },
+  {
+        "nombreapp": "ChuckNorris",
+        "descripción": "Aplicación movil donde se encuentran los chistes que ha dicho Chuck Norris",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/8/8f/Chuck_Norris_Karate_Kommandos_DVD.jpg/revision/latest?cb=20211007124248&path-prefix=es",
+  "integrantes": ["Andrés Felipe Pedroza Beltrán"],
+        "actividad": "Api Individual",
+        "url": "https://drive.google.com/drive/u/1/folders/1ad1GW78Iurd-zku5jDU2flTl8biVAhUw"
+    }
 ]
