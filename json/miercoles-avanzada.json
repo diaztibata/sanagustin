@@ -7,6 +7,14 @@
     "actividad": "Android Studio",
     "url": "https://katherin2024.github.io/AdivinarApk/"
   },
+    {
+    "nombreapp": "ApiPoema",
+    "descripcion": "Esta es una API creada para inspiracion y buscar un poema de tu gusto",
+    "icono": "https://cdn-icons-png.flaticon.com/128/10389/10389721.png",
+    "integrantes": "Katherin Aviles",
+    "actividad": "React Vite",
+    "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
+  },
   {
     "nombreapp": "Crushed controller",
     "descripcion": "Es un juego interactivo que usa imágenes para su funcionamiento, consiste en juntar tres imágenes del mismo para así juntar puntos en un tablero hasta llegar a 5000, desarrollado con HTML, CSS, y JavaScript, su principal funcionamiento es en móviles, usando Android Studio para que sea una app.",
