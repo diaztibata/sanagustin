@@ -39,10 +39,7 @@
     "integrantes": ["Juan Pablo Castañeda. Nicolle Alejandra Carvajal Guzmán"],
     "actividad": "React Native 3",
     "url": "https://drive.google.com/drive/folders/1pBiP6ZorKrdZoCg8GePVWLb_SJucr3CP"
-    }
-
-]
-
+    },
   {
     "nombreapp": "AnimeApp",
     "descripcion": "Anime App es una aplicación móvil diseñada para que los aficionados al anime descubran, busquen y sigan sus series favoritas. Ofrece una interfaz de usuario limpia y moderna, permitiendo a los usuarios navegar por los títulos más populares y los lanzamientos de temporada. La aplicación proporciona información clave sobre cada anime, incluyendo calificaciones, resúmenes y títulos. Su potente buscador y la organización por categorías (Inicio, Populares, Temporada) la convierten en una herramienta esencial para mantenerse al día con el mundo del anime.",
@@ -132,3 +129,4 @@
     "url": "https://drive.google.com/file/d/1NwsIFx62Sxm5CgTP-mtc4qHoKt1fPYqg/view?usp=drive_link"
   }
 
+]
