@@ -97,7 +97,7 @@
     "url": "https://drive.google.com/file/d/1NVZgPx-sxjSBNpA-Mk60IOhYZJ8mtUdE/view?usp=drive_link"
   },
   {
-    "nombreapp": "Dulceria-Sweethub",
+    "nombreapp": "Dulceria-Sweethub!",
     "descripcion": "Aplicación web de una tienda de dulces desarrollada con React y CSS. Los usuarios pueden explorar un catálogo de golosinas, filtrar por categorías, ordenar por precio o nombre, buscar productos y añadirlos a su carrito. La experiencia está optimizada para móviles y escritorio, ofreciendo una interfaz colorida, intuitiva y divertida.",
     "icono": "https://cdn-icons-png.flaticon.com/512/1359/1359326.png",
     "integrantes": ["Juan Pablo Castañeda", "Santiago Guzman"],
