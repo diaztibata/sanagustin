@@ -316,5 +316,13 @@
     "url": "https://drive.google.com/file/d/1d0tDEZxBNivAlM5LuMkekicNnrVcWHg8/view?usp=drive_link"
 
 
+  },
+{
+    "nombreapp": "GameOfThronesApi",
+    "descripcion": "Una aplicacion conectada a una api donde podras ver todo lo relacionado a la conocida serie de juego de tronos (personajes, casas, apodos y muchos mas).",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1840/1840708.png",
+    "integrantes":["Andres Puentes"],
+    "actividad": "IndividualApi",
+    "url":"https://drive.google.com/drive/u/4/folders/1U7ygWFRsyh7Z03eWmAaY7vqK2lHKjG_w"
   }
 ]
