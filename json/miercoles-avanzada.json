@@ -175,6 +175,24 @@
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
   },
+
+
+  {
+  "nombreapp": "Geometry Dash Clone",
+  "descripcion": "Juego de plataformas rítmico tipo Geometry Dash, donde el jugador esquiva obstáculos saltando.",
+  "icono": "https://cdn-icons-png.flaticon.com/512/5291/5291527.png",
+  "integrantes": ["Jose Grass"],
+  "actividad": "React+Webview",
+  "url": "https://drive.google.com/file/d/1D0kWAnoAvqZnesxob5-DWINFfrs7FuxU/view?usp=drive_link"
+},
+{
+  "nombreapp": "Api Disney",
+  "descripcion": "Api Disney",
+  "icono": "https://cdn-icons-png.flaticon.com/128/754/754238.png",
+  "integrantes": ["Jose Grass"],
+  "actividad": "React+Webview",
+  "url": "https://drive.google.com/file/d/1D0kWAnoAvqZnesxob5-DWINFfrs7FuxU/view?usp=drive_link"
+},
   {
     "nombreapp": "Piedra,papel o tijera",
     "descripcion": "es un juego tradicional de manos, comúnmente jugado por dos personas. La dinámica es simple y rápida, y tiene como objetivo que uno de los jugadores gane al otro en un enfrentamiento directo. Los jugadores eligen entre tres posibles opciones.",
