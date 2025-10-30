@@ -7,6 +7,14 @@
     "actividad": "Android Studio",
     "url": "https://katherin2024.github.io/AdivinarApk/"
   },
+    {
+    "nombreapp": "ApiPoema",
+    "descripcion": "Esta es una API creada para inspiracion y buscar un poema de tu gusto",
+    "icono": "https://cdn-icons-png.flaticon.com/128/10389/10389721.png",
+    "integrantes": "Katherin Aviles",
+    "actividad": "React Vite",
+    "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
+  },
   {
     "nombreapp": "Crushed controller",
     "descripcion": "Juego de juntar tres imágenes iguales para sumar puntos hasta llegar a 5000.",
@@ -151,6 +159,14 @@
     "actividad": "React Native",
     "url": "https://drive.google.com/drive/folders/1mL4APaVNPN8Th8nSIp2isTRcj99GRjEP"
   },
+   {
+    "nombreapp": "frases",
+    "descripcion": "ELas frases motivadoras de una aplicación son mensajes breves y positivos que aparecen dentro de una app con el objetivo de inspirar, animar o mejorar el estado de ánimo del usuario. Estas frases buscan fomentar la confianza, la superación personal y la actitud positiva mientras el usuario interactúa con la aplicación.",
+    "icono": "https://drive.google.com/file/d/19Gt28a4ljZiUX1S5pAJg5VymQE9QQzXc/view?usp=drive_link",
+    "integrantes": "Santiago Bonilla, Andrey Fajardo, Felipe Piragautaa",
+    "actividad": "Android Studio",
+    "url": "https://andfkx.github.io/appparejas15oct/"
+  },
   {
     "nombreapp": "Stopwatch",
     "descripcion": "Cronómetro para configurar alarmas por tiempo.",
@@ -160,6 +176,13 @@
     "url": "https://eduardocr91.github.io/Stopwatch2/"
   },
   {
+    "nombreapp": "Piedra,papel o tijera",
+    "descripcion": "es un juego tradicional de manos, comúnmente jugado por dos personas. La dinámica es simple y rápida, y tiene como objetivo que uno de los jugadores gane al otro en un enfrentamiento directo. Los jugadores eligen entre tres posibles opciones.",
+    "icono": "https://www.flaticon.es/icono-gratis/oruga_2470081?term=oruga&page=1&position=8&origin=search&related_id=2470081",
+    "integrantes": "Oscar Herrera, Katherin Aviles",
+    "actividad": "Deploy",
+    "url": "juegopiedrapapel.netlify.app"
+  },{
     "nombreapp": "Figuras",
     "descripcion": "Esta aplicación es un visualizador interactivo de figuras geométricas desarrollado en React con Vite, donde el usuario puede recorrer de forma dinámica diferentes formas (triángulo, cuadrado, pentágono, hexágono, heptágono, octágono y círculo) mediante un botón que cambia la figura en pantalla y muestra su nombre, además de personalizar su apariencia con tres colores suaves (morado claro, azul claro y rosa), ofreciendo una experiencia sencilla, educativa y visualmente atractiva.",
     "icono": "   https://cdn-icons-png.flaticon.com/512/5090/5090472.png ",
@@ -357,6 +380,13 @@
     "icono": "https://img.freepik.com/foto-gratis/collage-sobre-hora-pelicula-palomitas-maiz_23-2149946322.jpg?ga=GA1.1.1279467637.1760574923&semt=ais_hybrid&w=740&q=80",
     "integrantes": ["Paula Parra"],
     "actividad": "Appi",
-    "url": "https://drive.google.com/drive/folders/1-5NTi3yHfePZ5AIYZF_5oQEXAXr7j9KE?usp=drive_link"
+    "url": "https://drive.google.com/drive/folders/1-5NTi3yHfePZ5AIYZF_5oQEXAXr7j9KE?usp=drive_link"},
+    {
+    "nombreapp": "Apifake",
+    "descripcion": "Es una api que trae productos aleatorios que contienen una clasificacion, se hace uso aproximado de 20 productos, la aplicacion cuenta de un menu interactivo donde el usuario puede descubrir ofertas, precios...",
+    "icono": "https://cdn-icons-png.flaticon.com/128/10753/10753489.png",
+    "integrantes": ["Juan Vargas"],
+    "actividad": "Api",
+    "url": "https://drive.google.com/drive/folders/1C6oKDqtRJZJgCemPeH1QcIiat7ls0GLH?usp=drive_link"
   }
 ]
