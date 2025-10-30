@@ -366,6 +366,21 @@
     "actividad": "webviews",
     "url": "https://cdn-icons-png.flaticon.com/512/709/709559.png"
   },
+     {
+    "nombreapp": "Cultura_general",
+    "descripcion": "Es una aplicacion que da preguntas aleatorias de cultura general y permite al usuario interactuar y aprender.",
+    "icono": "https://img.freepik.com/foto-gratis/vista-superior-cadena-origami-personas-globo_23-2148621071.jpg?ga=GA1.1.1631010449.1760571785&semt=ais_hybrid&w=740&q=80",
+    "integrantes": ["Paula Parra"],
+    "actividad": "webviews",
+    "url": "https://drive.google.com/drive/folders/1DycCKmQRmxr6r2_mWpAxd1oCZftiOAgG?usp=drive_link"
+  },
+     {
+    "nombreapp": "Shows",
+    "descripcion": "Es una aplicacion que muestra diferentes peloculas y sus generos y tiene de innovador una parrte donde es aleatoria y te elige que genero ver.",
+    "icono": "https://img.freepik.com/foto-gratis/collage-sobre-hora-pelicula-palomitas-maiz_23-2149946322.jpg?ga=GA1.1.1279467637.1760574923&semt=ais_hybrid&w=740&q=80",
+    "integrantes": ["Paula Parra"],
+    "actividad": "Appi",
+    "url": "https://drive.google.com/drive/folders/1-5NTi3yHfePZ5AIYZF_5oQEXAXr7j9KE?usp=drive_link"},
     {
     "nombreapp": "Apifake",
     "descripcion": "Es una api que trae productos aleatorios que contienen una clasificacion, se hace uso aproximado de 20 productos, la aplicacion cuenta de un menu interactivo donde el usuario puede descubrir ofertas, precios...",
@@ -374,5 +389,4 @@
     "actividad": "Api",
     "url": "https://drive.google.com/drive/folders/1C6oKDqtRJZJgCemPeH1QcIiat7ls0GLH?usp=drive_link"
   }
-
 ]
