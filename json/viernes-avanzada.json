@@ -294,6 +294,13 @@
 
 
   },{
+      "nombreapp": "Disney",
+    "descripcion": "Api disney .",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3021/3021697.png",
+    "integrantes": ["Nicolle Alejandra Carvajal Guzmán"],
+    "actividad": "Api disney ",
+    "url": "https://drive.google.com/drive/folders/1mopp2e7DMDk8z8cF2WmgLBmcEurJrA3G"
+},{
     "nombreapp": "Cirpto",
     "descripcion": "APP donde puedesw verificar el mercado de monedas",
     "icono": "https://cdn-icons-png.flaticon.com/512/13453/13453099.png ",
