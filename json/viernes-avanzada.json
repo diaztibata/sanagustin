@@ -73,6 +73,14 @@
   "integrantes": ["Carlos Fernando Riaño Bedoya", "Jose Alejandro"],
         "actividad": "webintoapp",
         "url": ""
+    },
+    {
+        "nombreapp": "Paises",
+        "descripcion": "Aplicacion de informacion de los paises, con un juego incorporado de adivinar la bandera",
+        "icono": "https://images.vexels.com/media/users/3/157673/isolated/preview/0a5b883af4c94ae12330075f427c073f-icono-de-mapa-del-mundo.png",
+        "integrantes": "Daniel Guerrero",
+        "actividad": "webintoapp",
+        "url": "https://drive.google.com/file/d/1_XfDNdL5OaGF2OMuqgpCvDt_zs-lfqz9/view?usp=drive_link"
 
     },
 
@@ -92,7 +100,7 @@
   "integrantes": ["Santiago Ramirez Torres"],
         "actividad": "App Netlify",
         "url": "https://drive.google.com/drive/folders/1vWTuSVkol-l4x4bLTz1hp8mYJM5jKuUP?usp=drive_link"
-    }
+    },
 ,{
         "nombreapp": "Tankcity",
         "descripcion": "JuegoUna app basada en el juego Battle City (nes) donde el jugador mueve un tanque por laberintos de obstáculos y destruye tanques enemigos, en una version muy compacta, disponible para cualquier telefono.",
@@ -100,7 +108,6 @@
   "integrantes": ["Ruben Gonzalez Grajales"],
         "actividad": "aplicacion original",
         "url": "https://drive.google.com/file/d/13_ZNju58_V0fnYuAn-iqBdpn15OQBhDD/view?usp=sharing"
-
     }
 
 ,
