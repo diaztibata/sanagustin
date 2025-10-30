@@ -183,8 +183,14 @@
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
   },
-
-
+    {
+    "nombreapp": "Spacex",
+    "descripcion": "Aplicación desarrollada con tecnologías web modernas que consume la API de SpaceX para visualizar datos actualizados sobre sus misiones espaciales.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/9961/9961510.png",
+    "integrantes": "Nicolas Alarcón",
+    "actividad": "Android Studio",
+    "url": "https://github.com/Nicolas-alark/SpaceX"
+  },
   {
   "nombreapp": "Geometry Dash Clone",
   "descripcion": "Juego de plataformas rítmico tipo Geometry Dash, donde el jugador esquiva obstáculos saltando.",
@@ -393,7 +399,7 @@
     "integrantes": "Juan Leon",
     "actividad": "Android Studio",
     "url": "https://github.com/Jelp13/Tarea-tibata"
-=======
+    },
   {
     "nombreapp": "BeatBox",
     "descripcion": "BeatBox es una aplicación interactiva desarrollada en React que permite al usuario generar sonidos musicales al presionar diferentes botones.",
@@ -433,7 +439,7 @@
     "integrantes": ["Paula Parra"],
     "actividad": "Appi",
     "url": "https://drive.google.com/drive/folders/1-5NTi3yHfePZ5AIYZF_5oQEXAXr7j9KE?usp=drive_link"},
-    {
+},{
     "nombreapp": "Apifake",
     "descripcion": "Es una api que trae productos aleatorios que contienen una clasificacion, se hace uso aproximado de 20 productos, la aplicacion cuenta de un menu interactivo donde el usuario puede descubrir ofertas, precios...",
     "icono": "https://cdn-icons-png.flaticon.com/128/10753/10753489.png",
