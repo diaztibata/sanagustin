@@ -7,11 +7,11 @@
     "actividad": "Android Studio",
     "url": "https://katherin2024.github.io/AdivinarApk/"
   },
-    {
+  {
     "nombreapp": "ApiPoema",
     "descripcion": "Esta es una API creada para inspiracion y buscar un poema de tu gusto",
     "icono": "https://cdn-icons-png.flaticon.com/128/10389/10389721.png",
-    "integrantes": "Katherin Aviles",
+    "integrantes": ["Katherin Aviles"],
     "actividad": "React Vite",
     "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
   },
@@ -63,13 +63,13 @@
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/17Zm-rzwxINWMV-SegCQ-YnjBBtL_YFH4/view?usp=drive_link"
   },
-   {
+  {
     "nombreapp": "Basketball",
     "descripcion": "Un juego de basketball donde se mide la fuerza de cada intento, cuenta con un contador y un boton de reinicio de puntaje.",
     "icono": "https://www.freepik.es/vector-gratis/plantilla-logotipo-baloncesto-vintage-coloreado_10094043.htm",
     "integrantes": ["Juan Vargas","Daniela Parra"],
     "actividad": "React, capcitor, andrioid studio",
-    "url": " https://drive.google.com/drive/folders/1kvi1pxbICEmMueOQdsa-bT2ZPdp83WKi?usp=drive_link"
+    "url": "https://drive.google.com/drive/folders/1kvi1pxbICEmMueOQdsa-bT2ZPdp83WKi?usp=drive_link"
   },
   {
     "nombreapp": "Sudoku Mobile",
@@ -111,8 +111,8 @@
     "actividad": "React Native",
     "url": "https://expo.dev/accounts/jelp12/projects/Excusas/builds/411d8e77-91c3-467a-86b1-12819779473c"
   },
-     {
-  "nombreapp": "Carritos chocones",
+  {
+    "nombreapp": "Carritos chocones",
     "descripcion": "Puedes jugar a los carritos chocones, donde puedes elegir tu carrito y chocar con los demás jugadores. Muy divertido para pasar el rato con amigos y familiares.",
     "icono": "https://cdn-icons-png.flaticon.com/512/2555/2555021.png",
     "integrantes": ["Maria Paula Almario", "Maicol López"],
@@ -167,11 +167,11 @@
     "actividad": "React Native",
     "url": "https://drive.google.com/drive/folders/1mL4APaVNPN8Th8nSIp2isTRcj99GRjEP"
   },
-   {
+  {
     "nombreapp": "frases",
-    "descripcion": "ELas frases motivadoras de una aplicación son mensajes breves y positivos que aparecen dentro de una app con el objetivo de inspirar, animar o mejorar el estado de ánimo del usuario. Estas frases buscan fomentar la confianza, la superación personal y la actitud positiva mientras el usuario interactúa con la aplicación.",
+    "descripcion": "Frases motivadoras que buscan fomentar la confianza, la superación personal y la actitud positiva mientras el usuario interactúa con la aplicación.",
     "icono": "https://drive.google.com/file/d/19Gt28a4ljZiUX1S5pAJg5VymQE9QQzXc/view?usp=drive_link",
-    "integrantes": "Santiago Bonilla, Andrey Fajardo, Felipe Piragautaa",
+    "integrantes": ["Santiago Bonilla", "Andrey Fajardo", "Felipe Piragautaa"],
     "actividad": "Android Studio",
     "url": "https://andfkx.github.io/appparejas15oct/"
   },
@@ -183,49 +183,51 @@
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
   },
-    {
+  {
     "nombreapp": "Spacex",
     "descripcion": "Aplicación desarrollada con tecnologías web modernas que consume la API de SpaceX para visualizar datos actualizados sobre sus misiones espaciales.",
     "icono": "https://cdn-icons-png.flaticon.com/512/9961/9961510.png",
-    "integrantes": "Nicolas Alarcón",
+    "integrantes": ["Nicolas Alarcón"],
     "actividad": "Android Studio",
     "url": "https://github.com/Nicolas-alark/SpaceX"
   },
   {
-  "nombreapp": "Geometry Dash Clone",
-  "descripcion": "Juego de plataformas rítmico tipo Geometry Dash, donde el jugador esquiva obstáculos saltando.",
-  "icono": "https://cdn-icons-png.flaticon.com/512/5291/5291527.png",
-  "integrantes": ["Jose Grass"],
-  "actividad": "React+Webview",
-  "url": "https://drive.google.com/file/d/1D0kWAnoAvqZnesxob5-DWINFfrs7FuxU/view?usp=drive_link"
-},
-{
-  "nombreapp": "Api Disney",
-  "descripcion": "Api Disney",
-  "icono": "https://cdn-icons-png.flaticon.com/128/754/754238.png",
-  "integrantes": ["Jose Grass"],
-  "actividad": "React+Webview",
-  "url": "https://drive.google.com/file/d/1D0kWAnoAvqZnesxob5-DWINFfrs7FuxU/view?usp=drive_link"
-},
+    "nombreapp": "Geometry Dash Clone",
+    "descripcion": "Juego de plataformas rítmico tipo Geometry Dash, donde el jugador esquiva obstáculos saltando.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/5291/5291527.png",
+    "integrantes": ["Jose Grass"],
+    "actividad": "React+Webview",
+    "url": "https://drive.google.com/file/d/1D0kWAnoAvqZnesxob5-DWINFfrs7FuxU/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Api Disney",
+    "descripcion": "Api Disney",
+    "icono": "https://cdn-icons-png.flaticon.com/128/754/754238.png",
+    "integrantes": ["Jose Grass"],
+    "actividad": "React+Webview",
+    "url": "https://drive.google.com/file/d/1D0kWAnoAvqZnesxob5-DWINFfrs7FuxU/view?usp=drive_link"
+  },
   {
     "nombreapp": "Piedra,papel o tijera",
-    "descripcion": "es un juego tradicional de manos, comúnmente jugado por dos personas. La dinámica es simple y rápida, y tiene como objetivo que uno de los jugadores gane al otro en un enfrentamiento directo. Los jugadores eligen entre tres posibles opciones.",
+    "descripcion": "Es un juego tradicional de manos, comúnmente jugado por dos personas. La dinámica es simple y rápida.",
     "icono": "https://www.flaticon.es/icono-gratis/oruga_2470081?term=oruga&page=1&position=8&origin=search&related_id=2470081",
-    "integrantes": "Oscar Herrera, Katherin Aviles",
+    "integrantes": ["Oscar Herrera", "Katherin Aviles"],
     "actividad": "Deploy",
-    "url": "juegopiedrapapel.netlify.app"
-  },{
+    "url": "http://juegopiedrapapel.netlify.app"
+  },
+  {
     "nombreapp": "Figuras",
-    "descripcion": "Esta aplicación es un visualizador interactivo de figuras geométricas desarrollado en React con Vite, donde el usuario puede recorrer de forma dinámica diferentes formas (triángulo, cuadrado, pentágono, hexágono, heptágono, octágono y círculo) mediante un botón que cambia la figura en pantalla y muestra su nombre, además de personalizar su apariencia con tres colores suaves (morado claro, azul claro y rosa), ofreciendo una experiencia sencilla, educativa y visualmente atractiva.",
-    "icono": "   https://cdn-icons-png.flaticon.com/512/5090/5090472.png ",
+    "descripcion": "Visualizador interactivo de figuras geométricas desarrollado en React con Vite, permite recorrer diferentes formas y personalizar colores.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/5090/5090472.png",
     "integrantes": ["Santiago Castellanos", "Angie Rincon"],
     "actividad": "React, Netlify",
     "url": "https://drive.google.com/file/d/1vhpgnb6M4fxBHxdKsSPUKBlI5tS4W2Ot/view?usp=sharing"
-  },{
+  },
+  {
     "nombreapp": "Cuello de botella",
     "descripcion": "Aplicacion que calcula el cuello de botella que tiene un procesador y una tarjeta grafica",
     "icono": "https://www.flaticon.es/icono-gratis/botella-de-vino_45637?term=botella&page=1&position=5&origin=search&related_id=45637",
-    "integrantes": "Juan Leon ",
+    "integrantes": ["Juan Leon"],
     "actividad": "Android Studio",
     "url": "#"
   },
@@ -247,7 +249,7 @@
   },
   {
     "nombreapp": "V_ESCAPE_ROOM",
-    "descripcion": "Es un juego donde una persona (o la computadora) piensa un número secreto y el jugador tiene que adivinar cuál es.",
+    "descripcion": "Juego donde una persona (o la computadora) piensa un número secreto y el jugador tiene que adivinar cuál es.",
     "icono": "https://www.flaticon.es/icono-gratis/confuso_2577567?term=adivinaar&page=1&position=2&origin=search&related_id=2577567",
     "integrantes": ["Oscar Herrera", "Katherin Aviles"],
     "actividad": "React_Expo",
@@ -276,7 +278,6 @@
     "integrantes": ["Angie Rincon", "Juan Herrera"],
     "actividad": "Capacitor y Expo",
     "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
-
   },
   {
     "nombreapp": "Ahorcado",
@@ -288,7 +289,7 @@
   },
   {
     "nombreapp": "Random_english",
-    "descripcion": "Esta aplicación genera palabras aleatorias en inglés y muestra un ejemplo de cómo se usa en una oración. Además, permite escuchar la pronunciación correcta al hacer clic en un botón, ayudando así a mejorar el vocabulario y la pronunciación en inglés de forma interactiva y práctica.",
+    "descripcion": "Genera palabras aleatorias en inglés y muestra ejemplos; permite escuchar la pronunciación.",
     "icono": "https://cdn-icons-png.flaticon.com/128/4928/4928912.png",
     "integrantes": ["Nicolas Alarcon Mendoza", "Maaria Paula Almario Beas"],
     "actividad": "React Native",
@@ -296,7 +297,7 @@
   },
   {
     "nombreapp": "River_Legend",
-    "descripcion": "Una app dedicada a mostrar la biodiversidad de nuestros parques naturales , y sumergirnos en el mundo de la pesca sostenible y responsabel.",
+    "descripcion": "App dedicada a mostrar la biodiversidad de nuestros parques naturales y pesca sostenible.",
     "icono": "https://drive.google.com/thumbnail?id=14DHS0kzCeJusxZ3mRRlcgfYK1oKhVxw9&sz=w1000",
     "integrantes": ["Elmer Cabrera"],
     "actividad": "Deploy_Netlify_webview",
@@ -304,7 +305,7 @@
   },
   {
     "nombreapp": "SurAmerica Viva",
-    "descripcion": "Explora Suramérica es una ventana digital hacia la magia, cultura y naturaleza incomparable de América del Sur. Desde las playas paradisíacas de Brasil hasta los glaciares patagónicos, desde el café colombiano hasta el tango argentino, esta app te sumerge en la riqueza de un continente que lo tiene todo.",
+    "descripcion": "Explora Suramérica: muestra cultura, naturaleza y destinos del continente.",
     "icono": "https://drive.google.com/file/d/143VEl5gVrdZSfxEBgNejAwxhviU4HBDy/preview",
     "integrantes": ["Elmer Cabrera cortez"],
     "actividad": "Deploy_Netlify_Api_restcountries",
@@ -333,10 +334,10 @@
     "integrantes": ["Carlos Eduardo Cruz", "Juan Manuel Chaparro"],
     "actividad": "React Native 3",
     "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
-
-  },{
+  },
+  {
     "nombreapp": "Puzzle",
-    "descripcion": "Es un juego de puzzle donde tu puedes elegir una imagen y dividirla en varias piezas para vovler a unirlas",
+    "descripcion": "Juego de puzzle donde puedes elegir una imagen y dividirla en piezas para volver a unirlas.",
     "icono": "https://cdn-icons-png.flaticon.com/512/10350/10350171.png",
     "integrantes": ["Carlos Eduardo Cruz"],
     "actividad": "Hacer deploy - avanzadas",
@@ -344,7 +345,7 @@
   },
   {
     "nombreapp": "sabes",
-    "descripcion": "Un juego interactivo de preguntas con multiple respuestas, desarrollado con react y capacitor, y empaquetado como aplicación Android para su uso principal en móviles.",
+    "descripcion": "Juego interactivo de preguntas con múltiples respuestas, desarrollado con React y Capacitor, empaquetado para Android.",
     "icono": "https://mangoanimate.com/blog/wp-content/uploads/2023/12/Interactive-Slides-Body-Language.png.webp",
     "integrantes": ["Felipe Rivera", "Duban Salguero"],
     "actividad": "Android Studio",
@@ -352,7 +353,7 @@
   },
   {
     "nombreapp": "Listapp",
-    "descripcion": "Gestiona las tareas que surgen en la vida cotidiana, facilita recordatorios para el ususario.",
+    "descripcion": "Gestiona las tareas que surgen en la vida cotidiana, facilita recordatorios para el usuario.",
     "icono": null,
     "integrantes": ["Oscar Julian Villamarin Wilches", "John Anderson Yate Agredo"],
     "actividad": "React Native",
@@ -360,7 +361,7 @@
   },
   {
     "nombreapp": "Esquiva",
-    "descripcion": "Juego que consiste en matenerse el mayor tiempo posible sin dejarse tocar de las nubes que van cayendo desde el cielo",
+    "descripcion": "Juego que consiste en mantenerse el mayor tiempo posible sin dejarse tocar por las nubes que van cayendo desde el cielo.",
     "icono": "https://cdn-icons-png.flaticon.com/128/1779/1779812.png",
     "integrantes": ["Karen Borda", "Juan Diego Buitrago"],
     "actividad": "React Native 3",
@@ -368,7 +369,7 @@
   },
   {
     "nombreapp": "Preguntas",
-    "descripcion": "Tienes un menu de cuatro respuestas a una pregunta en ingles.",
+    "descripcion": "Menú de cuatro respuestas a una pregunta en inglés.",
     "icono": "https://www.flaticon.es/icono-gratis/pregunta_2353678?term=preguntas&page=1&position=1&origin=search&related_id=2353678",
     "integrantes": ["Sebastian Herrera", "Oscar Herrera"],
     "actividad": "Terminal expo",
@@ -376,16 +377,15 @@
   },
   {
     "nombreapp": "Calculadora Habitos",
-    "descripcion": "Una app donde puedes poner tus habitos diarios y vas marcando si si los cumples o no.",
-    "icono": "https://img.freepik.com/foto-gratis/concepto-vuelta-al-cole-calculadora-libro_23-2147662321.jpg?ga=GA1.1.1636767663.1757555832&semt=ais_hybrid&w=740&q=80",
+    "descripcion": "App donde puedes poner tus hábitos diarios y marcarlos si los cumples o no.",
+    "icono": "https://img.freepik.com/foto-gratis/concepto-vuelta-al-cole-calculadora-libro_23-2147662321.jpg",
     "integrantes": ["Daniela Parra"],
     "actividad": "React, expo",
     "url": "https://drive.google.com/drive/folders/1nHMvP9gpVrYG56zPxn_WaqZFp09nsPEN?usp=drive_link"
   },
-
   {
     "nombreapp": "Simon dice",
-    "descripcion": "Aplicación basada en el clasico juego de simon dice, el juego almacena las victorias y secuencias consecutivas",
+    "descripcion": "Basado en el clásico Simon dice, el juego almacena victorias y secuencias consecutivas.",
     "icono": "https://cdn-icons-png.flaticon.com/512/1831/1831908.png",
     "integrantes": ["Wilson Carmona"],
     "actividad": "Apk React Native con netlify",
@@ -393,74 +393,74 @@
   },
   {
     "nombreapp": "Piedra,papel o tijera",
-    "descripcion": "es un juego tradicional de manos, comúnmente jugado por dos personas. La dinámica es simple y rápida, y tiene como objetivo que uno de los jugadores gane al otro en un enfrentamiento directo. Los jugadores eligen entre tres posibles opciones.",
+    "descripcion": "Juego tradicional de manos entre dos jugadores.",
     "icono": "https://www.flaticon.es/icono-gratis/oruga_2470081?term=oruga&page=1&position=8&origin=search&related_id=2470081",
     "integrantes": ["Oscar Herrera", "Katherin Aviles"],
     "actividad": "Deploy",
-    "url": "juegopiedrapapel.netlify.app"
-
-  },{
+    "url": "http://juegopiedrapapel.netlify.app"
+  },
+  {
     "nombreapp": "Api-Digimon",
-    "descripcion": "Webview donde podras contrar todos los gidimon con su clasificacion y caracteristicas",
+    "descripcion": "Webview donde podrás encontrar todos los digimon con su clasificación y características.",
     "icono": "https://i.pinimg.com/474x/0e/e0/b6/0ee0b6350b8ccfd2d31014ad3768a19d.jpg",
     "integrantes": ["Carlos Eduardo Cruz"],
     "actividad": "API individual",
     "url": "https://drive.google.com/file/d/1cdAq97RGDJ_27slO-3_GCuWx3aYd5Ed3/view?usp=drive_link"
-
   },
-    {
+  {
     "nombreapp": "Anime",
-  "descripcion": "Esta aplicaion muestra animes gracias a el enlace a la api myanimelist",
+    "descripcion": "Esta aplicación muestra animes gracias al enlace a la API MyAnimeList.",
     "icono": "https://cdn-icons-png.flaticon.com/512/17734/17734796.png",
-    "integrantes": "Juan Leon",
+    "integrantes": ["Juan Leon"],
     "actividad": "Android Studio",
     "url": "https://github.com/Jelp13/Tarea-tibata"
-    },
+  },
   {
     "nombreapp": "BeatBox",
-    "descripcion": "BeatBox es una aplicación interactiva desarrollada en React que permite al usuario generar sonidos musicales al presionar diferentes botones.",
+    "descripcion": "Aplicación interactiva desarrollada en React que permite al usuario generar sonidos musicales al presionar botones.",
     "icono": "https://mangoanimate.com/blog/wp-content/uploads/2023/12/Interactive-Slides-Body-Language.png.webp",
     "integrantes": ["Felipe Rivera", "Duban Salguero"],
-    "actividad": "webviews",
+    "actividad": "Webviews",
     "url": "https://cdn-icons-png.flaticon.com/512/709/709559.png"
   },
   {
     "nombreapp": "Blackjack",
-    "descripcion": "es un juego de cartas implementando React que hace que el usuario juegue con quien tenga la suma de 21 cartas gana.",
+    "descripcion": "Juego de cartas implementado en React donde el objetivo es alcanzar 21.",
+    "icono": null,
     "integrantes": ["Karen Borda"],
     "actividad": "React Native con Netlify",
-     "URL": "https://github.com/karen111-star/mobiles2025ii"
-    
+    "url": "https://github.com/karen111-star/mobiles2025ii"
   },
   {
     "nombreapp": "Universidades-api",
-    "descripcion": "una aplicacion en la cual puedes mirar los diferentes tipos de universidades de colombia y argentiana con sus paginas web directos .",
+    "descripcion": "Aplicación para consultar diferentes universidades de Colombia y Argentina con enlaces a sus páginas web.",
+    "icono": null,
     "integrantes": ["Karen Borda"],
     "actividad": "API",
-     "URL": "https://github.com/karen111-star/api-uni"
-    
+    "url": "https://github.com/karen111-star/api-uni"
   },
-     {
+  {
     "nombreapp": "Cultura_general",
-    "descripcion": "Es una aplicacion que da preguntas aleatorias de cultura general y permite al usuario interactuar y aprender.",
-    "icono": "https://img.freepik.com/foto-gratis/vista-superior-cadena-origami-personas-globo_23-2148621071.jpg?ga=GA1.1.1631010449.1760571785&semt=ais_hybrid&w=740&q=80",
+    "descripcion": "Aplicación que da preguntas aleatorias de cultura general y permite al usuario interactuar y aprender.",
+    "icono": "https://img.freepik.com/foto-gratis/vista-superior-cadena-origami-personas-globo_23-2148621071.jpg",
     "integrantes": ["Paula Parra"],
-    "actividad": "webviews",
+    "actividad": "Webviews",
     "url": "https://drive.google.com/drive/folders/1DycCKmQRmxr6r2_mWpAxd1oCZftiOAgG?usp=drive_link"
   },
-     {
+  {
     "nombreapp": "Shows",
-    "descripcion": "Es una aplicacion que muestra diferentes peloculas y sus generos y tiene de innovador una parrte donde es aleatoria y te elige que genero ver.",
-    "icono": "https://img.freepik.com/foto-gratis/collage-sobre-hora-pelicula-palomitas-maiz_23-2149946322.jpg?ga=GA1.1.1279467637.1760574923&semt=ais_hybrid&w=740&q=80",
+    "descripcion": "Muestra películas y géneros, con una función para elegir aleatoriamente un género.",
+    "icono": "https://img.freepik.com/foto-gratis/collage-sobre-hora-pelicula-palomitas-maiz_23-2149946322.jpg",
     "integrantes": ["Paula Parra"],
-    "actividad": "Appi",
+    "actividad": "API",
     "url": "https://drive.google.com/drive/folders/1-5NTi3yHfePZ5AIYZF_5oQEXAXr7j9KE?usp=drive_link"
-},{
+  },
+  {
     "nombreapp": "Apifake",
-    "descripcion": "Es una api que trae productos aleatorios que contienen una clasificacion, se hace uso aproximado de 20 productos, la aplicacion cuenta de un menu interactivo donde el usuario puede descubrir ofertas, precios...",
+    "descripcion": "API que trae productos aleatorios con clasificación y precios; incluye menú interactivo.",
     "icono": "https://cdn-icons-png.flaticon.com/128/10753/10753489.png",
     "integrantes": ["Juan Vargas"],
-    "actividad": "Api",
+    "actividad": "API",
     "url": "https://drive.google.com/drive/folders/1C6oKDqtRJZJgCemPeH1QcIiat7ls0GLH?usp=drive_link"
   }
 ]
