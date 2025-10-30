@@ -219,6 +219,8 @@
     "nombreapp": "Cuello de botella",
     "descripcion": "Aplicacion que calcula el cuello de botella que tiene un procesador y una tarjeta grafica",
     "icono": "https://www.flaticon.es/icono-gratis/botella-de-vino_45637?term=botella&page=1&position=5&origin=search&related_id=45637",
+    "integrantes": "Juan Leon ",
+    "actividad": "Android Studio"
     "integrantes": ["Juan Leon"]
   },
   {
@@ -384,6 +386,14 @@
     "url": "juegopiedrapapel.netlify.app"
 
   },
+    {
+    "nombreapp": "Anime",
+  "descripcion": "Esta aplicaion muestra animes gracias a el enlace a la api myanimelist",
+    "icono": "https://cdn-icons-png.flaticon.com/512/17734/17734796.png",
+    "integrantes": "Juan Leon",
+    "actividad": "Android Studio",
+    "url": "https://github.com/Jelp13/Tarea-tibata"
+=======
   {
     "nombreapp": "BeatBox",
     "descripcion": "BeatBox es una aplicación interactiva desarrollada en React que permite al usuario generar sonidos musicales al presionar diferentes botones.",
