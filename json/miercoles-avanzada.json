@@ -63,6 +63,14 @@
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/17Zm-rzwxINWMV-SegCQ-YnjBBtL_YFH4/view?usp=drive_link"
   },
+   {
+    "nombreapp": "Basketball",
+    "descripcion": "Un juego de basketball donde se mide la fuerza de cada intento, cuenta con un contador y un boton de reinicio de puntaje.",
+    "icono": "https://www.freepik.es/vector-gratis/plantilla-logotipo-baloncesto-vintage-coloreado_10094043.htm",
+    "integrantes": ["Juan Vargas","Daniela Parra"],
+    "actividad": "React, capcitor, andrioid studio",
+    "url": " https://drive.google.com/drive/folders/1kvi1pxbICEmMueOQdsa-bT2ZPdp83WKi?usp=drive_link"
+  },
   {
     "nombreapp": "Sudoku Mobile",
     "descripcion": "Juego de Sudoku 9x9 para móviles, con teclado numérico en pantalla.",
