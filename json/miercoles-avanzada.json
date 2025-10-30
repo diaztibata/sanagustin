@@ -159,6 +159,14 @@
     "actividad": "React Native",
     "url": "https://drive.google.com/drive/folders/1mL4APaVNPN8Th8nSIp2isTRcj99GRjEP"
   },
+   {
+    "nombreapp": "frases",
+    "descripcion": "ELas frases motivadoras de una aplicación son mensajes breves y positivos que aparecen dentro de una app con el objetivo de inspirar, animar o mejorar el estado de ánimo del usuario. Estas frases buscan fomentar la confianza, la superación personal y la actitud positiva mientras el usuario interactúa con la aplicación.",
+    "icono": "https://drive.google.com/file/d/19Gt28a4ljZiUX1S5pAJg5VymQE9QQzXc/view?usp=drive_link",
+    "integrantes": "Santiago Bonilla, Andrey Fajardo, Felipe Piragautaa",
+    "actividad": "Android Studio",
+    "url": "https://andfkx.github.io/appparejas15oct/"
+  },
   {
     "nombreapp": "Stopwatch",
     "descripcion": "Cronómetro para configurar alarmas por tiempo.",
