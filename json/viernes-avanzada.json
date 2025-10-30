@@ -8,6 +8,14 @@
         "actividad": "Webintoapp",
         "url": "https://drive.google.com/file/d/1ppu9Lvfhp1CLe2wRqVzO2RPZsTzwKNOw/view?usp=drive_link"
     },
+        {
+        "nombreapp": "ApiUniversity",
+        "descripción": "ApiUniversity es una aplicación móvil desarrollada en Colombia que busca facilitar el acceso a información académica y de aprendizaje digital. Su objetivo es ofrecer a los estudiantes y docentes una plataforma moderna donde puedan consultar recursos, materiales y herramientas relacionadas con la educación universitaria. Con una interfaz limpia y sencilla, ApiUniversity permite navegar entre secciones como Inicio, Populares y Recientes, brindando una experiencia intuitiva y adaptada al entorno educativo colombiano. Es una aplicación ideal para quienes desean mantenerse conectados con el mundo académico de manera ágil y actualizada",
+        "icono": "   https://cdn-icons-png.flaticon.com/512/3976/3976625.png ",
+        "integrantes": "[Johan Sebastian Torres]",
+        "actividad": "Webview android studio",
+        "url": "https://drive.google.com/file/d/1VM8sobjkQ3FwXHj4hIChg5oqWyq0cuym/view?usp=drive_link"
+    },
     {
         "nombreapp": "AnimeMusic",
         "descripción": "AnimeMusic es una aplicación móvil pensada para los fans del anime que quieren descubrir y recordar los openings y endings de sus series favoritas. Con una interfaz sencilla y optimizada para celulares, permite buscar cualquier anime y mostrar sus temas musicales oficiales usando la Jikan API. La aplicación organiza la información de forma clara, diferenciando openings y endings, y mostrando cada título en listas fáciles de explorar. AnimeMusic es ideal para quienes disfrutan la música de anime y quieren llevarla siempre en su bolsillo.",
