@@ -277,6 +277,26 @@
         "actividad": "webview",
         "url": "https://drive.google.com/file/d/1y4j37VOmhTSF80lSRU2JgR19HEfm0aQr/view?usp=drive_link"
     },
+
+     {
+        "nombreapp": "ApiGutendex.",
+        "descripcion":"Aplicacion la cual muestra informacion sobre diversos libros y autores ademas un juego de memoria donde aparecen las caratulas de los diversos libros",
+        "icono": "      https://cdn-icons-png.flaticon.com/512/8602/8602729.png  ",
+        "integrantes": "Santiago Guzman",
+        "actividad": "API individual",
+        "url": "https://drive.google.com/file/d/1QRD3G1tjF3E6BGNZXlF4SjCtgZFv_JTz/view?usp=drive_link"
+    },
+
+
+
+       {
+        "nombreapp": "Colombia.",
+        "descripcion":"Aplicacion la cual muestra informacion sobre diversos departamentos y capitales de colombia permite visualizar detalles,porcentajes y otros datos relevantes de cada region del pais",
+        "icono": "         https://cdn-icons-png.flaticon.com/512/203/203041.png  ",
+        "integrantes": "Santiago Guzman",
+        "actividad": "API trabajo en clase colombia",
+        "url": "https://drive.google.com/file/d/1PoDWpEyaA66ftWZsTV9IBMvUNtjaKuVL/view?usp=drive_link"
+       },
 {
     "nombreapp": "ActividadWebView(22-02)",
     "descripcion": "Una aplicacion conectada a una api la cual es capaz de acceder a la camara de tu telefono, tablet o computadora y tomar fotos, las cuales puedes copiar y enviar por redes sociales.",
@@ -299,7 +319,7 @@
   "integrantes": ["Andrés Felipe Pedroza Beltrán"],
         "actividad": "Api Individual",
         "url": "https://drive.google.com/drive/u/1/folders/1ad1GW78Iurd-zku5jDU2flTl8biVAhUw"
-    }
+
   },{
       "nombreapp": "Disney",
     "descripcion": "Api disney .",
@@ -314,7 +334,6 @@
     "integrantes": ["Daniel Murillo"],
     "actividad": "Web view",
     "url": "https://drive.google.com/file/d/1d0tDEZxBNivAlM5LuMkekicNnrVcWHg8/view?usp=drive_link"
-
 
   },
 {
