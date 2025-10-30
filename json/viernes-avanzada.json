@@ -8,6 +8,14 @@
         "actividad": "Webintoapp",
         "url": "https://drive.google.com/file/d/1ppu9Lvfhp1CLe2wRqVzO2RPZsTzwKNOw/view?usp=drive_link"
     },
+        {
+        "nombreapp": "ApiUniversity",
+        "descripción": "ApiUniversity es una aplicación móvil desarrollada en Colombia que busca facilitar el acceso a información académica y de aprendizaje digital. Su objetivo es ofrecer a los estudiantes y docentes una plataforma moderna donde puedan consultar recursos, materiales y herramientas relacionadas con la educación universitaria. Con una interfaz limpia y sencilla, ApiUniversity permite navegar entre secciones como Inicio, Populares y Recientes, brindando una experiencia intuitiva y adaptada al entorno educativo colombiano. Es una aplicación ideal para quienes desean mantenerse conectados con el mundo académico de manera ágil y actualizada",
+        "icono": "   https://cdn-icons-png.flaticon.com/512/3976/3976625.png ",
+        "integrantes": "[Johan Sebastian Torres]",
+        "actividad": "Webview android studio",
+        "url": "https://drive.google.com/file/d/1VM8sobjkQ3FwXHj4hIChg5oqWyq0cuym/view?usp=drive_link"
+    },
     {
         "nombreapp": "AnimeMusic",
         "descripción": "AnimeMusic es una aplicación móvil pensada para los fans del anime que quieren descubrir y recordar los openings y endings de sus series favoritas. Con una interfaz sencilla y optimizada para celulares, permite buscar cualquier anime y mostrar sus temas musicales oficiales usando la Jikan API. La aplicación organiza la información de forma clara, diferenciando openings y endings, y mostrando cada título en listas fáciles de explorar. AnimeMusic es ideal para quienes disfrutan la música de anime y quieren llevarla siempre en su bolsillo.",
@@ -73,6 +81,14 @@
   "integrantes": ["Carlos Fernando Riaño Bedoya", "Jose Alejandro"],
         "actividad": "webintoapp",
         "url": ""
+    },
+    {
+        "nombreapp": "Paises",
+        "descripcion": "Aplicacion de informacion de los paises, con un juego incorporado de adivinar la bandera",
+        "icono": "https://images.vexels.com/media/users/3/157673/isolated/preview/0a5b883af4c94ae12330075f427c073f-icono-de-mapa-del-mundo.png",
+        "integrantes": "Daniel Guerrero",
+        "actividad": "webintoapp",
+        "url": "https://drive.google.com/file/d/1_XfDNdL5OaGF2OMuqgpCvDt_zs-lfqz9/view?usp=drive_link"
 
     },
 
@@ -92,7 +108,7 @@
   "integrantes": ["Santiago Ramirez Torres"],
         "actividad": "App Netlify",
         "url": "https://drive.google.com/drive/folders/1vWTuSVkol-l4x4bLTz1hp8mYJM5jKuUP?usp=drive_link"
-    }
+    },
 ,{
         "nombreapp": "Tankcity",
         "descripcion": "JuegoUna app basada en el juego Battle City (nes) donde el jugador mueve un tanque por laberintos de obstáculos y destruye tanques enemigos, en una version muy compacta, disponible para cualquier telefono.",
@@ -100,7 +116,6 @@
   "integrantes": ["Ruben Gonzalez Grajales"],
         "actividad": "aplicacion original",
         "url": "https://drive.google.com/file/d/13_ZNju58_V0fnYuAn-iqBdpn15OQBhDD/view?usp=sharing"
-
     }
 
 ,
@@ -285,5 +300,14 @@
     "integrantes": ["Nicolle Alejandra Carvajal Guzmán"],
     "actividad": "Api disney ",
     "url": "https://drive.google.com/drive/folders/1mopp2e7DMDk8z8cF2WmgLBmcEurJrA3G"
+},{
+    "nombreapp": "Cirpto",
+    "descripcion": "APP donde puedesw verificar el mercado de monedas",
+    "icono": "https://cdn-icons-png.flaticon.com/512/13453/13453099.png ",
+    "integrantes": ["Daniel Murillo"],
+    "actividad": "Web view",
+    "url": "https://drive.google.com/file/d/1d0tDEZxBNivAlM5LuMkekicNnrVcWHg8/view?usp=drive_link"
+
+
   }
 ]
