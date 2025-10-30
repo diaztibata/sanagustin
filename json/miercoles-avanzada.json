@@ -384,6 +384,22 @@
     "actividad": "webviews",
     "url": "https://cdn-icons-png.flaticon.com/512/709/709559.png"
   },
+  {
+    "nombreapp": "Blackjack",
+    "descripcion": "es un juego de cartas implementando React que hace que el usuario juegue con quien tenga la suma de 21 cartas gana.",
+    "integrantes": ["Karen Borda"],
+    "actividad": "React Native con Netlify",
+     "URL": "https://github.com/karen111-star/mobiles2025ii"
+    
+  },
+  {
+    "nombreapp": "Universidades-api",
+    "descripcion": "una aplicacion en la cual puedes mirar los diferentes tipos de universidades de colombia y argentiana con sus paginas web directos .",
+    "integrantes": ["Karen Borda"],
+    "actividad": "API",
+     "URL": "https://github.com/karen111-star/api-uni"
+    
+  },
      {
     "nombreapp": "Cultura_general",
     "descripcion": "Es una aplicacion que da preguntas aleatorias de cultura general y permite al usuario interactuar y aprender.",
