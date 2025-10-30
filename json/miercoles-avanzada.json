@@ -332,7 +332,7 @@
     "icono": "https://cdn-icons-png.flaticon.com/512/10350/10350171.png",
     "integrantes": ["Carlos Eduardo Cruz"],
     "actividad": "Hacer deploy - avanzadas",
-    "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
+    "url": "https://drive.google.com/file/d/1fB1se4ShY9AAkAxLNpOw4SP6ancLKETo/view?usp=drive_link"
   },
   {
     "nombreapp": "sabes",
@@ -390,6 +390,14 @@
     "integrantes": ["Oscar Herrera", "Katherin Aviles"],
     "actividad": "Deploy",
     "url": "juegopiedrapapel.netlify.app"
+
+  },{
+    "nombreapp": "Api-Digimon",
+    "descripcion": "Webview donde podras contrar todos los gidimon con su clasificacion y caracteristicas",
+    "icono": "https://i.pinimg.com/474x/0e/e0/b6/0ee0b6350b8ccfd2d31014ad3768a19d.jpg",
+    "integrantes": ["Carlos Eduardo Cruz"],
+    "actividad": "API individual",
+    "url": "https://drive.google.com/file/d/1cdAq97RGDJ_27slO-3_GCuWx3aYd5Ed3/view?usp=drive_link"
 
   },
     {
