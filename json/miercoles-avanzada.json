@@ -226,8 +226,8 @@
     "descripcion": "Aplicacion que calcula el cuello de botella que tiene un procesador y una tarjeta grafica",
     "icono": "https://www.flaticon.es/icono-gratis/botella-de-vino_45637?term=botella&page=1&position=5&origin=search&related_id=45637",
     "integrantes": "Juan Leon ",
-    "actividad": "Android Studio"
-    "integrantes": ["Juan Leon"]
+    "actividad": "Android Studio",
+    "url": "#"
   },
   {
     "nombreapp": "memoria-y-bienestar",
@@ -454,7 +454,7 @@
     "icono": "https://img.freepik.com/foto-gratis/collage-sobre-hora-pelicula-palomitas-maiz_23-2149946322.jpg?ga=GA1.1.1279467637.1760574923&semt=ais_hybrid&w=740&q=80",
     "integrantes": ["Paula Parra"],
     "actividad": "Appi",
-    "url": "https://drive.google.com/drive/folders/1-5NTi3yHfePZ5AIYZF_5oQEXAXr7j9KE?usp=drive_link"},
+    "url": "https://drive.google.com/drive/folders/1-5NTi3yHfePZ5AIYZF_5oQEXAXr7j9KE?usp=drive_link"
 },{
     "nombreapp": "Apifake",
     "descripcion": "Es una api que trae productos aleatorios que contienen una clasificacion, se hace uso aproximado de 20 productos, la aplicacion cuenta de un menu interactivo donde el usuario puede descubrir ofertas, precios...",
