@@ -1,17 +1,42 @@
 [
+
     {
         "nombreapp": "AnimeApp",
         "descripción": "Anime App es una aplicación móvil diseñada para que los aficionados al anime descubran, busquen y sigan sus series favoritas. Ofrece una interfaz de usuario limpia y moderna, permitiendo a los usuarios navegar por los títulos más populares y los lanzamientos de temporada. La aplicación proporciona información clave sobre cada anime, incluyendo calificaciones, resúmenes y títulos. Su potente buscador y la organización por categorías (Inició, Populares, Temporada) la convierten en una herramienta esencial para mantenerse al día con el mundo del anime.",
         "icono": "",
-        "integrantes": "Johan Sebastian Torres",
+  "integrantes": ["Johan Sebastian Torres"],
         "actividad": "Webintoapp",
         "url": "https://drive.google.com/file/d/1ppu9Lvfhp1CLe2wRqVzO2RPZsTzwKNOw/view?usp=drive_link"
+    },
+    {
+        "nombreapp": "AnimeMusic",
+        "descripción": "AnimeMusic es una aplicación móvil pensada para los fans del anime que quieren descubrir y recordar los openings y endings de sus series favoritas. Con una interfaz sencilla y optimizada para celulares, permite buscar cualquier anime y mostrar sus temas musicales oficiales usando la Jikan API. La aplicación organiza la información de forma clara, diferenciando openings y endings, y mostrando cada título en listas fáciles de explorar. AnimeMusic es ideal para quienes disfrutan la música de anime y quieren llevarla siempre en su bolsillo.",
+        "icono": "https://cdn6.aptoide.com/imgs/f/a/0/fa09e649e67d44f6abe20d80b87ca210_icon.png",
+        "integrantes": ["Johan Sebastian Torres"],
+        "actividad": "React Native (Expo)",
+        "url": "https://drive.google.com/drive/folders/13DWnNrPkQ6unRx9HAxGNDjCKcpUgn2UA?usp=drive_link"
+        },
+    {
+        "nombreapp": "EnglishDictionary",
+        "descripción": "EnglishDictionary es una aplicación móvil desarrollada con React y Capacitor que permite a los usuarios consultar de manera rápida y sencilla el significado de palabras en inglés. Su diseño ligero y amigable está pensado para estudiantes y personas que buscan mejorar su vocabulario. La app integra un buscador eficiente, muestra definiciones claras y ejemplos de uso, además de ser totalmente funcional sin necesidad de un navegador. Gracias a su integración con Capacitor, está optimizada para ejecutarse en dispositivos móviles como una aplicación nativa.",
+        "icono": "https://cdn-icons-png.flaticon.com/128/4033/4033369.png",
+        "integrantes": ["Johan Sebastian Torres, Ruben Gonzalez"],
+        "actividad": "React + Capacitor",
+        "url": "https://drive.google.com/drive/folders/1V5zlSFmWkGA5PxSZKk3YyBbXzfaJbZdR?usp=drive_link"
+    },
+    {
+        "nombreapp": "Buscador de Música",
+        "descripción": "Aplicación web desarrollada con React y Vite que permite buscar canciones y artistas en la API pública de iTunes. El usuario puede escuchar un preview de 30 segundos, ver la portada del álbum, el nombre de la canción y el artista, todo en una interfaz sencilla y responsive.",
+        "icono": "https://cdn-icons-png.flaticon.com/128/1014/1014333.png",
+  "integrantes": ["Johan Sebastian Torres Sotelo"],
+        "actividad": "webintoapp",
+        "url": "https://drive.google.com/drive/folders/1OC2zklcMI_Dt1wnOhG8zVdY0OEM2yC__?usp=drive_link"
     },
     {
         "nombreapp": "Juego Pong",
         "descripción": "Juego web interactivo desarrollado con HTML, CSS y JavaScript inspirado en el clásico Pong. Donde 2 jugadores controlan 2 barras cada uno para devolver una pelota que rebota en la pantalla, intentando evitar que pase su lado. Incluye un marcador de puntos, aumento progresivo de velocidad y la pelota sale instantáneamente después de que la pelota cruce el lado de alguno de los jugadores.",
         "icono": "Icono pong.jpg",
-        "integrantes": "Andres Ceballos, Santiago Guzman, Ruben Gonzalez",
+  "integrantes": ["Andres Ceballos", "Santiago Guzman", "Ruben Gonzalez"],
         "actividad": "Webintoapp",
         "url": "https://drive.google.com/drive/u/1/folders/1nLhUiUUXFWdMKfqJvl1t-SXhG8xJffvx"
     },
@@ -19,7 +44,7 @@
         "nombreapp": "Calculadora química de gases reales",
         "descripción": "Calculadora química virtual desarrollada con HTML, CSS y JavaScript, responsive al cambio de tamaño de la aplicación que tiene como objetivo ayudar a las personas a determinar el volumen y el factor de compresibilidad de un gas real, usando la ecuación virial.",
         "icono": "https://www.flaticon.es/icono-gratis/quimica_1157001?term=laboratorio&page=1&position=44&origin=search&related_id=1157001",
-        "integrantes": "Julian Maldonado, Santiago, Juan Pablo Castañeda",
+  "integrantes": ["Julian Maldonado", "Santiago", "Juan Pablo Castañeda"],
         "actividad": "webintoapp",
         "url": ""
     },
@@ -27,11 +52,247 @@
         "nombreapp": "Prueba de Reacción",
         "descripcion": "Juego web interactivo desarrollado con HTML, CSS y JavaScript en el que el jugador mide su tiempo de reacción tocando la pantalla cuando cambia a verde. Incluye registro de mejores tiempos, promedio, historial de rondas, vibración al iniciar y al ganar, y compatibilidad con dispositivos móviles. El objetivo es lograr el menor tiempo posible y compartir el récord.",
         "icono": "https://www.flaticon.es/icono-gratis/destello_252590?term=rayo&page=1&position=39&origin=search&related_id=252590",
-        "integrantes": "Martin Ramirez,Javier Torres, Daniel Steven",
+  "integrantes": ["Martin Ramirez", "Javier Torres", "Daniel Steven"],
         "actividad": "webintoapp",
         "url": ""
+    },
+
+    {
+        "nombreapp": "RopeCabeza",
+        "descripcion": "Juego interactivo e Intuitivo que te rompre la cabeza meintras la armas",
+        "icono": "https://cdn-icons-png.flaticon.com/512/228/228380.png",
+  "integrantes": ["Daniel Murillo"],
+        "actividad": "webintoapp",
+        "url": ""
+    },
+
+    {
+        "nombreapp": "Mindado",
+        "descripcion": "Juego web interactivo desarrollado con HTML, CSS y JavaScript en el que el jugador mide su suerte calculando cual es el mayor puntaje al lanzar el dado puntuación que se visauiza en la interfa del usuario.",
+        "icono": "https://www.flaticon.es/icono-gratis/destello_252590?term=rayo&page=1&position=39&origin=search&related_id=252590",
+  "integrantes": ["Carlos Fernando Riaño Bedoya", "Jose Alejandro"],
+        "actividad": "webintoapp",
+        "url": ""
+    },
+    {
+        "nombreapp": "Paises",
+        "descripcion": "Aplicacion de informacion de los paises, con un juego incorporado de adivinar la bandera",
+        "icono": "https://images.vexels.com/media/users/3/157673/isolated/preview/0a5b883af4c94ae12330075f427c073f-icono-de-mapa-del-mundo.png",
+        "integrantes": "Daniel Guerrero",
+        "actividad": "webintoapp",
+        "url": "https://drive.google.com/file/d/1_XfDNdL5OaGF2OMuqgpCvDt_zs-lfqz9/view?usp=drive_link"
+
+    },
+
+     {  
+     
+      "nombreapp": "StyleColor",
+      "descripcion": "Juego web interactivo  en el que el jugador evalúa su estado de ánimo mediante colores y dinámicas visuales que se muestran en la interfaz del usuario.",
+      "icono": "https://www.flaticon.es/icono-gratis/paleta-de-colores_18099441?term=colors&page=2&position=49&origin=search&related_id=18099441",
+  "integrantes": ["Carlos Fernando Riaño Bedoya"],
+      "actividad": "Webview with Netlify",
+      "url": "https://drive.google.com/drive/u/2/folders/1d92b7swp9X6BmC07_NjW9q1yzuKLySLq"
+     },
+    {
+        "nombreapp": "CultiTest",
+        "descripcion": "App de test sobre cultura general, que te da estadisticas acerca de tus resultadas, esta hecho en react y desplegado en netlify",
+        "icono": "https://www.flaticon.es/icono-gratis/problema_3240831?term=adivinanza&page=1&position=7&origin=search&related_id=3240831",
+  "integrantes": ["Santiago Ramirez Torres"],
+        "actividad": "App Netlify",
+        "url": "https://drive.google.com/drive/folders/1vWTuSVkol-l4x4bLTz1hp8mYJM5jKuUP?usp=drive_link"
+    },
+,{
+        "nombreapp": "Tankcity",
+        "descripcion": "JuegoUna app basada en el juego Battle City (nes) donde el jugador mueve un tanque por laberintos de obstáculos y destruye tanques enemigos, en una version muy compacta, disponible para cualquier telefono.",
+        "icono": "https://drive.google.com/file/d/1AUzVtuSDJeVBmKvaCS98PyH_iA-63AdC/view?usp=sharing",
+  "integrantes": ["Ruben Gonzalez Grajales"],
+        "actividad": "aplicacion original",
+        "url": "https://drive.google.com/file/d/13_ZNju58_V0fnYuAn-iqBdpn15OQBhDD/view?usp=sharing"
     }
 
+,
+  {
+    "nombreapp": "AnimeApp",
+    "descripcion": "Anime App es una aplicación móvil diseñada para que los aficionados al anime descubran, busquen y sigan sus series favoritas. Ofrece una interfaz de usuario limpia y moderna, permitiendo a los usuarios navegar por los títulos más populares y los lanzamientos de temporada. La aplicación proporciona información clave sobre cada anime, incluyendo calificaciones, resúmenes y títulos. Su potente buscador y la organización por categorías (Inicio, Populares, Temporada) la convierten en una herramienta esencial para mantenerse al día con el mundo del anime.",
+    "icono": "https://e1.pxfuel.com/desktop-wallpaper/768/964/desktop-wallpaper-anime-icon-anime-app-icons.jpg",
+    "integrantes": ["Johan Sebastian Torres"],
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/file/d/1ppu9Lvfhp1CLe2wRqVzO2RPZsTzwKNOw/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Juego Pong",
+    "descripcion": "Juego web interactivo desarrollado con HTML, CSS y JavaScript inspirado en el clásico Pong. Donde 2 jugadores controlan 2 barras cada uno para devolver una pelota que rebota en la pantalla, intentando evitar que pase su lado. Incluye un marcador de puntos, aumento progresivo de velocidad y la pelota sale instantáneamente después de que la pelota cruce el lado de alguno de los jugadores.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/6234/6234006.png",
+    "integrantes": ["Andres Ceballos", "Santiago Guzman", "Ruben Gonzalez"],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1XnLERvRY5rW5qOpw8flhVILxMXzl7sW_/view?usp=sharing"
+  },
+  {
+    "nombreapp": "Calculadora química de gases reales",
+    "descripcion": "Calculadora química virtual desarrollada con HTML, CSS y JavaScript, responsive al cambio de tamaño de la aplicación que tiene como objetivo ayudar a las personas a determinar el volumen y el factor de compresibilidad de un gas real, usando la ecuación virial.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1157/1157001.png",
+    "integrantes": ["Juan Pablo Castañeda", "Julian Maldonado", "Santiago"],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/16xV10iLqnCUoVGpMj3ReFwiRqqQCSOhF/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Prueba de Reacción",
+    "descripcion": "Juego web interactivo desarrollado con HTML, CSS y JavaScript en el que el jugador mide su tiempo de reacción tocando la pantalla cuando cambia a verde. Incluye registro de mejores tiempos, promedio, historial de rondas, vibración al iniciar y al ganar, y compatibilidad con dispositivos móviles. El objetivo es lograr el menor tiempo posible y compartir el récord.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2525/252590.png",
+    "integrantes": ["Martin Ramirez", "Javier Torres", "Daniel Guerrero"],
+    "actividad": "Webintoapp",
+    "url": ""
+  },
+  {
+    "nombreapp": "Pong en capacitor",
+    "descripcion": "Este proyecto es una implementación moderna del clásico juego Pong, desarrollada utilizando React y JavaScript vanilla, y empaquetada como aplicación móvil mediante Capacitor. El juego cuenta con una interfaz sencilla y responsiva, controles táctiles y marcador en tiempo real. El objetivo es competir contra la inteligencia artificial, siendo el primer jugador en alcanzar 10 puntos. Gracias a Capacitor, el juego puede ejecutarse tanto en navegadores web como en dispositivos Android, aprovechando las capacidades nativas de cada plataforma.",
+    "icono": "",
+    "integrantes": ["Santiago Ramirez Torres", "Daniel Nomelin"],
+    "actividad": "React + Capacitor",
+    "url": "https://drive.google.com/file/d/1iuK7e7r1V8155UJo6d0-w5G5t-5ldujm/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Frases Motivacionales",
+    "descripcion": "Aplicación móvil desarrollada con React Native y Expo, diseñada para una única plataforma (Android). La app presenta un mural digital de frases motivacionales, permitiendo a los usuarios explorar mensajes inspiradores a través de una interfaz sencilla, fluida y visualmente atractiva.",
+    "icono": "",
+    "integrantes": ["Santiago Ramirez Torres", "Carlos Fernando Riano Bedoya"],
+    "actividad": "React Native",
+    "url": "https://drive.google.com/file/d/1xX6cN680glFW_L9p8MsQ3R9tduNKzIJ_/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Mood Tracker",
+    "descripcion": "App móvil que tiene como función llevar un registro de cómo te sientas durante el día.",
+    "icono": "",
+    "integrantes": ["Juan Pablo Castañeda", "Nicolle Alejandra Carvajal Guzmán"],
+    "actividad": "React Native",
+    "url": "https://drive.google.com/drive/folders/1pBiP6ZorKrdZoCg8GePVWLb_SJucr3CP"
+  },
+  {
+    "nombreapp": "Generador de Excusas",
+    "descripcion": "Juego web interactivo desarrollado con capacitor en el que el jugador puede generar excusas aleatorias para no asistir a un evento. Incluye una variedad de categorías de excusas y permite al usuario personalizar su excusa antes de compartirla.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3680/3680202.png",
+    "integrantes": ["Julian Maldonado", "Andres Ceballos"],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1Ws1aDgPakSp5eS2kxnNfdkdr3VO2V5Vq/view?usp=sharing"
+  },
+  {
+    "nombreapp": "Randomizador de Elementos de la tabla periódica",
+    "descripcion": "Aplicación web desarrollada con expo que permite a los usuarios obtener un elemento aleatorio de la tabla periódica. La aplicación muestra información relevante sobre el elemento seleccionado, incluyendo su símbolo, número atómico y propiedades principales. Ideal para estudiantes y entusiastas de la química que desean aprender más sobre los elementos de manera interactiva.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/4027/4027148.png",
+    "integrantes": ["Julian Maldonado", "Andres Ceballos"],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1L4itdMQg43OA5zT-sOPNadVfbG3GwNdT/view?usp=sharing"
+  },
+  {
+    "nombreapp": "AnimeMusic",
+    "descripcion": "AnimeMusic es una aplicación móvil pensada para los fans del anime que quieren descubrir y recordar los openings y endings de sus series favoritas. Con una interfaz sencilla y optimizada para celulares, permite buscar cualquier anime y mostrar sus temas musicales oficiales usando la Jikan API. La aplicación organiza la información de forma clara, diferenciando openings y endings, y mostrando cada título en listas fáciles de explorar. AnimeMusic es ideal para quienes disfrutan la música de anime y quieren llevarla siempre en su bolsillo.",
+    "icono": "https://cdn6.aptoide.com/imgs/f/a/0/fa09e649e67d44f6abe20d80b87ca210_icon.png",
+    "integrantes": ["Johan Sebastian Torres"],
+    "actividad": "React Native (Expo)",
+    "url": "https://drive.google.com/drive/folders/13DWnNrPkQ6unRx9HAxGNDjCKcpUgn2UA?usp=drive_link"
+  },
+  {
+    "nombreapp": "EnglishDictionary",
+    "descripcion": "EnglishDictionary es una aplicación móvil desarrollada con React y Capacitor que permite a los usuarios consultar de manera rápida y sencilla el significado de palabras en inglés. Su diseño ligero y amigable está pensado para estudiantes y personas que buscan mejorar su vocabulario. La app integra un buscador eficiente, muestra definiciones claras y ejemplos de uso, además de ser totalmente funcional sin necesidad de un navegador. Gracias a su integración con Capacitor, está optimizada para ejecutarse en dispositivos móviles como una aplicación nativa.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/4033/4033369.png",
+    "integrantes": ["Johan Sebastian Torres", "Ruben Gonzalez"],
+    "actividad": "React + Capacitor",
+    "url": "https://drive.google.com/drive/folders/1V5zlSFmWkGA5PxSZKk3YyBbXzfaJbZdR?usp=drive_link"
+  },
+  {
+    "nombreapp": "Orbit Notes",
+    "descripcion": "Orbit Notes nos permite tomar notas rápidas con un diseño inspirado en un tema espacial/orbital, de esta manera podremos crear, guardar y eliminar notas, todo esto, de forma rápida y con un diseño adaptable ya sea a pantallas móviles como pantallas de escritorio.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/15643/15643951.png",
+    "integrantes": ["Andres Puentes", "Daniel Murillo", "Alejandro Garcia"],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1NVZgPx-sxjSBNpA-Mk60IOhYZJ8mtUdE/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Dulceria-Sweethub",
+    "descripcion": "Aplicación web de una tienda de dulces desarrollada con React y CSS. Los usuarios pueden explorar un catálogo de golosinas, filtrar por categorías, ordenar por precio o nombre, buscar productos y añadirlos a su carrito. La experiencia está optimizada para móviles y escritorio, ofreciendo una interfaz colorida, intuitiva y divertida.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1359/1359326.png",
+    "integrantes": ["Juan Pablo Castañeda", "Santiago Guzman"],
+    "actividad": "React + Capacitor",
+    "url": "https://drive.google.com/file/d/1h_VBI0Z55aeJI9bUXhflCamDmfAyfNs5/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Peliemoji",
+    "descripcion": "Peliemoji es un divertido juego de adivinanzas en el que el reto consiste en descubrir películas de animación a partir de una combinación de emojis. El jugador debe escribir el título (puede estar en español o inglés) y, una vez correcto, acumulará puntos mientras avanza por rondas, con un número limitado de vidas.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/18458/18458223.png",
+    "integrantes": ["Daniel Nomeli", "Andres Pedroza", "Nicolle Carvajal"],
+    "actividad": "Webintoapp",
+    "url": ""
+  },
+  {
+    "nombreapp": "Car Rush Challenge",
+    "descripcion": "Juego móvil desarrollado en React Native con Expo. El jugador controla un carro que debe esquivar múltiples obstáculos que caen a gran velocidad en una carretera. La dificultad aumenta progresivamente con más velocidad y frecuencia de aparición de obstáculos. El control se realiza deslizando el dedo a la izquierda o derecha en la pantalla, lo que hace que la experiencia sea intuitiva y divertida.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2555/2555021.png",
+    "integrantes": ["Daniel Steven Guerrero", "Santiago Guzman"],
+    "actividad": "React Native",
+    "url": "https://drive.google.com/file/d/1HM9OCUWvC8zdoRAdY_t8PtuakYwSGWJ7/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Riega Riega",
+    "descripcion": "Riega Riega es una aplicación diseñada para ayudarte a gestionar de forma sencilla y eficiente el riego de tus plantas. Con ella podrás registrar cada una de tus plantas, añadirles una foto personalizada para identificarlas fácilmente y establecer la frecuencia de riego ideal según sus necesidades. La app te enviará notificaciones para recordarte cuándo es momento de aplicar agua, evitando olvidos y asegurando que tus plantas reciban el cuidado que merecen.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/17858/17858503.png",
+    "integrantes": ["Carlos Riaño"],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1NwsIFx62Sxm5CgTP-mtc4qHoKt1fPYqg/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "JuegoOriginal",
+    "descripcion": "Una aplicación de agenda simple está diseñada para ayudarte a organizar tu tiempo y tus tareas de manera eficiente.",
+    "icono": "https://www.flaticon.es/icono-gratis/destello_252590?term=rayo&page=1&position=39&origin=search&related_id=252590",
+    "integrantes": ["Javier Torres", "Andres Ceballos"],
+    "actividad": "React Native",
+    "url": ""
+  },
+  
+{
+        "nombreapp": "Car Rush Challenge.",
+        "descripcion": "Juego móvil desarrollado en React Native con Expo. El jugador controla un carro que debe esquivar múltiples obstáculos que caen a gran velocidad en una carretera. La dificultad aumenta progresivamente con más velocidad y frecuencia de aparición de obstáculos. El control se realiza deslizando el dedo a la izquierda o derecha en la pantalla, lo que hace que la experiencia sea intuitiva y divertida.",
+        "icono": "     https://cdn-icons-png.flaticon.com/512/2555/2555021.png ",
+  "integrantes": ["Daniel Steven Guerrero", "Santiago Guzman"],
+        "actividad": "Actividad react native",
+        "url": "https://drive.google.com/file/d/1HM9OCUWvC8zdoRAdY_t8PtuakYwSGWJ7/view?usp=drive_link"
+    },
 
 
+
+
+
+    {
+        "nombreapp": "PorkyJump.",
+        "descripcion":"Juego móvil desarrollado en React y empaquetado para APK con webview. El jugador controla a un cerdito que debe saltar obstáculos para no chocar con ellos. La dificultad aumenta progresivamente con mayor velocidad y frecuencia de obstáculos. El control se realiza tocando la pantalla para saltar, haciendo que la experiencia sea sencilla y divertida.",
+        "icono": "    https://cdn-icons-png.flaticon.com/128/11045/11045775.png ",
+  "integrantes": ["Santiago Guzman"],
+        "actividad": "webview",
+        "url": "https://drive.google.com/file/d/1y4j37VOmhTSF80lSRU2JgR19HEfm0aQr/view?usp=drive_link"
+    },
+{
+    "nombreapp": "ActividadWebView(22-02)",
+    "descripcion": "Una aplicacion conectada a una api la cual es capaz de acceder a la camara de tu telefono, tablet o computadora y tomar fotos, las cuales puedes copiar y enviar por redes sociales.",
+    "icono": "https://www.flaticon.es/icono-gratis/galeria_8775713?term=galeria&page=1&position=13&origin=search&related_id=8775713",
+    "integrantes":["Martin Ramirez"],
+    "actividad": "WebView",
+    "url":"https://magenta-cajeta-5522e1.netlify.app/"
+  },{
+    "nombreapp": "PiedraPapelTijera",
+    "descripcion": "Una app que permite jugar el clasico juego de piedra, papel y tijera con un bot de forma ilimitada.",
+    "icono": "https://www.flaticon.es/icono-gratis/tijeras_4151780?term=tijera&page=1&position=33&origin=search&related_id=4151780",
+    "integrantes": ["Andres Puentes"],
+    "actividad": "Web view",
+    "url": "https://drive.google.com/drive/folders/1HzYm7-MuVHKPBat4bBi3QG6rBIBNgJpk"
+
+
+  },{
+    "nombreapp": "Cirpto",
+    "descripcion": "APP donde puedesw verificar el mercado de monedas",
+    "icono": "https://cdn-icons-png.flaticon.com/512/13453/13453099.png ",
+    "integrantes": ["Daniel Murillo"],
+    "actividad": "Web view",
+    "url": "https://drive.google.com/file/d/1d0tDEZxBNivAlM5LuMkekicNnrVcWHg8/view?usp=drive_link"
+
+
+  }
 ]
