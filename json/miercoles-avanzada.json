@@ -32,6 +32,29 @@
     "url": "https://drive.google.com/file/d/1cdODxHR7c_l-V1VrhYYwJLaZD3mJZ-2Y/view?usp=sharing"
   },
   {
+  "nombreapp": "EcoTrivia",
+  "descripcion": "Aplicación en React Native con Expo, tipo trivia de preguntas ambientales, que muestra puntaje y permite reiniciar el juego.",
+  "URL": "https://drive.google.com/file/d/1YLs6M5hrJzz1h83n_c1dAFFYWv1MDeQa/view?usp=sharing",
+  "integrantes": ["SALGUERO VARGAS DUBAN SANTIAGO","URRIAGO CALDERON JUAN ESTEBAN"]
+  },
+  {
+  "nombreapp": "Postits",
+  "descripcion": "Aplicación en React que permite crear y gestionar notas rápidas.",
+  "icono": "https://drive.google.com/file/d/1Xn12VUrJ1GrgC15tLdHMHxrMs6nMV76z/view?usp=sharing",
+  "integrantes": ["Juan Esteban Urriago Calderon"],
+  "actividad": "React",
+  "url": "https://drive.google.com/file/d/1t4q-rDHr-LRZ5F39EfSXbnhHNTaY1KsW/view?usp=sharing",
+  "splash": "https://drive.google.com/file/d/1uYldrJBmJiOMs1CJAYrOmnVdm5fx68X4/view?usp=sharing"
+},
+{
+  "nombreapp": "BookAtlas",
+  "descripcion": "Aplicación en React que permite explorar y gestionar libros fácilmente.",
+  "icono": "https://drive.google.com/file/d/1kAaf1n1UaUMWp0Y5luOK-Z6oAVzCoTxf/view?usp=sharing",
+  "integrantes": ["Juan Esteban Urriago Calderon"],
+  "actividad": "React",
+  "url": "https://drive.google.com/file/d/1dsUzbOgIS0Z5INgbZkC3UurGAnbDxxzI/view?usp=sharing"
+},
+{
     "nombreapp": "Semáforo Interactivo",
     "descripcion": "Simula un semáforo en HTML, CSS y JavaScript. Modo manual y automático.",
     "icono": "https://cdn-icons-png.flaticon.com/512/3267/3267422.png",
