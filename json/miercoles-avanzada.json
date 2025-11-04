@@ -462,5 +462,15 @@
     "integrantes": ["Juan Vargas"],
     "actividad": "API",
     "url": "https://drive.google.com/drive/folders/1C6oKDqtRJZJgCemPeH1QcIiat7ls0GLH?usp=drive_link"
+  },
+  {
+    "nombreapp": "Arcade App",
+    "descripcion": "Juego original con tres sesiones diferentes entretenidos",
+    "icono": "https://toroverdesj.com/assets/img/icons/arcade-4.png",
+    "integrantes": ["Santiago Castellanos - Karen Borda"],
+    "actividad": "ORIGINAL",
+    "url": "https://drive.google.com/file/d/1hHsh0Rz5RSzGSLA21kfpnLHQsWiBHYsy/view?usp=sharing"
   }
 ]
+
+
