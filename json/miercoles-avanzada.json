@@ -109,5 +109,29 @@
     "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },
+    {
+    "nombreapp": "JokeAPI",
+    "descripcion": "Nuestra app utiliza JokeAPI para traerte los mejores chistes al instante. Desde humor clásico hasta chistes geek o de programación, tendrás una sonrisa garantizada cada vez que abras la app.",
+    "icono": "   https://cdn-icons-png.flaticon.com/512/2212/2212416.png ",
+    "integrantes": ["Santiago Castellanos"],
+    "actividad": "API",
+    "url": "https://drive.google.com/file/d/1CpGUCnPnYBmh9ZbQ06wSFbenmB36vfv7/view?usp=sharing"
+  },
+  {
+    "nombreapp": "JokeAPINative",
+    "descripcion": "Ríe en cualquier momento con una app moderna y segura. Desarrollada con React Native, esta aplicación conecta con JokeAPI para ofrecerte chistes al instante desde diferentes categorías. Inicia sesión o regístrate fácilmente para guardar tus favoritos y disfrutar una experiencia personalizada. ¡El humor nunca fue tan interactivo",
+    "icono": "   https://cdn-icons-png.flaticon.com/512/2212/2212416.png ",
+    "integrantes": ["Santiago Castellanos"],
+    "actividad": "API Native",
+    "url": "https://expo.dev/accounts/santiagocd19/projects/JokeAPInative/builds/0d2753a3-4af0-4c9f-81eb-1811e7a259c0"
+  },
+  {
+    "nombreapp": "Figuras",
+    "descripcion": "Visualizador interactivo de figuras geométricas desarrollado en React con Vite, permite recorrer diferentes formas y personalizar colores.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/5090/5090472.png",
+    "integrantes": ["Santiago Castellanos", "Angie Rincon"],
+    "actividad": "React, Netlify",
+    "url": "https://drive.google.com/file/d/1vhpgnb6M4fxBHxdKsSPUKBlI5tS4W2Ot/view?usp=sharing"
   }
 ]
