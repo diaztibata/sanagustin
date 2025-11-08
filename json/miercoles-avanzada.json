@@ -367,6 +367,14 @@
     "actividad": "React Native 3",
     "url": "https://drive.google.com/file/d/1I3SWTBQRS2PkOjAweyezenQCmYfGQWAH/view?usp=drive_link"
   },
+      {
+    "nombreapp": "EcomerceStore",
+    "descripcion": "Ecomerce que contiene 4 secciones, catalogo seccionado, detalle, carrito, original que consiste en ofertas que cambian aleaotriamente..",
+    "icono": "https://cdn-icons-png.flaticon.com/128/4502/4502972.png",
+    "integrantes": ["Juan Vargas","Daniela Parra"],
+    "actividad": "Next js",
+    "url": "https://drive.google.com/drive/folders/1ITElpq02XZvqmMN-_GjafV4vXLINIcl6?usp=drive_link"
+  },
   {
     "nombreapp": "Preguntas",
     "descripcion": "Menú de cuatro respuestas a una pregunta en inglés.",
