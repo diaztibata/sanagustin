@@ -402,19 +402,6 @@
     "integrantes": ["Carlos Eduardo Cruz"],
     "actividad": "API individual",
     "url": "https://drive.google.com/file/d/1cdAq97RGDJ_27slO-3_GCuWx3aYd5Ed3/view?usp=drive_link"
-<<<<<<< HEAD
-  },
-  {
-    "nombreapp": "Original3p",
-    "descripcion": "App para ver curiosidades y llevar notas personasles. Tambien tienes una pestañapara realizar retos fit y mantenerte en forma",
-    "icono": "https://cdn-icons-png.flaticon.com/512/7565/7565182.png",
-    "integrantes": ["Carlos Eduardo Cruz", "Juan Esteban Leon"],
-    "actividad": "Next JS / Original / ChatGPT - (0.75) - Parejas",
-    "url": "https://drive.google.com/file/d/1kJZIV41J1H-KYTXTqjmv7FUz5Y2PMf3g/view?usp=drive_link"
-
-  }
-=======
->>>>>>> a585bbb933ad6bfd15c4ec27ac191997314ea063
 
   },
     {
@@ -471,5 +458,14 @@
     "integrantes": ["Juan Vargas"],
     "actividad": "Api",
     "url": "https://drive.google.com/drive/folders/1C6oKDqtRJZJgCemPeH1QcIiat7ls0GLH?usp=drive_link"
+  },
+  {
+    "nombreapp": "Original3p",
+    "descripcion": "App para ver curiosidades y llevar notas personasles. Tambien tienes una pestañapara realizar retos fit y mantenerte en forma",
+    "icono": "https://cdn-icons-png.flaticon.com/512/7565/7565182.png",
+    "integrantes": ["Carlos Eduardo Cruz", "Juan Esteban Leon"],
+    "actividad": "Next JS / Original / ChatGPT - (0.75) - Parejas",
+    "url": "https://drive.google.com/file/d/1kJZIV41J1H-KYTXTqjmv7FUz5Y2PMf3g/view?usp=drive_link"
+
   }
 ]
