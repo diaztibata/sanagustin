@@ -227,13 +227,9 @@
     "icono": "https://www.flaticon.es/icono-gratis/botella-de-vino_45637?term=botella&page=1&position=5&origin=search&related_id=45637",
     "integrantes": "Juan Leon ",
     "actividad": "Android Studio"
-<<<<<<< HEAD
-  },{
-=======
     "integrantes": ["Juan Leon"]
   },
   {
->>>>>>> a585bbb933ad6bfd15c4ec27ac191997314ea063
     "nombreapp": "memoria-y-bienestar",
     "descripcion": "App para guardar citas médicas o recordatorios de medicamentos.",
     "icono": "https://cdn-icons-png.flaticon.com/512/1510/1510738.png",
@@ -466,6 +462,15 @@
     "integrantes": ["Carlos Eduardo Cruz", "Juan Esteban Leon"],
     "actividad": "Next JS / Original / ChatGPT - (0.75) - Parejas",
     "url": "https://drive.google.com/file/d/1kJZIV41J1H-KYTXTqjmv7FUz5Y2PMf3g/view?usp=drive_link"
+
+  },
+  {
+    "nombreapp": "ApiDigimonExpoReact",
+    "descripcion": "Esta aplicación es un explorador del Mundo Digital, construido como un demo utilizando React Native y Firebase.",
+    "icono": "https://i.pinimg.com/474x/0e/e0/b6/0ee0b6350b8ccfd2d31014ad3768a19d.jpg",
+    "integrantes": ["Carlos Eduardo Cruz"],
+    "actividad": "API React Native / Firebase – (0.75) – Individual",
+    "url": "https://drive.google.com/file/d/16LzVn3NWjUM0vm1wQ5ydfMHWpLWSg3G8/view?usp=drive_link"
 
   }
 ]
