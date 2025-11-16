@@ -278,5 +278,17 @@
     "url": "https://drive.google.com/drive/folders/1HzYm7-MuVHKPBat4bBi3QG6rBIBNgJpk"
 
 
+  },
+{
+    "nombreapp": "FakeStoreApi",
+    "descripcion": "FakeStoreAPI es una API pública y gratuita que proporciona datos ficticios de productos, usuarios y carritos de compra. Está diseñada para que desarrolladores practiquen o prueben funcionalidades de comercio electrónico sin necesidad de crear su propia base de datos o backend.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/925/925036.png",
+    "integrantes": ["Andres Ceballos"],
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/drive/folders/1z2fPltwgCX6ymktQyn-sipPhnfesjBPc?usp=drive_link"
+
+
   }
 ]
+
+
