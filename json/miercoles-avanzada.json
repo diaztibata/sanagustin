@@ -239,6 +239,7 @@
     "actividad": "Expo React Native",
     "url": "https://drive.google.com/file/d/1St3CUegt8Ai0dKSkRiiYcxeo64oQC1Ei/view?usp=sharing"
   },
+  
   {
     "nombreapp": "mi_app",
     "descripcion": "App de preguntas con múltiples respuestas.",
@@ -310,6 +311,15 @@
     "integrantes": ["Elmer Cabrera cortez"],
     "actividad": "Deploy_Netlify_Api_restcountries",
     "url": "https://destinosuramerica.netlify.app"
+  },
+
+  {
+    "nombreapp": "Applimenta-T",
+    "descripcion": "App para crear planes de alimentacion saludable , con recetas colombianas y la api de edamam.",
+    "icono": "https://drive.google.com/file/d/1ngmhNJbZViikYZco3-SV_YdTIv3EPBSi/view?usp=drive_link",
+    "integrantes": ["Cabrera Elmer"],
+    "actividad": "Expo React Native firebase",
+    "url": "https://drive.google.com/file/d/1BW2N5jFu5qPIRFm5sNB4duzCWtcGeW80/view?usp=drive_link"
   },
   {
     "nombreapp": "Trivia General",
