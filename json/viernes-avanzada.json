@@ -93,8 +93,16 @@
         "descripcion":"Aplicacion la cual muestra informacion sobre diversos personajes de rickymorty y un juego de bucar al impostor",
         "icono": " https://cdn-icons-png.flaticon.com/512/1534/1534058.png ",
         "integrantes": "Santiago Guzman",
-        "actividad": "API React Native / Firebase",
+        "actividad": "API React Native/Firebase",
         "url": "https://drive.google.com/file/d/1H-lRRlCDXcoyIBA080cmoNFonveOaAPN/view?usp=drive_link"
+    },
+       {
+        "nombreapp": "JUEGOS",
+        "descripcion":"Aplicacion la cual muestra un menu donde se puede encontrar 3 aplicaciones las cuales son, adivina el numero , reflejos y no toque la bomba",
+        "icono": " https://cdn-icons-png.flaticon.com/512/2331/2331852.png",
+        "integrantes": "Santiago Guzman y Johan Torres",
+        "actividad": "Next JS / Original / ChatGPT",
+        "url": "https://drive.google.com/file/d/143Bc1L0UDtgaZlv8zmxbalz3ooaW7IHc/view?usp=drive_link"
     }
 
 
