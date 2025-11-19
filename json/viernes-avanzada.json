@@ -288,6 +288,16 @@
     "url": "https://drive.google.com/drive/folders/1z2fPltwgCX6ymktQyn-sipPhnfesjBPc?usp=drive_link"
 
 
+  },
+{
+    "nombreapp": "Originales C,C",
+    "descripcion": "es una aplicación móvil diseñada para que las parejas fortalezcan su vínculo a través de desafíos de lógica y estrategia en un entorno limpio y moderno. Desarrollada con Next.js para garantizar un rendimiento web óptimo y distribuida mediante WebView para una experiencia nativa, la aplicación está estructurada en tres páginas originales: la primera página alberga el clásico Sudoku para ejercitar la deducción; la segunda presenta Sokoban, un puzle de empuje que exige coordinación mutua; y la última ofrece el adictivo juego de números 2048. Esta arquitectura permite que las complejas interacciones de cada juego se ejecuten de manera fluida, ofreciendo a las parejas una forma divertida y accesible de retarse y colaborar.",
+    "icono": "https://www.flaticon.es/icono-gratis/videojuego_4021738",
+    "integrantes": ["Andres Ceballos,Juan Castañeda"],
+    "actividad": "NEXTJS - WEBVIEW",
+    "url": "https://drive.google.com/drive/folders/1fzdGDBvllYwjaEd3nSiYbwOoZQ5mrfwP?usp=drive_link"
+
+
   }
 ]
 
