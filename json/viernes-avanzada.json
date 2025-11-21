@@ -309,5 +309,13 @@
     "integrantes": ["Andres Puentes"],
     "actividad": "API individual",
     "url": "https://drive.google.com/drive/u/4/folders/1U7ygWFRsyh7Z03eWmAaY7vqK2lHKjG_w"
+  },
+  {
+    "nombreapp": "Pinterest",
+    "descripcion": "Aplicacion que permite subir y ver contenido multimedia",
+    "icono": "https://w7.pngwing.com/pngs/56/300/png-transparent-logo-pinterest-computer-icons-symbol-miscellaneous-text-trademark.png",
+    "integrantes": ["Andres Puentes, Ruben Gonzalez, Javier Dueñas"],
+    "actividad": "Dashboard Supabase replica",
+    "url": "https://drive.google.com/drive/folders/1bAf6IOU8g7_oG6vMPZtnffmsFfKe-U7y"
   }
 ]
