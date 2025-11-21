@@ -55,6 +55,22 @@
   "url": "https://drive.google.com/file/d/1dsUzbOgIS0Z5INgbZkC3UurGAnbDxxzI/view?usp=sharing"
 },
 {
+    "nombreapp": "Tres Pestañas",
+    "descripcion": "Aplicación con tres funciones diferentes distribuidas en tres pestañas para navegación simple.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/5726/5726558.png",
+    "integrantes": ["Juan Esteban Urriago Calderon"],
+    "actividad": "Tres originales",
+    "url": "https://drive.google.com/file/d/1UNtAWDytVWtlA9EzJmP3gD-sON8-aykg/view?usp=sharing"
+  },
+  {
+    "nombreapp": "Yugi App",
+    "descripcion": "Aplicación creada en React Native con Expo, que muestra cartas de Yu-Gi-Oh!, perfil de usuario y conexión a Firebase para login y datos.",
+    "icono": "Sin icono",
+    "integrantes": ["Juan Esteban Urriago Calderon"],
+    "actividad": "Firebase Native",
+    "url": "https://drive.google.com/file/d/1lTbYv5GiOKDMqgGFtHPFwu-Z8RGTXXtE/view?usp=sharing"
+  },
+  {
     "nombreapp": "Semáforo Interactivo",
     "descripcion": "Simula un semáforo en HTML, CSS y JavaScript. Modo manual y automático.",
     "icono": "https://cdn-icons-png.flaticon.com/512/3267/3267422.png",
