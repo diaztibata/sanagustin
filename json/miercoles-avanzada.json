@@ -778,5 +778,13 @@
     ],
     "actividad": "API React Native / Firebase – (0.75) – Individual",
     "url": "https://expo.dev/accounts/juanze/projects/firebase_api/builds/16ed97a6-c903-481b-82db-efca3b93d282"
-  }
+  },
+  {
+    "nombreapp": "applimenta-T",
+    "descripcion": "App para alimentacion saludable.",
+    "icono": "https://drive.google.com/file/d/1ngmhNJbZViikYZco3-SV_YdTIv3EPBSi/view?usp=drive_link",
+    "integrantes": ["Cabrera Elmer"],
+    "actividad": "Expo React Native",
+    "url": "https://drive.google.com/file/d/1BW2N5jFu5qPIRFm5sNB4duzCWtcGeW80/view?usp=drive_link"
+  },
 ]
