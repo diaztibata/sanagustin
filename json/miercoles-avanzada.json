@@ -3,7 +3,10 @@
     "nombreapp": "Adivinar",
     "descripcion": "Adivina la Fruta es un juego web interactivo desarrollado con HTML, CSS y JavaScript...",
     "icono": "https://cdn-icons-png.flaticon.com/512/2909/2909765.png",
-    "integrantes": ["Oscar Herrera", "Katherin Aviles"],
+    "integrantes": [
+      "Oscar Herrera",
+      "Katherin Aviles"
+    ],
     "actividad": "Android Studio",
     "url": "https://katherin2024.github.io/AdivinarApk/"
   },
@@ -11,7 +14,9 @@
     "nombreapp": "ApiPoema",
     "descripcion": "Esta es una API creada para inspiracion y buscar un poema de tu gusto",
     "icono": "https://cdn-icons-png.flaticon.com/128/10389/10389721.png",
-    "integrantes": ["Katherin Aviles"],
+    "integrantes": [
+      "Katherin Aviles"
+    ],
     "actividad": "React Vite",
     "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
   },
@@ -19,7 +24,9 @@
     "nombreapp": "Crushed controller",
     "descripcion": "Juego de juntar tres imágenes iguales para sumar puntos hasta llegar a 5000.",
     "icono": "https://cdn-icons-png.flaticon.com/512/686/686589.png",
-    "integrantes": ["Juan Esteban Urriago Calderon"],
+    "integrantes": [
+      "Juan Esteban Urriago Calderon"
+    ],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/105SP2xXyZNvgLyhxfGtppU64VXUwHg1b/view?usp=sharing"
   },
@@ -27,7 +34,9 @@
     "nombreapp": "Conversor de Monedas",
     "descripcion": "Aplicación en React Native con Expo que convierte de USD a EUR, COP y MXN.",
     "icono": "https://cdn-icons-png.flaticon.com/512/2331/2331947.png",
-    "integrantes": ["Juan Esteban Urriago Calderon"],
+    "integrantes": [
+      "Juan Esteban Urriago Calderon"
+    ],
     "actividad": "Expo (React Native)",
     "url": "https://drive.google.com/file/d/1cdODxHR7c_l-V1VrhYYwJLaZD3mJZ-2Y/view?usp=sharing"
   },
@@ -35,7 +44,10 @@
     "nombreapp": "Semáforo Interactivo",
     "descripcion": "Simula un semáforo en HTML, CSS y JavaScript. Modo manual y automático.",
     "icono": "https://cdn-icons-png.flaticon.com/512/3267/3267422.png",
-    "integrantes": ["Santiago Castellanos", "Angie Rincon"],
+    "integrantes": [
+      "Santiago Castellanos",
+      "Angie Rincon"
+    ],
     "actividad": "Android Studio",
     "url": "https://santiago1902200.github.io/Semaforo/"
   },
@@ -43,7 +55,11 @@
     "nombreapp": "Buscaminas v1.0",
     "descripcion": "Versión clásica del juego Buscaminas, optimizada para dispositivos móviles.",
     "icono": "https://cdn-icons-png.flaticon.com/512/15394/15394833.png",
-    "integrantes": ["Wilson Carmona", "Juan Esteban Leon Padilla", "Nicolas Alarcon Mendoza"],
+    "integrantes": [
+      "Wilson Carmona",
+      "Juan Esteban Leon Padilla",
+      "Nicolas Alarcon Mendoza"
+    ],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1Gk4rxS3bFCCsnTEoJRcRRous6Am7Cpyk/view?usp=drive_link"
   },
@@ -51,7 +67,10 @@
     "nombreapp": "Cargame",
     "descripcion": "Juego de un carro que debe esquivar obstáculos, si choca el puntaje se reinicia.",
     "icono": "https://cdn-icons-png.flaticon.com/512/859/859864.png",
-    "integrantes": ["Juan Vargas", "Cristian Vega"],
+    "integrantes": [
+      "Juan Vargas",
+      "Cristian Vega"
+    ],
     "actividad": "React Native, Expo",
     "url": "https://drive.google.com/drive/folders/1oCId1BC3iwsEtM5APPjM5Sx2sGkiMKcP?usp=drive_link"
   },
@@ -59,7 +78,11 @@
     "nombreapp": "Urbanvibe Clothing",
     "descripcion": "Simula un ecommerce de ropa con consumo de API, hecho en JS, HTML y CSS.",
     "icono": "https://cdn-icons-png.flaticon.com/512/892/892458.png",
-    "integrantes": ["Juan Vargas", "Cristian Vega", "Daniela Parra"],
+    "integrantes": [
+      "Juan Vargas",
+      "Cristian Vega",
+      "Daniela Parra"
+    ],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/17Zm-rzwxINWMV-SegCQ-YnjBBtL_YFH4/view?usp=drive_link"
   },
@@ -67,7 +90,10 @@
     "nombreapp": "Basketball",
     "descripcion": "Un juego de basketball donde se mide la fuerza de cada intento, cuenta con un contador y un boton de reinicio de puntaje.",
     "icono": "https://www.freepik.es/vector-gratis/plantilla-logotipo-baloncesto-vintage-coloreado_10094043.htm",
-    "integrantes": ["Juan Vargas","Daniela Parra"],
+    "integrantes": [
+      "Juan Vargas",
+      "Daniela Parra"
+    ],
     "actividad": "React, capcitor, andrioid studio",
     "url": "https://drive.google.com/drive/folders/1kvi1pxbICEmMueOQdsa-bT2ZPdp83WKi?usp=drive_link"
   },
@@ -75,7 +101,11 @@
     "nombreapp": "Sudoku Mobile",
     "descripcion": "Juego de Sudoku 9x9 para móviles, con teclado numérico en pantalla.",
     "icono": "https://cdn-icons-png.flaticon.com/512/1059/1059568.png",
-    "integrantes": ["Jose Grass", "Elmer Cabrera", "Alejandro Rubio"],
+    "integrantes": [
+      "Jose Grass",
+      "Elmer Cabrera",
+      "Alejandro Rubio"
+    ],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1mPe4jiAUu-swfvNxg0mZ-Kamwg8mUmvs/view?usp=drive_link"
   },
@@ -83,7 +113,11 @@
     "nombreapp": "Memoria Emoji",
     "descripcion": "Juego de memoria con emojis, para encontrar pares idénticos.",
     "icono": "https://cdn-icons-png.flaticon.com/128/8048/8048319.png",
-    "integrantes": ["Felipe Rivera", "Duban Salguero", "Juan Herrera"],
+    "integrantes": [
+      "Felipe Rivera",
+      "Duban Salguero",
+      "Juan Herrera"
+    ],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/11nnixiF1UtcPS1umGfa7NcD3vRSijpaO/view?usp=drive_link"
   },
@@ -91,7 +125,11 @@
     "nombreapp": "Color Memory",
     "descripcion": "Juego de secuencia de colores que el jugador debe repetir correctamente.",
     "icono": "https://cdn-icons-png.flaticon.com/512/1138/1138727.png",
-    "integrantes": ["María Paula Almario", "Maicol López", "Karen Borda"],
+    "integrantes": [
+      "María Paula Almario",
+      "Maicol López",
+      "Karen Borda"
+    ],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1IXn9NoE-ERuSXvQNI3cDBwFqT7x5zn_K/view?usp=drivesdk"
   },
@@ -99,7 +137,10 @@
     "nombreapp": "Conversor de Unidades",
     "descripcion": "Convierte longitud, temperatura y moneda.",
     "icono": "https://cdn-icons-png.flaticon.com/512/3310/3310608.png",
-    "integrantes": ["María Paula Almario", "Maicol López"],
+    "integrantes": [
+      "María Paula Almario",
+      "Maicol López"
+    ],
     "actividad": "Capacitor y Expo",
     "url": "https://drive.google.com/file/d/11xmHmha61PSpMxw3wxq3GkdCCmu4V3QE/view?usp=drive_link"
   },
@@ -107,7 +148,10 @@
     "nombreapp": "Generador de excusas",
     "descripcion": "Genera excusas para diferentes situaciones, como llegar tarde o faltar al trabajo.",
     "icono": "https://cdn-icons-png.flaticon.com/128/3680/3680202.png",
-    "integrantes": ["Juan Esteban Leon Padilla", "Maicol López"],
+    "integrantes": [
+      "Juan Esteban Leon Padilla",
+      "Maicol López"
+    ],
     "actividad": "React Native",
     "url": "https://expo.dev/accounts/jelp12/projects/Excusas/builds/411d8e77-91c3-467a-86b1-12819779473c"
   },
@@ -115,7 +159,10 @@
     "nombreapp": "Carritos chocones",
     "descripcion": "Puedes jugar a los carritos chocones, donde puedes elegir tu carrito y chocar con los demás jugadores. Muy divertido para pasar el rato con amigos y familiares.",
     "icono": "https://cdn-icons-png.flaticon.com/512/2555/2555021.png",
-    "integrantes": ["Maria Paula Almario", "Maicol López"],
+    "integrantes": [
+      "Maria Paula Almario",
+      "Maicol López"
+    ],
     "actividad": "React Native con Netlify",
     "url": "https://drive.google.com/file/d/1FTlAKwlMVPCktRNIUWixoYn0O6d_9kh7/view?usp=drive_link"
   },
@@ -123,7 +170,11 @@
     "nombreapp": "MOTOS",
     "descripcion": "Muestra motocicletas según marca, modelo y año.",
     "icono": "https://cdn-icons-png.flaticon.com/128/705/705637.png",
-    "integrantes": ["Juan Fernando Caicedo", "Oscar Julian Villamarin", "John Anderson Yate"],
+    "integrantes": [
+      "Juan Fernando Caicedo",
+      "Oscar Julian Villamarin",
+      "John Anderson Yate"
+    ],
     "actividad": "Android Studio",
     "url": "https://github.com/Julianv2903/motos-kawa"
   },
@@ -131,7 +182,11 @@
     "nombreapp": "BuscaMinas",
     "descripcion": "Versión de buscaminas donde debes evitar las minas y descubrir todas las casillas seguras.",
     "icono": "https://play-lh.googleusercontent.com/eX5S3Tv3eSO1aWDMQ7MGRO1AaZM-mF0EvRbNsUM887kJVHj0aKv4GnDNj6ds_qvhpak",
-    "integrantes": ["YONHEY BONILLA", "FELIPE PIRAGAUTA", "ANDREY FAJARDO"],
+    "integrantes": [
+      "YONHEY BONILLA",
+      "FELIPE PIRAGAUTA",
+      "ANDREY FAJARDO"
+    ],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1hmw5SUqdjMZ9OcZTZCiiaY0kEIppcBL3/view?usp=drive_link"
   },
@@ -139,7 +194,10 @@
     "nombreapp": "Geometry",
     "descripcion": "Juego de plataformas rítmicas basado en figuras geométricas y música.",
     "icono": "https://cdn-icons-png.flaticon.com/512/1850/1850730.png",
-    "integrantes": ["YONHEY BONILLA", "Heidy Aviles"],
+    "integrantes": [
+      "YONHEY BONILLA",
+      "Heidy Aviles"
+    ],
     "actividad": "Android Studio",
     "url": "https://vigilant-adventure-5g5497v56rprh7vg5-5173.app.github.dev/"
   },
@@ -147,23 +205,23 @@
     "nombreapp": "Juego dados",
     "descripcion": "Lanza dados de forma aleatoria y visualiza el resultado.",
     "icono": "https://cdn-icons-png.flaticon.com/512/9003/9003230.png",
-    "integrantes": ["Juan Buitrago", "Juan Chaparro", "Juan Quintero"],
+    "integrantes": [
+      "Juan Buitrago",
+      "Juan Chaparro",
+      "Juan Quintero"
+    ],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1xv0-_ALlIMtrz4GjYEL2zHauUddf6tsu/view?usp=drive_link"
-  },
-  {
-    "nombreapp": "Basketball",
-    "descripcion": "Juego de basketball donde se mide la fuerza y se lleva puntaje.",
-    "icono": "https://cdn-icons-png.flaticon.com/512/186/186217.png",
-    "integrantes": ["Juan Vargas", "Daniela Parra"],
-    "actividad": "React, Capacitor, Android Studio",
-    "url": "https://drive.google.com/drive/folders/1kvi1pxbICEmMueOQdsa-bT2ZPdp83WKi?usp=drive_link"
   },
   {
     "nombreapp": "Piedra, papel y tijeras",
     "descripcion": "Juego clásico contra la CPU.",
     "icono": "https://cdn-icons-png.flaticon.com/512/6729/6729732.png",
-    "integrantes": ["Alejandro Rubio", "Cristian Rojas", "Carlos Rivera"],
+    "integrantes": [
+      "Alejandro Rubio",
+      "Cristian Rojas",
+      "Carlos Rivera"
+    ],
     "actividad": "React Native",
     "url": "https://drive.google.com/drive/folders/1mL4APaVNPN8Th8nSIp2isTRcj99GRjEP"
   },
@@ -171,7 +229,11 @@
     "nombreapp": "frases",
     "descripcion": "Frases motivadoras que buscan fomentar la confianza, la superación personal y la actitud positiva mientras el usuario interactúa con la aplicación.",
     "icono": "https://drive.google.com/file/d/19Gt28a4ljZiUX1S5pAJg5VymQE9QQzXc/view?usp=drive_link",
-    "integrantes": ["Santiago Bonilla", "Andrey Fajardo", "Felipe Piragautaa"],
+    "integrantes": [
+      "Santiago Bonilla",
+      "Andrey Fajardo",
+      "Felipe Piragautaa"
+    ],
     "actividad": "Android Studio",
     "url": "https://andfkx.github.io/appparejas15oct/"
   },
@@ -179,7 +241,10 @@
     "nombreapp": "Stopwatch",
     "descripcion": "Cronómetro para configurar alarmas por tiempo.",
     "icono": "https://cdn-icons-png.flaticon.com/512/2982/2982765.png",
-    "integrantes": ["Carlos Eduardo Cruz", "Cristian Rojas"],
+    "integrantes": [
+      "Carlos Eduardo Cruz",
+      "Cristian Rojas"
+    ],
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
   },
@@ -187,7 +252,9 @@
     "nombreapp": "Spacex",
     "descripcion": "Aplicación desarrollada con tecnologías web modernas que consume la API de SpaceX para visualizar datos actualizados sobre sus misiones espaciales.",
     "icono": "https://cdn-icons-png.flaticon.com/512/9961/9961510.png",
-    "integrantes": ["Nicolas Alarcón"],
+    "integrantes": [
+      "Nicolas Alarcón"
+    ],
     "actividad": "Android Studio",
     "url": "https://github.com/Nicolas-alark/SpaceX"
   },
@@ -195,7 +262,9 @@
     "nombreapp": "Geometry Dash Clone",
     "descripcion": "Juego de plataformas rítmico tipo Geometry Dash, donde el jugador esquiva obstáculos saltando.",
     "icono": "https://cdn-icons-png.flaticon.com/512/5291/5291527.png",
-    "integrantes": ["Jose Grass"],
+    "integrantes": [
+      "Jose Grass"
+    ],
     "actividad": "React+Webview",
     "url": "https://drive.google.com/file/d/1D0kWAnoAvqZnesxob5-DWINFfrs7FuxU/view?usp=drive_link"
   },
@@ -203,7 +272,9 @@
     "nombreapp": "Api Disney",
     "descripcion": "Api Disney",
     "icono": "https://cdn-icons-png.flaticon.com/128/754/754238.png",
-    "integrantes": ["Jose Grass"],
+    "integrantes": [
+      "Jose Grass"
+    ],
     "actividad": "React+Webview",
     "url": "https://drive.google.com/file/d/1D0kWAnoAvqZnesxob5-DWINFfrs7FuxU/view?usp=drive_link"
   },
@@ -211,7 +282,10 @@
     "nombreapp": "Piedra,papel o tijera",
     "descripcion": "Es un juego tradicional de manos, comúnmente jugado por dos personas. La dinámica es simple y rápida.",
     "icono": "https://www.flaticon.es/icono-gratis/oruga_2470081?term=oruga&page=1&position=8&origin=search&related_id=2470081",
-    "integrantes": ["Oscar Herrera", "Katherin Aviles"],
+    "integrantes": [
+      "Oscar Herrera",
+      "Katherin Aviles"
+    ],
     "actividad": "Deploy",
     "url": "http://juegopiedrapapel.netlify.app"
   },
@@ -219,7 +293,10 @@
     "nombreapp": "Figuras",
     "descripcion": "Visualizador interactivo de figuras geométricas desarrollado en React con Vite, permite recorrer diferentes formas y personalizar colores.",
     "icono": "https://cdn-icons-png.flaticon.com/512/5090/5090472.png",
-    "integrantes": ["Santiago Castellanos", "Angie Rincon"],
+    "integrantes": [
+      "Santiago Castellanos",
+      "Angie Rincon"
+    ],
     "actividad": "React, Netlify",
     "url": "https://drive.google.com/file/d/1vhpgnb6M4fxBHxdKsSPUKBlI5tS4W2Ot/view?usp=sharing"
   },
@@ -227,7 +304,9 @@
     "nombreapp": "Cuello de botella",
     "descripcion": "Aplicacion que calcula el cuello de botella que tiene un procesador y una tarjeta grafica",
     "icono": "https://www.flaticon.es/icono-gratis/botella-de-vino_45637?term=botella&page=1&position=5&origin=search&related_id=45637",
-    "integrantes": ["Juan Leon"],
+    "integrantes": [
+      "Juan Leon"
+    ],
     "actividad": "Android Studio",
     "url": "#"
   },
@@ -235,7 +314,10 @@
     "nombreapp": "memoria-y-bienestar",
     "descripcion": "App para guardar citas médicas o recordatorios de medicamentos.",
     "icono": "https://cdn-icons-png.flaticon.com/512/1510/1510738.png",
-    "integrantes": ["Cabrera Elmer", "Juan Caicedo"],
+    "integrantes": [
+      "Cabrera Elmer",
+      "Juan Caicedo"
+    ],
     "actividad": "Expo React Native",
     "url": "https://drive.google.com/file/d/1St3CUegt8Ai0dKSkRiiYcxeo64oQC1Ei/view?usp=sharing"
   },
@@ -243,7 +325,10 @@
     "nombreapp": "mi_app",
     "descripcion": "App de preguntas con múltiples respuestas.",
     "icono": "https://cdn-icons-png.flaticon.com/512/5726/5726775.png",
-    "integrantes": ["Oscar Herrera", "Juan Herrera"],
+    "integrantes": [
+      "Oscar Herrera",
+      "Juan Herrera"
+    ],
     "actividad": "React Native",
     "url": "https://juanse68.github.io/react_native/"
   },
@@ -251,7 +336,10 @@
     "nombreapp": "V_ESCAPE_ROOM",
     "descripcion": "Juego donde una persona (o la computadora) piensa un número secreto y el jugador tiene que adivinar cuál es.",
     "icono": "https://www.flaticon.es/icono-gratis/confuso_2577567?term=adivinaar&page=1&position=2&origin=search&related_id=2577567",
-    "integrantes": ["Oscar Herrera", "Katherin Aviles"],
+    "integrantes": [
+      "Oscar Herrera",
+      "Katherin Aviles"
+    ],
     "actividad": "React_Expo",
     "url": "https://katherin2024.github.io/V_ESCAPE_ROOM/"
   },
@@ -259,7 +347,10 @@
     "nombreapp": "Color Game",
     "descripcion": "Juego donde debes seleccionar el color correcto según la instrucción.",
     "icono": null,
-    "integrantes": ["Karen Borda", "Juan Caicedo"],
+    "integrantes": [
+      "Karen Borda",
+      "Juan Caicedo"
+    ],
     "actividad": "App React 1",
     "url": "https://github.com/karen111-star/ColorGame"
   },
@@ -267,7 +358,10 @@
     "nombreapp": "Calculadora de Promedios",
     "descripcion": "Calcula promedios por materia y semestre. Permite definir cortes y notas requeridas.",
     "icono": "https://cdn-icons-png.flaticon.com/512/5345/5345743.png",
-    "integrantes": ["Jose Grass", "Alejandro Rubio"],
+    "integrantes": [
+      "Jose Grass",
+      "Alejandro Rubio"
+    ],
     "actividad": "React y React Native",
     "url": "https://drive.google.com/file/d/1bQ56gAVSWv23l4TJr5Xu6EmjEmvI-p7U/view?usp=drive_link"
   },
@@ -275,7 +369,10 @@
     "nombreapp": "Contador",
     "descripcion": "Aplicación que permite sumar o restar números. (No calculadora)",
     "icono": "https://www.flaticon.es/icono-gratis/contabilidad_6712929",
-    "integrantes": ["Angie Rincon", "Juan Herrera"],
+    "integrantes": [
+      "Angie Rincon",
+      "Juan Herrera"
+    ],
     "actividad": "Capacitor y Expo",
     "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
   },
@@ -283,7 +380,10 @@
     "nombreapp": "Ahorcado",
     "descripcion": "Ejercita tu mente con palabras ocultas relacionadas con IA y programación.",
     "icono": "https://www.freepik.es/vector-premium/ilustracion-linea-suicidio_153599670",
-    "integrantes": ["Elmer Cabrera", "Nicolas Alarcon"],
+    "integrantes": [
+      "Elmer Cabrera",
+      "Nicolas Alarcon"
+    ],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1V7mlyDwvM8GH3T8o5mtDqxDqxSR75WVM/view?usp=drive_link"
   },
@@ -291,7 +391,10 @@
     "nombreapp": "Random_english",
     "descripcion": "Genera palabras aleatorias en inglés y muestra ejemplos; permite escuchar la pronunciación.",
     "icono": "https://cdn-icons-png.flaticon.com/128/4928/4928912.png",
-    "integrantes": ["Nicolas Alarcon Mendoza", "Maaria Paula Almario Beas"],
+    "integrantes": [
+      "Nicolas Alarcon Mendoza",
+      "Maaria Paula Almario Beas"
+    ],
     "actividad": "React Native",
     "url": "https://drive.google.com/drive/folders/1gBc2S9mZrEx_uOJl9U6iiXK-bm3AroZP?usp=drive_link"
   },
@@ -299,7 +402,9 @@
     "nombreapp": "River_Legend",
     "descripcion": "App dedicada a mostrar la biodiversidad de nuestros parques naturales y pesca sostenible.",
     "icono": "https://drive.google.com/thumbnail?id=14DHS0kzCeJusxZ3mRRlcgfYK1oKhVxw9&sz=w1000",
-    "integrantes": ["Elmer Cabrera"],
+    "integrantes": [
+      "Elmer Cabrera"
+    ],
     "actividad": "Deploy_Netlify_webview",
     "url": "https://riverl.netlify.app"
   },
@@ -307,7 +412,9 @@
     "nombreapp": "SurAmerica Viva",
     "descripcion": "Explora Suramérica: muestra cultura, naturaleza y destinos del continente.",
     "icono": "https://drive.google.com/file/d/143VEl5gVrdZSfxEBgNejAwxhviU4HBDy/preview",
-    "integrantes": ["Elmer Cabrera cortez"],
+    "integrantes": [
+      "Elmer Cabrera cortez"
+    ],
     "actividad": "Deploy_Netlify_Api_restcountries",
     "url": "https://destinosuramerica.netlify.app"
   },
@@ -315,7 +422,9 @@
     "nombreapp": "Trivia General",
     "descripcion": "Aplicación de 15 preguntas de cultura general.",
     "icono": "https://cdn-icons-png.flaticon.com/512/3273/3273599.png",
-    "integrantes": ["Wilson Carmona"],
+    "integrantes": [
+      "Wilson Carmona"
+    ],
     "actividad": "Apk React no Native",
     "url": "https://drive.google.com/file/d/1wVZ9_Zp5VdUHxVsBhhjasfwFCf4b3N-E/view?usp=sharing"
   },
@@ -323,7 +432,10 @@
     "nombreapp": "TodoList",
     "descripcion": "Aplicación para gestionar tareas con fechas y hora de recordatorio.",
     "icono": "https://cdn-icons-png.flaticon.com/128/14991/14991730.png",
-    "integrantes": ["Carlos Eduardo Cruz", "Juan Esteban Leon"],
+    "integrantes": [
+      "Carlos Eduardo Cruz",
+      "Juan Esteban Leon"
+    ],
     "actividad": "App React 1",
     "url": "https://drive.google.com/file/d/14ObvT2HrKg99zicwnj3pE3HU0oh1FXR7/view?usp=drive_link"
   },
@@ -331,7 +443,10 @@
     "nombreapp": "GastosMensuales",
     "descripcion": "Gestiona gastos mensuales con base en un límite preestablecido por el usuario.",
     "icono": "https://cdn-icons-png.flaticon.com/512/3882/3882164.png",
-    "integrantes": ["Carlos Eduardo Cruz", "Juan Manuel Chaparro"],
+    "integrantes": [
+      "Carlos Eduardo Cruz",
+      "Juan Manuel Chaparro"
+    ],
     "actividad": "React Native 3",
     "url": "https://drive.google.com/file/d/1-yISWQ-ezVgCxMPDKh7Dj1V2daMoeJt5/view?usp=drive_link"
   },
@@ -339,7 +454,9 @@
     "nombreapp": "Puzzle",
     "descripcion": "Juego de puzzle donde puedes elegir una imagen y dividirla en piezas para volver a unirlas.",
     "icono": "https://cdn-icons-png.flaticon.com/512/10350/10350171.png",
-    "integrantes": ["Carlos Eduardo Cruz"],
+    "integrantes": [
+      "Carlos Eduardo Cruz"
+    ],
     "actividad": "Hacer deploy - avanzadas",
     "url": "https://drive.google.com/file/d/1fB1se4ShY9AAkAxLNpOw4SP6ancLKETo/view?usp=drive_link"
   },
@@ -347,7 +464,10 @@
     "nombreapp": "sabes",
     "descripcion": "Juego interactivo de preguntas con múltiples respuestas, desarrollado con React y Capacitor, empaquetado para Android.",
     "icono": "https://mangoanimate.com/blog/wp-content/uploads/2023/12/Interactive-Slides-Body-Language.png.webp",
-    "integrantes": ["Felipe Rivera", "Duban Salguero"],
+    "integrantes": [
+      "Felipe Rivera",
+      "Duban Salguero"
+    ],
     "actividad": "Android Studio",
     "url": "https://drive.google.com/file/d/1n6S1o0MGPiIL4Ku5kXFqMnLRaS2nV2yL/view?usp=drive_link"
   },
@@ -355,7 +475,10 @@
     "nombreapp": "Listapp",
     "descripcion": "Gestiona las tareas que surgen en la vida cotidiana, facilita recordatorios para el usuario.",
     "icono": null,
-    "integrantes": ["Oscar Julian Villamarin Wilches", "John Anderson Yate Agredo"],
+    "integrantes": [
+      "Oscar Julian Villamarin Wilches",
+      "John Anderson Yate Agredo"
+    ],
     "actividad": "React Native",
     "url": "https://drive.google.com/file/d/12SM3h1-pd2JGiy4_YJV3SvgxZU7HTJM0/view?usp=drive_link"
   },
@@ -363,7 +486,10 @@
     "nombreapp": "Esquiva",
     "descripcion": "Juego que consiste en mantenerse el mayor tiempo posible sin dejarse tocar por las nubes que van cayendo desde el cielo.",
     "icono": "https://cdn-icons-png.flaticon.com/128/1779/1779812.png",
-    "integrantes": ["Karen Borda", "Juan Diego Buitrago"],
+    "integrantes": [
+      "Karen Borda",
+      "Juan Diego Buitrago"
+    ],
     "actividad": "React Native 3",
     "url": "https://drive.google.com/file/d/1I3SWTBQRS2PkOjAweyezenQCmYfGQWAH/view?usp=drive_link"
   },
@@ -371,7 +497,10 @@
     "nombreapp": "Preguntas",
     "descripcion": "Menú de cuatro respuestas a una pregunta en inglés.",
     "icono": "https://www.flaticon.es/icono-gratis/pregunta_2353678?term=preguntas&page=1&position=1&origin=search&related_id=2353678",
-    "integrantes": ["Sebastian Herrera", "Oscar Herrera"],
+    "integrantes": [
+      "Sebastian Herrera",
+      "Oscar Herrera"
+    ],
     "actividad": "Terminal expo",
     "url": "https://fontecha011137.github.io/expo-go/"
   },
@@ -379,7 +508,9 @@
     "nombreapp": "Calculadora Habitos",
     "descripcion": "App donde puedes poner tus hábitos diarios y marcarlos si los cumples o no.",
     "icono": "https://img.freepik.com/foto-gratis/concepto-vuelta-al-cole-calculadora-libro_23-2147662321.jpg",
-    "integrantes": ["Daniela Parra"],
+    "integrantes": [
+      "Daniela Parra"
+    ],
     "actividad": "React, expo",
     "url": "https://drive.google.com/drive/folders/1nHMvP9gpVrYG56zPxn_WaqZFp09nsPEN?usp=drive_link"
   },
@@ -387,23 +518,19 @@
     "nombreapp": "Simon dice",
     "descripcion": "Basado en el clásico Simon dice, el juego almacena victorias y secuencias consecutivas.",
     "icono": "https://cdn-icons-png.flaticon.com/512/1831/1831908.png",
-    "integrantes": ["Wilson Carmona"],
+    "integrantes": [
+      "Wilson Carmona"
+    ],
     "actividad": "Apk React Native con netlify",
     "url": "https://drive.google.com/file/d/1AXGAznpo2qrTHsPmfktI9_ZK2EEVSHPs/view?usp=sharing"
-  },
-  {
-    "nombreapp": "Piedra,papel o tijera",
-    "descripcion": "Juego tradicional de manos entre dos jugadores.",
-    "icono": "https://www.flaticon.es/icono-gratis/oruga_2470081?term=oruga&page=1&position=8&origin=search&related_id=2470081",
-    "integrantes": ["Oscar Herrera", "Katherin Aviles"],
-    "actividad": "Deploy",
-    "url": "http://juegopiedrapapel.netlify.app"
   },
   {
     "nombreapp": "Api-Digimon",
     "descripcion": "Webview donde podrás encontrar todos los digimon con su clasificación y características.",
     "icono": "https://i.pinimg.com/474x/0e/e0/b6/0ee0b6350b8ccfd2d31014ad3768a19d.jpg",
-    "integrantes": ["Carlos Eduardo Cruz"],
+    "integrantes": [
+      "Carlos Eduardo Cruz"
+    ],
     "actividad": "API individual",
     "url": "https://drive.google.com/file/d/1cdAq97RGDJ_27slO-3_GCuWx3aYd5Ed3/view?usp=drive_link"
   },
@@ -411,7 +538,9 @@
     "nombreapp": "Anime",
     "descripcion": "Esta aplicación muestra animes gracias al enlace a la API MyAnimeList.",
     "icono": "https://cdn-icons-png.flaticon.com/512/17734/17734796.png",
-    "integrantes": ["Juan Leon"],
+    "integrantes": [
+      "Juan Leon"
+    ],
     "actividad": "Android Studio",
     "url": "https://github.com/Jelp13/Tarea-tibata"
   },
@@ -419,7 +548,10 @@
     "nombreapp": "BeatBox",
     "descripcion": "Aplicación interactiva desarrollada en React que permite al usuario generar sonidos musicales al presionar botones.",
     "icono": "https://mangoanimate.com/blog/wp-content/uploads/2023/12/Interactive-Slides-Body-Language.png.webp",
-    "integrantes": ["Felipe Rivera", "Duban Salguero"],
+    "integrantes": [
+      "Felipe Rivera",
+      "Duban Salguero"
+    ],
     "actividad": "Webviews",
     "url": "https://cdn-icons-png.flaticon.com/512/709/709559.png"
   },
@@ -427,7 +559,9 @@
     "nombreapp": "Blackjack",
     "descripcion": "Juego de cartas implementado en React donde el objetivo es alcanzar 21.",
     "icono": null,
-    "integrantes": ["Karen Borda"],
+    "integrantes": [
+      "Karen Borda"
+    ],
     "actividad": "React Native con Netlify",
     "url": "https://github.com/karen111-star/mobiles2025ii"
   },
@@ -435,7 +569,9 @@
     "nombreapp": "Universidades-api",
     "descripcion": "Aplicación para consultar diferentes universidades de Colombia y Argentina con enlaces a sus páginas web.",
     "icono": null,
-    "integrantes": ["Karen Borda"],
+    "integrantes": [
+      "Karen Borda"
+    ],
     "actividad": "API",
     "url": "https://github.com/karen111-star/api-uni"
   },
@@ -443,7 +579,9 @@
     "nombreapp": "Cultura_general",
     "descripcion": "Aplicación que da preguntas aleatorias de cultura general y permite al usuario interactuar y aprender.",
     "icono": "https://img.freepik.com/foto-gratis/vista-superior-cadena-origami-personas-globo_23-2148621071.jpg",
-    "integrantes": ["Paula Parra"],
+    "integrantes": [
+      "Paula Parra"
+    ],
     "actividad": "Webviews",
     "url": "https://drive.google.com/drive/folders/1DycCKmQRmxr6r2_mWpAxd1oCZftiOAgG?usp=drive_link"
   },
@@ -451,7 +589,9 @@
     "nombreapp": "Shows",
     "descripcion": "Muestra películas y géneros, con una función para elegir aleatoriamente un género.",
     "icono": "https://img.freepik.com/foto-gratis/collage-sobre-hora-pelicula-palomitas-maiz_23-2149946322.jpg",
-    "integrantes": ["Paula Parra"],
+    "integrantes": [
+      "Paula Parra"
+    ],
     "actividad": "API",
     "url": "https://drive.google.com/drive/folders/1-5NTi3yHfePZ5AIYZF_5oQEXAXr7j9KE?usp=drive_link"
   },
@@ -459,8 +599,184 @@
     "nombreapp": "Apifake",
     "descripcion": "API que trae productos aleatorios con clasificación y precios; incluye menú interactivo.",
     "icono": "https://cdn-icons-png.flaticon.com/128/10753/10753489.png",
-    "integrantes": ["Juan Vargas"],
+    "integrantes": [
+      "Juan Vargas"
+    ],
     "actividad": "API",
     "url": "https://drive.google.com/drive/folders/1C6oKDqtRJZJgCemPeH1QcIiat7ls0GLH?usp=drive_link"
+  },
+  {
+    "nombreapp": "Coin APi",
+    "descripcion": "Una app donde puedes conocer el estado de las cripto y saber un poco de ellas.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2510/2510667.png",
+    "integrantes": [
+      "Maicol López"
+    ],
+    "actividad": "React Native y Api",
+    "url": "https://drive.google.com/file/d/1R-z5amOlMlKds472dlDpTawi1L8KUx9y/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "super hero firebase",
+    "descripcion": "API que atrae a todos lños super heroes y permite el registro de usuarios.",
+    "icono": null,
+    "integrantes": [
+      "Angie Rincon"
+    ],
+    "actividad": "API con firebase",
+    "url": "https://drive.google.com/file/d/1IY9VblAHciwVLb9YCUZjRTNGmz_uHON-/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "music",
+    "descripcion": "App de musica en dopnde puedes elejir tu estado de animo y dependiendo como te sientas te arroja canciones.",
+    "icono": "https://www.flaticon.es/icono-gratis/musica_2753286?term=musica&page=1&position=13&origin=search&related_id=2753286",
+    "integrantes": [
+      "Angie Rincon",
+      "juan quintero"
+    ],
+    "actividad": "React Native",
+    "url": "https://drive.google.com/file/d/14kTS9_37MQgDIVFMtO02eQtC3PCVKl1D/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "EcoTrivia",
+    "descripcion": "Aplicación en React Native con Expo, tipo trivia de preguntas ambientales, que muestra puntaje y permite reiniciar el juego.",
+    "icono": null,
+    "actividad": "",
+    "url": "https://drive.google.com/file/d/1YLs6M5hrJzz1h83n_c1dAFFYWv1MDeQa/view?usp=sharing",
+    "integrantes": [
+      "SALGUERO VARGAS DUBAN SANTIAGO",
+      "URRIAGO CALDERON JUAN ESTEBAN"
+    ]
+  },
+  {
+    "nombreapp": "Postits",
+    "descripcion": "Aplicación en React que permite crear y gestionar notas rápidas.",
+    "icono": "https://drive.google.com/file/d/1Xn12VUrJ1GrgC15tLdHMHxrMs6nMV76z/view?usp=sharing",
+    "integrantes": [
+      "Juan Esteban Urriago Calderon"
+    ],
+    "actividad": "React",
+    "url": "https://drive.google.com/file/d/1t4q-rDHr-LRZ5F39EfSXbnhHNTaY1KsW/view?usp=sharing"
+  },
+  {
+    "nombreapp": "BookAtlas",
+    "descripcion": "Aplicación en React que permite explorar y gestionar libros fácilmente.",
+    "icono": "https://drive.google.com/file/d/1kAaf1n1UaUMWp0Y5luOK-Z6oAVzCoTxf/view?usp=sharing",
+    "integrantes": [
+      "Juan Esteban Urriago Calderon"
+    ],
+    "actividad": "React",
+    "url": "https://drive.google.com/file/d/1dsUzbOgIS0Z5INgbZkC3UurGAnbDxxzI/view?usp=sharing"
+  },
+  {
+    "nombreapp": "Tres Pestañas",
+    "descripcion": "Aplicación con tres funciones diferentes distribuidas en tres pestañas para navegación simple.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/5726/5726558.png",
+    "integrantes": [
+      "Juan Esteban Urriago Calderon"
+    ],
+    "actividad": "Tres originales",
+    "url": "https://drive.google.com/file/d/1UNtAWDytVWtlA9EzJmP3gD-sON8-aykg/view?usp=sharing"
+  },
+  {
+    "nombreapp": "Yugi App",
+    "descripcion": "Aplicación creada en React Native con Expo, que muestra cartas de Yu-Gi-Oh!, perfil de usuario y conexión a Firebase para login y datos.",
+    "icono": null,
+    "integrantes": [
+      "Juan Esteban Urriago Calderon"
+    ],
+    "actividad": "Firebase Native",
+    "url": "https://drive.google.com/file/d/1lTbYv5GiOKDMqgGFtHPFwu-Z8RGTXXtE/view?usp=sharing"
+  },
+  {
+    "nombreapp": "Original3p",
+    "descripcion": "App para ver curiosidades y llevar notas personasles. Tambien tienes una pestañapara realizar retos fit y mantenerte en forma",
+    "icono": "https://cdn-icons-png.flaticon.com/512/7565/7565182.png",
+    "integrantes": [
+      "Carlos Eduardo Cruz",
+      "Juan Esteban Leon"
+    ],
+    "actividad": "Next JS / Original / ChatGPT - (0.75) - Parejas",
+    "url": "https://drive.google.com/file/d/1kJZIV41J1H-KYTXTqjmv7FUz5Y2PMf3g/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "ApiDigimonExpoReact",
+    "descripcion": "Esta aplicación es un explorador del Mundo Digital, construido como un demo utilizando React Native y Firebase.",
+    "icono": "https://i.pinimg.com/474x/0e/e0/b6/0ee0b6350b8ccfd2d31014ad3768a19d.jpg",
+    "integrantes": [
+      "Carlos Eduardo Cruz"
+    ],
+    "actividad": "API React Native / Firebase – (0.75) – Individual",
+    "url": "https://drive.google.com/file/d/16LzVn3NWjUM0vm1wQ5ydfMHWpLWSg3G8/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "EcomerceStore",
+    "descripcion": "Ecomerce que contiene 4 secciones, catalogo seccionado, detalle, carrito, original que consiste en ofertas que cambian aleaotriamente..",
+    "icono": "https://cdn-icons-png.flaticon.com/128/4502/4502972.png",
+    "integrantes": [
+      "Juan Vargas",
+      "Daniela Parra"
+    ],
+    "actividad": "Next js",
+    "url": "https://drive.google.com/drive/folders/1ITElpq02XZvqmMN-_GjafV4vXLINIcl6?usp=drive_link"
+  },
+  {
+    "nombreapp": "Lista de tareas",
+    "descripcion": "Es una aplicación sencilla y práctica que permite al usuario ingresar, gestionar y eliminar tareas, ofreciendo la opción de marcar cuáles han sido completadas y cuáles no. Su objetivo es brindar una forma organizada de llevar el control de pendientes diarios, facilitando la administración del tiempo y manteniendo siempre visible el progreso de las actividades.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2666/2666436.png",
+    "integrantes": [
+      "Santiago Castellanos"
+    ],
+    "actividad": "Android Studio",
+    "url": "https://drive.google.com/file/d/158cMxuuLaoyFhh5bUuxvhbpaVqBAr887/view?usp=sharing"
+  },
+  {
+    "nombreapp": "Trivia, señales de transito",
+    "descripcion": "Es una aplicación interactiva de preguntas y respuestas diseñada para poner a prueba el conocimiento básico sobre señales de tránsito. Su objetivo es ayudar a los usuarios a familiarizarse con las señales más comunes, reforzar el aprendizaje de la normativa vial y promover la seguridad en la vía de una manera sencilla y práctica.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/5125/5125341.png",
+    "integrantes": [
+      "Santiago Castellanos",
+      "Wilson Carmona"
+    ],
+    "actividad": "React Native",
+    "url": "https://expo.dev/accounts/wilson_carmona/projects/ReactNative_10-09-2025/builds/be7a63cc-0ec9-46dc-8837-5ae467f26caf"
+  },
+  {
+    "nombreapp": "JokeAPI",
+    "descripcion": "Nuestra app utiliza JokeAPI para traerte los mejores chistes al instante. Desde humor clásico hasta chistes geek o de programación, tendrás una sonrisa garantizada cada vez que abras la app.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2212/2212416.png",
+    "integrantes": [
+      "Santiago Castellanos"
+    ],
+    "actividad": "API",
+    "url": "https://drive.google.com/file/d/1CpGUCnPnYBmh9ZbQ06wSFbenmB36vfv7/view?usp=sharing"
+  },
+  {
+    "nombreapp": "JokeAPINative",
+    "descripcion": "Ríe en cualquier momento con una app moderna y segura. Desarrollada con React Native, esta aplicación conecta con JokeAPI para ofrecerte chistes al instante desde diferentes categorías. Inicia sesión o regístrate fácilmente para guardar tus favoritos y disfrutar una experiencia personalizada. ¡El humor nunca fue tan interactivo",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2212/2212416.png",
+    "integrantes": [
+      "Santiago Castellanos"
+    ],
+    "actividad": "API Native",
+    "url": "https://expo.dev/accounts/santiagocd19/projects/JokeAPInative/builds/0d2753a3-4af0-4c9f-81eb-1811e7a259c0"
+  },
+  {
+    "nombreapp": "Arcade App",
+    "descripcion": "Juego original con tres sesiones diferentes entretenidos",
+    "icono": "https://toroverdesj.com/assets/img/icons/arcade-4.png",
+    "integrantes": [
+      "Santiago Castellanos - Karen Borda"
+    ],
+    "actividad": "ORIGINAL",
+    "url": "https://drive.google.com/file/d/1hHsh0Rz5RSzGSLA21kfpnLHQsWiBHYsy/view?usp=sharing"
+  },
+  {
+    "nombreapp": "firebase_api",
+    "icono": "https://imgur.com/a/tjbgj8I",
+    "integrantes": [
+      "Juan_Sebastian_Herrera_piratoba"
+    ],
+    "actividad": "API React Native / Firebase – (0.75) – Individual",
+    "url": "https://expo.dev/accounts/juanze/projects/firebase_api/builds/16ed97a6-c903-481b-82db-efca3b93d282"
   }
 ]
