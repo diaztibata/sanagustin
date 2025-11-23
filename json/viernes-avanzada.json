@@ -318,4 +318,74 @@
     "actividad": "Dashboard Supabase replica",
     "url": "https://drive.google.com/drive/folders/1bAf6IOU8g7_oG6vMPZtnffmsFfKe-U7y"
   }
+
+
+
+,
+ {
+    "nombreapp": "Marioalpha",
+    "descripcion": "Version simplificada de las mecanicas de Super Mario Nes",
+    "icono": "https://cdn-icons-png.flaticon.com/512/528/528107.png",
+    "integrantes": ["Ruben Gonzalez"],
+    "actividad": "Corte3",
+    "url": "https://drive.google.com/file/d/1QPklhQ-CI6Zf-aHAOwJ_h15-hHBfnHYl/view?usp=drivesdk"
+  }
+,
+ {
+    "nombreapp": "Pianodes",
+    "descripcion": "Un piano interactivo",
+    "icono": "https://cdn-icons-png.flaticon.com/512/727/727244.png",
+    "integrantes": ["Ruben Gonzalez"],
+    "actividad": "Corte3",
+    "url": "https://drive.google.com/file/d/1MBMMWhQQhE-uhD9rFpN8kHElQwQ85iiX/view?usp=drivesdk"
+  }
+  ,
+   {
+    "nombreapp": "PokemonBattle",
+    "descripcion": "Aplicacion que que imita el HUD de combate de pokemon GBA",
+    "icono": "https://cdn-icons-png.flaticon.com/512/15217/15217930.png",
+    "integrantes": ["Ruben Gonzalez"],
+    "actividad": "Corte3",
+    "url": "https://drive.google.com/file/d/106U81UwlZ1GsHYHbKhEr5OBf2piAK-G3/view?usp=drivesdk"
+  }
+,
+   {
+    "nombreapp": "EldenRing",
+    "descripcion": "Api De Elden Ring",
+    "icono": "https://img.icons8.com/color/1200/elden-ring.jpg",
+    "integrantes": ["Ruben Gonzalez"],
+    "actividad": "FireBase API",
+    "url": "https://drive.google.com/file/d/1wMXatHD-9tvAW4kjkxVUqq8mxXjkYYZt/view?usp=drivesdk"
+  }
+  ,
+   {
+    "nombreapp": "Space Invaders",
+    "descripcion": "App insipirada en Space invaders",
+    "icono": "https://cdn-icons-png.flaticon.com/512/706/706026.png",
+    "integrantes": ["Jose Alejandro,Ruben Gonzalez"],
+    "actividad": "React + Capacitor",
+    "url": "https://drive.google.com/file/d/1ORKvIpwkeyHAtdrDjGzWRAP7pAfDXvZa/view?usp=drivesdk"
+  }
+,
+{
+    "nombreapp": "Api Digimon",
+    "descripcion": "Api de Digimon",
+    "icono": "https://cdn-icons-png.freepik.com/256/9215/9215577.png?semt=ais_white_label",
+    "integrantes": ["Ruben Gonzalez"],
+    "actividad": "API individual",
+    "url": "https://drive.google.com/file/d/1udC4R9nUGAn81nz0E8_iqprFNQ5QYS8F/view?usp=drivesdk"
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
