@@ -372,5 +372,15 @@
         ],
         "actividad": "API React Native / Firebase",
         "url": "https://drive.google.com/file/d/1H-lRRlCDXcoyIBA080cmoNFonveOaAPN/view?usp=drive_link"
+    },
+    {
+        "nombreapp": "Intagram",
+        "descripcion": "Aplicacion la cual permite subir fotos de los momentos que desees compartir",
+        "icono": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+        "integrantes": [
+            "Daniel Murillo, Nicolle Carvajal, Andrés Pedroza"
+        ],
+        "actividad": "DashBoard / Supabase",
+        "url": "https://drive.google.com/drive/u/1/folders/1DmfLthM8KxeTLYcslwNq9UfoSome5adv"
     }
 ]
