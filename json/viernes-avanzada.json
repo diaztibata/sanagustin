@@ -372,5 +372,15 @@
         ],
         "actividad": "API React Native / Firebase",
         "url": "https://drive.google.com/file/d/1H-lRRlCDXcoyIBA080cmoNFonveOaAPN/view?usp=drive_link"
+    },
+    {
+        "nombreapp": "ApiGhibli",
+        "descripcion": "Aplicación la cual muestra las peliculas del studio ghibli, y cuenta con un juego de ahorcados",
+        "icono": "https://img.icons8.com/plasticine/1200/totoro.jpg",
+        "integrantes": [
+            "Andrés Pedroza"
+        ],
+        "actividad": "API React Native / Firebase",
+        "url": "https://drive.google.com/drive/u/1/folders/1j7Z7KS_TGFDAZBnR51YmQJ-OQqnAtdQN"
     }
 ]
