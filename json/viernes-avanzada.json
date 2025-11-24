@@ -308,6 +308,17 @@
     "url": "https://drive.google.com/drive/folders/1L-fE447H8fT_tHiv7vqm4oTJTZaq5MiP?usp=drive_link"
 
 
+  },
+{
+    "nombreapp": "FBI Wanted API ",
+    "descripcion": "La FBI Wanted API es una interfaz pública ofrecida por el FBI que permite acceder a la información de personas buscadas por la agencia. A través de esta API se pueden obtener datos como nombres, fotografías, descripciones físicas, cargos, recompensas y detalles de los casos. Es una herramienta utilizada para integrar información actualizada en aplicaciones, sitios web o proyectos educativos que necesiten mostrar registros oficiales de fugitivos, desaparecidos o personas de interés del FBI.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/2622/2622200.png",
+    "integrantes": ["Andres Ceballos"],
+    "actividad": "firebase",
+    "url": "https://drive.google.com/drive/folders/1UV-i7GDM6REmkUeqR9XSD6uk5xBJdWbZ?usp=drive_link"
+
+
   }
 ]
+
 
