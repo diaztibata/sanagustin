@@ -786,5 +786,59 @@
     "integrantes": ["Cabrera Elmer"],
     "actividad": "Expo React Native",
     "url": "https://drive.google.com/file/d/1BW2N5jFu5qPIRFm5sNB4duzCWtcGeW80/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Tinder",
+    "descripcion": "aplicaciones para conseguir cita ",
+    "icono": "https://drive.google.com/file/d/1dQgm-vWMNuP510Qudzw71DoKVcGkqLkM/view?usp=drive_link",
+    "integrantes": [
+      "Maria Almario",
+      "Juan Caicedo",
+      "Maicol López"
+    ],
+    "actividad": "Dashboard Grupos de 3 ",
+    "url": "https://drive.google.com/file/d/1H4YXDsPxM1jpV_R1UxuH67WqbUwt99fv/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Parejas",
+    "descripcion": "aplicaciones donde encontrara 3 actividades diferentes  ",
+    "icono": "https://drive.google.com/file/d/1Ytf6fEubG77eQQai6eAbqjS5tuDoOFZF/view?usp=drive_link",
+    "integrantes": [
+      "Soledad Maria",
+      "Juan Caicedo"
+    ],
+    "actividad": "Dashboard de parejas ",
+    "url": "https://drive.google.com/file/d/1OWDCojWb5JRkAcNNPgVZ5AK0Ey6kUV4K/view?usp=drive_link"
+  }
+  ,
+  {
+    "nombreapp": "disneyapi",
+    "descripcion": "aplicaciones se visualisa el enlistamiento de personajes de disney   ",
+    "icono": null,
+    "integrantes": [
+      "Juan Caicedo"
+    ],
+    "actividad": "api individual  ",
+    "url": "https://drive.google.com/file/d/1CsBmMuInPg7Qp80qx3zDRP6P_1xOWrh4/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "brujula digital",
+    "descripcion": "aplicaciones que ayuda a la ubicacion cardinal de las personas    ",
+    "icono": null,
+    "integrantes": [
+      "Juan Caicedo"
+    ],
+    "actividad": "WebViews con Android Studio ",
+    "url": "https://drive.google.com/file/d/1JXyJEppfR6hJkG2yelPGUbLuNUmg_0Tb/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "fakeapi",
+    "descripcion": "aplicaion donde visualizamos a conexion de una api     ",
+    "icono": null,
+    "integrantes": [
+      "Juan Caicedo"
+    ],
+    "actividad": "webview api individual ",
+    "url": "https://drive.google.com/file/d/10OYWA0D55D2hW_0dei9bwj5efMHluoy8/view?usp=drive_link"
   }
 ]
