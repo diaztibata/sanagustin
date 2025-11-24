@@ -372,5 +372,15 @@
         ],
         "actividad": "API React Native / Firebase",
         "url": "https://drive.google.com/file/d/1H-lRRlCDXcoyIBA080cmoNFonveOaAPN/view?usp=drive_link"
+    },
+    {
+        "nombreapp": "ApiGOTReactNative",
+        "descripcion": "Aplicacion que permite visualizar lista de personajes, con login funcional y pestaña original ",
+        "icono": "https://cdn-icons-png.flaticon.com/512/1840/1840708.png ",
+        "integrantes": [
+            "Andres Puentes"
+        ],
+        "actividad": "ApiReactNative",
+        "url": "https://drive.google.com/drive/u/4/folders/1XDe3NHrkm2czcfO_GjkFppr3WLZoHl4U"
     }
 ]
