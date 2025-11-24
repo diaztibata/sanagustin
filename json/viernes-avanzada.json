@@ -33,6 +33,22 @@
         "url": "https://drive.google.com/drive/folders/1OC2zklcMI_Dt1wnOhG8zVdY0OEM2yC__?usp=drive_link"
     },
     {
+        "nombreapp": "ApiSuperHeroes",
+        "descripción": "Aplicación web desarrollada con React y firebase que permite buscar información sobre superhéroes utilizando la API pública de SuperHero. Los usuarios pueden ingresar el nombre de un superhéroe para obtener detalles como su biografía, poderes, afiliaciones y una imagen representativa, todo presentado en una interfaz amigable y responsiva.",
+        "icono": "   https://cdn-icons-png.flaticon.com/512/3002/3002638.png ",
+        "integrantes": ["Johan Sebastian Torres Sotelo"],
+        "actividad": "Webview AndroidStudio",
+        "url": "https://drive.google.com/file/d/1lNme7R_4XqEHACGGMWVSLVOQMzGFfQ_c/view?usp=drive_link"
+    },
+    {
+        "nombreapp": "TinderClon",
+        "descripción": "Aplicación móvil desarrollada con Vercel y NextJs que emula las funcionalidades básicas de Tinder. Los usuarios pueden deslizar perfiles hacia la derecha para indicar interés o hacia la izquierda para descartar. La app presenta una interfaz intuitiva y atractiva, optimizada para dispositivos móviles, permitiendo a los usuarios explorar perfiles de manera rápida y sencilla.",
+        "icono": "https://cdn-icons-png.flaticon.com/512/4401/4401438.png",
+        "integrantes": ["Johan Sebastian Torres Sotelo", "Santiago Guzman", "Santiago Ramirez"],
+        "actividad": "Vercel + NextJs + Android Studio",
+        "url": "https://drive.google.com/drive/folders/1OC2zklcMI_Dt1wnOhG8zVdY0OEM2yC__?usp=drive_link"
+    },
+    {
         "nombreapp": "Juego Pong",
         "descripción": "Juego web interactivo desarrollado con HTML, CSS y JavaScript inspirado en el clásico Pong. Donde 2 jugadores controlan 2 barras cada uno para devolver una pelota que rebota en la pantalla, intentando evitar que pase su lado. Incluye un marcador de puntos, aumento progresivo de velocidad y la pelota sale instantáneamente después de que la pelota cruce el lado de alguno de los jugadores.",
         "icono": "Icono pong.jpg",
@@ -63,12 +79,9 @@
         "integrantes": "Ruben Gonzalez Grajales.",
         "actividad": "aplicacion original",
         "url": "https://drive.google.com/file/d/13_ZNju58_V0fnYuAn-iqBdpn15OQBhDD/view?usp=sharing"
-    }
+        },
 
-
-]
-=======
-  {
+      {
     "nombreapp": "AnimeApp",
     "descripcion": "Anime App es una aplicación móvil diseñada para que los aficionados al anime descubran, busquen y sigan sus series favoritas. Ofrece una interfaz de usuario limpia y moderna, permitiendo a los usuarios navegar por los títulos más populares y los lanzamientos de temporada. La aplicación proporciona información clave sobre cada anime, incluyendo calificaciones, resúmenes y títulos. Su potente buscador y la organización por categorías (Inicio, Populares, Temporada) la convierten en una herramienta esencial para mantenerse al día con el mundo del anime.",
     "icono": "https://e1.pxfuel.com/desktop-wallpaper/768/964/desktop-wallpaper-anime-icon-anime-app-icons.jpg",
