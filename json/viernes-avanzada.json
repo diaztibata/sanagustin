@@ -298,7 +298,16 @@
     "url": "https://drive.google.com/drive/folders/1fzdGDBvllYwjaEd3nSiYbwOoZQ5mrfwP?usp=drive_link"
 
 
+  },
+{
+    "nombreapp": "TubeClone",
+    "descripcion": "TubeClone es una aplicación inspirada en YouTube que permite a los usuarios explorar, reproducir y gestionar videos de manera rápida y sencilla. La app ofrece una interfaz moderna y familiar, con funciones como búsqueda de contenido, reproducción en pantalla completa, lista de videos recomendados y sección de favoritos. TubeClone está diseñada para brindar una experiencia fluida, ligera y accesible, ideal para practicar y demostrar habilidades en desarrollo de aplicaciones multimedia.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1384/1384028.png",
+    "integrantes": ["Andres Ceballos,Juan Castañeda,Daniel Nomelin,Julian Maldonado"],
+    "actividad": "DashBoard",
+    "url": "https://drive.google.com/drive/folders/1L-fE447H8fT_tHiv7vqm4oTJTZaq5MiP?usp=drive_link"
+
+
   }
 ]
-
 
