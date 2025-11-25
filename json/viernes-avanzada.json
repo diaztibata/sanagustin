@@ -372,5 +372,13 @@
         ],
         "actividad": "API React Native / Firebase",
         "url": "https://drive.google.com/file/d/1H-lRRlCDXcoyIBA080cmoNFonveOaAPN/view?usp=drive_link"
+    },
+    {
+    "nombreapp": "AppReactNativeStarWars",
+    "descripcion": "App en React Native conectada a la API de Star Wars, para realizar consultas de personajes, peliculas, crear tu propio sable de luz y editar tu perfil.",
+    "icono": "https://www.flaticon.es/icono-gratis/halcon-milenario_86572?term=halcon+milenario&page=1&position=3&origin=search&related_id=86572",
+    "integrantes": ["Martin Ramirez"],
+    "actividad": "API React Native / Firebase",
+    "url": "https://drive.google.com/drive/folders/1laMi49mf9lHcaDd52rVK9ETqJEz6THBy"
     }
 ]
