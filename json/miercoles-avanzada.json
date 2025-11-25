@@ -118,5 +118,57 @@
     "integrantes": ["Carlos Eduardo Cruz", "Cristian Rojas"],
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
-  }
+  },
+  {
+  "nombreapp": "Flappy Bird",
+  "descripcion": "Recreación del clásico Flappy Bird desarrollada con React Native, optimizada para dispositivos móviles.",
+  "icono": "https://cdn-icons-png.flaticon.com/512/3204/3204972.png",
+  "integrantes": [
+    "Jose Grass",
+    "Andrey Fajardo"
+    
+  ],
+  "actividad": "React Native",
+  "url": "https://drive.google.com/file/d/11cGvePRqZEGTV-Plu9kakrvz3CQwm9pl/view?usp=drive_link"
+},
+{
+  "nombreapp": "Tres en Uno",
+  "descripcion": "Juego de habilidades y conocimientos desarrollado en Next.js, combinando preguntas, retos y lógica en una sola aplicación.",
+  "icono": "https://cdn-icons-png.flaticon.com/512/1457/1457766.png",
+  "integrantes": [
+    "Jose Grass",
+    "Alejandro Rubio"
+  ],
+  "actividad": "Next.js",
+  "url": "https://drive.google.com/file/d/1Ygt6cCMtaVIzNqHUQc3hBeAmd9jiHg4q/view?usp=drive_link"
+},
+
+{
+  "nombreapp": "Yu-Gi-Oh API Explorer",
+  "descripcion": "Aplicación web en React conectada a la API de Yu-Gi-Oh con almacenamiento en Firebase para favoritos, búsquedas y cartas.",
+  "icono": "https://i.pinimg.com/736x/f8/7b/3f/f87b3f3d4572aaf363155291d216da9f.jpg",
+  "integrantes": [
+    "Jose Grass"
+  ],
+  "actividad": "React + Firebase",
+  "url": "https://drive.google.com/file/d/1LUMb_E6VG8_I70v2HIhc9z1Ixc_limpZ/view?usp=drive_link"
+},
+
+{
+  "nombreapp": "Pinterest Clone Dashboard",
+  "descripcion": "Dashboard tipo Pinterest creado con Next.js y Supabase para gestionar usuarios, imágenes y colecciones.",
+  "icono": "https://i.pinimg.com/736x/71/72/53/717253e4de6621b80555d907c02a7397.jpg",
+  "integrantes": [
+    "Jose Grass",
+    "Wilson Carmona",
+    "Alejandro Rubio",
+    "Daniela Parra"
+  ],
+  "actividad": "Next.js + Supabase",
+  "url": "https://drive.google.com/file/d/1OFpNS0bNhomHgMyglAoJPdOP6hX566iD/view?usp=drive_link"
+}
+
+
+
+
 ]
