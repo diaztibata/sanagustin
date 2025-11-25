@@ -786,5 +786,14 @@
     "integrantes": ["Cabrera Elmer"],
     "actividad": "Expo React Native",
     "url": "https://drive.google.com/file/d/1BW2N5jFu5qPIRFm5sNB4duzCWtcGeW80/view?usp=drive_link"
+  },
+    {
+    "nombreapp": "StarWars",
+    "descripcion": "Api de StarWars, ahorcado",
+    "icono": null,
+    "integrantes": ["John Anderson Yate A."],
+    "actividad": "Firebase_individual",
+    "url": "https://drive.google.com/file/d/1lk9OkcYhVILYcVYThl_NeQgjYDW4OPbv/view?usp=drive_link"
   }
+
 ]
