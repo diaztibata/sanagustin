@@ -93,5 +93,21 @@
     "integrantes": "Carlos Eduardo Cruz, Cristian Rojas",
     "actividad": "Android Studio",
     "url": "https://eduardocr91.github.io/Stopwatch2/"
+  },
+    {
+    "nombreapp": "Apps Originales",
+    "descripcion": "Una aplicacion conformada de 3 complementos para llenarse de diversion y distraerse de una forma rapida y entretenida.",
+    "icono": "https://drive.google.com/file/d/1ZZr5uRQEL9RQpUImBLc5RoH5lncIv5pI/view?usp=drive_link",
+    "integrantes": "Oscar Villamarin, John Yate",
+    "actividad": "App en parejas (NEXTJS - WEBVIEW)",
+    "url": "https://drive.google.com/file/d/1NpwwDDW0q6e5Yd_B-4L6zRDSciTepPBV/view?usp=drive_link"
+  },
+    {
+    "nombreapp": "Harry Potter API",
+    "descripcion": "Esta aplicacion se compone de la utilizacion de una API en donde muestra la informacion de los personajes de las peliculas de harry potter, puedes hacer parte de la familia magica.",
+    "icono": null,
+    "integrantes": "Oscar Julian Villamarin Wilches",
+    "actividad": "App individual con Firebase",
+    "url": "https://drive.google.com/file/d/1hXVApoGbgvPeW-zSZKwfVe8JIbhrJyci/view?usp=drive_link"
   }
 ]
