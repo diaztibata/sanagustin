@@ -372,5 +372,15 @@
         ],
         "actividad": "API React Native / Firebase",
         "url": "https://drive.google.com/file/d/1H-lRRlCDXcoyIBA080cmoNFonveOaAPN/view?usp=drive_link"
+    },
+    {
+        "nombreapp": "Origina",
+        "descripcion": "Aplicacion con 3 juegos Originales para divertirse",
+        "icono": "https://cdn-icons-png.flaticon.com/512/3351/3351767.png",
+        "integrantes": [
+            "Daniel Nomelin, Andrés Pedroza"
+        ],
+        "actividad": "Original Next.js",
+        "url": "https://drive.google.com/drive/u/1/folders/1m-E-n8foFfIK3Vuhged0RBAlS1hfia7M"
     }
 ]
