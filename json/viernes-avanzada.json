@@ -372,5 +372,35 @@
         ],
         "actividad": "API React Native / Firebase",
         "url": "https://drive.google.com/file/d/1H-lRRlCDXcoyIBA080cmoNFonveOaAPN/view?usp=drive_link"
+    },
+    {
+        "nombreapp": "Run Rungo",
+        "descripcion": "Aplicacion la cual muestra informacion sobre diversas perpectivas dede distintas posturas del conocimiento sobre temas particulares",
+        "icono": "https://www.flaticon.es/icono-gratis/buho_233992?related_id=233992&origin=pack",
+        "integrantes": [
+            "Carlos Fernando Riano Bedoya y Alejandro Garcia"
+        ],
+        "actividad": "Next JS / Original / ChatGPT",
+        "url": "https://drive.google.com/drive/u/2/folders/1-m8wblBKD06YwlKa9wO4NVKlal_fw7b6"
+    },
+      {
+        "nombreapp": "Fan Store",
+        "descripcion": "Aplicacion la cual muestra productos al la venta estilo comercio electronico",
+        "icono": "https://www.flaticon.es/icono-gratis/fantasma_12403271?related_id=12403271&origin=pack",
+        "integrantes": [
+            "Carlos Fernando Riano Bedoya"
+        ],
+        "actividad": "API React Native / Firebase",
+        "url": "https://drive.google.com/drive/u/2/folders/1ENwpV5YThETsNk3N9u4YAPvakamt1svW"
+    },
+      {
+        "nombreapp": "TrasmiApp",
+        "descripcion": "Aplicacion replica de trasmiapp",
+        "icono": "https://www.flaticon.es/icono-gratis/auto_14471863?term=trasporte&page=1&position=1&origin=search&related_id=14471863",
+        "integrantes": [
+            "Carlos Fernando Riano Bedoya, Alejandro Garcia, Martin ramirez y daniel guerrero"
+        ],
+        "actividad": "Webview Android Studio",
+        "url": "https://drive.google.com/drive/u/2/folders/11kmlRnyiOP-S5uEtzQAbCLNHiL7ViEgJ"
     }
 ]
