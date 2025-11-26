@@ -372,5 +372,15 @@
         ],
         "actividad": "API React Native / Firebase",
         "url": "https://drive.google.com/file/d/1H-lRRlCDXcoyIBA080cmoNFonveOaAPN/view?usp=drive_link"
+    },
+    {
+        "nombreapp": "JuegosOriginalesNextParejas",
+        "descripcion": "Aplicacion con 3 juegos totalmente originales y entretenidos para salir de la rutina",
+        "icono": "cdn-icons-png.flaticon.com/512/2780/2780137.png",
+        "integrantes": [
+            "Andres Puentes, Martin Ramirez"
+        ],
+        "actividad": "App original Next parejas",
+        "url": "https://drive.google.com/drive/u/4/folders/1kZ6nrQAu2YkldZNDgxwdjfa6hGggW9rA"
     }
 ]
