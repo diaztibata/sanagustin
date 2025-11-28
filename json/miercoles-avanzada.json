@@ -555,6 +555,16 @@
     "actividad": "Webviews",
     "url": "https://cdn-icons-png.flaticon.com/512/709/709559.png"
   },
+   {
+    "nombreapp": "Perros y Gaticos",
+    "descripcion": "Aplicación conectada a dos apis generadoras cada una por informacion de gatos y de perros.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/13702/13702718.png",
+    "integrantes": [
+      "Maaria Paula Almario Beas"
+    ],
+    "actividad": "Firebase Native",
+    "url": "https://drive.google.com/file/d/1DXP8p2kiQ5ndfwat6z_EdgU5vXLb5ejn/view?usp=drivesdk"
+  },
   {
     "nombreapp": "Blackjack",
     "descripcion": "Juego de cartas implementado en React donde el objetivo es alcanzar 21.",
