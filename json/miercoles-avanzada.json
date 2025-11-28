@@ -1,7 +1,15 @@
- {
+ [{
     "nombreapp": "firebase_api",
     "icono": "https://imgur.com/a/tjbgj8I",
     "integrantes": ["Juan_Sebastian_Herrera_piratoba"],
     "actividad": "API React Native / Firebase – (0.75) – Individual",
     "url": "https://expo.dev/accounts/juanze/projects/firebase_api/builds/16ed97a6-c903-481b-82db-efca3b93d282"
-  }
+  },
+  {
+  "nombreapp": "parejas_app",
+  "descripcion": "aplicacion realizada con nexty supabas de parejas",
+  "icono": "https://www.flaticon.es/icono-gratis/silueta-de-usuarios-de-pareja_33906?term=parejas&page=1&position=5&origin=search&related_id=33906",
+  "integrantes": ["felipe rivera fonseca", "Juan Sebastian Herrera Piratoba"],
+  "actividad": "trabajo en parejas",
+  "url": "https://juanitocon.github.io/next.jsapp/"
+}]
