@@ -1,0 +1,108 @@
+body {
+    font-family: sans-serif;
+    background: #f5f5f5;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 26px;
+    text-align: center;
+}
+
+#contenedor{
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.app-card {
+    background: white;
+    border-radius: 12px;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    display: flex;
+    gap: 15px;
+    overflow: hidden;
+}
+
+.app-card img {
+    width: 64px;
+    height: 64px;
+    margin-top: 5px;
+}
+
+.app-info h2 {
+    margin: 0;
+    font-size: 20px;
+}
+
+.app-info p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+.app-info a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.lunes .app-card,
+.martes .app-card,
+.viernes .app-card {
+    display: none;
+}
+
+.lunes .app-card.lunes,
+.martes .app-card.martes,
+.viernes .app-card.viernes {
+    display: flex;
+}
+
+.selectores {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.selectores button {
+    font-size: 15px;
+    color: #007bff;
+    font-weight: bold;
+    border: solid 0 transparent;
+    background: transparent;
+    cursor: pointer;
+}
+
+
+#contenedor {
+  counter-reset: app;
+}
+
+.app-card h2::before {
+  counter-increment: app;
+  content: counter(app) ". ";
+  font-weight: bold;
+}
+
+.contenedor-btn-lista {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.contenedor-btn-lista button {
+    font-size: 15px;
+    color: #575757;
+    border: solid 0 transparent;
+    background: transparent;
+    cursor: pointer;
+}
+
+.app-1 .app-card {
+    display: none;
+}
+
+.app-1 .app-card.app-1 {
+    display: flex;
+}
