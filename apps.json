@@ -39,5 +39,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "Calendario",
+    "descripcion": "Recrea un calendario, sirve para ser una agenda personal.",
+    "icono": "https://media.istockphoto.com/id/1212381977/es/vector/icono-de-calendario-de-dise%C3%B1o-plano-simple.jpg?s=612x612&w=0&k=20&c=rH2qnbNgiZIKp2fghqjhLUr7r97KTgCheIoVuFUmKEY=",
+    "grupo": "lunes",
+    "fecha": "2026-02-09",
+    "id": 1,
+    "integrantes": [
+      "Juan Rodriguez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "hhttps://github.com/JuanesVVV/Calendario/blob/main/app-debug.apk"
   }
 ]
