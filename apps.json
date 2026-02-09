@@ -39,5 +39,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "PoolPoints",
+    "descripcion": "Lleva la cuenta de tus puntos, en tus partidas de pool",
+    "icono": "https://img.freepik.com/vector-premium/icono-pelota-billar-vector-icono-deportivo_667453-2848.jpg",
+    "grupo": "lunes",
+    "fecha": "2026-02-9",
+    "id": 1,
+    "integrantes": [
+      "Sergio Suarez",
+      "Jossie Rico"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1y1HKc4b9HHCUV-UM2UT9BdqclYN2hAQB/view?usp=drive_link"
   }
 ]
