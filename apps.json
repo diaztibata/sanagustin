@@ -39,5 +39,20 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "NumberWord",
+    "descripcion": "Genera un número secreto entre 1 y 20 El usuario escribe un número La app dice si es: 🔺 Muy alto 🔻 Muy bajo 🎉 Correcto Cuenta intentos Permite reiniciar el juego",
+    "icono": "https://cdn-icons-png.flaticon.com/512/4224/4224918.png",
+    "grupo": "lunes",
+    "fecha": "2026-02-09",
+    "id": 1,
+    "integrantes": [
+      "Miguel Martinez",
+      "Sebastian Montiel",
+      "Nicolas quitian"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/17uPgzGEkb1BQ7JK5tIiBTrMdFMBTs5WY/view?usp=drive_link"
   }
 ]
