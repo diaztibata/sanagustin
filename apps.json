@@ -39,5 +39,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+    {
+    "nombreapp": "FlappyBird",
+    "descripcion": "simula el juego de la ave que pasa por tubos.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/789/789479.png",
+    "grupo": "lunes",
+    "fecha": "2026-02*09",
+    "id": 1,
+    "integrantes": [
+      "Juan Zambrano",
+      "Daymon Diaz"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/19rDrx_CBvHpOpvS3QgA4gv72Q-w9vZo5/view?usp=drive_link"
   }
 ]
