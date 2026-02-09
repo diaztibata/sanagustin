@@ -39,5 +39,20 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "Semáforo Interactivo",
+    "descripcion": "Simula un semáforo en HTML, CSS y JavaScript. Modo manual y automático.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3267/3267422.png",
+    "grupo": "martes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "Edsion Amado",
+      "Sebastian Montiel"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://santiago1902200.github.io/Semaforo/"
   }
+  
 ]
