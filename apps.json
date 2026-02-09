@@ -39,5 +39,21 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+
+  {
+    "nombreapp": "Adivinar",
+    "descripcion": "Adivina la Fruta es un juego web interactivo desarrollado con HTML, CSS y JavaScript...",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2909/2909765.png",
+    "grupo": "lunes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "Oscar Herrera",
+      "Katherin Aviles"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/13FDNOs-mOKhsZP0QoYPFwtmzorlB8OGW/view?usp=drive_link"
   }
+
 ]
