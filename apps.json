@@ -39,5 +39,21 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+
+  {
+    "nombreapp": "conversor",
+    "descripcion": "conversor de diferentes tipos de monedas del mundo",
+    "icono": "https://static.vecteezy.com/system/resources/previews/005/879/976/non_2x/currency-converter-icon-free-vector.jpg",
+    "grupo": "lunes",
+    "fecha": "2026-02-09",
+    "id": 1,
+    "integrantes": [
+      "Cristian Gamba",
+      "jhonnier Gordo"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://felipe345522.github.io/convertidor-de-moneda-/"
   }
+
 ]
