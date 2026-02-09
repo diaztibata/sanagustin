@@ -39,5 +39,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+    {
+    "nombreapp": "Pulmones_verdes",
+    "descripcion": "ayuda a las personas con la ansiedad y lleva un retgistro de los cigarrillos que ha fumado dia a dia ",
+    "icono": "https://img.freepik.com/vector-premium/ilustracion-pulmones-humanos_959701-782.jpg",
+    "grupo": "lunes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "juan pachon",
+      "brayan moya"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1iRcyk4ywb1FLvmB975SQSESpqXgRWPIz/view?usp=drive_link"
   }
 ]
