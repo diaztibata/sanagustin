@@ -39,5 +39,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "HabitFy",
+    "descripcion": "Has un habito el cual necesites cumplir diario, esta app te motiva y te muestra los días que cumpliste tu meta diaria",
+    "icono": "https://cdn-icons-png.flaticon.com/512/4305/4305257.png",
+    "grupo": "lunes",
+    "fecha": "2025-02-09",
+    "id": 1,
+    "integrantes": [
+      "Luisa Aguilar",
+      "Samuel Saavedra"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://github.com/SamuSST/HabitFy.git"
   }
 ]
