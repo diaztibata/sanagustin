@@ -39,5 +39,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "Generador Frases",
+    "descripcion": "Genera frases motivacionales sobre programación de manera aleatoria",
+    "icono": "https://cdn-icons-png.flaticon.com/512/9307/9307141.png",
+    "grupo": "lunes",
+    "fecha": "2025-02-09",
+    "id": 1,
+    "integrantes": [
+      "Samuel Diaz",
+      "Arias Diaz"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1zth35jt2pTlQBzeLocnf6wrC42IjuzUK/view?usp=drive_link"
   }
 ]
