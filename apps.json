@@ -39,5 +39,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "FasTapp",
+    "descripcion": "Mide la velocidad del usuario para realizar taps en un determinado tiempo",
+    "icono": "https://cdn-icons-png.flaticon.com/128/4056/4056901.png",
+    "grupo": "lunes",
+    "fecha": "2026-02-24",
+    "id": 1,
+    "integrantes": [
+      "Juan Sebastian Rojas Lamprea",
+      "Michael Julian Lancheros"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/16LzL5wfzw8BwUnjEyV1E74xyVrwjl_J9/view?usp=drive_link"
   }
 ]
