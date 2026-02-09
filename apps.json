@@ -39,5 +39,20 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "WhatGame",
+    "descripcion": "Aplicacion para elegir juegos",
+    "icono": "https://static.vecteezy.com/system/resources/previews/009/546/735/original/game-control-icon-vector.jpg",
+    "grupo": "lunes",
+    "fecha": "2026-02-09",
+    "id": 1,
+    "integrantes": [
+      "Laura Cardona",
+      "Brayan Hernandez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://katherin2024.github.io/AdivinarApk/"
   }
+  
 ]
