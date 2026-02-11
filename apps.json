@@ -40,4 +40,19 @@
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
   }
+,
+   {
+    "nombreapp": "Dice roller",
+    "descripcion": "Un dado virtual",
+    "icono": "https://tse1.mm.bing.net/th/id/OIP.L0ijGnabxgZ6sdIFGBiKbAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "grupo": "martes",
+    "fecha": "2025-02-10",
+    "id": 1,
+    "integrantes": [
+      "Nestor Albarracin",
+      "Caycedo Cristhian"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1bZXO6vAAxfIOw24onPo-z2xUbxkuHnWL/view?usp=drive_link"
+  }
 ]
