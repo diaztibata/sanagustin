@@ -39,5 +39,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "Grupo del Martes Lorena & Paula",
+    "descripcion": "Grupo de la noche clase de 7:45 a 10:00.",
+    "icono": "https://img.icons8.com/external-tal-revivo-bold-tal-revivo/1200/external-suzuki-motor-corporation-is-a-japanese-multinational-corporation-automotive-bold-tal-revivo.jpg",
+    "grupo": "martes",
+    "fecha": "2026-02-10",
+    "id": 1,
+    "integrantes": [
+      "Lorena Vaca",
+      "Paula Lozano"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1ouQd63c6Zhi6X8BkiFl2GghlI7wBRkCc/view?usp=drive_link"
   }
 ]
