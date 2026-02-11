@@ -39,5 +39,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+
+  {
+    "nombreapp": "Fitlife Pro",
+    "descripcion": "Tu app fitness todo en uno. Encuentra planes de comidas, rutinas de ejercicios y seguimiento de calorías para alcanzar tus objetivos más rápido. Controla tu progreso y transforma tu estilo de vida de manera simple y efectiva.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2780/2780119.png",
+    "grupo": "martes",
+    "fecha": "2026-02-10",
+    "id": 1,
+    "integrantes": [
+      "Daniel Celis"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1mD2f2H9PyvY2oIkgJcmZjsrmneUxV8iO/view?usp=drive_link"
   }
 ]
