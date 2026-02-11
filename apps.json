@@ -39,5 +39,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "gghhghg",
+    "descripcion": "Simula un ico.",
+    "icono": "https://media.istockphoto.com/id/915795600/es/vector/vector-icono-de-smartphone.jpg?s=612x612&w=0&k=20&c=Y8IuBr49VnzkmWFNh79SrRbrEzueCBwCQhBhXEzTI7k=",
+    "grupo": "martes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "Santiago Castellanos"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1BX9-lCaqvNCjWpugjcLgAYwhpSJJQTmu/view?usp=drive_link"
   }
 ]
