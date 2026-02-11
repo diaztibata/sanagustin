@@ -40,4 +40,21 @@
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
   }
+  ,
+
+  {
+    "nombreapp": "ComprApp",
+    "descripcion": "Simula una lista de mercado, suma los valores para llevar la cuenta y controlar lo que compras",
+    "icono": "https://www.shutterstock.com/image-vector/shopping-cart-blue-vector-icon-600nw-2467365901.jpg",
+    "grupo": "martes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "David Pernett",
+      "Emmanuel Redondo"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1BX9-lCaqvNCjWpugjcLgAYwhpSJJQTmu/view?usp=sharing"
+  }
+  
 ]
