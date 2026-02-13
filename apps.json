@@ -39,5 +39,21 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "Alarma con Propósito",
+    "descripcion": "Simula una aplicación de una alarma usand HTML, CSS y JavaScript, usando elementos visuales unicos",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2972/2972531.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Yesica Causado",
+      "Matias Ramirez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/125FaC3FaQEiwvK2ams8URDEqGnj2Sfru/view?usp=drive_link"
   }
+
+  
 ]
