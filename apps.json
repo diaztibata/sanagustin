@@ -14,6 +14,19 @@
     "url": "https://katherin2024.github.io/AdivinarApk/"
   },
   {
+    "nombreapp": "AdivinacionCard",
+    "descripcion": "Esta es una aplcacion de adivinar la pareja de cartas creada con HTML, CSS y JavaScript",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2533/2533982.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Samuel Daza"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
+  },
+  {
     "nombreapp": "ApiPoema",
     "descripcion": "Esta es una API creada para inspiracion y buscar un poema de tu gusto",
     "icono": "https://cdn-icons-png.flaticon.com/128/10389/10389721.png",
