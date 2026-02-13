@@ -39,5 +39,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+    {
+    "nombreapp": "ApiPoema",
+    "descripcion": "Esta es una API creada para inspiracion y buscar un poema de tu gusto",
+    "icono": "https://cdn-icons-png.flaticon.com/512/29/29531.png",
+    "grupo": "viernes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "Katherin Aviles"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1gshO-vQPnul3du_50wWOIrNdtQJNDTN7/view?usp=drive_link"
   }
 ]
