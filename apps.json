@@ -39,5 +39,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "Calculadora",
+    "descripcion": "App de retroalimentación de las webviews",
+    "icono": "https://www.shutterstock.com/image-vector/cute-dark-gray-calculator-blue-600nw-2618023419.jpg",
+    "grupo": "viernes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "Juan David Sarmiento",
+      "Juan David Martínez Niño"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1rAdkiR1i853NnWCl6JilxaTmFYyln8EJ/view?usp=drive_link"
   }
 ]
