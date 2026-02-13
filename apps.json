@@ -39,5 +39,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "calcvite",
+    "descripcion": "Esta es una calculadora realizada con vite ",
+    "icono": "https://cdn-icons-png.flaticon.com/512/10310/10310245.png",
+    "grupo": "viernes",
+    "fecha": "2024-02-13",
+    "id": 1,
+    "integrantes": [
+      "Andres Lopez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
   }
 ]
