@@ -39,5 +39,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+    {
+    "nombreapp": "Defuse",
+    "descripcion": "Este es un juego que consiste en una bomba el objetivo es desactivarla cortando uno de los 3 cables para desactivar el correcto se tiene que tener en cuenta la regla de esa partida y la advinanza que el juego arroja al contestar 5 veces seguidas correctamente ganas el juego",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3616/3616049.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Cristian andres de la rue","Ivan ricardo sterling","jaime antonio poveda"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1FNEG-5_IPLaqh3zQKlZjBBeJC0ghSxic/view?usp=drive_link"
   }
 ]
