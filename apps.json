@@ -39,5 +39,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "Wiki Trench Crusaders",
+    "descripcion": "Esta es una API creada para poder investigar el Lore de trench crusaders",
+    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkBriV12MsGVzLRWs-S0WBo89HrvM6gW2aIQ&s",
+    "grupo": "viernes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "Dylan Felipe Bermudez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://github.com/znja983/Trench/blob/main/index.html"
   }
 ]
