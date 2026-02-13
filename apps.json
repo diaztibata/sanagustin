@@ -39,5 +39,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+   {
+    "nombreapp": "PlaticaApi",
+    "descripcion": "Maneja los gastos de tu salario para llevar mejor la cuenta 🤑🤑💵💵",
+    "icono": "https://cdn-icons-png.flaticon.com/128/10389/10389721.png",
+    "grupo": "viernes",
+    "fecha": "2026-2-13",
+    "id": 1,
+    "integrantes": [
+      "Andres Castillo",
+      "Mi primo samuel"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
   }
 ]
