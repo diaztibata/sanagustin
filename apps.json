@@ -39,5 +39,20 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
-  }
+  },
+  {
+  "nombreapp": "DraftNba",
+  "descripcion": "Crea el mejor quintento inicial de la historia con tus jugadores favoritso de la NBA",
+  "icono": "https://cdn-icons-png.flaticon.com/512/3273/3273826.png",
+  "grupo": "viernes",
+  "fecha": "2026-02-13",
+  "id": 1,
+  "integrantes": [
+    "Julian Camilo Lozano",
+    "Ronald Lopez",
+    "Nicolas Ramirez Caro"
+  ],
+  "actividad": "Primera Clase",
+  "url": "https://drive.google.com/file/d/1gshO-vQPnul3du_50wWOIrNdtQJNDTN7/view?usp=drive_link"
+}
 ]
