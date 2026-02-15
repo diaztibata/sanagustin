@@ -1,0 +1,24 @@
+name: Validar Entrega de Estudiantes
+
+on:
+  pull_request:
+    branches:
+      - semestre3 # Solo se activa cuando apuntan a tu rama
+    paths:
+      - 'apps.json' # Solo se activa si modifican este archivo
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Descargar código
+      uses: actions/checkout@v4
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Ejecutar validador
+      run: python validar_json.py
