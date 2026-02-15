@@ -8,22 +8,27 @@ jobs:
   validar:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout rama del PR (Estudiante)
+      - name: Descargar repo del estudiante
         uses: actions/checkout@v4
         with:
           path: repo_estudiante
 
-      - name: Checkout rama base (Tu rama semestre3)
+      - name: Descargar tu rama (semestre3) para comparar
         uses: actions/checkout@v4
         with:
           ref: semestre3
           path: repo_original
 
-      - name: Preparar archivos para comparación
-        run: |
-          cp repo_estudiante/apps.json apps.json
-          cp repo_estudiante/validar_json.py validar_json.py
-          cp repo_original/apps.json apps_original.json
-
       - name: Ejecutar Validación
-        run: python validar_json.py
+        run: |
+          # Usamos TU script (el de repo_original) para que nadie lo altere
+          cp repo_original/validar_json.py .
+          
+          # Traemos el JSON del estudiante
+          cp repo_estudiante/apps.json .
+          
+          # Traemos TU JSON original para comparar
+          cp repo_original/apps.json apps_original.json
+          
+          # Corremos la prueba
+          python validar_json.py
