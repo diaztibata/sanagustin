@@ -2,23 +2,28 @@ name: Validar Entrega de Estudiantes
 
 on:
   pull_request:
-    branches:
-      - semestre3 # Solo se activa cuando apuntan a tu rama
-    paths:
-      - 'apps.json' # Solo se activa si modifican este archivo
+    branches: [ semestre3 ]
 
 jobs:
-  build:
+  validar:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Descargar código
-      uses: actions/checkout@v4
+      - name: Checkout rama del PR (Estudiante)
+        uses: actions/checkout@v4
+        with:
+          path: repo_estudiante
 
-    - name: Configurar Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
+      - name: Checkout rama base (Tu rama semestre3)
+        uses: actions/checkout@v4
+        with:
+          ref: semestre3
+          path: repo_original
 
-    - name: Ejecutar validador
-      run: python validar_json.py
+      - name: Preparar archivos para comparación
+        run: |
+          cp repo_estudiante/apps.json apps.json
+          cp repo_estudiante/validar_json.py validar_json.py
+          cp repo_original/apps.json apps_original.json
+
+      - name: Ejecutar Validación
+        run: python validar_json.py
