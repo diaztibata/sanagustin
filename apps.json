@@ -128,20 +128,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1iRcyk4ywb1FLvmB975SQSESpqXgRWPIz/view?usp=drive_link"
-  },
-    {
+  },  {
     "nombreapp": "FasTapp",
-    "descripcion": "Mide la velocidad del usuario para realizar taps en un determinado tiempo",
-    "icono": "https://cdn-icons-png.flaticon.com/128/4056/4056901.png",
+    "descripcion": "Mide la rapidez de tap del usuario en la pantalla del movil en un tiempo determinado ",
+    "icono": "https://cdn-icons-png.flaticon.com/128/11115/11115710.png",
     "grupo": "lunes",
-    "fecha": "2026-02-24",
+    "fecha": "2024-02-09",
     "id": 1,
     "integrantes": [
-      "Juan Sebastian Rojas Lamprea",
-      "Michael Julian Lancheros"
+      "Michael Lancheros",
+      "Juan Rojas Lamprea"
     ],
     "actividad": "Primera Clase",
-    "url": "https://drive.google.com/file/d/16LzL5wfzw8BwUnjEyV1E74xyVrwjl_J9/view?usp=drive_link"
+    "url": "https://drive.google.com/file/d/1v9ZLuOt23IoJYYbo5Q096pNUBu2VDg9S/view?usp=drive_link"
   },
     {
     "nombreapp": "FlappyBird",
@@ -213,5 +212,100 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/17uPgzGEkb1BQ7JK5tIiBTrMdFMBTs5WY/view?usp=drive_link"
+  },
+   {
+    "nombreapp": "Dice roller",
+    "descripcion": "Un dado virtual",
+    "icono": "https://tse1.mm.bing.net/th/id/OIP.L0ijGnabxgZ6sdIFGBiKbAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "grupo": "martes",
+    "fecha": "2025-02-10",
+    "id": 1,
+    "integrantes": [
+      "Nestor Albarracin",
+      "Caycedo Cristhian"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1bZXO6vAAxfIOw24onPo-z2xUbxkuHnWL/view?usp=drive_link"
+  },  {
+    "nombreapp": "Fitlife Pro",
+    "descripcion": "Tu app fitness todo en uno. Encuentra planes de comidas, rutinas de ejercicios y seguimiento de calorías para alcanzar tus objetivos más rápido. Controla tu progreso y transforma tu estilo de vida de manera simple y efectiva.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2780/2780119.png",
+    "grupo": "martes",
+    "fecha": "2026-02-10",
+    "id": 1,
+    "integrantes": [
+      "Daniel Celis"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1mD2f2H9PyvY2oIkgJcmZjsrmneUxV8iO/view?usp=drive_link"
+  },
+   {
+    "nombreapp": "Escucha tu estado ",
+    "descripcion": "esta app te recomienda que debes escuchar segun tu estado de animo tambien te da una frase motivacional segun tu estado y puedes vr la informacion del artista que la compuso.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/761/761767.png",
+    "grupo": "martes",
+    "fecha": "2026-02-10",
+    "id": 1,
+    "integrantes": [
+      "julian garcia",
+      "Andres mendieta"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1ouQd63c6Zhi6X8BkiFl2GghlI7wBRkCc/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "App Nueva",
+    "descripcion": "App en desarrollo",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1969/1969648.png",
+    "grupo": "martes",
+    "fecha": "2026-02-10",
+    "id": 1,
+    "integrantes": [
+      "Cristhian Andres",
+      "Camilo Velandia"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+    {
+    "nombreapp": "ComprApp",
+    "descripcion": "Simula una lista de mercado, suma los valores para llevar la cuenta y controlar lo que compras",
+    "icono": "https://www.shutterstock.com/image-vector/shopping-cart-blue-vector-icon-600nw-2467365901.jpg",
+    "grupo": "martes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "David Pernett",
+      "Emmanuel Redondo"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1BX9-lCaqvNCjWpugjcLgAYwhpSJJQTmu/view?usp=sharing"
+  },
+  {
+    "nombreapp": "Grupo del Martes Lorena & Paula",
+    "descripcion": "Grupo de la noche clase de 7:45 a 10:00.",
+    "icono": "https://img.icons8.com/external-tal-revivo-bold-tal-revivo/1200/external-suzuki-motor-corporation-is-a-japanese-multinational-corporation-automotive-bold-tal-revivo.jpg",
+    "grupo": "martes",
+    "fecha": "2026-02-10",
+    "id": 1,
+    "integrantes": [
+      "Lorena Vaca",
+      "Paula Lozano"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1ouQd63c6Zhi6X8BkiFl2GghlI7wBRkCc/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Reto Random",
+    "descripcion": "Tipo ruleta, te muestra el reto a realizar.",
+    "icono": "https://img.freepik.com/vector-premium/fondo-rueda-fortuna-ilustracion-ruleta-suerte-vector-concepto-casino-linea_165143-1491.jpg",
+    "grupo": "martes",
+    "fecha": "2026-02-10",
+    "id": 1,
+    "integrantes": [
+      "Juan David Sanchez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1bWfiHT0JlOMFEJWx-u4Jn0hZUelbMtdU/view?usp=drive_link"
   }
 ]
