@@ -307,5 +307,152 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1bWfiHT0JlOMFEJWx-u4Jn0hZUelbMtdU/view?usp=drive_link"
+  }, {
+    "nombreapp": "Alarma con Propósito",
+    "descripcion": "Simula una aplicación de una alarma usand HTML, CSS y JavaScript, usando elementos visuales unicos",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2972/2972531.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Yesica Causado",
+      "Matias Ramirez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/125FaC3FaQEiwvK2ams8URDEqGnj2Sfru/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Calculadora Avanzada",
+    "descripcion": "Es la calculadora mas avanzada del siglo 21 (no realmente)",
+    "icono": "https://cdn-icons-png.flaticon.com/128/2374/2374370.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Duvan Cavajal"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1aco2eOI1niEEWfD9mNMx-QZEihut6l5h/view?usp=drive_link"
+  },
+  {
+  "nombreapp": "DraftNba",
+  "descripcion": "Crea el mejor quintento inicial de la historia con tus jugadores favoritso de la NBA",
+  "icono": "https://cdn-icons-png.flaticon.com/512/3273/3273826.png",
+  "grupo": "viernes",
+  "fecha": "2026-02-13",
+  "id": 1,
+  "integrantes": [
+    "Julian Camilo Lozano",
+    "Ronald Lopez",
+    "Nicolas Ramirez Caro"
+  ],
+  "actividad": "Primera Clase",
+  "url": "https://drive.google.com/file/d/1gshO-vQPnul3du_50wWOIrNdtQJNDTN7/view?usp=drive_link"
+},
+  {
+    "nombreapp": "Cards",
+    "descripcion": "Esta es una app de juegos de encontrar parejas de cartas.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/15674/15674184.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Andres Sanchez",
+      "Jesus Vargas"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1ZfGHVWaxzoH-WEic3VSouZYSnWcUdJM1/view?usp=drive_link"
+  },
+   {
+    "nombreapp": "ApiPoema",
+    "descripcion": "Esta es una API creada para inspiracion y buscar un poema de tu gusto",
+    "icono": "https://cdn-icons-png.flaticon.com/512/75/75007.png",
+    "grupo": "viernes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "angie neiza","juliana tapias","tomas ortiz"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1AmkL6JzSig7iOV1F1QwKx3LDFshf6RhS/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Wiki Trench Crusaders",
+    "descripcion": "Esta es una API creada para poder investigar el Lore de trench crusaders",
+    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkBriV12MsGVzLRWs-S0WBo89HrvM6gW2aIQ&s",
+    "grupo": "viernes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "Dylan Felipe Bermudez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://github.com/znja983/Trench/blob/main/index.html"
+  },
+    {
+    "nombreapp": "Defuse",
+    "descripcion": "Este es un juego que consiste en una bomba el objetivo es desactivarla cortando uno de los 3 cables para desactivar el correcto se tiene que tener en cuenta la regla de esa partida y la advinanza que el juego arroja al contestar 5 veces seguidas correctamente ganas el juego",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3616/3616049.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Cristian andres de la rue","Ivan ricardo sterling","jaime antonio poveda"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1FNEG-5_IPLaqh3zQKlZjBBeJC0ghSxic/view?usp=drive_link"
+  },
+   {
+    "nombreapp": "Piedra papel o tijera",
+    "descripcion": "Es una app donde puedes jugar el clasico juego piedra papel o tijera contra la CPU",
+    "icono": "https://media.istockphoto.com/id/1269211670/es/vector/rock-papel-tijeras-conjunto-de-iconos-de-partes-del-cuerpo.jpg?s=612x612&w=0&k=20&c=GUYVPaBrY6ZJQUIcJKj0n4uXee90wziYxg6YP1ZBcs4=",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Helen Yuliana Linares Caro","Juan Pablo Blanco Soler","Jose Niño"
+    ],    
+    "actividad": "Primera Claseeee",
+    "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "calcvite",
+    "descripcion": "Esta es una calculadora realizada con vite ",
+    "icono": "https://cdn-icons-png.flaticon.com/512/10310/10310245.png",
+    "grupo": "viernes",
+    "fecha": "2024-02-13",
+    "id": 1,
+    "integrantes": [
+      "Andres Lopez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Autista-MAX",
+    "descripcion": "Test para calcular el nivel de autismo de las personas(fake)",
+    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWUUo7At4zAlNNp6KJcoJgN5hOvrZXA2MgTh_wws9bFUrnM0RF6mGkoTCKSflUMB_e5xU&usqp=CAU",
+    "grupo": "viernes",
+    "fecha": "2025-02-13",
+    "id": 1,
+    "integrantes": [
+      "Santiago Bermudez",
+      "Carlos Alvarez="
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1-PCWk73IAWs76_3n8o6jSH1oVwY4i6Jp/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "AdivinacionCard",
+    "descripcion": "Esta es una aplcacion de adivinar la pareja de cartas creada con HTML, CSS y JavaScript",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2533/2533982.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Samuel Daza11"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1zKI02c06CHRtbypdxcajbqjyoz6lLDlP/view?usp=drive_link"
   }
 ]
