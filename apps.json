@@ -53,5 +53,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1iRcyk4ywb1FLvmB975SQSESpqXgRWPIz/view?usp=drive_link"
+  },
+    {
+    "nombreapp": "Pulmones_verdes",
+    "descripcion": "Es una aplicacion que ayuda a personas con el vicio de fumar contando sus cigarrillos y su gasto mensual",
+    "icono": "https://www.flaticon.es/icono-gratis/pulmones-humanos_2831879?term=pulmones&page=1&position=73&origin=search&related_id=2831879",
+    "grupo": "lunes",
+    "fecha": "2026-02-23",
+    "id": 1,
+    "integrantes": [
+      "Juan pachon"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1iRcyk4ywb1FLvmB975SQSESpqXgRWPIz/view?usp=drive_link"
   }
 ]
