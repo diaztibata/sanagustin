@@ -454,5 +454,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1zKI02c06CHRtbypdxcajbqjyoz6lLDlP/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Hadwareasy",
+    "descripcion": "esta es una aplicacion creada con react y vite q muestra componente para un pc",
+    "icono": " https://cdn-icons-png.flaticon.com/512/9110/9110680.png ",
+    "grupo": "lunes",
+    "fecha": "2026-03-02",
+    "id": 1,
+    "integrantes": [
+      "Maicol Lancheros","Juan Rojas Lamprea"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1PnC8Ku7KuWbRxM0dgeajf12KQXmpJiGS/view"
   }
+  
 ]
