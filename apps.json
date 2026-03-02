@@ -53,6 +53,20 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://github.com/Brayan346/whatgame-"
+  },
+   {
+    "nombreapp": "AjedrezPro",
+    "descripcion": "Aplicacion para jugar ajedrez de manera profesional",
+    "icono": "https://raw.githubusercontent.com/laura3212401957/Ajedrez-React/refs/heads/main/Ajedrez.jpeg",
+    "grupo": "lunes",
+    "fecha": "2026-03-2026",
+    "id": 1,
+    "integrantes": [
+      "Laura Cardona",
+      "Nicolas Urrego"
+    ],
+    "actividad": "React+Capacitor/EXPO",
+    "url": "https://drive.google.com/drive/folders/1315ZCDQeiBIf-8tZqLBtkTIKTLJasC-j?usp=sharing"
   }
   
 ]
