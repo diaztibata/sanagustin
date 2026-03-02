@@ -454,5 +454,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1zKI02c06CHRtbypdxcajbqjyoz6lLDlP/view?usp=drive_link"
+  },
+    {
+    "nombreapp": "Quien soy?",
+    "descripcion": "juego interactivo para reuniones, quien soy? consiste en adivinar por medio de pistas que animal o personaje eres, ¡gana quien adivine mas!",
+    "icono": "https://img.freepik.com/vector-gratis/silueta-signo-interrogacion-dibujada-mano_23-2150940534.jpg?semt=ais_hybrid&w=740&q=80",
+    "grupo": "Lunes",
+    "fecha": "2026-03-2",
+    "id": 1,
+    "integrantes": [
+      "Sergio Suarez", "Jossie Rico"
+    ],
+    "actividad": "Capacitor-Expo",
+    "url": "https://drive.google.com/file/d/1jCjl-W778AR9IZGuCB_nTTTR8bTS4ofb/view?usp=drive_link"
   }
 ]
