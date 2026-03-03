@@ -53,5 +53,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1ouQd63c6Zhi6X8BkiFl2GghlI7wBRkCc/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Life in Parallel ",
+    "descripcion": "Life in Parallel es una app innovadora que te permite explorar diferentes versiones de tu día, como si existieran universos paralelos de tu vida. Cambia entre modos como productivo, creativo, descanso o aventura y descubre nuevas formas de organizar tus actividades, inspirarte y tomar mejores decisiones cada día.",
+    "icono": "https://www.shutterstock.com/image-vector/multiverse-icon-human-stand-global-260nw-2145002359.jpg",
+    "grupo": "martes",
+    "fecha": "2026-03-03",
+    "id": 1,
+    "integrantes": [
+      "julian garcia",
+      "Andres mendieta"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1ouQd63c6Zhi6X8BkiFl2GghlI7wBRkCc/view?usp=drive_link"
   }
 ]
