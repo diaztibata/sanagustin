@@ -40,4 +40,18 @@
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
   }
+  {
+    "nombreapp": "React Recomendacion Literaria",
+    "descripcion": "App creada en react que recomienda libros para el bloqueo lector",
+    "icono": "https://cdn-icons-png.flaticon.com/512/201/201556.png",
+    "grupo": "martes",
+    "fecha": "2026-03-03",
+    "id": 1,
+    "integrantes": [
+      " Nestor Albarracin",
+      "Caycedo Cristhian"
+    ],
+    "actividad": "React + Capacitor",
+    "url": "https://drive.google.com/drive/u/1/folders/1FiWSldEUWrENxPPc_2PYb20hd-ret3FH"
+  }
 ]
