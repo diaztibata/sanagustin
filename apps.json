@@ -684,5 +684,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Piedra,Papel,Tijeras",
+    "descripcion": "Piedra,Papel,Tijeras",
+    "icono": "https://cdn-icons-png.flaticon.com/128/1019/1019432.png",
+    "grupo": "martes",
+    "fecha": "2026-03-03",
+    "id": 2,
+    "integrantes": [
+      "Juan Suarez"
+    ],
+    "actividad": "Capacitor",
+    "url": "https://juanda94865.github.io/papaso/"
   }
 ]
