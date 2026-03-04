@@ -467,5 +467,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/17mWSHnPBRczVk4puHhRC4D_3guBOUf8T/view"
+  },
+  {
+    "nombreapp": "mixClothes",
+    "descripcion": "Aplicacion para convinar colores de ropa",
+    "icono": "https://images.icon-icons.com/1581/PNG/512/3668861-clothes-fashion-outfit-tshirt_108013.png",
+    "grupo": "martes",
+    "fecha": "2026-03-04",
+    "id": 1,
+    "integrantes": [
+      "Cristhian Salinas", "Cristian Velandia"
+    ],
+    "actividad": "Capacitor - Expo",
+    "url": "https://drive.google.com/file/d/1R_UGRgkW270dtMf9c3naeb3DswUBjES-/view?usp=drive_link"
   }
 ]
