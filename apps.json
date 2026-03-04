@@ -226,6 +226,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1bZXO6vAAxfIOw24onPo-z2xUbxkuHnWL/view?usp=drive_link"
+  },
+     {
+    "nombreapp": "NoBoton",
+    "descripcion": "Una app con una sola regla. ¿Tienes la fuerza de voluntad suficiente para no presionar el botón? El desafío digital definitivo para los curiosos.",
+    "icono": "https://us.123rf.com/450wm/newartgraphics/newartgraphics1401/newartgraphics140100027/24938350-el-bot%C3%B3n-rojo-redondo-con-borde-met%C3%A1lico.jpg?ver=6",
+    "grupo": "martes",
+    "fecha": "2026-03-03",
+    "id": 1,
+    "integrantes": [
+      "Daniel Celis"
+    ],
+    "actividad": "Actividad react + capacitor / EXPO",
+    "url": "https://drive.google.com/file/d/1RYExC12nfwK0DZO_TpdndgcytQB9uDLB/view?usp=drive_link"
   },  {
     "nombreapp": "Fitlife Pro",
     "descripcion": "Tu app fitness todo en uno. Encuentra planes de comidas, rutinas de ejercicios y seguimiento de calorías para alcanzar tus objetivos más rápido. Controla tu progreso y transforma tu estilo de vida de manera simple y efectiva.",
