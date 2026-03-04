@@ -52,5 +52,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1bWfiHT0JlOMFEJWx-u4Jn0hZUelbMtdU/view?usp=drive_link"
+  },
+    {
+    "nombreapp": "Palabras Nuevas",
+    "descripcion": "Te sale una nueva palabra son su significado.",
+    "icono": "https://www.shutterstock.com/image-vector/vector-dictionary-icon-isolated-on-600nw-2640787921.jpg",
+    "grupo": "martes",
+    "fecha": "2026-03-03",
+    "id": 1,
+    "integrantes": [
+      "Juan David Sanchez"
+    ],
+    "actividad": "react",
+    "url": "https://drive.google.com/file/d/1qOMNuIDiZHG4Mac7Jn1PSvoX2-2UEeWA/view?usp=drive_link"
   }
 ]
