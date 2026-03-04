@@ -454,5 +454,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1zKI02c06CHRtbypdxcajbqjyoz6lLDlP/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Sin elección",
+    "descripcion": "Esta es una aplcacion donde tu creas las opciones y aleatoriamente se escoge una de ellas",
+    "icono": "https://cdn-icons-png.flaticon.com/512/6193/6193597.png",
+    "grupo": "lunes",
+    "fecha": "2026-03-2",
+    "id": 1,
+    "integrantes": [
+      "Samuel Diaz",
+      "Arias Diaz"
+    ],
+    "actividad": "React + Vite",
+    "url": "https://drive.google.com/file/d/1ZCWopLBGeu8swJh7lwA-wSz-gbpq653l/view?usp=drive_link"
   }
 ]
