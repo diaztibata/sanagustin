@@ -1,30 +1,160 @@
 [
   {
-    "nombreapp": "Adivinar",
-    "descripcion": "Adivina la Fruta es un juego web interactivo desarrollado con HTML, CSS y JavaScript...",
-    "icono": "https://cdn-icons-png.flaticon.com/512/2909/2909765.png",
+    "nombreapp": "NoiseMeter",
+    "descripcion": "Permite medir el nivel de ruido ambiental en tiempo real.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/11836/11836093.png",
     "grupo": "lunes",
-    "fecha": "2024-11-15",
+    "fecha": "2026-02-09",
     "id": 1,
     "integrantes": [
-      "Oscar Herrera",
-      "Katherin Aviles"
+      "Jesús Flórez",
+      "Sergio Ramirez"
     ],
     "actividad": "Primera Clase",
-    "url": "https://katherin2024.github.io/AdivinarApk/"
+    "url": "https://drive.google.com/file/d/13FDNOs-mOKhsZP0QoYPFwtmzorlB8OGW/view?usp=drive_link"
   },
   {
     "nombreapp": "ApiPoema",
     "descripcion": "Esta es una API creada para inspiracion y buscar un poema de tu gusto",
-    "icono": "https://cdn-icons-png.flaticon.com/128/10389/10389721.png",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2301/2301751.png",
+    "grupo": "viernes",
+    "fecha": "2024-13-02",
+    "id": 1,
+    "integrantes": [
+      "angie neiza",
+      "juliana tapias",
+      "tomas ortiz"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/drive/folders/1NHYZI0m5VWjy9jEQdBntNDRz6jBhNEiN"
+  },
+  {
+    "nombreapp": "Calculadora",
+    "descripcion": "App de retroalimentación de las webviews",
+    "icono": "https://www.shutterstock.com/image-vector/cute-dark-gray-calculator-blue-600nw-2618023419.jpg",
     "grupo": "viernes",
     "fecha": "2024-11-15",
     "id": 1,
     "integrantes": [
-      "Katherin Aviles"
+      "Juan David Sarmiento ",
+      "Juan David Martínez Niño"
     ],
     "actividad": "Primera Clase",
-    "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
+    "url": "https://drive.google.com/file/d/1rAdkiR1i853NnWCl6JilxaTmFYyln8EJ/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "conversor",
+    "descripcion": "conversor de diferentes tipos de monedas del mundo",
+    "icono": "https://static.vecteezy.com/system/resources/previews/005/879/976/non_2x/currency-converter-icon-free-vector.jpg",
+    "nombreapp": "NoiseMeter",
+    "descripcion": "Permite medir el nivel de ruido ambiental en tiempo real.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/11836/11836093.png",
+    "grupo": "lunes",
+    "fecha": "2026-02-09",
+    "id": 1,
+    "integrantes": [
+      "Cristian Gamba",
+      "jhonnier Gordo"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://felipe345522.github.io/convertidor-de-moneda-/"
+  },
+  {
+    "nombreapp": "PlaticaApi",
+    "descripcion": "Maneja los gastos de tu salario para llevar mejor la cuenta 🤑🤑💵💵.",
+    "icono": "https://i.pinimg.com/736x/4e/84/ed/4e84ed8a05068070277f2705858e8133.jpg",
+    "grupo": "viernes",
+    "fecha": "2026-2-13",
+    "id": 1,
+    "integrantes": [
+      "Andres Castillo",
+      "Mi primo samuel"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://github.com/4ndriu/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "PoolPoints",
+    "descripcion": "Lleva la cuenta de tus puntos, en tus partidas de pool",
+    "icono": "https://img.freepik.com/vector-premium/icono-pelota-billar-vector-icono-deportivo_667453-2848.jpg",
+    "grupo": "lunes",
+    "fecha": "2026-02-9",
+    "id": 1,
+    "integrantes": [
+      "Sergio Suarez",
+      "Jossie Rico"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1y1HKc4b9HHCUV-UM2UT9BdqclYN2hAQB/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Generador Frases",
+    "descripcion": "Genera frases motivacionales sobre programación de manera aleatoria",
+    "icono": "https://cdn-icons-png.flaticon.com/512/9307/9307141.png",
+    "grupo": "lunes",
+    "fecha": "2025-02-09",
+    "id": 1,
+    "integrantes": [
+      "Samuel Diaz",
+      "Arias Diaz"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1zth35jt2pTlQBzeLocnf6wrC42IjuzUK/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Calendario",
+    "descripcion": "Recrea un calendario, sirve para ser una agenda personal.",
+    "icono": "https://media.istockphoto.com/id/1212381977/es/vector/icono-de-calendario-de-dise%C3%B1o-plano-simple.jpg?s=612x612&w=0&k=20&c=rH2qnbNgiZIKp2fghqjhLUr7r97KTgCheIoVuFUmKEY=",
+    "grupo": "lunes",
+    "fecha": "2026-02-09",
+    "id": 1,
+    "integrantes": [
+      "Juan Rodriguez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "hhttps://github.com/JuanesVVV/Calendario/blob/main/app-debug.apk"
+  },
+  {
+    "nombreapp": "Pulmones_verdes",
+    "descripcion": "ayuda a las personas con la ansiedad y lleva un retgistro de los cigarrillos que ha fumado dia a dia ",
+    "icono": "https://img.freepik.com/vector-premium/ilustracion-pulmones-humanos_959701-782.jpg",
+    "grupo": "lunes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "juan pachon",
+      "brayan moya"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1iRcyk4ywb1FLvmB975SQSESpqXgRWPIz/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "FasTapp",
+    "descripcion": "Mide la rapidez de tap del usuario en la pantalla del movil en un tiempo determinado ",
+    "icono": "https://cdn-icons-png.flaticon.com/128/11115/11115710.png",
+    "grupo": "lunes",
+    "fecha": "2024-02-09",
+    "id": 1,
+    "integrantes": [
+      "Michael Lancheros",
+      "Juan Rojas Lamprea"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1v9ZLuOt23IoJYYbo5Q096pNUBu2VDg9S/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "FlappyBird",
+    "descripcion": "simula el juego de la ave que pasa por tubos.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/789/789479.png",
+    "grupo": "lunes",
+    "fecha": "2026-02*09",
+    "id": 1,
+    "integrantes": [
+      "Juan Zambrano",
+      "Daymon Diaz"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/19rDrx_CBvHpOpvS3QgA4gv72Q-w9vZo5/view?usp=drive_link"
   },
   {
     "nombreapp": "Semáforo Interactivo",
@@ -34,13 +164,237 @@
     "fecha": "2024-11-15",
     "id": 1,
     "integrantes": [
-      "Santiago Castellanos",
-      "Angie Rincon"
+      "Edsion Amado",
+      "Sebastian Montiel"
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
   },
     {
+  {
+    "nombreapp": "WhatGame",
+    "descripcion": "Aplicacion para elegir juegos",
+    "icono": "https://raw.githubusercontent.com/Brayan346/whatgame-/refs/heads/main/WhatsApp%20Image%202026-02-09%20at%203.34.09%20PM.jpeg",
+    "grupo": "lunes",
+    "fecha": "2026-02-09",
+    "id": 1,
+    "integrantes": [
+      "Laura Cardona",
+      "Brayan Hernandez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://github.com/Brayan346/whatgame-"
+  },
+  {
+    "nombreapp": "HabitFy",
+    "descripcion": "Has un habito el cual necesites cumplir diario, esta app te motiva y te muestra los días que cumpliste tu meta diaria",
+    "icono": "https://cdn-icons-png.flaticon.com/512/4305/4305257.png",
+    "grupo": "lunes",
+    "fecha": "2025-02-09",
+    "id": 1,
+    "integrantes": [
+      "Luisa Aguilar",
+      "Samuel Saavedra"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://github.com/SamuSST/HabitFy.git"
+  },
+  {
+    "nombreapp": "NumberWord",
+    "descripcion": "Genera un número secreto entre 1 y 20 El usuario escribe un número La app dice si es: 🔺 Muy alto 🔻 Muy bajo 🎉 Correcto Cuenta intentos Permite reiniciar el juego",
+    "icono": "https://cdn-icons-png.flaticon.com/512/4224/4224918.png",
+    "grupo": "lunes",
+    "fecha": "2026-02-09",
+    "id": 1,
+    "integrantes": [
+      "Miguel Martinez",
+      "Sebastian Montiel",
+      "Nicolas quitian"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/17uPgzGEkb1BQ7JK5tIiBTrMdFMBTs5WY/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Dice roller",
+    "descripcion": "Un dado virtual",
+    "icono": "https://tse1.mm.bing.net/th/id/OIP.L0ijGnabxgZ6sdIFGBiKbAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "grupo": "martes",
+    "fecha": "2025-02-10",
+    "id": 1,
+    "integrantes": [
+      "Nestor Albarracin",
+      "Caycedo Cristhian"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1bZXO6vAAxfIOw24onPo-z2xUbxkuHnWL/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Fitlife Pro",
+    "descripcion": "Tu app fitness todo en uno. Encuentra planes de comidas, rutinas de ejercicios y seguimiento de calorías para alcanzar tus objetivos más rápido. Controla tu progreso y transforma tu estilo de vida de manera simple y efectiva.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2780/2780119.png",
+    "grupo": "martes",
+    "fecha": "2026-02-10",
+    "id": 1,
+    "integrantes": [
+      "Daniel Celis"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1mD2f2H9PyvY2oIkgJcmZjsrmneUxV8iO/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Escucha tu estado ",
+    "descripcion": "esta app te recomienda que debes escuchar segun tu estado de animo tambien te da una frase motivacional segun tu estado y puedes vr la informacion del artista que la compuso.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/761/761767.png",
+    "grupo": "martes",
+    "fecha": "2026-02-10",
+    "id": 1,
+    "integrantes": [
+      "julian garcia",
+      "Andres mendieta"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1ouQd63c6Zhi6X8BkiFl2GghlI7wBRkCc/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "App Nueva",
+    "descripcion": "App en desarrollo",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1969/1969648.png",
+    "grupo": "martes",
+    "fecha": "2026-02-10",
+    "id": 1,
+    "integrantes": [
+      "Cristhian Andres",
+      "Camilo Velandia"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "ComprApp",
+    "descripcion": "Simula una lista de mercado, suma los valores para llevar la cuenta y controlar lo que compras",
+    "icono": "https://www.shutterstock.com/image-vector/shopping-cart-blue-vector-icon-600nw-2467365901.jpg",
+    "grupo": "martes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "David Pernett",
+      "Emmanuel Redondo"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1BX9-lCaqvNCjWpugjcLgAYwhpSJJQTmu/view?usp=sharing"
+  },
+  {
+    "nombreapp": "Grupo del Martes Lorena & Paula",
+    "descripcion": "Grupo de la noche clase de 7:45 a 10:00.",
+    "icono": "https://img.icons8.com/external-tal-revivo-bold-tal-revivo/1200/external-suzuki-motor-corporation-is-a-japanese-multinational-corporation-automotive-bold-tal-revivo.jpg",
+    "grupo": "martes",
+    "fecha": "2026-02-10",
+    "id": 1,
+    "integrantes": [
+      "Lorena Vaca",
+      "Paula Lozano"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1ouQd63c6Zhi6X8BkiFl2GghlI7wBRkCc/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Reto Random",
+    "descripcion": "Tipo ruleta, te muestra el reto a realizar.",
+    "icono": "https://img.freepik.com/vector-premium/fondo-rueda-fortuna-ilustracion-ruleta-suerte-vector-concepto-casino-linea_165143-1491.jpg",
+    "grupo": "martes",
+    "fecha": "2026-02-10",
+    "id": 1,
+    "integrantes": [
+      "Juan David Sanchez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1bWfiHT0JlOMFEJWx-u4Jn0hZUelbMtdU/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Alarma con Propósito",
+    "descripcion": "Simula una aplicación de una alarma usand HTML, CSS y JavaScript, usando elementos visuales unicos",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2972/2972531.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Yesica Causado",
+      "Matias Ramirez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/125FaC3FaQEiwvK2ams8URDEqGnj2Sfru/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Calculadora Avanzada",
+    "descripcion": "Es la calculadora mas avanzada del siglo 21 (no realmente)",
+    "icono": "https://cdn-icons-png.flaticon.com/128/2374/2374370.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Duvan Cavajal"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1aco2eOI1niEEWfD9mNMx-QZEihut6l5h/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "DraftNba",
+    "descripcion": "Crea el mejor quintento inicial de la historia con tus jugadores favoritso de la NBA",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3273/3273826.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Julian Camilo Lozano",
+      "Ronald Lopez",
+      "Nicolas Ramirez Caro"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1gshO-vQPnul3du_50wWOIrNdtQJNDTN7/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Cards",
+    "descripcion": "Esta es una app de juegos de encontrar parejas de cartas.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/15674/15674184.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Andres Sanchez",
+      "Jesus Vargas"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1ZfGHVWaxzoH-WEic3VSouZYSnWcUdJM1/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "ApiPoema",
+    "descripcion": "Esta es una API creada para inspiracion y buscar un poema de tu gusto",
+    "icono": "https://cdn-icons-png.flaticon.com/512/75/75007.png",
+    "grupo": "viernes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "angie neiza",
+      "juliana tapias",
+      "tomas ortiz"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1AmkL6JzSig7iOV1F1QwKx3LDFshf6RhS/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Wiki Trench Crusaders",
+    "descripcion": "Esta es una API creada para poder investigar el Lore de trench crusaders",
+    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkBriV12MsGVzLRWs-S0WBo89HrvM6gW2aIQ&s",
+    "grupo": "viernes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "Dylan Felipe Bermudez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://github.com/znja983/Trench/blob/main/index.html"
+  },
+  {
     "nombreapp": "Defuse",
     "descripcion": "Este es un juego que consiste en una bomba el objetivo es desactivarla cortando uno de los 3 cables para desactivar el correcto se tiene que tener en cuenta la regla de esa partida y la advinanza que el juego arroja al contestar 5 veces seguidas correctamente ganas el juego",
     "icono": "https://cdn-icons-png.flaticon.com/512/3616/3616049.png",
@@ -59,11 +413,288 @@
     "icono": "https://i.imgur.com/zYulytO.png",
     "grupo": "viernes",
     "fecha": "2026-03-05",
-    "id": 153,
+    "id": 2,
     "integrantes": [
       "Cristian andres de la rue","Ivan ricardo sterling"
     ],
     "actividad": "App con Capacitor y Expo",
     "url": "https://drive.google.com/file/d/14oImoYI2BI_pXBaRwYOVmF7xs5O6v6cn/view?usp=sharing"
+  },
+{
+    "nombreapp": "Piedra papel o tijera",
+    "descripcion": "Es una app donde puedes jugar el clasico juego piedra papel o tijera contra la CPU",
+    "icono": "https://media.istockphoto.com/id/1269211670/es/vector/rock-papel-tijeras-conjunto-de-iconos-de-partes-del-cuerpo.jpg?s=612x612&w=0&k=20&c=GUYVPaBrY6ZJQUIcJKj0n4uXee90wziYxg6YP1ZBcs4=",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Helen Yuliana Linares Caro",
+      "Juan Pablo Blanco Soler",
+      "Jose Niño"
+    ],
+    "actividad": "Primera Claseeee",
+    "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "calcvite",
+    "descripcion": "Esta es una calculadora realizada con vite ",
+    "icono": "https://cdn-icons-png.flaticon.com/512/10310/10310245.png",
+    "grupo": "viernes",
+    "fecha": "2024-02-13",
+    "id": 1,
+    "integrantes": [
+      "Andres Lopez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Autista-MAX",
+    "descripcion": "Test para calcular el nivel de autismo de las personas(fake)",
+    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWUUo7At4zAlNNp6KJcoJgN5hOvrZXA2MgTh_wws9bFUrnM0RF6mGkoTCKSflUMB_e5xU&usqp=CAU",
+    "grupo": "viernes",
+    "fecha": "2025-02-13",
+    "id": 1,
+    "integrantes": [
+      "Santiago Bermudez",
+      "Carlos Alvarez="
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1-PCWk73IAWs76_3n8o6jSH1oVwY4i6Jp/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "AdivinacionCard",
+    "descripcion": "Esta es una aplcacion de adivinar la pareja de cartas creada con HTML, CSS y JavaScript",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2533/2533982.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Samuel Daza11"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1zKI02c06CHRtbypdxcajbqjyoz6lLDlP/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Sin elección",
+    "descripcion": "Esta es una aplcacion donde tu creas las opciones y aleatoriamente se escoge una de ellas",
+    "icono": "https://cdn-icons-png.flaticon.com/512/6193/6193597.png",
+    "grupo": "lunes",
+    "fecha": "2026-03-2",
+    "id": 1,
+    "integrantes": [
+      "Samuel Diaz",
+      "Arias Diaz"
+    ],
+    "actividad": "React + Vite",
+    "url": "https://drive.google.com/file/d/1ZCWopLBGeu8swJh7lwA-wSz-gbpq653l/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "React Recomendacion Literaria",
+    "descripcion": "App creada en react que recomienda libros para el bloqueo lector",
+    "icono": "https://cdn-icons-png.flaticon.com/512/201/201556.png",
+    "grupo": "martes",
+    "fecha": "2026-03-03",
+    "id": 1,
+    "integrantes": [
+      " Nestor Albarracin",
+      "Caycedo Cristhian"
+    ],
+    "actividad": "React + Capacitor",
+    "url": "https://drive.google.com/drive/u/1/folders/1FiWSldEUWrENxPPc_2PYb20hd-ret3FH"
+  },
+  {
+    "nombreapp": "Pokeapi",
+    "descripcion": "Apk de Api de pokemon",
+    "icono": "https://i.pinimg.com/originals/09/7e/40/097e40242a1a4009a0b877f9133fb96b.png",
+    "grupo": "martes",
+    "fecha": "2026-02-17",
+    "id": 1,
+    "integrantes": [
+      "Cristhian Salinas"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/17mWSHnPBRczVk4puHhRC4D_3guBOUf8T/view"
+  },
+  {
+    "nombreapp": "Escucha tu estado ",
+    "descripcion": "esta app te recomienda que debes escuchar segun tu estado de animo tambien te da una frase motivacional segun tu estado y puedes vr la informacion del artista que la compuso.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/761/761767.png",
+    "grupo": "martes",
+    "fecha": "2026-02-10",
+    "id": 1,
+    "integrantes": [
+      "julian garcia",
+      "Andres mendieta"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1ouQd63c6Zhi6X8BkiFl2GghlI7wBRkCc/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Life in Parallel ",
+    "descripcion": "Life in Parallel es una app innovadora que te permite explorar diferentes versiones de tu día, como si existieran universos paralelos de tu vida. Cambia entre modos como productivo, creativo, descanso o aventura y descubre nuevas formas de organizar tus actividades, inspirarte y tomar mejores decisiones cada día.",
+    "icono": "https://www.shutterstock.com/image-vector/multiverse-icon-human-stand-global-260nw-2145002359.jpg",
+    "grupo": "martes",
+    "fecha": "2026-03-03",
+    "id": 1,
+    "integrantes": [
+      "julian garcia",
+      "Andres mendieta"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1ouQd63c6Zhi6X8BkiFl2GghlI7wBRkCc/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Gateto",
+    "descripcion": "Esta es una APP que te da frases de gatetos.",
+    "icono": "https://cdn-icons-png.flaticon.com/256/3468/3468377.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-03",
+    "id": 1,
+    "integrantes": [
+      "Andres Soler"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://github.com/Andres-Soler/Gateto/blob/main/app-debug.apk"
+  },
+  {
+    "nombreapp": "Hadwareasy",
+    "descripcion": "esta es una aplicacion creada con react y vite q muestra componente para un pc",
+    "icono": " https://cdn-icons-png.flaticon.com/512/9110/9110680.png ",
+    "grupo": "lunes",
+    "fecha": "2026-03-02",
+    "id": 1,
+    "integrantes": [
+      "Maicol Lancheros",
+      "Juan Rojas Lamprea"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1PnC8Ku7KuWbRxM0dgeajf12KQXmpJiGS/view"
+  },
+  {
+    "nombreapp": "Quien soy?",
+    "descripcion": "juego interactivo para reuniones, quien soy? consiste en adivinar por medio de pistas que animal o personaje eres, ¡gana quien adivine mas!",
+    "icono": "https://img.freepik.com/vector-gratis/silueta-signo-interrogacion-dibujada-mano_23-2150940534.jpg?semt=ais_hybrid&w=740&q=80",
+    "grupo": "Lunes",
+    "fecha": "2026-03-2",
+    "id": 1,
+    "integrantes": [
+      "Sergio Suarez",
+      "Jossie Rico"
+    ],
+    "actividad": "Capacitor-Expo",
+    "url": "https://drive.google.com/file/d/1jCjl-W778AR9IZGuCB_nTTTR8bTS4ofb/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Dreamflow",
+    "descripcion": "Aplicacion para el control y manejo del sueño con actividades interactivas",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3026/3026346.png",
+    "grupo": "lunes",
+    "fecha": "2026-02-16",
+    "id": 1,
+    "integrantes": [
+      "Edison Amado",
+      "Daniel Latorre!f"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://github.com/EdisonAmadoc/Webview"
+  },
+  {
+    "nombreapp": "Pulmones_verdes",
+    "descripcion": "ayuda a las personas con la ansiedad y lleva un retgistro de los cigarrillos que ha fumado dia a dia ",
+    "icono": "https://img.freepik.com/vector-premium/ilustracion-pulmones-humanos_959701-782.jpg",
+    "grupo": "lunes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "juan pachon",
+      "brayan moya"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1iRcyk4ywb1FLvmB975SQSESpqXgRWPIz/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Pulmones_verdes",
+    "descripcion": "Es una aplicacion que ayuda a personas con el vicio de fumar contando sus cigarrillos y su gasto mensual",
+    "icono": "https://www.flaticon.es/icono-gratis/pulmones-humanos_2831879?term=pulmones&page=1&position=73&origin=search&related_id=2831879",
+    "grupo": "lunes",
+    "fecha": "2026-02-23",
+    "id": 1,
+    "integrantes": [
+      "Juan pachon"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1iRcyk4ywb1FLvmB975SQSESpqXgRWPIz/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Debug",
+    "descripcion": "Esta es una aplcacion de adivinar la pareja de cartas creada con HTML, CSS y JavaScript",
+    "icono": "https://i.pinimg.com/564x/f3/b5/64/f3b56482d380196ca7e2f7c18e20b21f.jpg",
+    "grupo": "lunes",
+    "fecha": "2026-02-16",
+    "id": 1,
+    "integrantes": [
+      "Brayan Felipe",
+      "Julian Viloria"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1bAMc51B3acddgriv5uxSldvrmXCMA69t/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Reflejos Espaciales",
+    "descripcion": "Juego de agilidad divertido donde el objetivo es acumular puntos pulsando en los circulos que aparecen en pantalla.",
+    "icono": "https://img.freepik.com/vector-premium/conjunto-bolas-colores-elemento-diseno-3d-realista-estilo-dibujos-animados-plastico_763672-175.jpg",
+    "grupo": "lunes",
+    "fecha": "2025-01-09",
+    "id": 1,
+    "integrantes": [
+      "Sofia Rueda",
+      "Nicolás Urrego"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://github.com/Sofia05090/Juego"
+  },
+  {
+    "nombreapp": "WhatGame",
+    "descripcion": "Aplicacion para elegir juegos",
+    "icono": "https://raw.githubusercontent.com/Brayan346/whatgame-/refs/heads/main/WhatsApp%20Image%202026-02-09%20at%203.34.09%20PM.jpeg",
+    "grupo": "lunes",
+    "fecha": "2026-02-09",
+    "id": 1,
+    "integrantes": [
+      "Laura Cardona",
+      "Brayan Hernandez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://github.com/Brayan346/whatgame-"
+  },
+  {
+    "nombreapp": "AjedrezPro",
+    "descripcion": "Aplicacion para jugar ajedrez de manera profesional",
+    "icono": "https://raw.githubusercontent.com/laura3212401957/Ajedrez-React/refs/heads/main/Ajedrez.jpeg",
+    "grupo": "lunes",
+    "fecha": "2026-03-2026",
+    "id": 1,
+    "integrantes": [
+      "Laura Cardona",
+      "Nicolas Urrego"
+    ],
+    "actividad": "React+Capacitor/EXPO",
+    "url": "https://drive.google.com/drive/folders/1315ZCDQeiBIf-8tZqLBtkTIKTLJasC-j?usp=sharing"
+  },
+  {
+    "nombreapp": "Piedra papel o tijera",
+    "descripcion": "Es una app donde puedes jugar el clasico juego piedra papel o tijera contra la CPU",
+    "icono": "https://media.istockphoto.com/id/1269211670/es/vector/rock-papel-tijeras-conjunto-de-iconos-de-partes-del-cuerpo.jpg?s=612x612&w=0&k=20&c=GUYVPaBrY6ZJQUIcJKj0n4uXee90wziYxg6YP1ZBcs4=",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Helen Yuliana Linares Caro",
+      "Juan Pablo Blanco Soler",
+      "Jose Niño"
+    ],
+    "actividad": "Primera Claseeee",
+    "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
   }
 ]
