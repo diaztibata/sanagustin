@@ -40,18 +40,19 @@
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
   },
-   {
-    "nombreapp": "PlaticaApi",
-    "descripcion": "Maneja los gastos de tu salario para llevar mejor la cuenta 🤑🤑💵💵.",
-    "icono": "https://i.pinimg.com/736x/4e/84/ed/4e84ed8a05068070277f2705858e8133.jpg",
+  {
+    "nombreapp": "Segundazo",
+    "descripcion": "Una tienda virtual para vender cosas de sengunda mano",
+    "icono": "https://drive.google.com/file/d/1LEvOY9MTuPxtHSqZ9sJ7jCUms-gdeGKT/view?usp=sharing",
     "grupo": "viernes",
-    "fecha": "2026-2-13",
+    "fecha": "2026-3-6",
     "id": 1,
     "integrantes": [
       "Andres Castillo",
-      "Mi primo samuel"
+      "Jaime Poveda"
     ],
-    "actividad": "Primera Clase",
-    "url": "https://github.com/4ndriu/sanagustin/blob/semestre3/app-debug.apk"
+    "actividad": "Cuarta clase",
+    "url": "https://drive.google.com/drive/folders/1NHYZI0m5VWjy9jEQdBntNDRz6jBhNEiN"
   }
+
 ]
