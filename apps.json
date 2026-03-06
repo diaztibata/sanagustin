@@ -52,5 +52,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1FNEG-5_IPLaqh3zQKlZjBBeJC0ghSxic/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Mood Pixel",
+    "descripcion": "Diario emocional visual donde cada día se convierte en un pixel de color, formando un mapa de tus estados de ánimo.",
+    "icono": "https://i.imgur.com/zYulytO.png",
+    "grupo": "viernes",
+    "fecha": "2026-03-05",
+    "id": 153,
+    "integrantes": [
+      "Cristian andres de la rue","Ivan ricardo sterling"
+    ],
+    "actividad": "App con Capacitor y Expo",
+    "url": "https://drive.google.com/file/d/14oImoYI2BI_pXBaRwYOVmF7xs5O6v6cn/view?usp=sharing"
   }
 ]
