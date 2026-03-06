@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Champions League.",
+    "descripcion": "Primera app con react en vite y capacitor, que muestra información sobre la mayores decepciones del barcelona y el manchester city en la champions league",
+    "icono": "https://static.vecteezy.com/system/resources/thumbnails/044/626/791/small/logo-on-transparent-background-free-vector.jpg",
+    "grupo": "viernes",
+    "fecha": "2026-03-03",
+    "id": 1,
+    "integrantes": [
+      "Juan David Sarmiento ",
+      "Juan David Martínez Niño."
+    ],
+    "actividad": "Primera app React",
+    "url": "https://drive.google.com/file/d/1gArsNFr2PnRGjBCdpF1KV9RVO7kv9PGA/view?usp=drive_link"
   }
 ]
