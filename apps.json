@@ -434,7 +434,7 @@
       "Andres Lopez"
     ],
     "actividad": "Primera Clase",
-    "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
+    "url": "https://drive.google.com/file/d/1ngqQXn1kMyPDvqo5KQRI4Hf4lMStazGP/view?usp=drive_link"
   },
   {
     "nombreapp": "Autista-MAX",
@@ -684,5 +684,20 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "ColorMatch",
+    "descripcion": "Es una app donde debes escoger el color correcto de las 4 opciones presentadas",
+    "icono": "https://www.google.com/imgres?q=color%20fondo&imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1557683316-973673baf926%3Ffm%3Djpg%26q%3D60%26w%3D3000%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sb3IlMjBkZSUyMGZvbmRvfGVufDB8fDB8fHww&imgrefurl=https%3A%2F%2Funsplash.com%2Fes%2Fs%2Ffotos%2Fcolor-de-fondo&docid=5z9CYn2jJPT9CM&tbnid=9tUTZfaf0uHAzM&vet=12ahUKEwjHtOaegIyTAxVIVTABHZCdAMYQnPAOegQIIRAB..i&w=3000&h=2100&hcb=2&ved=2ahUKEwjHtOaegIyTAxVIVTABHZCdAMYQnPAOegQIIRAB",
+    "grupo": "viernes",
+    "fecha": "2026-03-06",
+    "id": 1,
+    "integrantes": [
+      "Andres Felipe Lopez",
+      "Dylan Felipe Bermudez"
+    ],
+    "actividad": "Capacitor-Expo",
+    "url": "https://drive.google.com/file/d/1Z1x3SzDn5AOSjgUqfzHpn7bxEKqfxb1D/view?usp=drive_link"
   }
+
 ]
