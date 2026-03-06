@@ -41,17 +41,17 @@
     "url": "https://santiago1902200.github.io/Semaforo/"
   },
   {
-    "nombreapp": "Cards",
-    "descripcion": "Esta es una app de juegos de encontrar parejas de cartas.",
-    "icono": "https://cdn-icons-png.flaticon.com/512/15674/15674184.png",
+    "nombreapp": "Buscaminas",
+    "descripcion": "Esta es una app de Buscaminas el cual es un juego de lógica donde el usuario debe descubrir todas las casillas de un tablero sin activar las minas ocultas.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2045/2045656.png",
     "grupo": "viernes",
-    "fecha": "2026-02-13",
+    "fecha": "2026-03-06",
     "id": 1,
     "integrantes": [
       "Andres Sanchez",
       "Jesus Vargas"
     ],
-    "actividad": "Primera Clase",
-    "url": "https://drive.google.com/file/d/1ZfGHVWaxzoH-WEic3VSouZYSnWcUdJM1/view?usp=drive_link"
+    "actividad": "React + capacitor / EXPO",
+    "url": "https://drive.google.com/file/d/1Aw0xPhMvwz3hAuvy83vwi1uYOhAv5tyT/view?usp=drive_link"
   }
 ]
