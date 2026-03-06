@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Compatibilidad",
+    "descripcion": "Esta es una aplcacion que calcula la compatibilidad entre dos personas",
+    "icono": "https://i.pinimg.com/564x/f3/b5/64/f3b56482d380196ca7e2f7c18e20b21f.jpg",
+    "grupo": "viernes",
+    "fecha": "2026-03-05",
+    "id": 1,
+    "integrantes": [
+      "Carlos Alvarez",
+      "Santiago Bermudez"
+    ],
+    "actividad": "React+Capacitor/EXPO",
+    "url": "https://drive.google.com/file/d/1ShW_2sQ4EsX4NFahYCOqKS9uJTCMKgTG/view?usp=drive_link"
   }
 ]
