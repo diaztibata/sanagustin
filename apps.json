@@ -670,6 +670,20 @@
     "actividad": "React+Capacitor/EXPO",
     "url": "https://drive.google.com/drive/folders/1315ZCDQeiBIf-8tZqLBtkTIKTLJasC-j?usp=sharing"
   },
+   {
+    "nombreapp": "NHL",
+    "descripcion": "Aplicacion para conocer mas acerca del hockey sobre hielo",
+    "icono": "https://www.flaticon.com/free-icon/ice-hockey_4357794?term=hockey&page=1&position=2&origin=search&related_id=4357794",
+    "grupo": "viernes",
+    "fecha": "2026-03-06",
+    "id": 1,
+    "integrantes": [
+      "Ronald Lopez",
+      "Jose Niño"
+    ],
+    "actividad": "Capacitor/EXPO",
+    "url": "https://drive.google.com/drive/folders/1315ZCDQeiBIf-8tZqLBtkTIKTLJasC-j?usp=sharing"
+  },
   {
     "nombreapp": "Piedra papel o tijera",
     "descripcion": "Es una app donde puedes jugar el clasico juego piedra papel o tijera contra la CPU",
