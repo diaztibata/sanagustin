@@ -27,6 +27,20 @@
     "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
   },
   {
+    "nombreapp": "BingBong",
+    "descripcion": "Juego inspirado en el clásico Pong, donde el jugador controla una paleta y compite contra un bot para golpear la pelota y evitar que pase a su lado.",
+    "icono": "https://www.flaticon.com/free-icon/table-tennis-racket_5140583",
+    "grupo": "viernes",
+    "fecha": "2026-03-6",
+    "id": 1,
+    "integrantes": [
+      "Samuel daza"
+    ],
+    "actividad": "Actividad react + capacitor / EXPO",
+    "url": "https://drive.google.com/file/d/1w_ZbTRYyY__d3shLeQA6cwyt18h45g77/view?usp=sharing"
+  },
+
+  {
     "nombreapp": "Semáforo Interactivo",
     "descripcion": "Simula un semáforo en HTML, CSS y JavaScript. Modo manual y automático.",
     "icono": "https://cdn-icons-png.flaticon.com/512/3267/3267422.png",
