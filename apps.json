@@ -685,4 +685,19 @@
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
   }
+  ,
+  {
+    "nombreapp": "Frases De Sabiduria",
+    "descripcion": "App que genera sabidura para ser menos pendejo.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/8330/8330101.png",
+    "grupo": "viernes",
+    "fecha": "2026-03-06",
+    "id": 1,
+    "integrantes": [
+      "Andres Soler",
+      "Duvan Carvajal"
+    ],
+    "actividad": "Capacitor y Expo",
+    "url": "https://drive.google.com/file/d/1TINxd_f6DeD4PLbJXxRTZJ9yiytWqUg-/view?usp=drive_link"
+  }
 ]
