@@ -14,6 +14,20 @@
     "url": "https://katherin2024.github.io/AdivinarApk/"
   },
   {
+    "nombreapp": "Calendario-emociones",
+    "descripcion": "una aplicacion diseñada para contabilizar como ha sido tu mes...",
+    "icono": "https://www.flaticon.es/icono-gratis/calendario_2858416?term=calendario&page=1&position=3&origin=search&related_id=2858416",
+    "grupo": "lunes",
+    "fecha": "2026-09-03",
+    "id": 1,
+    "integrantes": [
+      "Nicolas Quitian",
+      
+    ],
+    "actividad": "Actividad react native",
+    "url": "hhttps://github.com/Nicolas-Q14/Calendario-de-emociones"
+  },
+  {
     "nombreapp": "ApiPoema",
     "descripcion": "Esta es una API creada para inspiracion y buscar un poema de tu gusto",
     "icono": "https://cdn-icons-png.flaticon.com/128/10389/10389721.png",
