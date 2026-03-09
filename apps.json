@@ -442,6 +442,20 @@
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1-PCWk73IAWs76_3n8o6jSH1oVwY4i6Jp/view?usp=drive_link"
   },
+    {
+    "nombreapp": "Buscaminas",
+    "descripcion": "Es el juego buscaminas clasico",
+    "icono": "https://w7.pngwing.com/pngs/929/151/png-transparent-computer-icons-icon-design-minesweeper-game-computer-minesweeper-thumbnail.png",
+    "grupo": "lunes",
+    "fecha": "2025-03-09",
+    "id": 1,
+    "integrantes": [
+      "Juan David Pachon",
+      "Ricardo Viloria"
+    ],
+    "actividad": "Parte1 Expogo",
+    "url": "https://drive.google.com/file/d/1v6N-MR-zUR8DzX1c5FSAhQ1ReB9rMpAV/view?usp=drive_link"
+  },
   {
     "nombreapp": "AdivinacionCard",
     "descripcion": "Esta es una aplcacion de adivinar la pareja de cartas creada con HTML, CSS y JavaScript",
