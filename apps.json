@@ -698,5 +698,19 @@
     ],
     "actividad": "apk-React-Native",
     "url": "https://expo.dev/accounts/sofiarueda/projects/Tetris-React/builds/a47ca84d-f39e-402e-a800-7baf22c1dfb9"
+  },
+  {
+    "nombreapp": "Crossing Frog",
+    "descripcion": "El clasico juego de cruzar la carretera con la rana",
+    "icono": "https://drive.google.com/file/d/1L6BXJNGQ6ml7D4DYD0hAGe5M5u652hiV/view?usp=sharing",
+    "grupo": "lunes",
+    "fecha": "09-03-2026",
+    "id": 1,
+    "integrantes": [
+      "Sofia Rueda",
+      "Juan Esteban Rodriguez"
+    ],
+    "actividad": "apk-React-Native",
+    "url": "https://drive.google.com/file/d/1rkxz6kS8LN0IjdXhI2MKubdd6E7cRrNP/view?usp=drive_link"
   }
 ]
