@@ -684,5 +684,20 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+  "nombreapp": "FutbolReact",
+  "descripcion": "Aplicación desarrollada con React Native y Expo que muestra información sobre el fútbol de España como equipos, jugadores y tabla de posiciones.",
+  "icono": "https://cdn-icons-png.flaticon.com/512/1165/1165187.png",
+  "grupo": "Lunes",
+  "fecha": "2026-03-09",
+  "id": 1,
+  "integrantes": [
+    "Juan Rojas",
+    "Juan Zambrano"
+  ],
+      "actividad": "Expo",
+    "url": "https://drive.google.com/file/d/1RmssBqk7iyaSDNYL5V0QT4T5Fuezfxr8/view?usp=sharing"
   }
+   
 ]
