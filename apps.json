@@ -684,5 +684,20 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Mood Music",
+    "descripcion": "Aplicación móvil creada en React Native que recomienda canciones según el estado de ánimo del usuario como feliz, triste, energético o relajado.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/727/727245.png",
+    "grupo": "viernes",
+    "fecha": "2026-03-09",
+    "id": 1,
+    "integrantes": [
+      "Daniel Latorre",
+      "Edison Amado"
+
+    ],
+    "actividad": "Primer4 Clase",
+    "url": "https://github.com/Daniel-L14/D444NI"
   }
 ]
