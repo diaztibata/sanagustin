@@ -39,5 +39,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "Rompecabesas",
+    "descripcion": "Rompecabezas de ordenar numeros, animales, etc ",
+    "icono": "https://cdn-icons-png.flaticon.com/512/7406/7406972.png",
+    "grupo": "lunes",
+    "fecha": "2024-03-09",
+    "id": 1,
+    "integrantes": [
+      "Sergio Suarez",
+      "Jossie Rico"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://cautious-space-journey-7vwpwg9v9v67hpvrr-8081.app.github.dev/"
   }
 ]
