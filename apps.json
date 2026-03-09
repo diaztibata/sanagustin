@@ -14,6 +14,20 @@
     "url": "https://drive.google.com/file/d/13FDNOs-mOKhsZP0QoYPFwtmzorlB8OGW/view?usp=drive_link"
   },
   {
+    "nombreapp": "SuperCar Gallery",
+    "descripcion": "Galería de carros deportivos con precio e informacion.",
+    "icono": "https://images.icon-icons.com/1428/PNG/128/carblueicon_98532.png",
+    "grupo": "lunes",
+    "fecha": "2026-03-09",
+    "id": 2,
+    "integrantes": [
+      "Jesús Flórez",
+      "Sergio Ramirez"
+    ],
+    "actividad": "React y Expo",
+    "url": "https://drive.google.com/file/d/1aDBYI63z_7H3JgtqfJOkMy8y8VX-484d/view?usp=sharing"
+  },
+  {
     "nombreapp": "ApiPoema",
     "descripcion": "Esta es una API creada para inspiracion y buscar un poema de tu gusto",
     "icono": "https://cdn-icons-png.flaticon.com/512/2301/2301751.png",
@@ -59,6 +73,7 @@
     "actividad": "Primera Clase",
     "url": "https://felipe345522.github.io/convertidor-de-moneda-/"
   },
+
   {
     "nombreapp": "PlaticaApi",
     "descripcion": "Maneja los gastos de tu salario para llevar mejor la cuenta 🤑🤑💵💵.",
