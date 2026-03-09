@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "CarroMoto",
+    "descripcion": "Aplicacion donde eliges marca de carro o marca de automotriz de 2 llantas",
+    "icono": "https://img.freepik.com/psd-premium/ilustracion-icono-contacto-aislada_23-2151903357.jpg?semt=ais_rp_50_assets&w=740&q=80",
+    "grupo": "Lunes",
+    "fecha": "2026-03-9",
+    "id": 1,
+    "integrantes": [
+      "Samuel Diaz",
+      "Maicol Lancheros"
+    ],
+    "actividad": "Expo dev",
+    "url": "https://drive.google.com/file/d/1zh5LPHMfe7xrcY9mCkMkUKiRKK4DTweU/view?usp=drive_link"
   }
 ]
