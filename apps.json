@@ -699,5 +699,19 @@
     ],
     "actividad": "Primer4 Clase",
     "url": "https://github.com/Daniel-L14/D444NI"
-  }
+  },
+  {
+  "nombreapp": "Divisas",
+  "descripcion": "Permite consultar y convertir diferentes divisas en tiempo real.",
+  "icono": "https://cdn-icons-png.flaticon.com/128/3135/3135715.png",
+  "grupo": "lunes",
+  "fecha": "2026-02-09",
+  "id": 1,
+  "integrantes": [
+    "Daniel Latorre",
+    "Edison Amado"
+  ],
+  "actividad": "Primer444 CLASE",
+  "url": "https://github.com/Daniel-L14/divisas"
+}
 ]
