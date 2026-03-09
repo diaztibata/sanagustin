@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Tetris :)",
+    "descripcion": "Tetrtis pero god",
+    "icono": "https://www.flaticon.es/icono-gratis/tetris_1138720?term=tetris&page=1&position=10&origin=search&related_id=1138720",
+    "grupo": "lunes",
+    "fecha": "09-03-2026",
+    "id": 1,
+    "integrantes": [
+      "Sofia Rueda",
+      "Nicolas Urrego"
+    ],
+    "actividad": "apk-React-Native",
+    "url": "https://expo.dev/accounts/sofiarueda/projects/Tetris-React/builds/a47ca84d-f39e-402e-a800-7baf22c1dfb9"
   }
 ]
