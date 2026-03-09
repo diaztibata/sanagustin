@@ -39,5 +39,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "Inhalar V1 ",
+    "descripcion": "App para inhalar",
+    "icono": "https://cdn-icons-png.flaticon.com/512/5024/5024369.png",
+    "grupo": "lunes",
+    "fecha": "2026-03-09",
+    "id": 3,
+    "integrantes": [
+      "Sergio Ramirez",
+      "Jesus Florez"
+    ],
+    "actividad": "Expo React Native",
+    "url": "https://drive.google.com/drive/folders/1pOzQvO2ZeJCnyVwuwedc7qpzZ-dDrmNj?usp=drive_link"
   }
 ]
