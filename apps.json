@@ -671,6 +671,20 @@
     "url": "https://drive.google.com/drive/folders/1315ZCDQeiBIf-8tZqLBtkTIKTLJasC-j?usp=sharing"
   },
   {
+    "nombreapp": "HappyDog",
+    "descripcion": "App que permite gestionar el control de los paseos, alimentacion y otras caracteristicas referente a los animales",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2716/2716321.png",
+    "grupo": "lunes",
+    "fecha": "2026-03-09",
+    "id": 1,
+    "integrantes": [
+      "Miguel Martinez",
+      "Sebastian Montiel"
+    ],
+    "actividad": "Actividad react native - lunes avanzada (09/03/26)",
+    "url": "https://github.com/MontielSV/React_Native9-03-26"
+  },
+  {
     "nombreapp": "Piedra papel o tijera",
     "descripcion": "Es una app donde puedes jugar el clasico juego piedra papel o tijera contra la CPU",
     "icono": "https://media.istockphoto.com/id/1269211670/es/vector/rock-papel-tijeras-conjunto-de-iconos-de-partes-del-cuerpo.jpg?s=612x612&w=0&k=20&c=GUYVPaBrY6ZJQUIcJKj0n4uXee90wziYxg6YP1ZBcs4=",
