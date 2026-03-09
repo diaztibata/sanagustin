@@ -684,5 +684,20 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
-  }
+  },
+
+    {
+    "nombreapp": "PlanerTravel",
+    "descripcion": "Es una app donde te ayudamos a planear tus viajes",
+    "icono": "https://thumbs.dreamstime.com/b/icono-de-viajes-del-mundo-monocrom%C3%A1tico-la-ilustraci%C3%B3n-en-blanco-y-negro-muestra-un-globo-el-centro-con-continentes-estilizados-398494282.jpg",
+    "grupo": "Lunes",
+    "fecha": "2026-03-9",
+    "id": 1,
+    "integrantes": [
+      "Luisa Aguilar",
+      "Samuel Saavedra"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://github.com/SamuSST/PlanerTravel"
+  },
 ]
