@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
-  }
+  },
+{
+    "nombreapp": "Sudoku",
+    "descripcion": "Aplicacion sudoku.",
+    "icono": "https://img.freepik.com/vector-gratis/diseno-logo-sudoku-lapiz_1308-114893.jpg?semt=ais_rp_progressive&w=740&q=80",
+    "grupo": "viernes",
+    "fecha": "2026-03-13",
+    "id": 3,
+    "integrantes": [
+      "Jose niño",
+      "Ivan STerling"
+    ],
+    "actividad": "Actvidad React Native",
+    "url": "https://expo.dev/accounts/jose12nino07/projects/actividad-react/builds/43fd09fc-59f3-45d5-8fb1-a9a496d64752"
+  },
 ]
