@@ -684,5 +684,20 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Casinapp",
+    "descripcion": "Es una app imitacion a nuestro juegos de casino favoritos, integra el blackjack y la ruleta",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1044/1044676.png",
+    "grupo": "viernes",
+    "fecha": "2026-03-13",
+    "id": 3,
+    "integrantes": [
+      "jaime antonio poveda",
+      "Cristian andres de la rue"
+      
+    ],
+    "actividad": "Actividad react native ",
+    "url": "https://drive.google.com/file/d/1gH74MdoooZ6BGo2y2xkyocU-uMvBcQUX/view?usp=drive_link"
   }
 ]
