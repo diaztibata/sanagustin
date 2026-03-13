@@ -684,5 +684,34 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  
+  {
+    "nombreapp": "DivideYa",
+    "descripcion": " Divideya es una aplicacion en la cual puedes repartir con tus amigos los gastos, y mantener un buen contrrol de las deudas.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/4564/4564330.png",
+    "grupo": "viernes",
+    "fecha": "2026-03-06",
+    "id": 1,
+    "integrantes": [
+      "Yesica Causado",
+      "Matias Ramirez "
+    ],
+    "actividad": "React y ReactNative",
+    "url": "https://drive.google.com/file/d/1sn8514r6KyZizVmhEwE5TO8Ai_lBzKR7/view?usp=drive_link"
+  },
+  
+  {
+    "nombreapp": "Preguntados",
+    "descripcion": " Es una aplicacion en la cual puede tener diferentes tipos de preguntas en una ruleta, para compartir con tus amigos ",
+    "icono": "https://cdn-icons-png.flaticon.com/512/4403/4403531.png",
+    "grupo": "viernes",
+    "fecha": "2026-03-13",
+    "id": 1,
+    "integrantes": [
+      "Yesica Causado"
+    ],
+    "actividad": "React expo",
+    "url": "https://drive.google.com/file/d/1X__qjXmfozSBvcDPjNdCIYobggY5xPWo/view?usp=drive_link"
   }
 ]
