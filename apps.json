@@ -684,5 +684,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "SnakeGame",
+    "descripcion": "Aplicación que simula el juego de la serpiente de forma simple.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/1907/1907789.png",
+    "grupo": "Viernes",
+    "fecha": "2026-03-13",
+    "id": 1,
+    "integrantes": [
+      "Matías Ramírez"
+    ],
+    "actividad": "Apk Expo Dev",
+    "url": "https://drive.google.com/file/d/1LBmGIqZmbZLjcbQDj5-BSWQp9sjN9DZ7/view?usp=sharing"
   }
 ]
