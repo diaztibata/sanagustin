@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+  "nombreapp": "Mazos Clash Royale",
+    "descripcion": "Observa,crea y clasifica mazos del famoso e increible juego de Clash Royale",
+    "icono": "https://cdn-icons-png.flaticon.com/512/9927/9927198.png ",
+    "grupo": "viernes",
+    "fecha": "2026-03-13",
+    "id": 1,
+    "integrantes": [
+      "Julian Camilo Lozano",
+      "Nicolas Ramirez Caro"
+    ],
+    "actividad": "React-Native/Expo",
+    "url": "https://drive.google.com/file/d/1G_kiZ9TkBS1XOs-gPMK-jYF6kjb1BfoZ/view?usp=drivesdk"
   }
 ]
