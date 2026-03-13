@@ -685,4 +685,20 @@
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
   }
+,
+{
+    "nombreapp": "Intercambio de Cromos",
+    "descripcion": "Es una app donde puedes hacer publicacion de cromos del mundial 2026 , para encontrar en la comunidad a personas que las esten intercambiando",
+    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_nRNfh9mz1ji9bAFFOVYPFzd3LOaZXbLXA&s",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Samuel Ramirez Benitez",
+      "Andres Castillo"
+      
+    ],
+    "actividad": "Actividad React Native lunes Avanzada",
+    "url": "https://drive.google.com/drive/folders/1NHYZI0m5VWjy9jEQdBntNDRz6jBhNEiN"
+  }
 ]
