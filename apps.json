@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Convertidor de temperatura",
+    "descripcion": "Convierte la temperatura de C a F",
+    "icono": "https://thumbs.dreamstime.com/b/icono-fr%C3%ADo-de-la-temperatura-nieve-del-vector-term%C3%B3metro-119319930.jpg?w=768",
+    "grupo": "viernes",
+    "fecha": "2026-03-13",
+    "id": 1,
+    "integrantes": [
+      "Helen Yuliana Linares Caro",
+      "Juan Pablo Blanco Soler"
+    ],
+    "actividad": "React nativa",
+    "url": "https://drive.google.com/file/d/1co_cJ_D5clV5pSxwrmJDdMBkakTiB3yi/view?usp=sharing"
   }
 ]
