@@ -27,6 +27,21 @@
     "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
   },
   {
+    "nombreapp": "venezolanosEnAccion",
+    "descripcion": "Esta es un juego replica de stickMan",
+    "icono": "https://www.flaticon.es/icono-gratis/dos-stickman_32924?term=stickman&page=1&position=3&origin=search&related_id=32924",
+    "grupo": "viernes",
+    "fecha": "2026-03-13",
+    "id": 1,
+    "integrantes": [
+      "Samuel daza",
+      "Ronald Lopez"
+    ],
+    "actividad": "React native-expo",
+    "url": "https://drive.google.com/file/d/1Ggs_Uyv0YYcWiPIiLXnsg2JuP9Jj8Ng1/view?usp=drive_link"
+  },
+
+  {
     "nombreapp": "BingBong",
     "descripcion": "Juego inspirado en el clásico Pong, donde el jugador controla una paleta y compite contra un bot para golpear la pelota y evitar que pase a su lado.",
     "icono": "https://www.flaticon.com/free-icon/table-tennis-racket_5140583",
