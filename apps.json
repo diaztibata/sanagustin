@@ -684,5 +684,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Ruleta Champions",
+    "descripcion": "Es una app donde puedes jugar el clasico juego piedra papel o tijera contra la CPU",
+    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-XNZ_bfVjKYYLPcYru4Fo7LouEHsXMXPSw&s",
+    "grupo": "viernes",
+    "fecha": "2026-03-13",
+    "id": 1,
+    "integrantes": [
+      "Andres Sanchez"
+    ],
+    "actividad": "Expo-ReactNative",
+    "url": "https://drive.google.com/file/d/1Ck-d_4R0DT3ROOeyUKYvsaRR-r4VovGg/view?usp=drive_link"
   }
 ]
