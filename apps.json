@@ -690,10 +690,10 @@
     "descripcion": "Es una app donde puedes gestionar tus gastos con la descripcion y monto",
     "icono": "https://cdn-icons-png.flaticon.com/128/1024/1024812.png",
     "grupo": "viernes",
-    "fecha": "2026-02-13",
+    "fecha": "2026-03-13",
     "id": 1,
     "integrantes": [
-      "Juan David Martínez Niño",
+      "Juan David Martínez Niño"
     ],
     "actividad": "Primera app react native en codespace",
     "url": "https://drive.google.com/file/d/1AGFBQuhMaf3i7NasWDz6HjuvNrTGZs2S/view?usp=drive_link"
