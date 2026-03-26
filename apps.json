@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
-  }
+  },
+    {
+      "nombreapp": "Wordle de Fútbol",
+      "descripcion": "Juego tipo Wordle enfocado en fútbol donde debes adivinar el nombre de un jugador en 6 intentos con pistas de colores.",
+      "icono": "https://i.ibb.co/F4m4HKVR/Logo-app.png",
+      "grupo": "viernes",
+      "fecha": "2026-03-27",
+      "id": 2,
+      "integrantes": [
+        "Cristian Andres De La Rue Garcia",
+        "Ronald Fabian Lopez Castaño"
+      ],
+      "actividad": "App Original: Deploy en Parejas",
+      "url": "https://drive.google.com/file/d/1KgxmLVig58GLOL28Q_Irq8DxO4ge1PSQ/view?usp=drive_link"
+    }
 ]
