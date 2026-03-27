@@ -698,5 +698,19 @@
     ],
     "actividad": "Primera app react native en codespace",
     "url": "https://drive.google.com/file/d/1AGFBQuhMaf3i7NasWDz6HjuvNrTGZs2S/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Guitar Shop",
+    "descripcion": "Es una app donde puedes comprar la giutarra de tus sueños",
+    "icono": "https://cdn-icons-png.flaticon.com/512/355/355081.png",
+    "grupo": "viernes",
+    "fecha": "2026-03-27",
+    "id": 1,
+    "integrantes": [
+      "Juan David Martínez Niño",
+      "Juan David Sarmiento"
+    ],
+    "actividad": "Primera app con deploy en Netlify",
+    "url": "https://drive.google.com/file/d/1wZ_y5ry3rEkSvDgBhLwB0Ikc7pF9UUZO/view?usp=drive_link"
   }
 ]
