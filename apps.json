@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "MegaRecetas",
+    "descripcion": "Es una app que te da recetas en funcion de los ingredientes que le indiques.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/415/415744.png",
+    "grupo": "viernes",
+    "fecha": "2026-03-27",
+    "id": 1,
+    "integrantes": [
+      "Jesus Vargas",
+      "Andres Sanchez"
+    ],
+    "actividad": "Deploy en Parejas",
+    "url": "https://drive.google.com/file/d/1xEfXU80UxjvDGh8Tp7FnXGFlLY6gOv2j/view?usp=drive_link"
   }
 ]
