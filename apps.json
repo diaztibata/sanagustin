@@ -697,5 +697,19 @@
     ],
     "actividad": "Apk Expo Dev",
     "url": "https://drive.google.com/file/d/1LBmGIqZmbZLjcbQDj5-BSWQp9sjN9DZ7/view?usp=sharing"
+  },
+  {
+    "nombreapp": "EnfoqueExtremo",
+    "descripcion": "Un juego de concentración extrema desarrollado en React donde debes mantener presionado un botón mientras resistes múltiples distracciones.",
+    "icono": "https://media.istockphoto.com/id/1270353839/es/vector/problemas-psicol%C3%B3gicos-de-ira-icono-icono-ilustraci%C3%B3n-vectorial.jpg?s=170667a&w=0&k=20&c=17DE3kd4E4jjU40aqhhyclwVir6oKSsp3hgWWoDGt60=",
+    "grupo": "Viernes",
+    "fecha": "2026-03-27",
+    "id": 1,
+    "integrantes": [
+      "Yesica Causado",
+      "Matias Ramirez"
+    ],
+    "actividad": "Apk Deploy",
+    "url": "https://drive.google.com/file/d/1LBmGIqZmbZLjcbQDj5-BSWQp9sjN9DZ7/view?usp=sharing"
   }
 ]
