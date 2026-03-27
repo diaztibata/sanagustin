@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+   "nombreapp": "Quien sabe más, app de conocimiento ",
+    "descripcion": "¿Que tanto  sabes de basket, futbol y musica?, Es hora de probar tus concimientos en estos 3 campos para ver si eres una persona de culto",
+    "icono": "https://cdn-icons-png.flaticon.com/512/12886/12886526.png",
+    "grupo": "viernes",
+    "fecha": "2026-03-26",
+    "id": 1,
+    "integrantes": [
+      "Julian Camilo Lozano",
+      "Nicolas Ramirez Caro"
+    ],
+    "actividad": "React/Deploy/Netlify",
+    "url": "https://drive.google.com/file/d/1Ti0CFQUVNmXp9zrzH3Pj8fe5U28mOQX2/view?usp=drive_link"
   }
 ]
