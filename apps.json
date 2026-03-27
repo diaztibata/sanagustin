@@ -697,5 +697,19 @@
     ],
     "actividad": "Expo-ReactNative",
     "url": "https://drive.google.com/file/d/1Ck-d_4R0DT3ROOeyUKYvsaRR-r4VovGg/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "MixRecetas",
+    "descripcion": "Es una app de recetas, le seleccionas ingredientes y te da una receta con esos ingredientes",
+    "icono": "https://www.flaticon.es/icono-gratis/ensalada-de-frutas_415744?term=ensalada&page=1&position=8&origin=search&related_id=415744",
+    "grupo": "viernes",
+    "fecha": "2026-03-27",
+    "id": 1,
+    "integrantes": [
+      "Andres Sanchez",
+      "Jesus Vargas"
+    ],
+    "actividad": "Deploy",
+    "url": "https://drive.google.com/file/d/1LFH3_hVEHH7Yu05fqj8K-Nz3I82a5X6M/view?usp=sharing"
   }
 ]
