@@ -700,17 +700,17 @@
     "url": "https://expo.dev/accounts/sofiarueda/projects/Tetris-React/builds/a47ca84d-f39e-402e-a800-7baf22c1dfb9"
   },
   {
-    "nombreapp": "Crossing Frog",
-    "descripcion": "El clasico juego de cruzar la carretera con la rana",
-    "icono": "https://drive.google.com/file/d/1L6BXJNGQ6ml7D4DYD0hAGe5M5u652hiV/view?usp=sharing",
+    "nombreapp": "Aura Color",
+    "descripcion": "Elige diferentes paletas de colores segun tu estado de humor",
+    "icono": "https://drive.google.com/file/d/14NwMF-ojtDS9gHK1bf8a6XxyIUqXxgLO/view?usp=drive_link",
     "grupo": "lunes",
-    "fecha": "09-03-2026",
+    "fecha": "06-04-2026",
     "id": 1,
     "integrantes": [
       "Sofia Rueda",
-      "Juan Esteban Rodriguez"
+      "Laura Cardona"
     ],
-    "actividad": "APK Capacitor y expo go",
-    "url": "https://drive.google.com/file/d/1rkxz6kS8LN0IjdXhI2MKubdd6E7cRrNP/view?usp=drive_link"
+    "actividad": "Despliegue Netlify y WebView",
+    "url": "https://drive.google.com/file/d/1ItEy-guvCfbJ1fBLzCxBTRFTiObC76wE/view?usp=drive_link"
   }
 ]
