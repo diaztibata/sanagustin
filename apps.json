@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Colombiatan",
+    "descripcion": "Esta aplicacion muestra algunos de los platos tipicos de Colombia segun su region",
+    "icono": "https://cdn-icons-png.flaticon.com/512/197/197575.png",
+    "grupo": "lunes",
+    "fecha": "2026-04-06",
+    "id": 1,
+    "integrantes": [
+      "Samuel Diaz",
+      "Maicol Lancheros"
+    ],
+    "actividad": "Deploy en Parejas",
+    "url": "https://drive.google.com/file/d/1t9GCf8zCXNcbItOeiRotP2ji52OuSKnS/view?usp=drive_link"
   }
 ]
