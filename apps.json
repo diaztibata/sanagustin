@@ -684,5 +684,20 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Attack of Tower",
+    "descripcion": "Aplicacion que recrea un juego de defender al reino por medio de torres",
+    "icono": "https://github.com/NicoUrrego/Attack-of-Tower/blob/main/Torretas%20el%C3%A9ctricas%20defendiendo%20el%20camino.png",
+    "grupo": "lunes",
+    "fecha": "2026-04-06",
+    "id": 1,
+    "integrantes": [
+      "Juan Esteban Rodriguez",
+      "Nicolas Urrego"
+    ],
+    "actividad": "App Original: Deploy en Parejas",
+    "url": "https://drive.google.com/file/d/1xnlaAKKmwR81vyPrNoRCAcyQlhtBWX4T/view?usp=sharing"
   }
+
 ]
