@@ -684,5 +684,20 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "RJN-Basket",
+    "descripcion": "Descubre todos los jugadores existentes de la ligay prubas tus conocimientos del draft adivinado los 10 jugdaores de 5 años diferentes del draft",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2593/2593874.png ",
+    "grupo": "viernes",
+    "fecha": "2026-04-09",
+    "id": 1,
+    "integrantes": [
+      "Julian Lozano",
+      "Nicolas Ramirez",
+      "Ronald Lopez"
+    ],
+    "actividad": "React Native con Expo y Github",
+    "url": "https://drive.google.com/file/d/1tFNc8nGf6JpFgKDgQT-daBmiukCmgE32/view?usp=drive_link"
   }
 ]
