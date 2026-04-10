@@ -698,5 +698,19 @@
       ],
       "actividad": "App Original: Deploy en Parejas",
       "url": "https://drive.google.com/file/d/1KgxmLVig58GLOL28Q_Irq8DxO4ge1PSQ/view?usp=drive_link"
+    },
+        {
+      "nombreapp": "Conoce a los Simpsons",
+      "descripcion": "App interactiva para explorar y aprender sobre los personajes de Los Simpsons. Incluye un minijuego de trivia que te desafía a adivinar la identidad de los personajes o sus ocupaciones en la ciudad de Springfield.",
+      "icono": "https://i.ibb.co/9k6CyvG9/Whats-App-Image-2026-04-08-at-10-51-11-PM.jpg",
+      "grupo": "viernes",
+      "fecha": "2026-04-09",
+      "id": 3,
+      "integrantes": [
+        "Cristian Andres De La Rue Garcia",
+        "Ivan ricardo sterling","Andres Castillo"
+      ],
+      "actividad": "React Native con Expo y GitHub",
+      "url": "https://drive.google.com/file/d/1dmEy12AzefspdtEq1X7DB72issXfdooY/view?usp=sharing"
     }
 ]
