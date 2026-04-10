@@ -698,5 +698,21 @@
     ],
     "actividad": "React nativa",
     "url": "https://drive.google.com/file/d/1co_cJ_D5clV5pSxwrmJDdMBkakTiB3yi/view?usp=sharing"
-  }
+  },
+  {
+  "nombreapp": "Buscador por Idioma",
+  "descripcion": "Busca países según el idioma que hablan usando la API de RestCountries",
+  "icono": "https://i.pinimg.com/736x/1e/31/6a/1e316a841d19d6b98b1b1621d53701d1.jpg",
+  "grupo": "viernes",
+  "fecha": "2026-04-08",
+  "id": 1,
+  "integrantes": [
+    "Helen Yuliana Linares Caro",
+    "Juan Pablo Blanco Soler",
+    "Jose Niño"
+  ],
+  "actividad": "ReactNativa",
+  "url": "https://drive.google.com/file/d/1w6RkzhLwPA8Kh2-SOPxNBKT_WMOyeq1A/view?usp=sharing"
+}
+  
 ]
