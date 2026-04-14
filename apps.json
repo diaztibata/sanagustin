@@ -698,6 +698,21 @@
     ],
     "actividad": "App Original: Deploy en Parejas",
     "url": "https://drive.google.com/file/d/1xnlaAKKmwR81vyPrNoRCAcyQlhtBWX4T/view?usp=sharing"
+  },
+  {
+    "nombreapp": "GameBracnh",
+    "descripcion": "Una app con informacion de los juegso",
+    "icono": "https://github.com/Cristiancgt-byte/ExpoyReact/blob/main/AppReactyExpo/assets/icon.png",
+    "grupo": "lunes",
+    "fecha": "2026-04-13",
+    "id": 1,
+    "integrantes": [
+      "Juan Rodriguez",
+      "Jhonnier Gordo",
+      "Cristian Gamba"
+    ],
+    "actividad": "React Native con Expo y GitHub",
+    "url": "https://drive.google.com/file/d/1-FjoZ1sBSKeo_GMN3KsAcD6XLE05Qszs/view?usp=sharing"
   }
 
 ]
