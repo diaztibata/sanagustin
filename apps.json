@@ -67,5 +67,18 @@
     ],
     "actividad": "React Native con Expo y GitHub",
     "url": "https://drive.google.com/file/d/1-FjoZ1sBSKeo_GMN3KsAcD6XLE05Qszs/view?usp=sharing"
+  },
+  {
+    "nombreapp": "Digimon",
+    "descripcion": "Una app con informacion de Digimon",
+    "icono": "https://github.com/JuanesVVV/Digimon/blob/main/Digimon/public/icons.svg",
+    "grupo": "lunes",
+    "fecha": "2026-04-20",
+    "id": 1,
+    "integrantes": [
+      "Juan Rodriguez"
+    ],
+    "actividad": "API individual",
+    "url": "https://github.com/JuanesVVV/Digimon"
   }
 ]
