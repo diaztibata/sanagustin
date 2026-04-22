@@ -713,6 +713,19 @@
   ],
   "actividad": "ReactNativa",
   "url": "https://drive.google.com/file/d/1w6RkzhLwPA8Kh2-SOPxNBKT_WMOyeq1A/view?usp=sharing"
+},
+{
+  "nombreapp": "JokeApp",
+  "descripcion": "Aplicación que consume una API de chistes y permite buscarlos, filtrarlos, guardarlos en favoritos y calificarlos tipo swipe.",
+  "icono": "https://drive.google.com/file/d/18D3_hAJHoAmifJ7Scfmqs0kIKCldyZQT/view?usp=sharing",
+  "grupo": "viernes",
+  "fecha": "2026-04-25",
+  "id": 1,
+  "integrantes": [
+    "Juan Pablo Blanco Soler"
+  ],
+  "actividad": "API",
+  "url": "https://drive.google.com/file/d/1Gk8wlAU53MxqpOnQb0L2NnRETDF4hSSk/view?usp=drive_link"
 }
   
 ]
