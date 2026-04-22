@@ -671,6 +671,19 @@
     "url": "https://drive.google.com/drive/folders/1315ZCDQeiBIf-8tZqLBtkTIKTLJasC-j?usp=sharing"
   },
   {
+    "nombreapp": "Crypto Tracker",
+    "descripcion": "Crypto Tracker",
+    "icono": "https://file.aiquickdraw.com/imgcompressed/img/compressed_0d91a968539eb71a3da6d2156873fcbe.webp",
+    "grupo": "martes",
+    "fecha": "2026-04-2026",
+    "id": 1,
+    "integrantes": [
+      "Cristhian Salinas"
+    ],
+    "actividad": "React+netlify",
+    "url": "https://coingekoo.netlify.app"
+  },
+  {
     "nombreapp": "Piedra papel o tijera",
     "descripcion": "Es una app donde puedes jugar el clasico juego piedra papel o tijera contra la CPU",
     "icono": "https://media.istockphoto.com/id/1269211670/es/vector/rock-papel-tijeras-conjunto-de-iconos-de-partes-del-cuerpo.jpg?s=612x612&w=0&k=20&c=GUYVPaBrY6ZJQUIcJKj0n4uXee90wziYxg6YP1ZBcs4=",
