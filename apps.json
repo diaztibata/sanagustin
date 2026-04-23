@@ -698,5 +698,18 @@
     ],
     "actividad": "Deploy en Parejas",
     "url": "https://drive.google.com/file/d/1xEfXU80UxjvDGh8Tp7FnXGFlLY6gOv2j/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "DigimonAPI",
+    "descripcion": "Apk de API de digimon",
+    "icono": "https://i.pinimg.com/736x/cb/72/37/cb7237d4008370333be191b72cf159a3.jpg",
+    "grupo": "viernes",
+    "fecha": "2026-04-24",
+    "id": 1,
+    "integrantes": [
+      "Jesus Vargas"
+    ],
+    "actividad": "React con API Individual",
+    "url": "https://drive.google.com/file/d/1Yva-yq1piP3wGkDvc2Ruw6oNSlxXroW_/view?usp=drive_link"
   }
 ]
