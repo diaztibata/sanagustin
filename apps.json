@@ -684,5 +684,20 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "AIM.GAME",
+    "descripcion": "es un minijuego tipo “dispara al objetivo” 🎯",
+    "icono": "https://www.flaticon.com/free-icon/aim_3265254",
+    "grupo": "lunes",
+    "fecha": "2026-04-22",
+    "id": 1,
+    "integrantes": [
+      "Nicolas quitian",
+      "Juan Gonzales"
+  
+    ],
+    "actividad": "App Original: Deploy en Parejas",
+    "url": "https://drive.google.com/file/d/1Om_85M9ebnBM2PUV8j7-Ye0NVT_kDfk2/view?usp=drive_link"
   }
 ]
