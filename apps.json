@@ -66,5 +66,18 @@
     ],
     "actividad": "Netifly",
     "url": "https://drive.google.com/file/d/1ggArXHkSsYtMlCUcEzA7lFuazoBTDqO3/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "AnimeApi",
+    "descripcion": "Aplicacion creada para investigar, ver, sortear y obtener informacion sobre anime",
+    "icono": "https://cdn-icons-png.flaticon.com/128/1881/1881021.png",
+    "grupo": "Viernes",
+    "fecha": "2026-04-23",
+    "id": 1,
+    "integrantes": [
+      "Duvan Carvajal"
+    ],
+    "actividad": "Anime Api",
+    "url": "https://drive.google.com/file/d/1Vk0jxw_yaGqCx3aaFKd5N4z0tIHvNe5A/view?usp=drive_link"
   }
 ]
