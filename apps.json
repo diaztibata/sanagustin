@@ -39,5 +39,47 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+   {
+    "nombreapp": "ApiPrueba",
+    "descripcion": "una Api que permite simular situaciones como hackeo.",
+    "icono": "https://tse3.mm.bing.net/th/id/OIP.KIjoC_3l1zf6NGS6i7Ar7wHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "grupo": "Viernes",
+    "fecha": "2025-04-10",
+    "id": 1,
+    "integrantes": [
+      "Dylan Felipe Bermudez",
+      "DUvan Carvajal",
+      "andres Felipe solare"
+    ],
+    "actividad": "React native con Expo y Git hub",
+    "url": "https://drive.google.com/file/d/11bnKOZt-eZ1K5nJgZdOBjMhceZUeWozr/view?usp=drive_link"
+  },
+   {
+    "nombreapp": "Trench",
+    "descripcion": "Es una APi que permite ver el contenido relaciona al juego trench crusader en una wiki.",
+    "icono": "https://tse3.mm.bing.net/th/id/OIP.KIjoC_3l1zf6NGS6i7Ar7wHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "grupo": "Viernes",
+    "fecha": "2025-04-10",
+    "id": 1,
+    "integrantes": [
+      "Dylan Felipe Bermudez",
+      "Andres Lopez"
+    ],
+    "actividad": "AppOriginal parejas",
+    "url": "https://drive.google.com/file/d/19dZibJbM0TobtTbbFHvo82WBu2kOfjEs/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "StarApi",
+    "descripcion": "Es una APi que permite conocer el contenido de las peliculas de star wars.",
+    "icono": "https://th.bing.com/th/id/R.68c2fe0a2f5f2d52bf251f0a7d919abd?rik=htDNXwI%2fpuA67w&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fsensibleworld%2fstarwars%2f1024%2fDarth-Vader-icon.png&ehk=%2fKq2sJ6RJMGhTba%2fl94WKAh90QdAzQ1IW0wXpO8F%2bIU%3d&risl=&pid=ImgRaw&r=0",
+    "grupo": "Viernes",
+    "fecha": "2025-04-10",
+    "id": 1,
+    "integrantes": [
+      "Dylan Felipe Bermudez"
+    ],
+    "actividad": "Api Original",
+    "url": "https://drive.google.com/file/d/19dZibJbM0TobtTbbFHvo82WBu2kOfjEs/view?usp=drive_link"
   }
 ]
