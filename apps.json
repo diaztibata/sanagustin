@@ -699,5 +699,19 @@
     ],
     "actividad": "parejas segundo corte",
     "url": "https://drive.google.com/file/d/19ELVhKKf7W_j-uv4AssLyxZwDkBCGo5I/view?usp=sharing"
+  },
+  {
+    "nombreapp": "Poetapp",
+    "descripcion": "App para informarse de los poetas mas famososo",
+    "icono": "https://drive.google.com/file/d/1a6yoF_HIvRt_A7Volvfuo0SML_ui77N9/view?usp=sharing",
+    "grupo": "viernes",
+    "fecha": "2026-04-24",
+    "id": 1,
+    "integrantes": [
+      "jaime antonio poveda"
+
+    ],
+    "actividad": "Api individual",
+    "url": "https://drive.google.com/file/d/1OrN5q6_jA34SxWs4zF115xgmcv6L8E7t/view?usp=sharing"
   }
 ]
