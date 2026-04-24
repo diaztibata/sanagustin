@@ -726,6 +726,19 @@
   ],
   "actividad": "API",
   "url": "https://drive.google.com/file/d/1Gk8wlAU53MxqpOnQb0L2NnRETDF4hSSk/view?usp=drive_link"
+},
+{
+  "nombreapp": "FastTap",
+  "descripcion": "Aplicación que permite calcular el tiempo de reacción del usuario mediante interacciones rápidas en pantalla.",
+  "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/b1/b9/5ab1b98c-461c-11a7-ac2e-fb1a50332260/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/400x400ia-75.webp",
+  "grupo": "viernes",
+  "fecha": "2026-04-25",
+  "id": 1,
+  "integrantes": [
+    "Juan Pablo Blanco Soler"
+  ],
+  "actividad": "App",
+  "url": "https://drive.google.com/file/d/1gb4sGob70Y-vW_RFBUsp4NK4JROVP0s-/view?usp=sharing"
 }
   
 ]
