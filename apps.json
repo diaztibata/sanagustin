@@ -629,6 +629,19 @@
     "url": "https://drive.google.com/file/d/1bAMc51B3acddgriv5uxSldvrmXCMA69t/view?usp=drive_link"
   },
   {
+    "nombreapp": "Api",
+    "descripcion": "es una api la cual muestra a los riminales mas buscados por el fbi",
+    "icono": "https://www.flaticon.es/icono-gratis/herramienta-de-proteccion-de-chaleco-del-fbi_48865?term=fbi&page=1&position=2&origin=search&related_id=48865",
+    "grupo": "viernes",
+    "fecha": "2026-04-24",
+    "id": 1,
+    "integrantes": [
+      "Carlos Alvarez"
+    ],
+    "actividad": "api",
+    "url": "https://drive.google.com/file/d/1JpV9bzWvKMNhgbs-QFnjOM62BzFpR0Ri/view?usp=drive_link"
+  },
+  {
     "nombreapp": "Reflejos Espaciales",
     "descripcion": "Juego de agilidad divertido donde el objetivo es acumular puntos pulsando en los circulos que aparecen en pantalla.",
     "icono": "https://img.freepik.com/vector-premium/conjunto-bolas-colores-elemento-diseno-3d-realista-estilo-dibujos-animados-plastico_763672-175.jpg",
