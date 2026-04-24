@@ -684,5 +684,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Rick´s Neutrino Bomb",
+    "descripcion": "APP con información de personajes de la serie Rick and Morty y con el juego de la bomba de neutrino de Rick",
+    "icono": "https://img.icons8.com/plasticine/1200/plambus.jpg",
+    "grupo": "viernes",
+    "fecha": "2026-04-24",
+    "id": 1,
+    "integrantes": [
+      "Nicolas Ramirez Caro"
+    ],
+    "actividad": "Api Individual",
+    "url": "https://drive.google.com/file/d/1CROu7fFDcitUZd9RfUgwy8H5EMBFEYpe/view?usp=drive_link"
   }
 ]
