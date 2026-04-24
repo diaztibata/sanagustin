@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+   {
+    "nombreapp": "Libros",
+    "descripcion": "es un app para encontrar los mejores libros en español",
+    "icono": "https://img.freepik.com/vector-gratis/icono-aislado-biblioteca-libros-texto_24877-83372.jpg?semt=ais_hybrid&w=740&q=80",
+    "grupo": "viernes",
+    "fecha": "2026-04-24",
+    "id": 1,
+    "integrantes": [
+      "kevin gabriel gonzalez bernal"
+      
+    ],
+    "actividad": "api individual",
+    "url": "https://drive.google.com/file/d/1tuzLl5RbL90bWRqBVE2TEfuWt-cHt0La/view?usp=drive_link"
   }
 ]
