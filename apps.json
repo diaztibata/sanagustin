@@ -687,17 +687,16 @@
   }
   ,
   {
-    "nombreapp": "Generador de ExcusasRealesNoFakeUnLinkMediafire",
-    "descripcion": "Genera unas excusotas que son 100%RealesNoFakeUnLinkMediafire.",
-    "icono": "https://cdn-icons-png.flaticon.com/128/4315/4315445.png",
+    "nombreapp": "GhibliApi",
+    "descripcion": "Catalogo de peliculas ghibli.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/14933/14933179.png",
     "grupo": "viernes",
     "fecha": "2026-03-13",
     "id": 1,
     "integrantes": [
-      "Andres Soler",
-      "Duvan Carvajal"
+      "Andres Soler"
     ],
-    "actividad": "React Native",
-    "url": "https://drive.google.com/file/d/1Bo7IqBsegKEcJxgpkf2soV2dTi-znbQY/view?usp=drive_link"
+    "actividad": "API Individual",
+    "url": "https://drive.google.com/file/d/1gNFkDeq_DRSDnrmsPUz7AddCfHTu1m_v/view?usp=drive_link"
   }
 ]
