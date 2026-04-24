@@ -1,4 +1,19 @@
 [
+  
+  {
+    "nombreapp": "Finanzas",
+    "descripcion": "Una app donde registras tus gastos y te regaña si gastas de más, sugiriendo opciones más económicas.",
+    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRZIapmVRq9aSkfASkVnF-7x3Zj3QKi_pn4A&s",
+    "grupo": "viernes",
+    "fecha": "2026-04-10",
+    "id": 1,
+    "integrantes": [
+      "Juliana Tapias",
+      "Angie Neiza"
+    ],
+    "actividad": "Api Individual",
+    "url": "https://drive.google.com/file/d/1kPGUms5OEEj4ZmSc7MVtqf_GFXPFCJCk/view?usp=sharing"
+  },
   {
     "nombreapp": "Rutinas Inteligentes",
     "descripcion": "Organiza el día según tiempo, estrés y objetivos.",
@@ -15,6 +30,19 @@
     "actividad": "Actividad de 3",
     "url": "https://drive.google.com/file/d/1kPGUms5OEEj4ZmSc7MVtqf_GFXPFCJCk/view?usp=drive_link"
   },
+  {
+    "nombreapp": "TVShows",
+    "descripcion": "TVMaze API es una API gratuita y pública que provee información sobre series de televisión. No requiere autenticación ni registro.",
+    "icono": "https://pngimg.com/uploads/tv/tv_PNG39242.png",
+    "grupo": "viernes",
+    "fecha": "2026-04-24",
+    "id": 1,
+    "integrantes": [
+      "Juliana Tapias"
+    ],
+    "actividad": "Api Individual",
+    "url": "https://drive.google.com/file/d/1Cx1JhJk1I-kLj-ouMjIYwwHmxxX_2hJU/view?usp=sharing"
+  },
     {
     "nombreapp": "ApiPoema",
     "descripcion": "Esto es una API creada para inspiracion y buscar un poema de tu gusto",
@@ -29,18 +57,5 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1AmkL6JzSig7iOV1F1QwKx3LDFshf6RhS/view?usp=drive_link"
-  },
-  {
-    "nombreapp": "TVShows",
-    "descripcion": "TVMaze API es una API gratuita y pública que provee información sobre series de televisión. No requiere autenticación ni registro.",
-    "icono": "https://pngimg.com/uploads/tv/tv_PNG39242.png",
-    "grupo": "viernes",
-    "fecha": "2026-04-24",
-    "id": 1,
-    "integrantes": [
-      "Juliana Tapias"
-    ],
-    "actividad": "Api Individual",
-    "url": "https://drive.google.com/file/d/1Cx1JhJk1I-kLj-ouMjIYwwHmxxX_2hJU/view?usp=sharing"
   }
 ]
