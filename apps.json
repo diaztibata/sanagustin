@@ -686,3 +686,56 @@
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
   }
 ]
+ [
+  {
+    "nombreapp": "Adivinar",
+    "descripcion": "Adivina la Fruta es un juego web interactivo desarrollado con HTML, CSS y JavaScript...",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2909/2909765.png",
+    "grupo": "lunes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "Oscar Herrera",
+      "Katherin Aviles"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://katherin2024.github.io/AdivinarApk/"
+  },
+  {
+    "nombreapp": "ApiPoema",
+    "descripcion": "Esta es una API creada para inspiracion y buscar un poema de tu gusto",
+    "icono": "https://cdn-icons-png.flaticon.com/128/10389/10389721.png",
+    "grupo": "viernes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "Katherin Aviles"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Semáforo Interactivo",
+    "descripcion": "Simula un semáforo en HTML, CSS y JavaScript. Modo manual y automático.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3267/3267422.png",
+    "grupo": "martes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "Santiago Castellanos",
+      "Angie Rincon"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://santiago1902200.github.io/Semaforo/"
+  },
+  {
+    "nombreapp": "DisneyApi",
+    "descripcion": "Aplicación para explorar personajes del universo Disney",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1010/1010115.png",
+    "fecha": "2026-04-24",
+    "id": 1,
+    "integrantes": [
+      "Helen Yuliana Linares Caro"
+    ]
+  }
+]
