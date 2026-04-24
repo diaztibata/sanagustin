@@ -684,5 +684,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "D&D Api",
+    "descripcion": "Es una app interactiva para acceder a items variados de dungeons & dragons",
+    "icono": "https://img.icons8.com/color/1200/dungeons-and-dragons.jpg",
+    "grupo": "viernes",
+    "fecha": "2026-04-24",
+    "id": 1,
+    "integrantes": [
+      "Matias Ramirez Torres"
+    ],
+    "actividad": "Api Individual",
+    "url": "https://github.com/Matias-RamirezT/Items-Api"
   }
 ]
