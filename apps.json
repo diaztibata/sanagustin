@@ -713,5 +713,18 @@
     ],
     "actividad": "React expo",
     "url": "https://drive.google.com/file/d/1X__qjXmfozSBvcDPjNdCIYobggY5xPWo/view?usp=drive_link"
+  },
+    {
+    "nombreapp": "Juego de tronos",
+    "descripcion": " Una aplicacion con react de juegos de tronos  ",
+    "icono": "https://fbi.cults3d.com/uploaders/15110355/illustration-file/639372ea-e0f7-4460-b146-6dc498f39d73/Sem%20t%C3%ADtulo-1.jpg",
+    "grupo": "viernes",
+    "fecha": "2026-04-24",
+    "id": 1,
+    "integrantes": [
+      "Yesica Causado"
+    ],
+    "actividad": "Api individual",
+    "url": "https://drive.google.com/file/d/1GHjpGn8uuRjoD7wC9bQC_siXEL1_fpnC/view?usp=drive_link"
   }
 ]
