@@ -684,5 +684,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Coin Gecko API",
+    "descripcion": "Api que contiene información de mas de 18.000 crytomonedas",
+    "icono": "https://www.image2url.com/r2/default/images/1776994184476-5a6c1cd9-4da4-4511-b0fb-a9c603cbb1d2.png",
+    "grupo": "viernes",
+    "fecha": "2026-04-23",
+    "id": 1,
+    "integrantes": [
+      "Julian Lozano"
+    ],
+    "actividad": "React con Api Individual",
+    "url": "https://drive.google.com/file/d/1Ek-Xh4SIwH-rPb3bVQRE-07vwA1vQrxK/view?usp=drive_link"
   }
 ]
