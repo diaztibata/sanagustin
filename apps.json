@@ -684,5 +684,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+    {
+    "nombreapp": "SpaceX",
+    "descripcion": "Aplicación React que consume la API de SpaceX para mostrar información detallada sobre lanzamientos de cohetes",
+    "icono": "https://i.ibb.co/1ftbcjm0/logo-spacex.png",
+    "grupo": "viernes",
+    "fecha": "2026-04-2026",
+    "id": 1,
+    "integrantes": [
+      "Cristian andres de la rue"
+    ],
+    "actividad": "React con API Individual",
+    "url": "https://drive.google.com/file/d/1N0bRbHefaRcW9oY0BlRbDVkTmGlGtKie/view?usp=sharing"
   }
 ]
