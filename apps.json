@@ -2,7 +2,7 @@
   {
     "nombreapp": "Rutinas Inteligentes",
     "descripcion": "Organiza el día según tiempo, estrés y objetivos.",
-    "icono": "https://es.vecteezy.com/arte-vectorial/76636585-inteligente-personalizado-digital-rutina-de-ejercicio-entrenador-icono",
+    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrzgB28l_ijmwFBIanI1VhbMzl7tU-3X2xQg&s",
     "grupo": "viernes",
     "fecha": "2026-04-15",
     "id": 1,
@@ -29,5 +29,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1AmkL6JzSig7iOV1F1QwKx3LDFshf6RhS/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "TVShows",
+    "descripcion": "TVMaze API es una API gratuita y pública que provee información sobre series de televisión. No requiere autenticación ni registro.",
+    "icono": "https://pngimg.com/uploads/tv/tv_PNG39242.png",
+    "grupo": "viernes",
+    "fecha": "2026-04-24",
+    "id": 1,
+    "integrantes": [
+      "Juliana Tapias"
+    ],
+    "actividad": "Api Individual",
+    "url": "https://drive.google.com/file/d/1Cx1JhJk1I-kLj-ouMjIYwwHmxxX_2hJU/view?usp=sharing"
   }
 ]
