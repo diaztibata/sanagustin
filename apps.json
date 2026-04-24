@@ -465,7 +465,7 @@
   },
   {
     "nombreapp": "Sin elección",
-    "descripcion": "Esta es una aplcacion donde tu creas las opciones y aleatoriamente se escoge una de ellas",
+    "descripcion": "",
     "icono": "https://cdn-icons-png.flaticon.com/512/6193/6193597.png",
     "grupo": "lunes",
     "fecha": "2026-03-2",
@@ -700,5 +700,20 @@
     ],
     "actividad": "Actividad React Native lunes Avanzada",
     "url": "https://drive.google.com/drive/folders/1NHYZI0m5VWjy9jEQdBntNDRz6jBhNEiN"
+  },
+  {
+    "nombreapp": "Bible-Api",
+    "descripcion": "Una app web que consume una API que recupera versiculos biblicos",
+    "icono": "https://cdn-icons-png.flaticon.com/512/10291/10291808.png",
+    "grupo": "viernes",
+    "fecha": "2026-04-24",
+    "id": 1,
+    "integrantes": [
+      "Samuel Ramirez Benitez"
+    
+      
+    ],
+    "actividad": "Api Individual",
+    "url": "https://drive.google.com/file/d/1lnTKFsCPVAT0frk3GEydj00EcbaMXNzV/view?usp=sharing"
   }
 ]
