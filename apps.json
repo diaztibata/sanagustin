@@ -588,6 +588,19 @@
     "url": "https://github.com/EdisonAmadoc/Webview"
   },
   {
+    "nombreapp": "API YuGiOh",
+    "descripcion": "Aplicación web que permite mirar las cartas que mas se usan en el tcg de yugioh y su precio",
+    "icono": "https://img.yugioh-card.com/eu/wp-content/uploads/2022/04/Yugi.webp",
+    "grupo": "Viernes",
+    "fecha": "2026-04-23",
+    "id": 1,
+    "integrantes": [
+      "Ronald Lopez"
+    ],
+    "actividad": "API individual",
+    "url": "https://drive.google.com/file/d/1mz1Pq9hY1un9zmweHEQtSO207WEjSLOR/view?usp=drive_link"
+  },
+  {
     "nombreapp": "Pulmones_verdes",
     "descripcion": "ayuda a las personas con la ansiedad y lleva un retgistro de los cigarrillos que ha fumado dia a dia ",
     "icono": "https://img.freepik.com/vector-premium/ilustracion-pulmones-humanos_959701-782.jpg",
