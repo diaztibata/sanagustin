@@ -713,5 +713,18 @@
   ],
   "actividad": "Primer444 CLASEE",
   "url": "https://github.com/Daniel-L14/divisas"
+},
+ {
+  "nombreapp": "libros",
+  "descripcion": "Permite consultar y ver libros .",
+  "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOblj0LIIynvsErSnW06H7KT8QppQFbmoQQ&s",
+  "grupo": "lunes",
+  "fecha": "2026-04/27",
+  "id": 1,
+  "integrantes": [
+    "Daniel Latorre"
+  ],
+  "actividad": "Primer444 CLASEEeeeee",
+  "url": "https://expo.dev/accounts/d444nni/projects/Libros_10/builds/559b50d2-59cb-4626-bf74-e159e08debb1"
 }
 ]
