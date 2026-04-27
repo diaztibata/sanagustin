@@ -726,5 +726,19 @@
   ],
   "actividad": "Primer444 CLASEEeeeee",
   "url": "https://expo.dev/accounts/d444nni/projects/Libros_10/builds/559b50d2-59cb-4626-bf74-e159e08debb1"
+},
+{
+  "nombreapp": "text app",
+  "descripcion": "Permite hacer una simulacion de compras de tecnologia.",
+  "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQnGbmoCWBAP6XyCr17LjNLe-gaddMkJXEjg&s",
+  "grupo": "lunes",
+  "fecha": "2026-04/27",
+  "id": 1,
+  "integrantes": [
+    "Daniel Latorre",
+    "Edison Amado"
+  ],
+  "actividad": "Primer444 CLASEEeeeee",
+  "url": "https://github.com/EdisonAmadoc/tienda"
 }
 ]
