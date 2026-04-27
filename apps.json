@@ -684,5 +684,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Ropaapi",
+    "descripcion": "Es una app donde puedes ver los distintos tipos de ropa y accesorios",
+    "icono": "https://www.freeimages.com/es/vector/white-t-shirt-clip-art-5490509",
+    "grupo": "Lunes",
+    "fecha": "2026-04-27",
+    "id": 1,
+    "integrantes": [
+     "Maicol Lancheros"
+    ],
+    "actividad": "Api",
+    "url": "https://drive.google.com/drive/folders/1CVscTTFrMaXQrSYPITFSG6AJAsiUkb6b"
   }
 ]
