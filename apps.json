@@ -54,4 +54,17 @@
     "actividad": "Expo React Native",
     "url": "https://drive.google.com/drive/folders/1pOzQvO2ZeJCnyVwuwedc7qpzZ-dDrmNj?usp=drive_link"
   }
-]
+],
+{
+    "nombreapp": "PokeApi",
+    "descripcion": "Liga Pokemon",
+    "icono": "https://cdn-icons-png.flaticon.com/512/5024/5024369.png",
+    "grupo": "lunes",
+    "fecha": "2026-27-04",
+    "id": 3,
+    "integrantes": [
+      "Sergio Ramirez"
+    ],
+    "actividad": "API invidivual",
+    "url": "https://github.com/Sergio-Velandia/PokeAPI"
+  },
