@@ -684,5 +684,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "AnimeAPI",
+    "descripcion": "Es una app donde se usa una api de anime para adquirir informacion del anime que quieras",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1320/1320986.png",
+    "grupo": "lunes",
+    "fecha": "2026-04-27",
+    "id": 1,
+    "integrantes": [
+      "Samuel Diaz"
+    ],
+    "actividad": "Api individual",
+    "url": "https://drive.google.com/file/d/1tpgaFniz_wCRiwQ4kHuRVAft6jL1Jqrh/view?usp=drive_link"
   }
 ]
