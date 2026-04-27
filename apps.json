@@ -684,5 +684,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "CoinGecko App",
+    "descripcion": "Aplicacion profesional que muestra informacion sobre criptomonedas y monedas de cambio virtuales",
+    "icono": "https://github.com/NicoUrrego/CoingeckoApi-React/blob/main/CoinGeckoApi.png",
+    "grupo": "lunes",
+    "fecha": "26-04-2026",
+    "id": 1,
+    "integrantes": [
+      "Nicolas Urrego"
+    ],
+    "actividad": "React con API Individual",
+    "url": "https://github.com/NicoUrrego/CoingeckoApi-React"
   }
 ]
