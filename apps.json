@@ -697,5 +697,20 @@
     ],
     "actividad": "React con API Individual",
     "url": "https://github.com/NicoUrrego/CoingeckoApi-React"
+  },
+  {
+    "nombreapp": "Trivia Paises",
+    "descripcion": "Aplicacion profesional que muestra informacion sobre paises e incluye un divertido juego de trivia",
+    "icono": "https://github.com/laura3212401957/countries-react/blob/main/Proyecto/assets/icon.png",
+    "grupo": "lunes",
+    "fecha": "26-04-2026",
+    "id": 1,
+    "integrantes": [
+      "Nicolas Urrego",
+      "Sofia Rueda",
+      "Laura Cardona"
+    ],
+    "actividad": "React Native con Expo y GitHub",
+    "url": "https://expo.dev/accounts/nicolas-urrego/projects/Proyecto/builds/daeabf48-2055-497d-8e17-88b4415116fe"
   }
 ]
