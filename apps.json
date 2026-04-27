@@ -697,5 +697,19 @@
     ],
     "actividad": "Api individual",
     "url": "https://drive.google.com/file/d/1TrwBn6KrRwfmppFURmVklAa4e72t61bC/view?usp=sharing"
+  },
+
+      {
+    "nombreapp": "HomeList",
+    "descripcion": "Aplicacion para el control y adiministración del tiempo mediante una lista de tareas organizada",
+    "icono": "https://cdn-icons-png.flaticon.com/128/1048/1048953.png",
+    "grupo": "lunes",
+    "fecha": "2026-04-06",
+    "id": 1,
+    "integrantes": [
+      "Juan Rojas"
+    ],
+    "actividad": "Deploy en Parejas",
+    "url": "https://drive.google.com/file/d/1MxhziNO8nr7oPItTGEGg_m18yZavhJpX/view?usp=sharing"
   }
 ]
