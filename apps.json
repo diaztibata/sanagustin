@@ -68,3 +68,17 @@
     "actividad": "API invidivual",
     "url": "https://github.com/Sergio-Velandia/PokeAPI"
   },
+{
+    "nombreapp": "Agita y Decide",
+    "descripcion": "Una app para tomar decisione agitando el celular",
+    "icono": "https://cdn-icons-png.flaticon.com/512/5024/5024369.png",
+    "grupo": "lunes",
+    "fecha": "2026-27-04",
+    "id": 3,
+    "integrantes": [
+      "Sergio Ramirez",
+      "Jesus Florez"
+    ],
+    "actividad": "Actividad en parejas",
+    "url": "https://github.com/Sergio-Velandia/AgitaYDecide"
+  },
