@@ -684,5 +684,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+    {
+    "nombreapp": "FakerAA",
+    "descripcion": "Aplicacion para el control y adiministración de usuarios segun sus datos",
+    "icono": "https://cdn-icons-png.flaticon.com/128/863/863823.png",
+    "grupo": "lunes",
+    "fecha": "2026-04-27",
+    "id": 1,
+    "integrantes": [
+      "Juan Rojas"
+    ],
+    "actividad": "Api individual",
+    "url": "https://drive.google.com/file/d/1TrwBn6KrRwfmppFURmVklAa4e72t61bC/view?usp=sharing"
   }
 ]
