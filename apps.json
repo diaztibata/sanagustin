@@ -684,5 +684,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+    {
+    "nombreapp": "GastosHormiga",
+    "descripcion": "Es una app en la que puedes registrar esos diferentes gastos hormiga, en diferentes medios de pago y te ayuda a llevar un control de tus gastos.",
+    "icono": "https://www.flaticon.es/icono-gratis/hormiga_344327?term=hormiga&page=1&position=34&origin=search&related_id=344327",
+    "grupo": "lunes",
+    "fecha": "2026-04-26",
+    "id": 1,
+    "integrantes": [
+      "Juan David Pachon Sarmiento"
+    ],
+    "actividad": "Apk orginal",
+    "url": "https://drive.google.com/file/d/1f99SWfKCg7HVMXbgGzgPQ7QXJk-bErdc/view?usp=drive_link"
   }
 ]
