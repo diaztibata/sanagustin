@@ -740,5 +740,19 @@
   ],
   "actividad": "Primer444 CLASEEeeeee",
   "url": "https://github.com/EdisonAmadoc/tienda"
+},
+{
+  "nombreapp": "text app",
+  "descripcion": "Permite ver y buscar personajes de harry potter",
+  "icono": "https://thumbs.dreamstime.com/b/icono-rel%C3%A1mpago-que-se-descarga-sin-problemas-para-la-aplicaci%C3%B3n-ios-en-dribbble-el-del-rayo-aparece-esta-foto-sit%C3%BAa-un-280698035.jpg",
+  "grupo": "lunes",
+  "fecha": "2026-04/27",
+  "id": 1,
+  "integrantes": [
+    "Daniel Latorre",
+    "Edison Amado"
+  ],
+  "actividad": "Primer444 CLASEEeeeee",
+  "url": "https://github.com/Daniel-L14/HARRYP"
 }
 ]
