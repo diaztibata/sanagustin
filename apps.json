@@ -698,5 +698,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "SpaceX",
+    "descripcion": "Es una app de informacion sobre los cohetes activos e inactivos de SpaceX",
+    "icono": "https://media.istockphoto.com/id/1269211670/es/vector/rock-papel-tijeras-conjunto-de-iconos-de-partes-del-cuerpo.jpg?s=612x612&w=0&k=20&c=GUYVPaBrY6ZJQUIcJKj0n4uXee90wziYxg6YP1ZBcs4=",
+    "grupo": "viernes",
+    "fecha": "2026-04-27",
+    "id": 1,
+    "integrantes": [
+      "Edwin Sebastian Montiel Vargas"
+    ],
+    "actividad": "Api individual",
+    "url": "https://drive.google.com/file/d/1QnVVdGsnpVrrVqIKBE9LL_JQ79CfWW4I/view?usp=drive_link"
   }
 ]
