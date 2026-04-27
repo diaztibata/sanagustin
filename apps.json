@@ -684,5 +684,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "dolares",
+    "descripcion": "Es una aplicacion que usa una api para saber el precio actual de las divisas",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1303/1303247.png",
+    "grupo": "lunes",
+    "fecha": "2026-04-27",
+    "id": 1,
+    "integrantes": [
+      "Samuel Diaz"
+    ],
+    "actividad": "Actividad grupal React + expo",
+    "url": "https://drive.google.com/file/d/1-7hToHddTutfUv2U_0gKdnQP7ZSv6G8e/view?usp=drive_link"
   }
 ]
