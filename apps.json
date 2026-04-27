@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Game Of Thrones API",
+    "descripcion": "Es una app para conocer la informacion sobre los personajes, su titulo y la familia a la que pertenecen",
+    "icono": "https://drive.google.com/file/d/1zx7HDliRI6S7L5YUfzNFFegULjbA8spq/view?usp=drive_link",
+    "grupo": "Lunes",
+    "fecha": "2026-04-27",
+    "id": 1,
+    "integrantes": [
+      "Ana Sofia Rueda Mejia"
+    ],
+    "actividad": "API Individual",
+    "url": "https://drive.google.com/file/d/15oiTbO6wzxg6UOn5JXsUeTqHpI6bPtw7/view?usp=drive_link"
   }
+  
 ]
