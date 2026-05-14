@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+    {
+    "nombreapp": "División Grupal",
+    "descripcion": "App para dividir gastos entre roomies y amigos. Registra gastos mensuales del apartamento, calcula quién le debe a quién, y gestiona salidas grupales con división automática. Incluye ruleta para decidir quién paga.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2489/2489756.png",
+    "grupo": "viernes",
+    "fecha": "2026-05-14",
+    "id": 10,
+    "integrantes": [
+      "Andres Castillo",
+      "Cristian andres de la rue"
+    ],
+    "actividad": "PWA Originales: Deploy en Parejas",
+    "url": "https://pwamayo.vercel.app/"
   }
 ]
