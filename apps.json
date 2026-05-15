@@ -684,5 +684,20 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "MJAPP",
+    "descripcion": "App de michael jackson, donde podras simular su vida y adivinar pasos de bailes icónicos de el",
+    "icono": "https://cdn-icons-png.flaticon.com/512/14074/14074255.png ",
+    "grupo": "viernes",
+    "fecha": "2026-05-15",
+    "id": 1,
+    "integrantes": [
+      "Julian Lozano",
+      "Nicolas Caro"
+
+    ],
+    "actividad": "PWA Originales: Deploy en parejas",
+    "url": "https://mj-gray.vercel.app/"
   }
 ]
