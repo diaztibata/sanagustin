@@ -698,5 +698,19 @@
     ],
     "actividad": "Deploy en Parejas",
     "url": "https://drive.google.com/file/d/1xEfXU80UxjvDGh8Tp7FnXGFlLY6gOv2j/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Connect 4",
+    "descripcion": "Es un una app PWA del juego clasico connect 4",
+    "icono": "https://cdn-icons-png.flaticon.com/128/6689/6689121.png",
+    "grupo": "viernes",
+    "fecha": "2026-05-15",
+    "id": 1,
+    "integrantes": [
+      "Andres Sanchez",
+      "Jesus Vargas"
+    ],
+    "actividad": "PWA Originales: Deploy en Parejas",
+    "url": "https://pwa-next-blue.vercel.app/"
   }
 ]
