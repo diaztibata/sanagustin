@@ -684,5 +684,20 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+   {
+    "nombreapp": "X",
+    "descripcion": "Replica similar de la app x, donde podras publicar cosas, comentar, dar like y seguir a otros usuarios",
+    "icono": "https://cdn-icons-png.flaticon.com/512/5968/5968958.png ",
+    "grupo": "viernes",
+    "fecha": "2026-05-23",
+    "id": 1,
+    "integrantes": [
+      "Julian Lozano",
+      "Nicolas Caro",
+      "Ronald Lopez"
+    ],
+    "actividad": "Dashboard replica webview-trios",
+    "url": "https://drive.google.com/file/d/1mYpwml0k0UyXfCzq0IbDQwx1ugPhexT-/view?usp=drive_link"
   }
 ]
