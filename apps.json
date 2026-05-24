@@ -711,5 +711,34 @@
     ],
     "actividad": "Apk Deploy",
     "url": "https://drive.google.com/file/d/15lgD2pvvlcldyClXx_gfM9san3f6Cmwi/view?usp=sharing"
+  },
+  {
+    "nombreapp": "Snake",
+    "descripcion": "Un juego de la serpiente de come con 2 apartados, uno clasico y el otro para 2 jugadores con reglas unicas.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/47/47229.png",
+    "grupo": "Viernes",
+    "fecha": "2026-05-24",
+    "id": 1,
+    "integrantes": [
+      "Yesica Causado",
+      "Matias Ramirez"
+    ],
+    "actividad": "Apk Deploy Next Parejas",
+    "url": "https://snake-six-flame.vercel.app/"
+  },
+  {
+    "nombreapp": "SpotifyReplica",
+    "descripcion": "Sitio web que simula la interfaz de login y mvp de spotify.",
+    "icono": "https://img.icons8.com/m_rounded/1200/spotify.jpg",
+    "grupo": "Viernes",
+    "fecha": "2026-05-24",
+    "id": 1,
+    "integrantes": [
+      "Carlos Alvarez ",
+      "Matias Ramirez",
+      "Santiago Bermudez"
+    ],
+    "actividad": "Apk Next Parejas",
+    "url": "https://github.com/Matias-RamirezT/Group3Activity"
   }
 ]
