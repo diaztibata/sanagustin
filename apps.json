@@ -698,5 +698,19 @@
     ],
     "actividad": "Primera app React",
     "url": "https://drive.google.com/file/d/1gArsNFr2PnRGjBCdpF1KV9RVO7kv9PGA/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Instagram Replica",
+    "descripcion": "App replica de instagram con next y supabase",
+    "icono": "https://img.magnific.com/vector-premium/logotipo-redes-sociales-degradado-purpura_197792-1883.jpg?semt=ais_hybrid&w=740&q=80",
+    "grupo": "viernes",
+    "fecha": "2026-24-05",
+    "id": 1,
+    "integrantes": [
+      "Juan David Sarmiento ",
+      "Juan David Martínez Niño."
+    ],
+    "actividad": "Primera app con next y supabase",
+    "url": "https://drive.google.com/file/d/1MrAuHKJJ1j28ZG__bNBvKeCcbo2fCWuB/view?usp=drive_link"
   }
 ]
