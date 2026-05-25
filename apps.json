@@ -684,5 +684,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Solitario Klasico",
+    "descripcion": "Es una app donde puedes jugar el clasico juego de Solitario con sus dos variedades de Klondike y Spider",
+    "icono": "https://github.com/NicoUrrego/solitario-next/blob/main/public/Solitario.png",
+    "grupo": "Lunes",
+    "fecha": "2026-05-24",
+    "id": 1,
+    "integrantes": [
+      "Nicolas Urrego"
+    ],
+    "actividad": "PWA Originales: Deploy en Parejas",
+    "url": "https://solitario-next.vercel.app/"
   }
 ]
