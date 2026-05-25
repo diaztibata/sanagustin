@@ -700,45 +700,57 @@
     "url": "https://drive.google.com/file/d/1co_cJ_D5clV5pSxwrmJDdMBkakTiB3yi/view?usp=sharing"
   },
   {
-  "nombreapp": "Buscador por Idioma",
-  "descripcion": "Busca países según el idioma que hablan usando la API de RestCountries",
-  "icono": "https://i.pinimg.com/736x/1e/31/6a/1e316a841d19d6b98b1b1621d53701d1.jpg",
-  "grupo": "viernes",
-  "fecha": "2026-04-08",
-  "id": 1,
-  "integrantes": [
-    "Helen Yuliana Linares Caro",
-    "Juan Pablo Blanco Soler",
-    "Jose Niño"
-  ],
-  "actividad": "ReactNativa",
-  "url": "https://drive.google.com/file/d/1w6RkzhLwPA8Kh2-SOPxNBKT_WMOyeq1A/view?usp=sharing"
-},
-{
-  "nombreapp": "JokeApp",
-  "descripcion": "Aplicación que consume una API de chistes y permite buscarlos, filtrarlos, guardarlos en favoritos y calificarlos tipo swipe.",
-  "icono": "https://drive.google.com/file/d/18D3_hAJHoAmifJ7Scfmqs0kIKCldyZQT/view?usp=sharing",
-  "grupo": "viernes",
-  "fecha": "2026-04-25",
-  "id": 1,
-  "integrantes": [
-    "Juan Pablo Blanco Soler"
-  ],
-  "actividad": "API",
-  "url": "https://drive.google.com/file/d/1Gk8wlAU53MxqpOnQb0L2NnRETDF4hSSk/view?usp=drive_link"
-},
-{
-  "nombreapp": "FastTap",
-  "descripcion": "Aplicación que permite calcular el tiempo de reacción del usuario mediante interacciones rápidas en pantalla.",
-  "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/b1/b9/5ab1b98c-461c-11a7-ac2e-fb1a50332260/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/400x400ia-75.webp",
-  "grupo": "viernes",
-  "fecha": "2026-04-25",
-  "id": 1,
-  "integrantes": [
-    "Juan Pablo Blanco Soler"
-  ],
-  "actividad": "App",
-  "url": "https://drive.google.com/file/d/1gb4sGob70Y-vW_RFBUsp4NK4JROVP0s-/view?usp=sharing"
-}
-  
+    "nombreapp": "Buscador por Idioma",
+    "descripcion": "Busca países según el idioma que hablan usando la API de RestCountries",
+    "icono": "https://i.pinimg.com/736x/1e/31/6a/1e316a841d19d6b98b1b1621d53701d1.jpg",
+    "grupo": "viernes",
+    "fecha": "2026-04-08",
+    "id": 1,
+    "integrantes": [
+      "Helen Yuliana Linares Caro",
+      "Juan Pablo Blanco Soler",
+      "Jose Niño"
+    ],
+    "actividad": "ReactNativa",
+    "url": "https://drive.google.com/file/d/1w6RkzhLwPA8Kh2-SOPxNBKT_WMOyeq1A/view?usp=sharing"
+  },
+  {
+    "nombreapp": "JokeApp",
+    "descripcion": "Aplicación que consume una API de chistes y permite buscarlos, filtrarlos, guardarlos en favoritos y calificarlos tipo swipe.",
+    "icono": "https://drive.google.com/file/d/18D3_hAJHoAmifJ7Scfmqs0kIKCldyZQT/view?usp=sharing",
+    "grupo": "viernes",
+    "fecha": "2026-04-25",
+    "id": 1,
+    "integrantes": [
+      "Juan Pablo Blanco Soler"
+    ],
+    "actividad": "API",
+    "url": "https://drive.google.com/file/d/1Gk8wlAU53MxqpOnQb0L2NnRETDF4hSSk/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "FastTap",
+    "descripcion": "Aplicación que permite calcular el tiempo de reacción del usuario mediante interacciones rápidas en pantalla.",
+    "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/b1/b9/5ab1b98c-461c-11a7-ac2e-fb1a50332260/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/400x400ia-75.webp",
+    "grupo": "viernes",
+    "fecha": "2026-04-25",
+    "id": 1,
+    "integrantes": [
+      "Juan Pablo Blanco Soler"
+    ],
+    "actividad": "App",
+    "url": "https://drive.google.com/file/d/1gb4sGob70Y-vW_RFBUsp4NK4JROVP0s-/view?usp=sharing"
+  },
+  {
+    "nombreapp": "WPA",
+    "descripcion": "Aplicación web interactiva para encontrar palabras ocultas dentro de un texto mediante búsquedas visuales rápidas y dinámicas.",
+    "icono": "https://encuentraelobjeto.vercel.app/icon.png",
+    "grupo": "viernes",
+    "fecha": "2026-05-25",
+    "id": 1,
+    "integrantes": [
+      "Helen Linares"
+    ],
+    "actividad": "App",
+    "url": "https://encuentraelobjeto.vercel.app/"
+  }
 ]
