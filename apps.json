@@ -46,15 +46,12 @@
     "nombreapp": "conversor",
     "descripcion": "conversor de diferentes tipos de monedas del mundo",
     "icono": "https://static.vecteezy.com/system/resources/previews/005/879/976/non_2x/currency-converter-icon-free-vector.jpg",
-    "nombreapp": "NoiseMeter",
-    "descripcion": "Permite medir el nivel de ruido ambiental en tiempo real.",
-    "icono": "https://cdn-icons-png.flaticon.com/128/11836/11836093.png",
     "grupo": "lunes",
     "fecha": "2026-02-09",
     "id": 1,
     "integrantes": [
       "Cristian Gamba",
-      "jhonnier Gordo"
+      "Jhonnier Gordo"
     ],
     "actividad": "Primera Clase",
     "url": "https://felipe345522.github.io/convertidor-de-moneda-/"
@@ -213,6 +210,15 @@
     ],
     "actividad": "API individual",
     "url": "https://github.com/JuanesVVV/Digimon"
+  },
+  {
+    "nombreapp": "WhatGame",
+    "descripcion": "Aplicacion para elegir juegos",
+    "icono": "https://raw.githubusercontent.com/Brayan346/whatgame-/refs/heads/main/WhatsApp%20Image%202026-02-09%20at%203.34.09%20PM.jpeg",
+    "grupo": "lunes",
+    "fecha": "2026-02-09",
+    "id": 1,
+    "integrantes": [
       "Laura Cardona",
       "Brayan Hernandez"
     ],
@@ -719,5 +725,45 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+   {
+    "nombreapp": "Ruleta y retos",
+    "descripcion": "Es una app donde puedes girar la ruleta que continene retos que debes hacer",
+    "icono": "https://drive.google.com/file/d/1kcjwtRBMDMt1t_DNtL_kDRVeDrfG4wXL/view?usp=drive_link",
+    "grupo": "Lunes",
+    "fecha": "2026-05-25",
+    "id": 1,
+    "integrantes": [
+      "Juan Esteban Rodriguez",
+      "Cristian Gamba"
+    ],
+    "actividad": "PWA Originales: Webview Parejas",
+    "url": "https://github.com/JuanesVVV/ruleta"
+  },
+  {
+    "nombreapp": "AnimeList",
+    "descripcion": "Es una app donde puedes disfrutar el top de animes",
+    "icono": "https://wallpapers.com/images/hd/anime-free-swirl-logo-f47gibs7bqbftyog.jpg",
+    "grupo": "Lunes",
+    "fecha": "2026-05-25",
+    "id": 1,
+    "integrantes": [
+      "Juan Esteban Rodriguez"
+    ],
+    "actividad": "EXPO noSQL Individual",
+    "url": "https://github.com/JuanesVVV/AnimeList"
+  },
+  {
+    "nombreapp": "Digimon",
+    "descripcion": "Es una app donde puedes disfrutar informacion sobre los Digimons",
+    "icono": "https://github.com/JuanesVVV/Digimon/blob/main/Digimon/public/icons.svg",
+    "grupo": "Lunes",
+    "fecha": "2026-05-25",
+    "id": 1,
+    "integrantes": [
+      "Juan Esteban Rodriguez"
+    ],
+    "actividad": "APP SEGUNDO CORTE - API INDIVIDUAL",
+    "url": "https://github.com/JuanesVVV/Digimon"
   }
 ]
