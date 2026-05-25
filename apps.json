@@ -711,5 +711,18 @@
     ],
     "actividad": "Deploy en Parejas",
     "url": "https://drive.google.com/file/d/1MxhziNO8nr7oPItTGEGg_m18yZavhJpX/view?usp=sharing"
+  },
+  {
+    "nombreapp": "NoteNext",
+    "descripcion": "Aplicacion para tomar notas y tareas de forma organizada y pratica",
+    "icono": "https://cdn-icons-png.flaticon.com/128/6711/6711178.png",
+    "grupo": "lunes",
+    "fecha": "2026-05-26",
+    "id": 1,
+    "integrantes": [
+      "Juan Rojas"
+    ],
+    "actividad": "PWA en Next",
+    "url": "https://next-pwa-gamma.vercel.app/"
   }
 ]
