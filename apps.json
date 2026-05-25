@@ -1,30 +1,160 @@
 [
   {
-    "nombreapp": "Adivinar",
-    "descripcion": "Adivina la Fruta es un juego web interactivo desarrollado con HTML, CSS y JavaScript...",
-    "icono": "https://cdn-icons-png.flaticon.com/512/2909/2909765.png",
+    "nombreapp": "NoiseMeter",
+    "descripcion": "Permite medir el nivel de ruido ambiental en tiempo real.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/11836/11836093.png",
     "grupo": "lunes",
-    "fecha": "2024-11-15",
+    "fecha": "2026-02-09",
     "id": 1,
     "integrantes": [
-      "Oscar Herrera",
-      "Katherin Aviles"
+      "Jesús Flórez",
+      "Sergio Ramirez"
     ],
     "actividad": "Primera Clase",
-    "url": "https://katherin2024.github.io/AdivinarApk/"
+    "url": "https://drive.google.com/file/d/13FDNOs-mOKhsZP0QoYPFwtmzorlB8OGW/view?usp=drive_link"
   },
   {
     "nombreapp": "ApiPoema",
     "descripcion": "Esta es una API creada para inspiracion y buscar un poema de tu gusto",
-    "icono": "https://cdn-icons-png.flaticon.com/128/10389/10389721.png",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2301/2301751.png",
+    "grupo": "viernes",
+    "fecha": "2024-13-02",
+    "id": 1,
+    "integrantes": [
+      "angie neiza",
+      "juliana tapias",
+      "tomas ortiz"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/drive/folders/1NHYZI0m5VWjy9jEQdBntNDRz6jBhNEiN"
+  },
+  {
+    "nombreapp": "Calculadora",
+    "descripcion": "App de retroalimentación de las webviews",
+    "icono": "https://www.shutterstock.com/image-vector/cute-dark-gray-calculator-blue-600nw-2618023419.jpg",
     "grupo": "viernes",
     "fecha": "2024-11-15",
     "id": 1,
     "integrantes": [
-      "Katherin Aviles"
+      "Juan David Sarmiento ",
+      "Juan David Martínez Niño"
     ],
     "actividad": "Primera Clase",
-    "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
+    "url": "https://drive.google.com/file/d/1rAdkiR1i853NnWCl6JilxaTmFYyln8EJ/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "conversor",
+    "descripcion": "conversor de diferentes tipos de monedas del mundo",
+    "icono": "https://static.vecteezy.com/system/resources/previews/005/879/976/non_2x/currency-converter-icon-free-vector.jpg",
+    "nombreapp": "NoiseMeter",
+    "descripcion": "Permite medir el nivel de ruido ambiental en tiempo real.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/11836/11836093.png",
+    "grupo": "lunes",
+    "fecha": "2026-02-09",
+    "id": 1,
+    "integrantes": [
+      "Cristian Gamba",
+      "jhonnier Gordo"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://felipe345522.github.io/convertidor-de-moneda-/"
+  },
+  {
+    "nombreapp": "PlaticaApi",
+    "descripcion": "Maneja los gastos de tu salario para llevar mejor la cuenta 🤑🤑💵💵.",
+    "icono": "https://i.pinimg.com/736x/4e/84/ed/4e84ed8a05068070277f2705858e8133.jpg",
+    "grupo": "viernes",
+    "fecha": "2026-2-13",
+    "id": 1,
+    "integrantes": [
+      "Andres Castillo",
+      "Mi primo samuel"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://github.com/4ndriu/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "PoolPoints",
+    "descripcion": "Lleva la cuenta de tus puntos, en tus partidas de pool",
+    "icono": "https://img.freepik.com/vector-premium/icono-pelota-billar-vector-icono-deportivo_667453-2848.jpg",
+    "grupo": "lunes",
+    "fecha": "2026-02-9",
+    "id": 1,
+    "integrantes": [
+      "Sergio Suarez",
+      "Jossie Rico"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1y1HKc4b9HHCUV-UM2UT9BdqclYN2hAQB/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Generador Frases",
+    "descripcion": "Genera frases motivacionales sobre programación de manera aleatoria",
+    "icono": "https://cdn-icons-png.flaticon.com/512/9307/9307141.png",
+    "grupo": "lunes",
+    "fecha": "2025-02-09",
+    "id": 1,
+    "integrantes": [
+      "Samuel Diaz",
+      "Arias Diaz"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1zth35jt2pTlQBzeLocnf6wrC42IjuzUK/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Calendario",
+    "descripcion": "Recrea un calendario, sirve para ser una agenda personal.",
+    "icono": "https://media.istockphoto.com/id/1212381977/es/vector/icono-de-calendario-de-dise%C3%B1o-plano-simple.jpg?s=612x612&w=0&k=20&c=rH2qnbNgiZIKp2fghqjhLUr7r97KTgCheIoVuFUmKEY=",
+    "grupo": "lunes",
+    "fecha": "2026-02-09",
+    "id": 1,
+    "integrantes": [
+      "Juan Rodriguez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "hhttps://github.com/JuanesVVV/Calendario/blob/main/app-debug.apk"
+  },
+  {
+    "nombreapp": "Pulmones_verdes",
+    "descripcion": "ayuda a las personas con la ansiedad y lleva un retgistro de los cigarrillos que ha fumado dia a dia ",
+    "icono": "https://img.freepik.com/vector-premium/ilustracion-pulmones-humanos_959701-782.jpg",
+    "grupo": "lunes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "juan pachon",
+      "brayan moya"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1iRcyk4ywb1FLvmB975SQSESpqXgRWPIz/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "FasTapp",
+    "descripcion": "Mide la rapidez de tap del usuario en la pantalla del movil en un tiempo determinado ",
+    "icono": "https://cdn-icons-png.flaticon.com/128/11115/11115710.png",
+    "grupo": "lunes",
+    "fecha": "2024-02-09",
+    "id": 1,
+    "integrantes": [
+      "Michael Lancheros",
+      "Juan Rojas Lamprea"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1v9ZLuOt23IoJYYbo5Q096pNUBu2VDg9S/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "FlappyBird",
+    "descripcion": "simula el juego de la ave que pasa por tubos.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/789/789479.png",
+    "grupo": "lunes",
+    "fecha": "2026-02*09",
+    "id": 1,
+    "integrantes": [
+      "Juan Zambrano",
+      "Daymon Diaz"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/19rDrx_CBvHpOpvS3QgA4gv72Q-w9vZo5/view?usp=drive_link"
   },
   {
     "nombreapp": "Semáforo Interactivo",
@@ -34,8 +164,8 @@
     "fecha": "2024-11-15",
     "id": 1,
     "integrantes": [
-      "Santiago Castellanos",
-      "Angie Rincon"
+      "Edsion Amado",
+      "Sebastian Montiel"
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"

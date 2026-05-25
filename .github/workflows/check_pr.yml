@@ -1,0 +1,34 @@
+name: Validar Entrega de Estudiantes
+
+on:
+  pull_request:
+    branches: [ semestre3 ]
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repo del estudiante
+        uses: actions/checkout@v4
+        with:
+          path: repo_estudiante
+
+      - name: Descargar tu rama (semestre3) para comparar
+        uses: actions/checkout@v4
+        with:
+          ref: semestre3
+          path: repo_original
+
+      - name: Ejecutar Validación
+        run: |
+          # Usamos TU script (el de repo_original) para que nadie lo altere
+          cp repo_original/validar_json.py .
+          
+          # Traemos el JSON del estudiante
+          cp repo_estudiante/apps.json .
+          
+          # Traemos TU JSON original para comparar
+          cp repo_original/apps.json apps_original.json
+          
+          # Corremos la prueba
+          python validar_json.py
