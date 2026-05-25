@@ -54,4 +54,20 @@
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/19rDrx_CBvHpOpvS3QgA4gv72Q-w9vZo5/view?usp=drive_link"
   }
+
+      {
+    "nombreapp": "Pinterest",
+    "descripcion": ".Es una web app donde puedes explorar una interfaz similar a Pinterest",
+    "icono": "https://www.flaticon.es/icono-gratis/pinterest_145808?term=pinterest&page=1&position=2&origin=search&related_id=145808",
+    "grupo": "lunes",
+    "fecha": "2026-05-25",
+    "id": 1,
+    "integrantes": [
+      "Juan Zambrano",
+      "Elias Diaz",
+      "Maicol Lancheros"
+    ],
+    "actividad": "DASHBOARD REPLICA WEBVIEW",
+    "url": "https://drive.google.com/drive/u/1/folders/1j9zlm9Ub4MU9y-b57mt3biq1Tu4kaCG3"
+  }
 ]
