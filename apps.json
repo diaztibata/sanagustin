@@ -726,5 +726,20 @@
     ],
     "actividad": "Api individual",
     "url": "https://drive.google.com/file/d/1GHjpGn8uuRjoD7wC9bQC_siXEL1_fpnC/view?usp=drive_link"
+  },
+
+  {
+    "nombreapp": "Neflix",
+    "descripcion": " Una aplicacion con next y api de disney  ",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Disney_Princess_logo_2015.png",
+    "grupo": "viernes",
+    "fecha": "2026-05-24",
+    "id": 1,
+    "integrantes": [
+      "Yesica Causado"
+    ],
+    "actividad": "DASHBOARD REPLICA WEBVIEW ",
+    "url": "https://drive.google.com/file/d/1e7zpSLAKw1xW0YEtQdbEFHio7OtwaiMc/view?usp=drivesdk"
   }
+  
 ]
