@@ -698,5 +698,19 @@
     ],
     "actividad": "PWA Originales: Deploy en Parejas",
     "url": "https://pwamayo.vercel.app/"
+  },
+      {
+    "nombreapp": "TikTok supabase",
+    "descripcion": "Esta es una aplicación de TikTok creada con Supabase, que permite a los usuarios subir y compartir videos cortos, interactuar con otros usuarios a través de comentarios y me gusta. La aplicación ofrece una experiencia similar a TikTok, pero con la potencia de Supabase para gestionar la base de datos y la autenticación de usuarios.",
+    "icono": "https://i.ibb.co/m5Z86KB7/lolgo.png",
+    "grupo": "viernes",
+    "fecha": "2026-05-24",
+    "id": 11,
+    "integrantes": [
+      "Cristian andres de la rue",
+      "Ivan ricardo sterling"
+    ],
+    "actividad": "DASHBOARD REPLICA WEBVIEW",
+    "url": "https://drive.google.com/file/d/1NtjDWYBTYkmt9Rz_Ue40lDBkm3YD_mms/view?usp=drive_link"
   }
 ]
