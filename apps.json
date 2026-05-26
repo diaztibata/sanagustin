@@ -711,5 +711,19 @@
     ],
     "actividad": "Expo noSQL Individual",
     "url": "https://drive.google.com/file/d/1mI3ccYexmg5XO1IznCOD1PgLfc4tsnuK/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "IngeNotas",
+    "descripcion": "Una app de notas para los inges",
+    "icono": "https://cdn-icons-png.flaticon.com/128/3131/3131636.png",
+    "grupo": "viernes",
+    "fecha": "2026-05-25",
+    "id": 1,
+    "integrantes": [
+      "Duvan Samuel Carvajal",
+      "Andres Felipe Soler"
+    ],
+    "actividad": "DASHBOARD REPLICA WEBVIEW ",
+    "url": "https://drive.google.com/file/d/1P5bGQyQW_gtPqepzAyYTzNinPdskYHBB/view?usp=drive_link"
   }
 ]
