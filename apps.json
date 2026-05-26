@@ -712,5 +712,19 @@
     ],
     "actividad": "Primera app con next y supabase",
     "url": "https://drive.google.com/file/d/1MrAuHKJJ1j28ZG__bNBvKeCcbo2fCWuB/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Insultador colombiano",
+    "descripcion": "App hecha con PWA que da a conocer los mayor insultos de la cultura colombiana",
+    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZw2FAZ6GuNNprG-Q3RHEze0Dr2parcGz_xg&s",
+    "grupo": "viernes",
+    "fecha": "2026-25-05",
+    "id": 1,
+    "integrantes": [
+      "Juan David Sarmiento ",
+      "Juan David Martínez Niño."
+    ],
+    "actividad": "Primera app con PWA",
+    "url": "https://next-pwa-one-umber.vercel.app"
   }
 ]
