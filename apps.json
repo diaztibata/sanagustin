@@ -684,5 +684,32 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "PlayByte",
+    "descripcion": "No sabes que jugar? aqui hay algunas opciones",
+    "icono": "https://cdn-icons-png.flaticon.com/128/2780/2780137.png",
+    "grupo": "viernes",
+    "fecha": "2026-05-25",
+    "id": 1,
+    "integrantes": [
+      "Duvan Samuel Carvajal",
+      "Andres Felipe Soler"
+    ],
+    "actividad": "Deploy PWA en parejas",
+    "url": "https://playbyte.vercel.app"
+  },
+  {
+    "nombreapp": "FBIApi",
+    "descripcion": "Una base de datos que te muestra informacion sobre los mas buscados del fbi y sus recompensas",
+    "icono": "https://cdn-icons-png.flaticon.com/128/5600/5600529.png",
+    "grupo": "viernes",
+    "fecha": "2026-05-25",
+    "id": 1,
+    "integrantes": [
+      "Duvan Samuel Carvajal"
+    ],
+    "actividad": "EXPO noSQL Individual",
+    "url": "https://drive.google.com/file/d/1mI3ccYexmg5XO1IznCOD1PgLfc4tsnuK/view?usp=drive_link"
   }
 ]
