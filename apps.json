@@ -739,7 +739,7 @@
   {
     "nombreapp": "AppleMusic-dashboard",
     "descripcion": "Replica de appleMusic",
-    "icono": "",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3159/3159066.png",
     "grupo": "jueves",
     "fecha": "2026-05-19",
     "id": 1,
@@ -748,7 +748,7 @@
       "samuel ramirez"
     ],
     "actividad": "dashboard-replica",
-    "url": ""
+    "url": "https://github.com/"
   },
   {
     "nombreapp": "musicStats",
@@ -761,7 +761,7 @@
       "samuel daza"
     ],
     "actividad": "pwa",
-    "url": ""
+    "url": "https://github.com/"
   },
   {
     "nombreapp": "Calculadora Avanzada",
@@ -1418,11 +1418,14 @@
     "nombreapp": "DisneyApi",
     "descripcion": "Aplicación para explorar personajes del universo Disney",
     "icono": "https://cdn-icons-png.flaticon.com/512/1010/1010115.png",
+    "grupo": "viernes",
     "fecha": "2026-04-24",
     "id": 1,
     "integrantes": [
       "Helen Yuliana Linares Caro"
-    ]
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://github.com/"
   },
   {
     "nombreapp": "SpaceX",
