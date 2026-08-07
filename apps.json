@@ -1,3 +1,45 @@
 [
-
+  {
+    "nombreapp": "Defuse",
+    "descripcion": "Este es un juego que consiste en una bomba el objetivo es desactivarla cortando uno de los 3 cables para desactivar el correcto se tiene que tener en cuenta la regla de esa partida y la advinanza que el juego arroja al contestar 5 veces seguidas correctamente ganas el juego",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3616/3616049.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Cristian andres de la rue",
+      "Ivan ricardo sterling",
+      "jaime antonio poveda"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1FNEG-5_IPLaqh3zQKlZjBBeJC0ghSxic/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "ApiPoema",
+    "descripcion": "Esta es una API creada para inspiracion y buscar un poema de tu gusto",
+    "icono": "https://cdn-icons-png.flaticon.com/512/75/75007.png",
+    "grupo": "viernes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "angie neiza",
+      "juliana tapias",
+      "tomas ortiz"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1AmkL6JzSig7iOV1F1QwKx3LDFshf6RhS/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "calcvite",
+    "descripcion": "Esta es una calculadora realizada con vite ",
+    "icono": "https://cdn-icons-png.flaticon.com/512/10310/10310245.png",
+    "grupo": "viernes",
+    "fecha": "2024-02-13",
+    "id": 1,
+    "integrantes": [
+      "Andres Lopez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
+  }
 ]
