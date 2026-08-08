@@ -1,0 +1,122 @@
+
+<style>
+.container { padding: 1.5rem 0; }
+.field-group { margin-bottom: 1rem; }
+label { display: block; font-size: 13px; color: var(--text-secondary); margin-bottom: 4px; }
+textarea, input { width: 100%; box-sizing: border-box; }
+#json-input { height: 220px; font-family: var(--font-mono); font-size: 13px; resize: vertical; }
+.result { border-radius: var(--radius); padding: 0.75rem 1rem; font-size: 13px; margin-top: 1rem; display: none; }
+.result.ok { background: var(--bg-success); color: var(--text-success); border: 0.5px solid var(--border-success); }
+.result.error { background: var(--bg-danger); color: var(--text-danger); border: 0.5px solid var(--border-danger); }
+.result.visible { display: block; }
+.error-list { margin: 4px 0 0 0; padding-left: 1.2rem; }
+.error-list li { margin-bottom: 2px; }
+.json-preview { background: var(--surface-1); border: 0.5px solid var(--border); border-radius: var(--radius); padding: 0.75rem 1rem; font-family: var(--font-mono); font-size: 12px; color: var(--text-secondary); margin-top: 0.75rem; white-space: pre-wrap; word-break: break-all; display: none; max-height: 180px; overflow-y: auto; }
+.json-preview.visible { display: block; }
+.btn-row { display: flex; gap: 8px; margin-top: 0.75rem; }
+.counter { font-size: 12px; color: var(--text-muted); margin-top: 4px; }
+</style>
+
+<div class="container">
+  <h2 style="font-size:18px; font-weight:500; margin:0 0 0.25rem;">Validador de objeto JSON</h2>
+  <p style="font-size:14px; color:var(--text-secondary); margin:0 0 1.5rem;">Pega tu objeto abajo antes de copiarlo al formulario.</p>
+
+  <div class="field-group">
+    <label>Objeto JSON</label>
+    <textarea id="json-input" placeholder='{&#10;  "nombreapp": "MiApp",&#10;  "descripcion": "...",&#10;  "icono": "https://...",&#10;  "grupo": "lunes",&#10;  "fecha": "2026-02-10",&#10;  "id": 1,&#10;  "integrantes": ["Ana López", "Juan Pérez"],&#10;  "actividad": "Primera Clase",&#10;  "url": "https://drive.google.com/file/d/..."&#10;}'></textarea>
+    <div class="counter" id="counter">0 caracteres</div>
+  </div>
+
+  <div class="btn-row">
+    <button onclick="validar()">Validar objeto</button>
+    <button onclick="limpiar()">Limpiar</button>
+  </div>
+
+  <div class="result" id="result"></div>
+  <div class="json-preview" id="preview"></div>
+</div>
+
+<script>
+const camposRequeridos = ["nombreapp","descripcion","icono","grupo","fecha","id","integrantes","actividad","url"];
+
+document.getElementById("json-input").addEventListener("input", function() {
+  document.getElementById("counter").textContent = this.value.length + " caracteres";
+  document.getElementById("result").className = "result";
+  document.getElementById("preview").className = "json-preview";
+});
+
+function validar() {
+  var texto = document.getElementById("json-input").value.trim();
+  var resultEl = document.getElementById("result");
+  var previewEl = document.getElementById("preview");
+  var errores = [];
+
+  if (!texto) {
+    mostrarError(["El campo está vacío."]);
+    previewEl.className = "json-preview";
+    return;
+  }
+
+  var objeto;
+  try {
+    objeto = JSON.parse(texto);
+  } catch(e) {
+    mostrarError(["JSON mal formado: " + e.message]);
+    previewEl.className = "json-preview";
+    return;
+  }
+
+  var faltantes = camposRequeridos.filter(function(c) { return !(c in objeto); });
+  if (faltantes.length > 0) {
+    errores.push("Faltan campos requeridos: " + faltantes.join(", "));
+  }
+
+  if ("integrantes" in objeto) {
+    if (!Array.isArray(objeto.integrantes)) {
+      errores.push("'integrantes' debe ser un arreglo [ ]");
+    } else if (objeto.integrantes.length === 0) {
+      errores.push("'integrantes' no puede estar vacío");
+    }
+  }
+
+  if ("url" in objeto && typeof objeto.url === "string") {
+    var esPWA = (objeto.actividad || "").toLowerCase().indexOf("pwa") !== -1;
+    if (!esPWA && objeto.url.indexOf("drive.google.com") === -1) {
+      errores.push("La URL debe ser de Google Drive (drive.google.com)");
+    }
+  }
+
+  if ("fecha" in objeto) {
+    var fechaReg = /^\d{4}-\d{2}-\d{2}$/.test(objeto.fecha);
+    if (!fechaReg) errores.push("'fecha' debe tener formato YYYY-MM-DD (ej: 2026-02-10)");
+  }
+
+  if (errores.length > 0) {
+    mostrarError(errores);
+    previewEl.className = "json-preview";
+  } else {
+    resultEl.className = "result ok visible";
+    resultEl.innerHTML = '<strong>Todo correcto</strong> — puedes copiar este objeto y pegarlo en el formulario.';
+    previewEl.className = "json-preview visible";
+    previewEl.textContent = JSON.stringify(objeto, null, 2);
+  }
+}
+
+function mostrarError(errores) {
+  var resultEl = document.getElementById("result");
+  resultEl.className = "result error visible";
+  if (errores.length === 1) {
+    resultEl.innerHTML = "<strong>Error:</strong> " + errores[0];
+  } else {
+    resultEl.innerHTML = "<strong>" + errores.length + " errores encontrados:</strong><ul class='error-list'>" +
+      errores.map(function(e) { return "<li>" + e + "</li>"; }).join("") + "</ul>";
+  }
+}
+
+function limpiar() {
+  document.getElementById("json-input").value = "";
+  document.getElementById("counter").textContent = "0 caracteres";
+  document.getElementById("result").className = "result";
+  document.getElementById("preview").className = "json-preview";
+}
+</script>
