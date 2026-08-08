@@ -68,5 +68,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/13FDNOs-mOKhsZP0QoYPFwtmzorlB8OGW/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Calculadora",
+    "descripcion": "App de retroalimentaci?n de las webviews",
+    "icono": "https://www.shutterstock.com/image-vector/cute-dark-gray-calculator-blue-600nw-2618023419.jpg",
+    "grupo": "viernes",
+    "fecha": "2024-11-15",
+    "id": 1,
+    "integrantes": [
+      "Juan David Sarmiento ",
+      "Juan David Mart?nez Ni?o"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1rAdkiR1i853NnWCl6JilxaTmFYyln8EJ/view?usp=drive_link"
   }
 ]
