@@ -81,19 +81,5 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/13FDNOs-mOKhsZP0QoYPFwtmzorlB8OGW/view?usp=drive_link"
-  },
-  {
-    "nombreapp": "NoiseMeter",
-    "descripcion": "Permite medir el nivel de ruido ambiental en tiempo real.",
-    "icono": "https://cdn-icons-png.flaticon.com/128/11836/11836093.png",
-    "grupo": "lunes",
-    "fecha": "2026-02-09",
-    "id": 1,
-    "integrantes": [
-      "Jes?s Fl?rez",
-      "Sergio Ramirez"
-    ],
-    "actividad": "Primera Clase",
-    "url": "https://drive.google.com/file/d/13FDNOs-mOKhsZP0QoYPFwtmzorlB8OGW/view?usp=drive_link"
   }
 ]
