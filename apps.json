@@ -41,5 +41,31 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "AdivinacionCard",
+    "descripcion": "Esta es una aplicaci?n de adivinar la pareja de cartas creada con HTML, CSS y JavaScript",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2533/2533982.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Samuel Daza11"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1zKI02c06CHRtbypdxcajbqjyoz6lLDlP/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "AdivinacionCard",
+    "descripcion": "Esta es una aplicaci?n de adivinar la pareja de cartas creada con HTML, CSS y JavaScript",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2533/2533982.png",
+    "grupo": "viernes",
+    "fecha": "2026-02-13",
+    "id": 1,
+    "integrantes": [
+      "Samuel Daza11"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1zKI02c06CHRtbypdxcajbqjyoz6lLDlP/view?usp=drive_link"
   }
 ]
