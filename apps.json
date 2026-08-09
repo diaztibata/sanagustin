@@ -216,5 +216,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1aco2eOI1niEEWfD9mNMx-QZEihut6l5h/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Quien soy?",
+    "descripcion": "juego interactivo para reuniones, quien soy? consiste en adivinar por medio de pistas que animal o personaje eres, ?gana quien adivine mas!",
+    "icono": "https://img.freepik.com/vector-gratis/silueta-signo-interrogacion-dibujada-mano_23-2150940534.jpg?semt=ais_hybrid&w=740&q=80",
+    "grupo": "Lunes",
+    "fecha": "2026-08-09",
+    "id": 17,
+    "integrantes": [
+      "Daniel Diaz Tibata"
+    ],
+    "actividad": "Capacitor-Expo",
+    "url": "https://drive.google.com/file/d/1jCjl-W778AR9IZGuCB_nTTTR8bTS4ofb/view?usp=drive_link"
   }
 ]
