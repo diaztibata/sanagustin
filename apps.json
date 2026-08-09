@@ -96,5 +96,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/125FaC3FaQEiwvK2ams8URDEqGnj2Sfru/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Alarma con Prop?sito",
+    "descripcion": "Simula una aplicaci?n de una alarma usand HTML, CSS y JavaScript, usando elementos visuales unicos",
+    "icono": "https://cdn-icons-png.flaticon.com/512/2972/2972531.png",
+    "grupo": "viernes",
+    "fecha": "2026-08-09",
+    "id": 7,
+    "integrantes": [
+      "Yesica Causado",
+      "Matias Ramirez"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/125FaC3FaQEiwvK2ams8URDEqGnj2Sfru/view?usp=drive_link"
   }
 ]
