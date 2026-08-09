@@ -123,5 +123,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1aco2eOI1niEEWfD9mNMx-QZEihut6l5h/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Calculadora Avanzada",
+    "descripcion": "Es la calculadora mas avanzada del siglo 21 (no realmente)",
+    "icono": "https://cdn-icons-png.flaticon.com/128/2374/2374370.png",
+    "grupo": "viernes",
+    "fecha": "2026-08-09",
+    "id": 9,
+    "integrantes": [
+      "Daniel Diaz Tibata"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1aco2eOI1niEEWfD9mNMx-QZEihut6l5h/view?usp=drive_link"
   }
 ]
