@@ -1,16 +1,15 @@
 [
   {
-    "nombreapp": "PlayByte",
-    "descripcion": "No sabes que jugar? aqui hay algunas opciones",
-    "icono": "https://cdn-icons-png.flaticon.com/128/2780/2780137.png",
+    "nombreapp": "FBIApi",
+    "descripcion": "Una base de datos que te muestra informacion sobre los mas buscados del fbi y sus recompensas",
+    "icono": "https://cdn-icons-png.flaticon.com/128/5600/5600529.png?hygu",
     "grupo": "viernes",
     "fecha": "2026-08-09",
     "id": 1,
     "integrantes": [
-      "Dañel Díaz",
-      "Andrés Muñoz Peña"
+      "Dañel Díaz"
     ],
-    "actividad": "PWA",
-    "url": "https://playbyte.vercel.app"
+    "actividad": "Expo noSQL Individual",
+    "url": "https://drive.google.com/file/d/1mI3ccYexmg5XO1IznCOD1PgLfc4tsnuK/view?usp=drive_link"
   }
 ]
