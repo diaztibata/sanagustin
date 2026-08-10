@@ -148,7 +148,7 @@ const TALLER = {
     }
   ],
   footer: {
-    note: "Documento de solo lectura · uso académico",
+    note: "Creado para mis estudiantes favoritos · Daniel Díaz Tibatá",
     count: null // se calcula en runtime
   }
 };
