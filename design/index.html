@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Taller · Psicología del Usuario y Leyes del Diseño</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#1c1b19;
+    --paper:#eef0eb;
+    --paper-2:#e2e5dc;
+    --line:#1c1b19;
+    --accent:#3d5a40;
+    --accent-2:#a84b2a;
+    --muted:#5c5c56;
+    --card:#f7f8f4;
+  }
+  *{box-sizing:border-box;}
+  html,body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Space Grotesk', sans-serif;
+  }
+  ::selection{ background: transparent; }
+
+  /* ===== BLOQUEO DE COPIA ===== */
+  .no-select{
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+  }
+  .protected{
+    position:relative;
+  }
+  .protected::after{
+    content:"";
+    position:absolute;
+    inset:0;
+    /* capa transparente que intercepta clics/arrastre de selección,
+       pero deja pasar el scroll y no bloquea inputs fuera de .protected */
+    background:transparent;
+    pointer-events:auto;
+  }
+  .protected, .protected *{
+    pointer-events:none;
+  }
+
+  header.hero{
+    border-bottom:3px solid var(--line);
+    background:
+      repeating-linear-gradient(135deg, rgba(28,27,25,0.035) 0 2px, transparent 2px 14px),
+      var(--paper);
+  }
+  .eyebrow{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.72rem;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    color:var(--accent-2);
+  }
+  .hero h1{
+    font-family:'Source Serif 4', serif;
+    font-weight:600;
+    font-size:clamp(2.1rem, 5vw, 3.4rem);
+    line-height:1.05;
+    letter-spacing:-.01em;
+  }
+  .hero .lede{
+    max-width:640px;
+    color:var(--muted);
+    font-size:1.05rem;
+  }
+  .stamp{
+    font-family:'IBM Plex Mono', monospace;
+    border:2px solid var(--line);
+    display:inline-flex;
+    align-items:center;
+    gap:.5rem;
+    padding:.45rem .9rem;
+    font-size:.78rem;
+    letter-spacing:.03em;
+    background:var(--card);
+    transform:rotate(-1.2deg);
+  }
+  .stamp .dot{
+    width:8px;height:8px;border-radius:50%;
+    background:var(--accent-2);
+    animation:pulse 1.6s infinite;
+  }
+  @keyframes pulse{
+    0%,100%{opacity:1;}
+    50%{opacity:.25;}
+  }
+
+  .lockbar{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.78rem;
+    background:var(--ink);
+    color:var(--paper);
+    letter-spacing:.02em;
+  }
+  .lockbar strong{ color:#e8c9b0; }
+
+  section.block{
+    border-bottom:1px solid rgba(28,27,25,.25);
+    padding-block:3.2rem;
+  }
+  section.block:nth-of-type(even){
+    background:var(--paper-2);
+  }
+
+  .block-index{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.75rem;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    color:var(--accent);
+    border-left:3px solid var(--accent);
+    padding-left:.6rem;
+  }
+  .block-title{
+    font-family:'Source Serif 4', serif;
+    font-weight:600;
+    font-size:clamp(1.5rem,3vw,2.1rem);
+    margin-top:.35rem;
+  }
+
+  .qcard{
+    background:var(--card);
+    border:1.5px solid var(--line);
+    box-shadow:5px 5px 0 rgba(28,27,25,.9);
+    padding:1.6rem 1.7rem;
+    height:100%;
+  }
+  .qnum{
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:600;
+    font-size:.85rem;
+    color:#fff;
+    background:var(--ink);
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    width:2rem;height:2rem;
+    margin-bottom:.85rem;
+  }
+  .qtext{ font-size:1rem; line-height:1.55; }
+  .qtext .sub{
+    margin-top:.6rem;
+    padding-left:1rem;
+    border-left:2px dashed var(--muted);
+    color:var(--muted);
+    font-size:.93rem;
+  }
+  .qtext ul{ margin-bottom:0; }
+  .tag{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.68rem;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+    border:1px solid var(--accent-2);
+    color:var(--accent-2);
+    padding:.1rem .5rem;
+    display:inline-block;
+    margin-bottom:.7rem;
+  }
+
+  footer{
+    background:var(--ink);
+    color:var(--paper);
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.8rem;
+  }
+  footer a{ color:#e8c9b0; }
+
+  #loading-veil{
+    position:fixed; inset:0; z-index:9999;
+    background:var(--paper);
+    display:flex; align-items:center; justify-content:center;
+    font-family:'IBM Plex Mono', monospace;
+    letter-spacing:.06em;
+  }
+  #loading-veil.hide{ display:none; }
+
+  @media print{
+    body::before{
+      content:"Contenido protegido — no disponible para impresión ni exportación.";
+      display:block;
+      text-align:center;
+      padding:4rem;
+      font-family:monospace;
+    }
+    header, section, footer{ display:none !important; }
+  }
+</style>
+</head>
+<body oncontextmenu="return false;" ondragstart="return false;">
+
+<div id="loading-veil"><span>cargando taller…</span></div>
+
+<div class="lockbar text-center py-2">
+  <strong>MODO LECTURA</strong> — copiar, seleccionar y pegar están deshabilitados en esta página. Trabajen a mano, en pareja, en hoja de examen.
+</div>
+
+<header class="hero py-5">
+  <div class="container">
+    <div class="d-flex flex-wrap justify-content-between align-items-start gap-3 mb-4">
+      <span class="eyebrow">Diseño de Experiencia de Usuario · Taller en pareja</span>
+      <span class="stamp"><span class="dot"></span> SOLO LECTURA</span>
+    </div>
+    <h1 id="hero-title" class="protected no-select"></h1>
+    <p id="hero-lede" class="lede protected no-select mt-3"></p>
+    <ul id="hero-meta" class="list-unstyled protected no-select mt-4 d-flex flex-wrap gap-4"></ul>
+  </div>
+</header>
+
+<main id="blocks-container"></main>
+
+<footer class="py-4">
+  <div class="container d-flex flex-wrap justify-content-between gap-2 protected no-select">
+    <span id="footer-note"></span>
+    <span id="footer-count"></span>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
+<script src="content.js"></script>
+<script src="protect.js"></script>
+</body>
+</html>
