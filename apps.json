@@ -1,3 +1,16 @@
 [
-
+  {
+    "nombreapp": "PlayByte",
+    "descripcion": "No sabes que jugar? aqui hay algunas opciones",
+    "icono": "https://cdn-icons-png.flaticon.com/128/2780/2780137.png",
+    "grupo": "viernes",
+    "fecha": "2026-08-09",
+    "id": 1,
+    "integrantes": [
+      "Dañel Díaz",
+      "Andrés Muñoz Peña"
+    ],
+    "actividad": "PWA",
+    "url": "https://playbyte.vercel.app"
+  }
 ]
