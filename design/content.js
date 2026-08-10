@@ -148,7 +148,7 @@ const TALLER = {
     }
   ],
   footer: {
-    note: "Creado para mis estudiantes favoritos · Daniel Díaz Tibatá",
+    note: "Daniel Díaz Tibatá · Creado para mis estudiantes favoritos",
     count: null // se calcula en runtime
   }
 };
