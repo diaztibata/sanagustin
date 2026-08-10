@@ -49,14 +49,12 @@ h1 {
 }
 
 
-.lunes .app-card,
-.martes .app-card,
+.jueves .app-card,
 .viernes .app-card {
     display: none;
 }
 
-.lunes .app-card.lunes,
-.martes .app-card.martes,
+.jueves .app-card.martes,
 .viernes .app-card.viernes {
     display: flex;
 }

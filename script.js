@@ -1,7 +1,7 @@
 const contenedor = document.getElementById("contenedor");
 
 function grupo(grupo){
-    contenedor.classList.remove("lunes", "martes", "viernes", "todos");
+    contenedor.classList.remove("jueves", "viernes", "todos");
     contenedor.classList.add(grupo)
 }
 
