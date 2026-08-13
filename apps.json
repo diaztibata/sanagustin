@@ -50,5 +50,20 @@
     ],
     "actividad": "web into app",
     "url": "https://drive.google.com/file/d/1rgLsBfYJsmELrT7fT4ltYl9VC6TzCEfe/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Casino RNV",
+    "descripcion": "Una ruleta de casino para apostar por negro o rojo",
+    "icono": "https://github.com/dullangrat768/Casino-Ruleta/blob/main/ruleta.png",
+    "grupo": "Jueves",
+    "fecha": "2026-08-13",
+    "id": 5,
+    "integrantes": [
+      "Jhan Sebastián Rivera Aguirre",
+      "Santiago Rojas",
+      "Santiago Jara Valbuena"
+    ],
+    "actividad": "WebintoApp Grupal",
+    "url": "https://drive.google.com/file/d/1HAHd7masNGH_OwQsyhBz8daT-PrTnTX9/view?usp=drive_link "
   }
 ]
