@@ -37,5 +37,18 @@
     ],
     "actividad": "WEBINTOAPP",
     "url": "https://drive.google.com/file/d/1hLxJ1DPfB6COdoUU8b_LDFaDblY53S3j/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "DescifraCodigo.apk",
+    "descripcion": "Un juego donde tienes que adivinar un codigo de 4 numeros en un periodo de tiempo",
+    "icono": "https://img.icons8.com/arcade/1200/lock-2.jpg",
+    "grupo": "Jueves",
+    "fecha": "2026-08-13",
+    "id": 4,
+    "integrantes": [
+      "Jhon Avila"
+    ],
+    "actividad": "web into app",
+    "url": "https://drive.google.com/file/d/1rgLsBfYJsmELrT7fT4ltYl9VC6TzCEfe/view?usp=drive_link"
   }
 ]
