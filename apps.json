@@ -95,5 +95,20 @@
     ],
     "actividad": "app movil",
     "url": "https://drive.google.com/file/d/1rNTjAmhseNxq-cssGcNh_T9BmVKQPLQ1/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "cazaestrellas",
+    "descripcion": "Es una aplicación que combina agilidad, destreza y concentración para poder cazar las estrellas y conseguir una buena puntuación.",
+    "icono": "https://png.pngtree.com/png-vector/20221118/ourlarge/pngtree-flat-vector-icon-of-trophy-cup-a-simple-symbol-of-victory-clean-and-crisp-white-illustration-on-black-background-vector-png-image_41015460.jpg",
+    "grupo": "jueves",
+    "fecha": "2026-08-13",
+    "id": 8,
+    "integrantes": [
+      "Samuel Angel Galindo",
+      "Juan Miguel Leal Silva",
+      "Andrés Felipe Vargas García"
+    ],
+    "actividad": "WebintoApp Grupal",
+    "url": "https://drive.google.com/file/d/1_TXrVfosmKvv4PjassuCTpLkfDb6bbUw/view?usp=drive_link"
   }
 ]
