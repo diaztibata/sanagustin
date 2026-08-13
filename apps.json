@@ -65,5 +65,20 @@
     ],
     "actividad": "WebintoApp Grupal",
     "url": "https://drive.google.com/file/d/1HAHd7masNGH_OwQsyhBz8daT-PrTnTX9/view?usp=drive_link "
+  },
+  {
+    "nombreapp": "¿Cuánto sabes sobre Naruto?",
+    "descripcion": "Aplicación web tipo quiz con preguntas sobre Naruto.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1181/1181922.png",
+    "grupo": "Jueves",
+    "fecha": "2026-08-13",
+    "id": 6,
+    "integrantes": [
+      "gabriel pino",
+      "Kent smith",
+      "jaime riaño"
+    ],
+    "actividad": "WEBINTOPAPP",
+    "url": "https://drive.google.com/file/d/1iLXNpRpbVpaYzIS2lEqo-NADOtKtHBIX/view?usp=drive_link"
   }
 ]
