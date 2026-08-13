@@ -11,5 +11,31 @@
     ],
     "actividad": "Webintoapp",
     "url": "https://drive.google.com/file/d/19CwZObrHMzQWzrsV0LmgLPCRTFbg0byz/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Global eyes",
+    "descripcion": "Reloj que te permite ver la hora en diferentes zonas horarias del mundo.",
+    "icono": "https://jjvasco007.github.io/RelojMundial/icon-256.png",
+    "grupo": "jueves",
+    "fecha": "2026-08-13",
+    "id": 2,
+    "integrantes": [
+      "Juan José Vasco"
+    ],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1GSPAYCCHmVuzraG3NBQ6rES_XXKulEuz/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Atrapa el objetivo",
+    "descripcion": "Juego que destreza donde se debe dar al objetivo las veces que mas se pueda antes que se agote el tiempo",
+    "icono": "https://cdn-icons-png.flaticon.com/512/555/555617.png",
+    "grupo": "jueves",
+    "fecha": "2026-08-13",
+    "id": 3,
+    "integrantes": [
+      "Alejandro Heredia"
+    ],
+    "actividad": "WEBINTOAPP",
+    "url": "https://drive.google.com/file/d/1hLxJ1DPfB6COdoUU8b_LDFaDblY53S3j/view?usp=drive_link"
   }
 ]
