@@ -1,15 +1,15 @@
 [
   {
-    "nombreapp": "FBIApi",
-    "descripcion": "Una base de datos que te muestra informacion sobre los mas buscados del fbi y sus recompensas",
-    "icono": "https://cdn-icons-png.flaticon.com/128/5600/5600529.png?hygu",
-    "grupo": "viernes",
-    "fecha": "2026-08-09",
+    "nombreapp": "ReflexTest",
+    "descripcion": "Juego en donde puedes probar la velocidad de tus reflejos",
+    "icono": "https://demalord.github.io/Relfex-Test/icon.png",
+    "grupo": "Jueves",
+    "fecha": "2026-08-13",
     "id": 1,
     "integrantes": [
-      "Dañel Díaz"
+      "Diego Esteban Mahecha Reyes"
     ],
-    "actividad": "Expo noSQL Individual",
-    "url": "https://drive.google.com/file/d/1mI3ccYexmg5XO1IznCOD1PgLfc4tsnuK/view?usp=drive_link"
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/19CwZObrHMzQWzrsV0LmgLPCRTFbg0byz/view?usp=drive_link"
   }
 ]
