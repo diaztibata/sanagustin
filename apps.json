@@ -80,5 +80,20 @@
     ],
     "actividad": "WEBINTOPAPP",
     "url": "https://drive.google.com/file/d/1iLXNpRpbVpaYzIS2lEqo-NADOtKtHBIX/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Cara o sello",
+    "descripcion": "una aplicacion con el objetivo de darnos a suerte cara o sello con diferentes opciones como 1, 2 o 3 monedas dependiendo tu gusto.",
+    "icono": "https://github.com/lango3-SB/cara-o-sello/blob/main/moneda.png",
+    "grupo": "jueves",
+    "fecha": "2026-08-13",
+    "id": 7,
+    "integrantes": [
+      "Santiago Forero Bejarano",
+      "Kevin Andrés Bernal rojas",
+      "Camilo Soto"
+    ],
+    "actividad": "app movil",
+    "url": "https://drive.google.com/file/d/1rNTjAmhseNxq-cssGcNh_T9BmVKQPLQ1/view?usp=drive_link"
   }
 ]
