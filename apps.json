@@ -192,5 +192,20 @@
     ],
     "actividad": "Webintoapp",
     "url": "https://drive.google.com/file/d/1ozG-jCmHNo6ZywS039lLb3flVI-ear3R/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Rompe el Código",
+    "descripcion": "Juego de memoria. La app muestra una secuencia de simbolos que se ilumina y el jugador debe repetirla en el mismo orden.",
+    "icono": "https://karollcastillo12-hub.github.io/rompe-el-codigo/rompe_el_codigo_icon_256.png",
+    "grupo": "Jueves",
+    "fecha": "2026-08-15",
+    "id": 15,
+    "integrantes": [
+      "Karoll Dayhan Castillo Ortiz",
+      "Yeison Fabian Maceto Huertas",
+      "Brayan Steven Largo Ramirez"
+    ],
+    "actividad": "webintoapp",
+    "url": "https://drive.google.com/file/d/159AiUsWYVT8iNEUOQje-UUMt6ke0_tYW/view"
   }
 ]
