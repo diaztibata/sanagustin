@@ -110,5 +110,18 @@
     ],
     "actividad": "WebintoApp Grupal",
     "url": "https://drive.google.com/file/d/1_TXrVfosmKvv4PjassuCTpLkfDb6bbUw/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Snake_Arcade",
+    "descripcion": "Juego en donde puedes guiar a la serpiente para que coma los objeto que aparecen al azar.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/2936/2936583.png",
+    "grupo": "viernes",
+    "fecha": "2026-08-14",
+    "id": 9,
+    "integrantes": [
+      "Sara Valeria Patarroyo Alba"
+    ],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1YDs8a_jLa4jILAJzElOS6IgK1nM8zP0F/view?usp=drive_link"
   }
 ]
