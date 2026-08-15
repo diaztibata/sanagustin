@@ -164,5 +164,19 @@
     ],
     "actividad": "Webintoapp",
     "url": "https://drive.google.com/file/d/13MN8oW9kLZhiZQ6SpXQN6Y017QlS8cJB/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Calcu",
+    "descripcion": "Hemos realizado una calculadora solo para personas pro",
+    "icono": "https://st2.depositphotos.com/7414010/12118/v/450/depositphotos_121182974-stock-illustration-calculator-vector-icon-in-flat.jpg",
+    "grupo": "Viernes",
+    "fecha": "2026-08-14",
+    "id": 13,
+    "integrantes": [
+      "Tomás Jerónimo Roa García",
+      "Yesica González Zambrano"
+    ],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1wUv3cIOz-HhZ9cVq3xuzdLfJnqpvxBzj/view?usp=drive_link"
   }
 ]
