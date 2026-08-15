@@ -178,5 +178,19 @@
     ],
     "actividad": "Webintoapp",
     "url": "https://drive.google.com/file/d/1wUv3cIOz-HhZ9cVq3xuzdLfJnqpvxBzj/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Dados de la Suerte",
+    "descripcion": "Juego de dados: tira dos dados animados con estilo de mesa de casino y trata de sacar tu mejor suma",
+    "icono": "https://static.vecteezy.com/system/resources/thumbnails/019/807/093/small_2x/dice-icon-casino-illustration-sign-excitement-symbol-passion-logo-vector.jpg",
+    "grupo": "Viernes",
+    "fecha": "2026-08-14",
+    "id": 14,
+    "integrantes": [
+      "Nicolas Alejandro Dorado Mirque",
+      "Santiago Castro"
+    ],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1ozG-jCmHNo6ZywS039lLb3flVI-ear3R/view?usp=drive_link"
   }
 ]
