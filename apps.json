@@ -123,5 +123,19 @@
     ],
     "actividad": "Webintoapp",
     "url": "https://drive.google.com/file/d/1YDs8a_jLa4jILAJzElOS6IgK1nM8zP0F/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Batalla naval",
+    "descripcion": "Deberás adivinar donde se encuentran los 3 barcos enemigos disparando máximo 12 veces",
+    "icono": "https://png.pngtree.com/png-clipart/20250514/original/pngtree-great-war-ship-png-image_20971789.png",
+    "grupo": "Viernes",
+    "fecha": "2026-08-14",
+    "id": 10,
+    "integrantes": [
+      "Eduar Camilo Toloza Ovalle",
+      "Andrea Valentina Moya Garcia"
+    ],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1Jfna629-nauqjlV1dtCoBGzh1eir6eUi/view?usp=drive_link"
   }
 ]
