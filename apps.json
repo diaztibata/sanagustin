@@ -137,5 +137,19 @@
     ],
     "actividad": "Webintoapp",
     "url": "https://drive.google.com/file/d/1Jfna629-nauqjlV1dtCoBGzh1eir6eUi/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "MascaraDeColores",
+    "descripcion": "Juego en donde debes memorizar la secuencia de colores",
+    "icono": "https://thumbs.dreamstime.com/b/bombilla-interior-del-cerebro-colorido-concepto-de-ideas-innovadoras-375947364.jpg",
+    "grupo": "Viernes",
+    "fecha": "2026-08-14",
+    "id": 11,
+    "integrantes": [
+      "Andres Pacheco",
+      "Sebastián Calderón"
+    ],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1nrq-Nl4VgaXH8o5wjby0IOItiijs2rdK/view?usp=drive_link"
   }
 ]
