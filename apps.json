@@ -331,5 +331,19 @@
     ],
     "actividad": "PWA",
     "url": "https://davidangelg-bot.github.io/pw-routinegym/"
+  },
+  {
+    "nombreapp": "DiarioPersonal",
+    "descripcion": "Graba tus ideas , pensamientos y tareas del dia a dia",
+    "icono": "https://github.com/GabrielPinoEducation/PWA/blob/main/sonido-de-onda.png",
+    "grupo": "jueves",
+    "fecha": "2026-08-20",
+    "id": 25,
+    "integrantes": [
+      "Gabriel Pino",
+      "Santiago Jara Valbuena"
+    ],
+    "actividad": "PWA",
+    "url": "https://gabrielpinoeducation.github.io/PWA/"
   }
 ]
