@@ -303,5 +303,19 @@
     ],
     "actividad": "PWA",
     "url": "https://kandres44.github.io/ConvertiX---Conversor-y-Calculadora/"
+  },
+  {
+    "nombreapp": "CRM Planner",
+    "descripcion": "PWA para crear, organizar y hacer seguimiento de campañas CRM.",
+    "icono": "https://img.icons8.com/fluency/512/marketing.png",
+    "grupo": "jueves",
+    "fecha": "2026-08-20",
+    "id": 23,
+    "integrantes": [
+      "Jaime Riaño",
+      "Ramses Daniel Vilchez Garcia"
+    ],
+    "actividad": "PWA",
+    "url": "https://andresjaimer-sys.github.io/crm-planner-pwa/"
   }
 ]
