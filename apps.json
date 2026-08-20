@@ -248,5 +248,19 @@
     "actividad": "PWA",
     "url": "https://karollcastillo12-hub.github.io/pwa-habitos/",
     "icono": "https://github.com/karollcastillo12-hub/pwa-habitos/blob/main/icon-192.png"
+  },
+  {
+    "nombreapp": "Snake game",
+    "descripcion": " es un juego de serpiente",
+    "icono": "https://cdn-icons-png.flaticon.com/512/427/427533.png",
+    "grupo": "Jueves ",
+    "fecha": "2026-08-20",
+    "id": 19,
+    "integrantes": [
+      "Kent smith",
+      "Santiago Rojas"
+    ],
+    "actividad": "PWA",
+    "url": "https://2d-dub.github.io/PWA---snake/"
   }
 ]
