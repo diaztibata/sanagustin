@@ -345,5 +345,19 @@
     ],
     "actividad": "PWA",
     "url": "https://gabrielpinoeducation.github.io/PWA/"
+  },
+  {
+    "nombreapp": "Lista de Tareas",
+    "descripcion": "lista de tareas, que ayuda a marcar como pendiente o completados los objetivos del día, mostrando la cantidade tareas completadas y el porcentaje de progreso ",
+    "icono": "https://github.com/juancardonat-stack/Mi-lista-tareas/blob/main/1000212253.jpeg",
+    "grupo": "jueves",
+    "fecha": "2026-08-20",
+    "id": 26,
+    "integrantes": [
+      "Ramses Daniel Vilchez García",
+      "Juan Diego Cardona Torres"
+    ],
+    "actividad": "webintoapp",
+    "url": "https://drive.google.com/file/d/1W9w2Ii6pcjHOIzdNHeIdHl2iQwQK9PHa/view?usp=drivesdk"
   }
 ]
