@@ -207,5 +207,19 @@
     ],
     "actividad": "webintoapp",
     "url": "https://drive.google.com/file/d/159AiUsWYVT8iNEUOQje-UUMt6ke0_tYW/view"
+  },
+  {
+    "nombreapp": "Reto un minuto",
+    "descripcion": "descifra preguntas para obtener un puntaje y record",
+    "icono": "https://w7.pngwing.com/pngs/986/255/png-transparent-a-year-of-riddles-a-long-year-of-riddles-another-year-of-riddles-human-resource-machine-riddles-and-answers-puzzles-android.png",
+    "grupo": "jueves",
+    "fecha": "2026-08-20",
+    "id": 16,
+    "integrantes": [
+      "Jhon Avila",
+      "Santiago Forero Bejarano"
+    ],
+    "actividad": "PWA",
+    "url": "https://jhon-av18.github.io/RETO-DEL-MIN/"
   }
 ]
