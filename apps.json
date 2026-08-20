@@ -289,5 +289,19 @@
     ],
     "actividad": "PWA",
     "url": "https://xstven.github.io/PWA-Piedra-papel-o-tijera/"
+  },
+  {
+    "nombreapp": "ConvertiX",
+    "descripcion": "Calculadora de unidades, conversion de valores y calculo de imc",
+    "icono": "https://cdn-icons-png.flaticon.com/512/921/921490.png",
+    "grupo": "jueves",
+    "fecha": "2026-08-20",
+    "id": 22,
+    "integrantes": [
+      "Kevin Andrés Bernal rojas",
+      "Alejandro Heredia"
+    ],
+    "actividad": "PWA",
+    "url": "https://kandres44.github.io/ConvertiX---Conversor-y-Calculadora/"
   }
 ]
