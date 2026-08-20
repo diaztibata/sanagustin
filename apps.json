@@ -221,5 +221,18 @@
     ],
     "actividad": "PWA",
     "url": "https://jhon-av18.github.io/RETO-DEL-MIN/"
+  },
+  {
+    "nombreapp": "Mi tamagotchi",
+    "descripcion": "Cuida a un pollito",
+    "icono": "https://cdn-icons-png.flaticon.com/512/10157/10157126.png",
+    "grupo": "jueves",
+    "fecha": "2026-08-20",
+    "id": 17,
+    "integrantes": [
+      "Jhan Sebastián Rivera Aguirre"
+    ],
+    "actividad": "PWA",
+    "url": "https://camilom41.github.io/pwamambo/"
   }
 ]
