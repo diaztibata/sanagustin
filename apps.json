@@ -262,5 +262,19 @@
     ],
     "actividad": "PWA",
     "url": "https://2d-dub.github.io/PWA---snake/"
+  },
+  {
+    "nombreapp": "Pokédex GO",
+    "descripcion": "pokedex para encontrar mas facilmente estadisticas y datos de pokemones, se pueden capturar y añadir a favoritos",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/5/51/Pokebola-pokeball-png-0.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+    "grupo": "jueves",
+    "fecha": "2026-08-20",
+    "id": 20,
+    "integrantes": [
+      "Camilo Soto",
+      "Juan Diego Cardona Torres"
+    ],
+    "actividad": "PWA",
+    "url": "https://camilolango3.github.io/pwa-pokemon/"
   }
 ]
