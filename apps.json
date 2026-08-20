@@ -317,5 +317,19 @@
     ],
     "actividad": "PWA",
     "url": "https://andresjaimer-sys.github.io/crm-planner-pwa/"
+  },
+  {
+    "nombreapp": "GymTracker PWA",
+    "descripcion": "Aplicación web progresiva para el seguimiento de rutinas de gimnasio.",
+    "icono": "https://images.vexels.com/media/users/3/132664/isolated/preview/46184dd3b3be1c184613798d0e9acdd9-silueta-de-levantamiento-de-pesas-1.png",
+    "grupo": "jueves",
+    "fecha": "2026-08-20",
+    "id": 24,
+    "integrantes": [
+      "Samuel Angel Galindo",
+      "Andrés Felipe Vargas García"
+    ],
+    "actividad": "PWA",
+    "url": "https://davidangelg-bot.github.io/pw-routinegym/"
   }
 ]
