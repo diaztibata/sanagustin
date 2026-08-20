@@ -234,5 +234,19 @@
     ],
     "actividad": "PWA",
     "url": "https://camilom41.github.io/pwamambo/"
+  },
+  {
+    "nombreapp": "Hábitos+",
+    "descripcion": "creador de Hábitos saludables.",
+    "grupo": "Jueves",
+    "fecha": "2026-08-20",
+    "id": 18,
+    "integrantes": [
+      "Juan Miguel Leal Silva",
+      "Karoll Dayhan Castillo Ortiz"
+    ],
+    "actividad": "PWA",
+    "url": "https://karollcastillo12-hub.github.io/pwa-habitos/",
+    "icono": "https://github.com/karollcastillo12-hub/pwa-habitos/blob/main/icon-192.png"
   }
 ]
