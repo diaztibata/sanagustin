@@ -359,5 +359,18 @@
     ],
     "actividad": "webintoapp",
     "url": "https://drive.google.com/file/d/1W9w2Ii6pcjHOIzdNHeIdHl2iQwQK9PHa/view?usp=drivesdk"
+  },
+  {
+    "nombreapp": "trikon",
+    "descripcion": "el triki mas chimba",
+    "icono": "https://cdn-icons-png.flaticon.com/256/2911/2911080.png",
+    "grupo": "viernes",
+    "fecha": "2026-08-21",
+    "id": 27,
+    "integrantes": [
+      "Juan Diego Triana Vargas"
+    ],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1e5ZZUXzPKwwlzpe7ZSOovmDj8msmnDRD/view?usp=drive_link"
   }
 ]
