@@ -372,5 +372,19 @@
     ],
     "actividad": "Webintoapp",
     "url": "https://drive.google.com/file/d/1e5ZZUXzPKwwlzpe7ZSOovmDj8msmnDRD/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Triquix",
+    "descripcion": "Juego que demuestra las capacidades de los jugadores a vencerse en triqui",
+    "icono": "https://demalord.github.io/Relfex-Test/icon.png",
+    "grupo": "Viernes",
+    "fecha": "2026-08-28",
+    "id": 28,
+    "integrantes": [
+      "Tomás Jerónimo Roa García",
+      "Nicolas Alejandro Dorado Mirque"
+    ],
+    "actividad": "PWA",
+    "url": "https://tomytony68.github.io/Triqui/"
   }
 ]
