@@ -386,5 +386,19 @@
     ],
     "actividad": "PWA",
     "url": "https://tomytony68.github.io/Triqui/"
+  },
+  {
+    "nombreapp": "tikitiki",
+    "descripcion": "Juego de tic-tac para jugar con un amigo",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1021/1021366.png",
+    "grupo": "viernes",
+    "fecha": "2026-08-28",
+    "id": 29,
+    "integrantes": [
+      "David Alejandro Castro Lozada",
+      "Manuel Felipe Marín Rodríguez"
+    ],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1iZuPxZzOf7VztK8FBuhiWjBO-89QHq20/view?usp=drive_link"
   }
 ]
