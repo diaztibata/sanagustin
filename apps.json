@@ -400,5 +400,18 @@
     ],
     "actividad": "Webintoapp",
     "url": "https://drive.google.com/file/d/1iZuPxZzOf7VztK8FBuhiWjBO-89QHq20/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Calculadora Costos",
+    "descripcion": "Calculadora de ingresos y gastos mensuales para llevar el control del dinero",
+    "icono": "https://cdn-icons-png.flaticon.com/128/2108/2108625.png",
+    "grupo": "Viernes",
+    "fecha": "2026-08-28",
+    "id": 30,
+    "integrantes": [
+      "Eduar Camilo Toloza Ovalle"
+    ],
+    "actividad": "PWA",
+    "url": "https://eduartolozao-web.github.io/TPAM-28082026/"
   }
 ]
