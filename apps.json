@@ -413,5 +413,19 @@
     ],
     "actividad": "PWA",
     "url": "https://eduartolozao-web.github.io/TPAM-28082026/"
+  },
+  {
+    "nombreapp": "triviax",
+    "descripcion": "juego de preguntas de futbol",
+    "icono": "https://cdn-icons-png.flaticon.com/512/5691/5691719.png",
+    "grupo": "viernes",
+    "fecha": "2026-08-28",
+    "id": 31,
+    "integrantes": [
+      "Juan Diego Triana Vargas",
+      "Andres Pacheco"
+    ],
+    "actividad": "pwa",
+    "url": "https://chirrixxx.github.io/pwa-triviax/"
   }
 ]
