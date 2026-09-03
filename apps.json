@@ -427,5 +427,19 @@
     ],
     "actividad": "pwa",
     "url": "https://chirrixxx.github.io/pwa-triviax/"
+  },
+  {
+    "nombreapp": "FlutterFlow",
+    "descripcion": "Punto 2 flutterflow",
+    "icono": "https://png.pngtree.com/png-clipart/20250201/original/pngtree-store-icon-for-shopping-on-computer-png-image_20169551.png",
+    "grupo": "jueves",
+    "fecha": "2026-09-03",
+    "id": 32,
+    "integrantes": [
+      "Karoll Dayhan Castillo Ortiz",
+      "Jhon Avila"
+    ],
+    "actividad": "FlutterFlow",
+    "url": "https://drive.google.com/file/d/1ZyESbB6CxX7AdH8XPtMrceKFkWBC-rHn/view?usp=drive_link"
   }
 ]
