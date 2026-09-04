@@ -455,5 +455,19 @@
     ],
     "actividad": "#1 flutterflow",
     "url": "https://drive.google.com/file/d/1qiX7UnFLBdFnyOgS4e1BtM4YZlZLxO6c/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Layout Personalizado",
+    "descripcion": "Trabajo #2 de flutterflow",
+    "icono": "https://keepcoding.io/wp-content/uploads/2024/07/tML8CA1M_400x400.jpg",
+    "grupo": "jueves",
+    "fecha": "2026-09-03",
+    "id": 34,
+    "integrantes": [
+      "Camilo Soto",
+      "Juan José Vasco"
+    ],
+    "actividad": "#2 flutterflow",
+    "url": "https://drive.google.com/file/d/1ta0epY2-TlWV8TpZgWgsEp2K4VH1mto1/view?usp=drive_link"
   }
 ]
