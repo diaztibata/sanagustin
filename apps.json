@@ -441,5 +441,19 @@
     ],
     "actividad": "FlutterFlow",
     "url": "https://drive.google.com/file/d/1ZyESbB6CxX7AdH8XPtMrceKFkWBC-rHn/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Inicio Rapido",
+    "descripcion": "Trabajo #1 de flutterflow",
+    "icono": "https://keepcoding.io/wp-content/uploads/2024/07/tML8CA1M_400x400.jpg",
+    "grupo": "jueves",
+    "fecha": "2026-09-03",
+    "id": 33,
+    "integrantes": [
+      "Camilo Soto",
+      "Juan José Vasco"
+    ],
+    "actividad": "#1 flutterflow",
+    "url": "https://drive.google.com/file/d/1qiX7UnFLBdFnyOgS4e1BtM4YZlZLxO6c/view?usp=drive_link"
   }
 ]
