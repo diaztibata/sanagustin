@@ -469,5 +469,19 @@
     ],
     "actividad": "#2 flutterflow",
     "url": "https://drive.google.com/file/d/1ta0epY2-TlWV8TpZgWgsEp2K4VH1mto1/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Poteca GYM",
+    "descripcion": "App de rutinas de Gimnasio realizada en FlutterFlow",
+    "icono": "https://github.com/GabrielPinoEducation/githubbase/blob/main/Screenshot%202026-09-03%20205303.png?raw=true",
+    "grupo": "Jueves",
+    "fecha": "2026-09-03",
+    "id": 35,
+    "integrantes": [
+      "Gabriel Pino",
+      "Jefferson Camilo Marroquin mogollon"
+    ],
+    "actividad": "FlutterFlow",
+    "url": "https://drive.google.com/file/d/1vuBhmfjBRGSHPtlvSNKZgHuouOLhEa5-/view?usp=drive_link"
   }
 ]
