@@ -483,5 +483,18 @@
     ],
     "actividad": "FlutterFlow",
     "url": "https://drive.google.com/file/d/1vuBhmfjBRGSHPtlvSNKZgHuouOLhEa5-/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Memory",
+    "descripcion": "Juego de memoria",
+    "icono": "https://demalord.github.io/Relfex-Test/icon.png",
+    "grupo": "Viernes",
+    "fecha": "2026-09-04",
+    "id": 36,
+    "integrantes": [
+      "Luis Eduardo Bareno Suescun"
+    ],
+    "actividad": "PWA",
+    "url": "https://luisbarenos-hub.github.io/PWA-RA/"
   }
 ]
