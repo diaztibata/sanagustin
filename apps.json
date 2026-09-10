@@ -769,5 +769,18 @@
     ],
     "actividad": "webview",
     "url": "https://drive.google.com/file/d/1RtkNw4toQXEbIgdejv0h_6rzg034wImS/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Nummi",
+    "descripcion": "Finanzas Personales",
+    "icono": "https://nummi-nummi.web.app/logo_V.png",
+    "grupo": "jueves",
+    "fecha": "2026-09-10",
+    "id": 57,
+    "integrantes": [
+      "Diego Esteban Mahecha Reyes"
+    ],
+    "actividad": "webview",
+    "url": "https://drive.google.com/file/d/12ZgK4xlbMBgpmdtRxUldnOlgdPYnbFgm/view?usp=drive_link"
   }
 ]
