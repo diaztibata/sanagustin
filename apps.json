@@ -580,5 +580,18 @@
     ],
     "actividad": "FlutterFlow",
     "url": "https://drive.google.com/file/d/1oSotJJREViAdpivnIs2MJmpUBpVZMw47/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Grandline",
+    "descripcion": "juego de taps en la pantalla",
+    "icono": "https://images.seeklogo.com/logo-png/62/1/naruto-logo-png_seeklogo-620647.png",
+    "grupo": "jueves",
+    "fecha": "2026-09-10",
+    "id": 43,
+    "integrantes": [
+      "Jhon Avila"
+    ],
+    "actividad": "Splash",
+    "url": "https://drive.google.com/file/d/1OXjkBMtQRoiVkj4hjeuseEYvIrIlPGHy/view?usp=drive_link"
   }
 ]
