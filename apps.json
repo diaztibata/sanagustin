@@ -689,5 +689,18 @@
     ],
     "actividad": "FLUTTERFLOW",
     "url": "https://drive.google.com/file/d/1N2cFeZh_YoLofP3V250h2F23Dnr6Eem4/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "OPCAT",
+    "descripcion": "Trabajo de Flutterflow de modificación de layout.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/6988/6988878.png",
+    "grupo": "Jueves",
+    "fecha": "2026-09-10",
+    "id": 51,
+    "integrantes": [
+      "Santiago Jara Valbuena"
+    ],
+    "actividad": "FLUTTERFLOW",
+    "url": "https://drive.google.com/file/d/1D9hDCbp7e5qKJnNt_PVP8lJBa0FModlz/view?usp=drive_link"
   }
 ]
