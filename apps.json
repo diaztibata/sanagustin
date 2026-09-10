@@ -796,5 +796,19 @@
     ],
     "actividad": "Taller de aplicación original con Expo",
     "url": "https://drive.google.com/file/d/1W3FiWlZr8K-Eui0lTtXDOA3VNiLIvS5G/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Flashcard App",
+    "descripcion": "Aplicacion de FlashCard para aprender ingles",
+    "icono": "https://raw.githubusercontent.com/GabrielPinoEducation/Parcial-appM2026/refs/heads/main/libro.png",
+    "grupo": "jueves",
+    "fecha": "2026-09-10",
+    "id": 59,
+    "integrantes": [
+      "Juan Diego Cardona Torres",
+      "Gabriel Pino"
+    ],
+    "actividad": "Parcial",
+    "url": "https://drive.google.com/file/d/1RMw6iDttWCwTWKmLEs08ZisAkqEWLVck/view."
   }
 ]
