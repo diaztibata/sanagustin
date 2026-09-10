@@ -524,5 +524,19 @@
     ],
     "actividad": "PWA",
     "url": "https://jjvasco007.github.io/DeCoCoins/"
+  },
+  {
+    "nombreapp": "TintaVizu2",
+    "descripcion": "App que genera paletas de colores aleatorias y muestra su código hexadecimal.",
+    "icono": "https://github.com/karollcastillo12-hub/Paleta/blob/main/Icon_tintavizu2.png?raw=true",
+    "grupo": "jueves",
+    "fecha": "2026-09-09",
+    "id": 39,
+    "integrantes": [
+      "Camilo Soto",
+      "Karoll Dayhan Castillo Ortiz"
+    ],
+    "actividad": "WebView APK",
+    "url": "https://drive.google.com/file/d/11a9bEyUB3caRdA9I7CUMB4oK91ZOsD_l/view"
   }
 ]
