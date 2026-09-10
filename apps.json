@@ -634,5 +634,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1IqybbL8gDUrRVkgFLv_VDhW0S8-sy_jk/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Japan Box",
+    "descripcion": "Aplicación para descubrir y comprar cajas con snacks, dulces y sabores japoneses.",
+    "icono": "https://img.icons8.com/color/512/bento.png",
+    "grupo": "jueves",
+    "fecha": "2026-09-10",
+    "id": 47,
+    "integrantes": [
+      "Jaime Riaño",
+      "Juan Diego Cardona Torres"
+    ],
+    "actividad": "Desarrollo de aplicación móvil en FlutterFlow",
+    "url": "https://drive.google.com/file/d/1ejbW-hhxDVnkGF01YPBFvjxfrP1ozH5-/view?usp=drive_link"
   }
 ]
