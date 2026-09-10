@@ -824,5 +824,19 @@
     ],
     "actividad": "Webview",
     "url": "https://drive.google.com/file/d/1eoCtBiZerOQCjdwE9Ckd9wJFKdJ4krGN/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Dateday",
+    "descripcion": "aplicacion para mirar que paises estan de dia",
+    "icono": "https://cdn-icons-png.flaticon.com/512/646/646082.png",
+    "grupo": "jueves",
+    "fecha": "2026-09-10",
+    "id": 61,
+    "integrantes": [
+      "Samuel Angel Galindo",
+      "Alejandro Heredia"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1OAatyfIgITiST9maOjsvdfSBiaXqNWGZ/view?usp=drive_link"
   }
 ]
