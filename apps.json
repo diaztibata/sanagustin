@@ -852,5 +852,19 @@
     ],
     "actividad": "parcial",
     "url": "https://drive.google.com/file/d/1efKqb1rxMtpVMEE0qixSt-fu8L9eeLGp/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Catalogo Minecraft",
+    "descripcion": "Es un catalogo que tiene todo relacionado con minecraft",
+    "icono": "https://thumbs.dreamstime.com/b/ejemplo-del-vector-cubo-de-minecraft-138073656.jpg",
+    "grupo": "Jueves",
+    "fecha": "2026-09-10",
+    "id": 63,
+    "integrantes": [
+      "Santiago Rojas",
+      "Santiago Jara Valbuena"
+    ],
+    "actividad": "Parcial",
+    "url": "https://drive.google.com/file/d/1zFwlZNTTVMKFadC0kB86cBzoK8-fP_P6/view?usp=drive_link"
   }
 ]
