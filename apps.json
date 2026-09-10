@@ -648,5 +648,19 @@
     ],
     "actividad": "Desarrollo de aplicación móvil en FlutterFlow",
     "url": "https://drive.google.com/file/d/1ejbW-hhxDVnkGF01YPBFvjxfrP1ozH5-/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "kratos",
+    "descripcion": " Es un flutter flow de kratos",
+    "icono": "https://i.postimg.cc/MHzqdXD7/naruto.png",
+    "grupo": "Jueves",
+    "fecha": "2026-09-10",
+    "id": 48,
+    "integrantes": [
+      "Jhan Sebastián Rivera Aguirre",
+      "Kent smith"
+    ],
+    "actividad": "FLUTTERFLOW",
+    "url": "https://drive.google.com/file/d/12EXI_mRGltB2vRHrtJMkpdmQ3bjA1pW8/view?usp=drive_link"
   }
 ]
