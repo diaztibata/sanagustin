@@ -510,5 +510,19 @@
     ],
     "actividad": "React + Android Studio",
     "url": "https://drive.google.com/file/d/1KDvd9Ki_k0cLHZhleDJ13TyYKrhvSRBd/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "DeCocoins",
+    "descripcion": "Conversor de divisas",
+    "icono": "https://img.icons8.com/color/96/000000/us-dollar-circled--v2.png",
+    "grupo": "jueves",
+    "fecha": "2026-09-09",
+    "id": 38,
+    "integrantes": [
+      "Juan José Vasco",
+      "Diego Esteban Mahecha Reyes"
+    ],
+    "actividad": "PWA",
+    "url": "https://jjvasco007.github.io/DeCoCoins/"
   }
 ]
