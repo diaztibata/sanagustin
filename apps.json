@@ -782,5 +782,19 @@
     ],
     "actividad": "webview",
     "url": "https://drive.google.com/file/d/12ZgK4xlbMBgpmdtRxUldnOlgdPYnbFgm/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "AhorraYa",
+    "descripcion": "Aplicación móvil para registrar ingresos, controlar gastos, organizar presupuestos y alcanzar metas de ahorro.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+    "grupo": "Jueves",
+    "fecha": "2026-09-10",
+    "id": 58,
+    "integrantes": [
+      "Jaime Riaño",
+      "Jhan Sebastián Rivera Aguirre"
+    ],
+    "actividad": "Taller de aplicación original con Expo",
+    "url": "https://drive.google.com/file/d/1W3FiWlZr8K-Eui0lTtXDOA3VNiLIvS5G/view?usp=drive_link"
   }
 ]
