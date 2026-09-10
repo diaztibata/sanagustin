@@ -662,5 +662,19 @@
     ],
     "actividad": "FLUTTERFLOW",
     "url": "https://drive.google.com/file/d/12EXI_mRGltB2vRHrtJMkpdmQ3bjA1pW8/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "layout 2",
+    "descripcion": "pagina web altamente elabora con requisitos pedidos por el profesor querido, muchas gracias",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/8/86/Layout_content.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "grupo": "jueves",
+    "fecha": "2026-09-10",
+    "id": 49,
+    "integrantes": [
+      "Juan Miguel Leal Silva",
+      "Andrés Felipe Vargas García"
+    ],
+    "actividad": "layout :)",
+    "url": "https://drive.google.com/file/d/16k7RmfiJLwJ6OjE_58FY-00cHQEChPnL/view?usp=drive_link"
   }
 ]
