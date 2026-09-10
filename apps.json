@@ -538,5 +538,19 @@
     ],
     "actividad": "WebView APK",
     "url": "https://drive.google.com/file/d/11a9bEyUB3caRdA9I7CUMB4oK91ZOsD_l/view"
+  },
+  {
+    "nombreapp": "Doom",
+    "descripcion": " Es una copia barata de doom",
+    "icono": "https://cdn.discordapp.com/attachments/1307540286678892607/1547456231726256168/R.jpg?ex=6aa37c6b&is=6aa22aeb&hm=fa2848bcac254abca4643f80d9e5a4177ed200568c3e5291e944696eb02d759c&",
+    "grupo": "Jueves",
+    "fecha": "2026-09-09",
+    "id": 40,
+    "integrantes": [
+      "Kent smith",
+      "Juan Diego Cardona Torres"
+    ],
+    "actividad": "PWA",
+    "url": "https://drive.google.com/file/d/1ohLcZNx9VAxayQFRjBlOWdZT5vthMd5Q/view?usp=drive_link"
   }
 ]
