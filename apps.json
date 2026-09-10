@@ -566,5 +566,19 @@
     ],
     "actividad": "Aplicación WebView desarrollada con React y Android Studio",
     "url": "https://drive.google.com/file/d/18qRa3ulBebBWdtrgfoz9itsQMwUTntfF/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "GymTrack",
+    "descripcion": "Aplicación para el seguimiento y control de entrenamientos de gimnasio",
+    "icono": "https://icons.iconarchive.com/icons/pictogrammers/material/128/dumbbell-icon.png",
+    "grupo": "Jueves",
+    "fecha": "2026-09-10",
+    "id": 42,
+    "integrantes": [
+      "Ramses Daniel Vilchez Garcia",
+      "Kevin Andrés Bernal Rojas"
+    ],
+    "actividad": "FlutterFlow",
+    "url": "https://drive.google.com/file/d/1oSotJJREViAdpivnIs2MJmpUBpVZMw47/view?usp=drive_link"
   }
 ]
