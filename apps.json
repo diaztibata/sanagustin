@@ -496,5 +496,19 @@
     ],
     "actividad": "PWA",
     "url": "https://luisbarenos-hub.github.io/PWA-RA/"
+  },
+  {
+    "nombreapp": "Spidey-Tracker",
+    "descripcion": "Aplicación para rastrear avistamientos de Spiderman en la ciudad.",
+    "icono": "https://github.com/DevGabrx/SpideyTracker/blob/main/Spidey-Tracker/spidey-tracker-logo.jpeg",
+    "grupo": "jueves",
+    "fecha": "2026-09-09",
+    "id": 37,
+    "integrantes": [
+      "Gabriel Pino",
+      "Jhan Sebastián Rivera Aguirre"
+    ],
+    "actividad": "React + Android Studio",
+    "url": "https://drive.google.com/file/d/1KDvd9Ki_k0cLHZhleDJ13TyYKrhvSRBd/view?usp=drive_link"
   }
 ]
