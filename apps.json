@@ -606,5 +606,19 @@
     ],
     "actividad": "Nombre de la actividad",
     "url": "https://drive.google.com/file/d/1NtD6vMXORtdqTCVt897pI0N5Axbdk1kD/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Bolsillo+",
+    "descripcion": "App para manejar ingresos y gastos",
+    "icono": "https://github.com/Kandres44/Bolsillo/blob/main/1%20imagen.png",
+    "grupo": "jueves",
+    "fecha": "2026-09-10",
+    "id": 45,
+    "integrantes": [
+      "Kevin Andrés Bernal rojas",
+      "Andrés Felipe Vargas García"
+    ],
+    "actividad": "Webview",
+    "url": "https://drive.google.com/file/d/1HwU4sMCYPPjmaXTvyEw_lU60w2Yghz5K/view"
   }
 ]
