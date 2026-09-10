@@ -676,5 +676,18 @@
     ],
     "actividad": "layout :)",
     "url": "https://drive.google.com/file/d/16k7RmfiJLwJ6OjE_58FY-00cHQEChPnL/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Quickstart Clase",
+    "descripcion": "Trabajo de Flutterflow para aprendizaje.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1458/1458975.png",
+    "grupo": "Jueves",
+    "fecha": "2026-09-10",
+    "id": 50,
+    "integrantes": [
+      "Santiago Jara Valbuena"
+    ],
+    "actividad": "FLUTTERFLOW",
+    "url": "https://drive.google.com/file/d/1N2cFeZh_YoLofP3V250h2F23Dnr6Eem4/view?usp=drive_link"
   }
 ]
