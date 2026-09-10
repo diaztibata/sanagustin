@@ -838,5 +838,19 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1OAatyfIgITiST9maOjsvdfSBiaXqNWGZ/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "fogata",
+    "descripcion": "guia de supervivencia",
+    "icono": "https://cdn-icons-png.flaticon.com/512/12388/12388740.png",
+    "grupo": "jueves",
+    "fecha": "2026-09-10",
+    "id": 62,
+    "integrantes": [
+      "Jefferson Camilo Marroquin mogollon",
+      "Diego Esteban Mahecha Reyes"
+    ],
+    "actividad": "parcial",
+    "url": "https://drive.google.com/file/d/1efKqb1rxMtpVMEE0qixSt-fu8L9eeLGp/view?usp=drive_link"
   }
 ]
