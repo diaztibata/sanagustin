@@ -755,5 +755,19 @@
     ],
     "actividad": "React Native y Expo",
     "url": "https://drive.google.com/file/d/1dpj4063E-j86UnnA9yi4vo3njcgzFxmT/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Golfit",
+    "descripcion": "Golfito",
+    "icono": "https://cdn-icons-png.flaticon.com/512/39/39675.png",
+    "grupo": "jueves",
+    "fecha": "2026-09-10",
+    "id": 56,
+    "integrantes": [
+      "Santiago Rojas",
+      "Jefferson Camilo Marroquin mogollon"
+    ],
+    "actividad": "webview",
+    "url": "https://drive.google.com/file/d/1RtkNw4toQXEbIgdejv0h_6rzg034wImS/view?usp=drive_link"
   }
 ]
