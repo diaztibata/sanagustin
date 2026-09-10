@@ -728,5 +728,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/121-MFY5KuBqVOeaqSdHgCBNkltbPwAhG/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "RazasApp",
+    "descripcion": "Aplicacion de visualizacion de razas de perros",
+    "icono": "https://svgsilh.com/png-512/1084899.png",
+    "grupo": "jueves",
+    "fecha": "2026-09-10",
+    "id": 54,
+    "integrantes": [
+      "Alejandro Heredia"
+    ],
+    "actividad": "Webview",
+    "url": "https://drive.google.com/file/d/1N4VKJ-F2wN6mPr3cfzl1h-r1CHOghfei/view?usp=drive_link"
   }
 ]
