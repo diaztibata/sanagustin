@@ -715,5 +715,18 @@
     ],
     "actividad": "Webview",
     "url": "https://drive.google.com/file/d/1WDXY7FwhlO-4eOmKeTbC4SXTOymw3mpv/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "jacob and co",
+    "descripcion": "relojes",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/8/89/Jacob_and_Co-logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+    "grupo": "jueves",
+    "fecha": "2026-09-10",
+    "id": 53,
+    "integrantes": [
+      "Samuel Angel Galindo"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/121-MFY5KuBqVOeaqSdHgCBNkltbPwAhG/view?usp=drive_link"
   }
 ]
