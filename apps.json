@@ -593,5 +593,18 @@
     ],
     "actividad": "Splash",
     "url": "https://drive.google.com/file/d/1OXjkBMtQRoiVkj4hjeuseEYvIrIlPGHy/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Diseñomoto",
+    "descripcion": "App que permite pedir un diseño personalizado para motos",
+    "icono": "https://cdn-icons-png.flaticon.com/128/705/705647.png",
+    "grupo": "jueves",
+    "fecha": "2026-09-10",
+    "id": 44,
+    "integrantes": [
+      "Brayan Steven Largo Ramirez"
+    ],
+    "actividad": "Nombre de la actividad",
+    "url": "https://drive.google.com/file/d/1NtD6vMXORtdqTCVt897pI0N5Axbdk1kD/view?usp=drive_link"
   }
 ]
