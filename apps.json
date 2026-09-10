@@ -552,5 +552,19 @@
     ],
     "actividad": "PWA",
     "url": "https://drive.google.com/file/d/1ohLcZNx9VAxayQFRjBlOWdZT5vthMd5Q/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "PC Lab - Neon Forge",
+    "descripcion": "Simulador interactivo para construir una PC gamer, explorar componentes en 3D, comprobar su compatibilidad y calcular un precio estimado.",
+    "icono": "https://sensational-gaufre-007126.netlify.app/favicon.svg",
+    "grupo": "Jueves",
+    "fecha": "2026-09-10",
+    "id": 41,
+    "integrantes": [
+      "Jaime Riaño",
+      "Santiago Forero Bejarano"
+    ],
+    "actividad": "Aplicación WebView desarrollada con React y Android Studio",
+    "url": "https://drive.google.com/file/d/18qRa3ulBebBWdtrgfoz9itsQMwUTntfF/view?usp=drive_link"
   }
 ]
