@@ -620,5 +620,19 @@
     ],
     "actividad": "Webview",
     "url": "https://drive.google.com/file/d/1HwU4sMCYPPjmaXTvyEw_lU60w2Yghz5K/view"
+  },
+  {
+    "nombreapp": "grid pulse",
+    "descripcion": "juego de habilidad",
+    "icono": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/thumbnail_8307c10f-3f8f-43bb-baf8-82e6cf519a91.webp?format=png&frame=first",
+    "grupo": "jueves",
+    "fecha": "2026-09-10",
+    "id": 46,
+    "integrantes": [
+      "Samuel Angel Galindo",
+      "Juan Miguel Leal Silva"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1IqybbL8gDUrRVkgFLv_VDhW0S8-sy_jk/view?usp=drive_link"
   }
 ]
