@@ -880,5 +880,19 @@
     ],
     "actividad": "Parcial",
     "url": "https://drive.google.com/file/d/1gsjIFk7_4obGXiz_azmKEA-30NSWBrUY/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "HappyGit",
+    "descripcion": "Aplicación para el control y gestión de emociones",
+    "icono": "https://cdn-icons-png.flaticon.com/512/6911/6911570.png",
+    "grupo": "Jueves",
+    "fecha": "2026-09-11",
+    "id": 65,
+    "integrantes": [
+      "Ramses Daniel Vilchez Garcia",
+      "Andrés Felipe Vargas García"
+    ],
+    "actividad": "Parcial",
+    "url": "https://drive.google.com/file/d/1NB5ZyO3MM7DxkvFwcGgy3HkuUzjzDNtP/view?usp=drive_link"
   }
 ]
