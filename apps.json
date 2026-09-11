@@ -894,5 +894,18 @@
     ],
     "actividad": "Parcial",
     "url": "https://drive.google.com/file/d/1NB5ZyO3MM7DxkvFwcGgy3HkuUzjzDNtP/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "MoodMap",
+    "descripcion": "Aplicación para registrar y visualizar tus emociones mediante un mapa de emociones",
+    "icono": "https://cdn-icons-png.flaticon.com/512/3286/3286020.png",
+    "grupo": "Jueves",
+    "fecha": "2026-09-11",
+    "id": 66,
+    "integrantes": [
+      "Ramses Daniel Vilchez Garcia"
+    ],
+    "actividad": "WebView",
+    "url": "https://drive.google.com/file/d/1EVj4zywovTWIma0gFZ2s0-gLAYuuMhGz/view?usp=drive_link"
   }
 ]
