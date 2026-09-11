@@ -907,5 +907,18 @@
     ],
     "actividad": "WebView",
     "url": "https://drive.google.com/file/d/1EVj4zywovTWIma0gFZ2s0-gLAYuuMhGz/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Layout Social Media",
+    "descripcion": "Layout sencillo de FlutterFlow",
+    "icono": "https://storage.needpix.com/rsynced_images/worldwide-2214090_1280.png",
+    "grupo": "jueves",
+    "fecha": "2026-09-11",
+    "id": 67,
+    "integrantes": [
+      "Santiago Forero Bejarano"
+    ],
+    "actividad": "FLUTTERFLOW",
+    "url": "https://drive.google.com/file/d/1WOQ6yBxT8aXr7_8l4DbBu0HeE2BjQch-/view?usp=drive_link"
   }
 ]
