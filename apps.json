@@ -1027,5 +1027,19 @@
     ],
     "actividad": "Parcial React Native y Expo",
     "url": "https://drive.google.com/file/d/1Pwh-hUzInffoFHC2wa4gtMLqEBndSVLA/view?usp=drive_link"
+  },
+  {
+    "nombreapp": " studyapp",
+    "descripcion": "Organiza tus tareas académicas para la universidad",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1754/1754228.png",
+    "grupo": "Viernes",
+    "fecha": "2026-09-11",
+    "id": 76,
+    "integrantes": [
+      "David Alejandro Castro Lozada",
+      "Tomás Jerónimo Roa García"
+    ],
+    "actividad": "Parcial",
+    "url": "https://drive.google.com/file/d/1UgNJjF5k84VVK3z7F1lm3aQzRS53iRoG/view?usp=drive_link"
   }
 ]
