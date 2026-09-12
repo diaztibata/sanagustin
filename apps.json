@@ -1041,5 +1041,18 @@
     ],
     "actividad": "Parcial",
     "url": "https://drive.google.com/file/d/1UgNJjF5k84VVK3z7F1lm3aQzRS53iRoG/view?usp=drive_link"
+  },
+  {
+    "nombreapp": " Parci",
+    "descripcion": "Organiza tu horario para personas que no se pueden concentrar",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1403/1403642.png",
+    "grupo": "Viernes",
+    "fecha": "2026-09-11",
+    "id": 77,
+    "integrantes": [
+      "Tomás Jerónimo Roa García"
+    ],
+    "actividad": "webview",
+    "url": "https://drive.google.com/file/d/1WSKY7U5eybHjRPiRgAqK5pkRyr_HwGWG/view?usp=drive_link"
   }
 ]
