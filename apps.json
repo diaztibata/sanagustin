@@ -920,5 +920,18 @@
     ],
     "actividad": "FLUTTERFLOW",
     "url": "https://drive.google.com/file/d/1WOQ6yBxT8aXr7_8l4DbBu0HeE2BjQch-/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Simulador-de-colonia-de-hormigas",
+    "descripcion": "App que simula el comportamiento de una colonia de hormigas",
+    "icono": "https://raw.githubusercontent.com/Brayanlargo/Simulador-de-colonia-de-hormigas/main/assets/Icon.png",
+    "grupo": "jueves",
+    "fecha": "2026-09-11",
+    "id": 68,
+    "integrantes": [
+      "Brayan Steven Largo Ramirez"
+    ],
+    "actividad": "Parcial",
+    "url": "https://drive.google.com/file/d/1FxmVhvbDRFwvibf3KO9087N3TPiZ1eDj/view?usp=drive_link"
   }
 ]
