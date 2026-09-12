@@ -933,5 +933,18 @@
     ],
     "actividad": "Parcial",
     "url": "https://drive.google.com/file/d/1FxmVhvbDRFwvibf3KO9087N3TPiZ1eDj/view?usp=drive_link"
+  },
+  {
+    "nombreapp": " Capturador de información ",
+    "descripcion": " aplicación que sirve para generar encuestas, tabularlas y organizarlas ",
+    "icono": " https://cdn-icons-png.flaticon.com/512/2279/2279034.png",
+    "grupo": "viernes",
+    "fecha": "2026-09-11",
+    "id": 69,
+    "integrantes": [
+      "Eduar Camilo Toloza Ovalle"
+    ],
+    "actividad": "WEbview",
+    "url": "https://drive.google.com/file/d/1_IhJ75zpotKMTOhrwE144mqcn2d5TvoU/view?usp=drive_link"
   }
 ]
