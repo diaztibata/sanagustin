@@ -973,5 +973,18 @@
     ],
     "actividad": "Webintoapp",
     "url": "https://drive.google.com/file/d/1NOZKjCL-H-NQnnUSFhq3Bwh0vtA0tfXp/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "propina",
+    "descripcion": "calculadora de propina",
+    "icono": "https://demalord.github.io/Relfex-Test/icon.png",
+    "grupo": "Viernes",
+    "fecha": "2026-09-11",
+    "id": 72,
+    "integrantes": [
+      "sara valeria patarroyo alba"
+    ],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1i6LC0JQ-6zW0b57vWK5uglLIIg6l08ss/view?usp=drive_link"
   }
 ]
