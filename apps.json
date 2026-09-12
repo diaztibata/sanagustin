@@ -946,5 +946,19 @@
     ],
     "actividad": "WEbview",
     "url": "https://drive.google.com/file/d/1_IhJ75zpotKMTOhrwE144mqcn2d5TvoU/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Biblioteca",
+    "descripcion": "Lugar dodne se encuentra tus libros favioritos y los que ya leiste",
+    "icono": "https://cdn-icons-png.flaticon.com/512/9043/9043296.png",
+    "grupo": "Viernes",
+    "fecha": "2026-09-11",
+    "id": 70,
+    "integrantes": [
+      "David Alejandro Castro Lozada",
+      "Sebastián Calderón"
+    ],
+    "actividad": "PWA",
+    "url": "https://darkoo-207.github.io/biblioteca/"
   }
 ]
