@@ -1013,5 +1013,19 @@
     ],
     "actividad": "PWA",
     "url": "https://santiagocastros09.github.io/pwa-new//"
+  },
+  {
+    "nombreapp": "Cronómetro",
+    "descripcion": "Aplicación móvil de cronómetro con función de vueltas, desarrollada en React Native con Expo",
+    "icono": "https://github.com/nicolasdoradom-sy/parcial/blob/main/assets/icon.png",
+    "grupo": "viernes",
+    "fecha": "2026-09-11",
+    "id": 75,
+    "integrantes": [
+      "Nicolas Alejandro Dorado Mirque",
+      "Yesica González Zambrano"
+    ],
+    "actividad": "Parcial React Native y Expo",
+    "url": "https://drive.google.com/file/d/1Pwh-hUzInffoFHC2wa4gtMLqEBndSVLA/view?usp=drive_link"
   }
 ]
