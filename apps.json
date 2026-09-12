@@ -999,5 +999,19 @@
     ],
     "actividad": "Webintoapp",
     "url": "https://drive.google.com/file/d/1pawDQQqsjhGPO-5ShLdnGjAPX4WOmNKQ/view?usp=drive_link"
+  },
+  {
+    "nombreapp": " StudyTrack",
+    "descripcion": "Organiza tus tareas académicas",
+    "icono": "https://cdn-icons-png.flaticon.com/512/12178/12178616.png",
+    "grupo": "Viernes",
+    "fecha": "2026-09-11",
+    "id": 74,
+    "integrantes": [
+      "Yesica González Zambrano",
+      "Santiago Castro"
+    ],
+    "actividad": "PWA",
+    "url": "https://santiagocastros09.github.io/pwa-new//"
   }
 ]
