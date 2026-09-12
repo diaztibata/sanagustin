@@ -1054,5 +1054,19 @@
     ],
     "actividad": "webview",
     "url": "https://drive.google.com/file/d/1WSKY7U5eybHjRPiRgAqK5pkRyr_HwGWG/view?usp=drive_link"
+  },
+  {
+    "nombreapp": " Parcial",
+    "descripcion": "Organiza tus tareas académicas",
+    "icono": "https://cdn-icons-png.flaticon.com/512/12178/12178616.png",
+    "grupo": "Viernes",
+    "fecha": "2026-09-11",
+    "id": 78,
+    "integrantes": [
+      "Manuel Felipe Marín Rodríguez ",
+      "Santiago Castro"
+    ],
+    "actividad": "PARCIAL",
+    "url": "https://drive.google.com/file/d/1__9t-7s5XFB9SiBU5qx1BYFbxCxsFj40/view?usp=drive_link"
   }
 ]
