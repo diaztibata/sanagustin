@@ -960,5 +960,18 @@
     ],
     "actividad": "PWA",
     "url": "https://darkoo-207.github.io/biblioteca/"
+  },
+  {
+    "nombreapp": "MemoriaWebView",
+    "descripcion": "Juego de memoria",
+    "icono": "https://demalord.github.io/Relfex-Test/icon.png",
+    "grupo": "Viernes",
+    "fecha": "2026-09-11",
+    "id": 71,
+    "integrantes": [
+      "Luis Eduardo Bareño Suescun"
+    ],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1NOZKjCL-H-NQnnUSFhq3Bwh0vtA0tfXp/view?usp=drive_link"
   }
 ]
