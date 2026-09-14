@@ -1081,5 +1081,19 @@
     ],
     "actividad": "Parcial",
     "url": "https://drive.google.com/file/d/14VkAazMaPtXeDaEk3Jxseede-lBDL3kY/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Pragati",
+    "descripcion": "website de venta de ropa",
+    "icono": "https://cdn-icons-png.flaticon.com/512/545/545485.png",
+    "grupo": "Viernes",
+    "fecha": "2026-09-14",
+    "id": 80,
+    "integrantes": [
+      "David Alejandro Castro Lozada",
+      "Santiago Castro"
+    ],
+    "actividad": "Webview",
+    "url": "https://drive.google.com/file/d/1tQj9Le9lmlj7zQ9jjQVM7WOJdS7I2kub/view?usp=drive_link"
   }
 ]
