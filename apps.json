@@ -1121,5 +1121,18 @@
     ],
     "actividad": "Pokeapi",
     "url": "https://drive.google.com/file/d/1AKr2FcHc8v8DakpLawKI5DnxcbONXyii/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "El Caldero de Ignis",
+    "descripcion": "trabajo de api designada. Api de D&D Magic Items",
+    "icono": "https://cdn-icons-png.flaticon.com/256/15046/15046870.png",
+    "grupo": "jueves",
+    "fecha": "2026-10-14",
+    "id": 83,
+    "integrantes": [
+      "Santiago Jara Valbuena"
+    ],
+    "actividad": "Api designada por el profesor Daniel.",
+    "url": "https://drive.google.com/file/d/1XKm3oiUN8wOCXnmEWdkdWmkceFY7IPKr/view?usp=drive_link"
   }
 ]
