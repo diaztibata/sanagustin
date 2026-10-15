@@ -1095,5 +1095,18 @@
     ],
     "actividad": "Webview",
     "url": "https://drive.google.com/file/d/1tQj9Le9lmlj7zQ9jjQVM7WOJdS7I2kub/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "PokemonApiExpoGo",
+    "descripcion": "trabajo de api con Expo Go.",
+    "icono": "https://cdn-icons-png.flaticon.com/256/1408/1408998.png",
+    "grupo": "jueves",
+    "fecha": "2026-10-14",
+    "id": 81,
+    "integrantes": [
+      "Santiago Jara Valbuena"
+    ],
+    "actividad": "Pokeapi Expo Go",
+    "url": "https://drive.google.com/file/d/1mIqnjuwDhXH2uHHkzjrEYEzryc9R-KSw/view?usp=drive_link"
   }
 ]
