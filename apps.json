@@ -1108,5 +1108,18 @@
     ],
     "actividad": "Pokeapi Expo Go",
     "url": "https://drive.google.com/file/d/1mIqnjuwDhXH2uHHkzjrEYEzryc9R-KSw/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "PokemonApiClass",
+    "descripcion": "trabajo hecho en la clase.",
+    "icono": "https://cdn-icons-png.flaticon.com/256/287/287224.png",
+    "grupo": "jueves",
+    "fecha": "2026-10-14",
+    "id": 82,
+    "integrantes": [
+      "Santiago Jara Valbuena"
+    ],
+    "actividad": "Pokeapi",
+    "url": "https://drive.google.com/file/d/1AKr2FcHc8v8DakpLawKI5DnxcbONXyii/view?usp=drive_link"
   }
 ]
