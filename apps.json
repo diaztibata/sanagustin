@@ -1160,5 +1160,18 @@
     ],
     "actividad": "Api individual",
     "url": "https://drive.google.com/file/d/1-yBdO3iJWJABtAT4L6DnBt9ElgsjUeYJ/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "bundesliga",
+    "descripcion": "bundesliga",
+    "icono": "https://demalord.github.io/Relfex-Test/icon.png",
+    "grupo": "Viernes",
+    "fecha": "2026-10-16",
+    "id": 86,
+    "integrantes": [
+      "David Alejandro Castro Lozada"
+    ],
+    "actividad": "Api individual",
+    "url": "https://drive.google.com/file/d/1ks_BVGEvQKWdHERmdhVuW2BnyWLDxuBY/view?usp=drive_link"
   }
 ]
