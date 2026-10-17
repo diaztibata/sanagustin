@@ -1147,5 +1147,18 @@
     ],
     "actividad": "Api individual",
     "url": "https://drive.google.com/file/d/1E64etvook6wlGJFEHsM4KgGJ2esxurit/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Rick and morty",
+    "descripcion": "tinder inter espacial de rick and morty",
+    "icono": "https://i.pinimg.com/474x/b3/73/b4/b373b40c41219712c59804b3a529e84d.jpg",
+    "grupo": "Viernes",
+    "fecha": "2026-10-16",
+    "id": 85,
+    "integrantes": [
+      "Tomás Jerónimo Roa García"
+    ],
+    "actividad": "Api individual",
+    "url": "https://drive.google.com/file/d/1-yBdO3iJWJABtAT4L6DnBt9ElgsjUeYJ/view?usp=drive_link"
   }
 ]
