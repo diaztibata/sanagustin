@@ -1134,5 +1134,18 @@
     ],
     "actividad": "Api designada por el profesor Daniel.",
     "url": "https://drive.google.com/file/d/1XKm3oiUN8wOCXnmEWdkdWmkceFY7IPKr/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Biblia",
+    "descripcion": "La biblia",
+    "icono": "https://demalord.github.io/Relfex-Test/icon.png",
+    "grupo": "Viernes",
+    "fecha": "2026-10-16",
+    "id": 84,
+    "integrantes": [
+      "Yesica González Zambrano"
+    ],
+    "actividad": "Api individual",
+    "url": "https://drive.google.com/file/d/1E64etvook6wlGJFEHsM4KgGJ2esxurit/view?usp=drive_link"
   }
 ]
