@@ -1173,5 +1173,19 @@
     ],
     "actividad": "Api individual",
     "url": "https://drive.google.com/file/d/1ks_BVGEvQKWdHERmdhVuW2BnyWLDxuBY/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Enjambre estelar - Galaga",
+    "descripcion": " Un juego inspirado en galaga",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Galaga_logo.svg",
+    "grupo": "Jueves ",
+    "fecha": "2026-11-01",
+    "id": 87,
+    "integrantes": [
+      "Jefferson Camilo Marroquin mogollon",
+      "Kent smith"
+    ],
+    "actividad": "Apps con Capacitor + Vite",
+    "url": "https://drive.google.com/file/d/1O7iymNzfgwou0VwaJ0_CcT8FxEXR2kOg/view?usp=drive_link"
   }
 ]
