@@ -1187,5 +1187,18 @@
     ],
     "actividad": "Apps con Capacitor + Vite",
     "url": "https://drive.google.com/file/d/1O7iymNzfgwou0VwaJ0_CcT8FxEXR2kOg/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Medidor De Aura",
+    "descripcion": "Descubre cuanta aura tienes",
+    "icono": "https://github.com/DevGabrx/Capacitor-/blob/master/proyecto/assets/icon-only.png",
+    "grupo": "jueves",
+    "fecha": "2026-11-02",
+    "id": 88,
+    "integrantes": [
+      "Gabriel Pino"
+    ],
+    "actividad": "App con Capacitor + Vite ",
+    "url": "https://drive.google.com/file/d/11zo7oUJpY7KeWOmQ8zZEmfUIoRReKaDg/view?usp=drive_link"
   }
 ]
