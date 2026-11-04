@@ -1200,5 +1200,19 @@
     ],
     "actividad": "App con Capacitor + Vite ",
     "url": "https://drive.google.com/file/d/11zo7oUJpY7KeWOmQ8zZEmfUIoRReKaDg/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "emojiriddle",
+    "descripcion": "Juego para adivinar películas, juegos o series con emojis. ",
+    "icono": "https://i.postimg.cc/tJw6DfCf/IMG-20261104-WA0006.jpg",
+    "grupo": "jueves",
+    "fecha": "2026-11-04",
+    "id": 89,
+    "integrantes": [
+      "Juan Diego Cardona Torres",
+      "Jhan Sebastián Rivera Aguirre"
+    ],
+    "actividad": "App con Capacitor + Vite",
+    "url": "https://drive.google.com/file/d/1n_s8v9VQlppbnNOrsgNytHqM9BgST4nb/view?usp=drivesdk"
   }
 ]
