@@ -1282,5 +1282,19 @@
     ],
     "actividad": "Vite y Capacitor",
     "url": "https://drive.google.com/file/d/19mAL-Tq38AP-8TuBEP931NuPa0SybhvV/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Mi monstruo digital",
+    "descripcion": "trabajo con Vite y Capacitor.",
+    "icono": "https://emojigraph.org/media/openmoji/alien-monster_1f47e.png",
+    "grupo": "jueves",
+    "fecha": "2026-11-05",
+    "id": 95,
+    "integrantes": [
+      "Santiago Rojas ",
+      "Jhon Avila "
+    ],
+    "actividad": "Vite y Capacitor",
+    "url": "https://drive.google.com/file/d/1x0-DYFP1ihorJnNfr9sF0BkIS0LkBAf5/view?usp=drive_link"
   }
 ]
