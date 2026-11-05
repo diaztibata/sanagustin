@@ -1228,5 +1228,19 @@
     ],
     "actividad": "Apps con Capacitor + Vite 2026-11-01",
     "url": "https://drive.google.com/file/d/1siW5yQrbebwfOpX85DHEdSB3k3cmbu02/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Reglamento ultimate",
+    "descripcion": "Reglamento interactivo de ultimate",
+    "icono": "https://github.com/Demalord/Reglamento-Ultimate-Frisbee/blob/main/public/agusti.png",
+    "grupo": "jueves",
+    "fecha": "2026-11-04",
+    "id": 91,
+    "integrantes": [
+      "Juan José Vasco",
+      "Diego Esteban Mahecha Reyes"
+    ],
+    "actividad": "capacitor + vite",
+    "url": "https://drive.google.com/file/d/1wDl5V3HUaPVrus5aRVQf7x3_emcMjEAa/view?usp=drive_link"
   }
 ]
