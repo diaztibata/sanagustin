@@ -1296,5 +1296,19 @@
     ],
     "actividad": "Vite y Capacitor",
     "url": "https://drive.google.com/file/d/1x0-DYFP1ihorJnNfr9sF0BkIS0LkBAf5/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Parqueadero",
+    "descripcion": "una aplicacion de parqueadero que registra entradas, salidas y demas",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Parking_icon.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+    "grupo": "Jueves",
+    "fecha": "2026-11-05",
+    "id": 96,
+    "integrantes": [
+      "Camilo Soto",
+      "Juan Miguel Leal Silva"
+    ],
+    "actividad": "...",
+    "url": "https://drive.google.com/file/d/1bLkj2vDUjN3mBGN_kukXq_MQdYPon9WL/view?usp=drive_link"
   }
 ]
