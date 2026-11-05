@@ -1214,5 +1214,19 @@
     ],
     "actividad": "App con Capacitor + Vite",
     "url": "https://drive.google.com/file/d/1n_s8v9VQlppbnNOrsgNytHqM9BgST4nb/view?usp=drivesdk"
+  },
+  {
+    "nombreapp": "Cesta Viva",
+    "descripcion": "Aplicación que recomienda productos para mascotas según su perfil, necesidades y presupuesto, compara marcas y prioriza los productos esenciales.",
+    "icono": "https://i.postimg.cc/MT4c2pnJ/cesta-viva-icono.png",
+    "grupo": "jueves",
+    "fecha": "2026-11-04",
+    "id": 90,
+    "integrantes": [
+      "Kevin Andrés Bernal Rojas",
+      "jaime riaño"
+    ],
+    "actividad": "Apps con Capacitor + Vite 2026-11-01",
+    "url": "https://drive.google.com/file/d/1siW5yQrbebwfOpX85DHEdSB3k3cmbu02/view?usp=drive_link"
   }
 ]
