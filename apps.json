@@ -1269,5 +1269,18 @@
     ],
     "actividad": "Apps con Capacitor + Vite",
     "url": "https://drive.google.com/file/d/1FAWFmJ19S06eN_Tn7ck01Kh2qY7-8eaM/view?usp=drivesdk"
+  },
+  {
+    "nombreapp": "When The Eggs Fly",
+    "descripcion": "trabajo con Vite y Capacitor.",
+    "icono": "https://cdn-icons-png.flaticon.com/256/5222/5222493.png",
+    "grupo": "jueves",
+    "fecha": "2026-11-05",
+    "id": 94,
+    "integrantes": [
+      "Santiago Jara Valbuena"
+    ],
+    "actividad": "Vite y Capacitor",
+    "url": "https://drive.google.com/file/d/19mAL-Tq38AP-8TuBEP931NuPa0SybhvV/view?usp=drive_link"
   }
 ]
