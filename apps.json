@@ -1242,5 +1242,18 @@
     ],
     "actividad": "capacitor + vite",
     "url": "https://drive.google.com/file/d/1wDl5V3HUaPVrus5aRVQf7x3_emcMjEAa/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Tráfico de Bogotá",
+    "descripcion": "Juego de taxi en Bogotá: cambia de carril, esquiva buses, carros, conos y huecos, recoge lucas y mejora tu vehículo en la tienda.",
+    "icono": "https://raw.githubusercontent.com/Xstven/Juego_Trafico/main/assets/icon-only.png",
+    "grupo": "jueves",
+    "fecha": "2026-11-05",
+    "id": 92,
+    "integrantes": [
+      "Brayan Steven Largo Ramirez"
+    ],
+    "actividad": "capacitor + vite",
+    "url": "https://drive.google.com/file/d/1SocxFRjnmpnUtJfKH9lqIr68jQAeobfP/view?usp=drive_link"
   }
 ]
