@@ -1255,5 +1255,19 @@
     ],
     "actividad": "capacitor + vite",
     "url": "https://drive.google.com/file/d/1SocxFRjnmpnUtJfKH9lqIr68jQAeobfP/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "AgroPrecio",
+    "descripcion": "App móvil que muestra precios mayoristas de ejemplo de productos agrícolas en Colombia y ayuda a los pequeños agricultores a decidir dónde y cuándo vender.",
+    "icono": "https://raw.githubusercontent.com/ramsesvilchezg-debug/AgroPrecio/main/proyecto/assets/icon-only.png",
+    "grupo": "jueves",
+    "fecha": "2026-11-05",
+    "id": 93,
+    "integrantes": [
+      "Ramses Daniel Vilchez Garcia",
+      "Santiago Forero Bejarano"
+    ],
+    "actividad": "Apps con Capacitor + Vite",
+    "url": "https://drive.google.com/file/d/1FAWFmJ19S06eN_Tn7ck01Kh2qY7-8eaM/view?usp=drivesdk"
   }
 ]
