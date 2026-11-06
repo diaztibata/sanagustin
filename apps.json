@@ -1323,5 +1323,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1Ud5BSxjFauiZZYNP0KRKa0ehz89i7Blt/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "SpeedMoto",
+    "descripcion": "Catálogo de motos deportivas con buscador, filtros por marca y cilindrada, fichas técnicas, favoritos y comparador de dos motos.",
+    "icono": "https://raw.githubusercontent.com/nicolasdoradom-sy/appppp/main/assets/icon-only.png",
+    "grupo": "Viernes",
+    "fecha": "2026-11-06",
+    "id": 98,
+    "integrantes": [
+      "Nicolas Alejandro Dorado Mirque"
+    ],
+    "actividad": "app",
+    "url": "https://drive.google.com/file/d/1XBd4YA6Yst3XJx-D0fQ64eOP3dDbq_ly/view?usp=drive_link"
   }
 ]
