@@ -1336,5 +1336,18 @@
     ],
     "actividad": "app",
     "url": "https://drive.google.com/file/d/1XBd4YA6Yst3XJx-D0fQ64eOP3dDbq_ly/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Discord MVP",
+    "descripcion": "App de chat tipo Discord con servidores, canales, mensajes en tiempo real y un dashboard de administración, hecha con React, Supabase y Capacitor.",
+    "icono": "https://raw.githubusercontent.com/Xstven/app-dashboard/main/assets/icon-only.png",
+    "grupo": "jueves",
+    "fecha": "2026-11-12",
+    "id": 99,
+    "integrantes": [
+      "Brayan Steven Largo Ramirez"
+    ],
+    "actividad": "Dashboard con React + Supabase",
+    "url": "https://drive.google.com/file/d/1uJT8Bfqx3jG5nCJT_VtDxJVB-t3p2hBC/view?usp=drive_link"
   }
 ]
