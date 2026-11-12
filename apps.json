@@ -1349,5 +1349,18 @@
     ],
     "actividad": "Dashboard con React + Supabase",
     "url": "https://drive.google.com/file/d/1uJT8Bfqx3jG5nCJT_VtDxJVB-t3p2hBC/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Notas",
+    "descripcion": "Notas",
+    "icono": "https://demalord.github.io/Relfex-Test/icon.png",
+    "grupo": "Viernes",
+    "fecha": "2026-11-12",
+    "id": 100,
+    "integrantes": [
+      "Luis Eduardo Bareño Suescun"
+    ],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/16CE4GWb_Tq-cjCPIuoGjMujji8g6TIik/view?usp=drive_link"
   }
 ]
