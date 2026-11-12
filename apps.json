@@ -1362,5 +1362,18 @@
     ],
     "actividad": "Webintoapp",
     "url": "https://drive.google.com/file/d/16CE4GWb_Tq-cjCPIuoGjMujji8g6TIik/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "DashSQL",
+    "descripcion": "DashBoard SQL",
+    "icono": "https://cdn-icons-png.flaticon.com/128/5815/5815809.png",
+    "grupo": "Viernes",
+    "fecha": "2026-11-12",
+    "id": 101,
+    "integrantes": [
+      "Luis Eduardo Bareño Suescun"
+    ],
+    "actividad": "Webintoapp",
+    "url": "https://drive.google.com/file/d/1sI12mP9aWetyW6Isw1bNRis5n1nGufC8/view?usp=drive_link"
   }
 ]
