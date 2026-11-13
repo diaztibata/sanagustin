@@ -1375,5 +1375,19 @@
     ],
     "actividad": "Webintoapp",
     "url": "https://drive.google.com/file/d/1sI12mP9aWetyW6Isw1bNRis5n1nGufC8/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Lowcost",
+    "descripcion": "App donde puede manejar tus gatos personales",
+    "icono": "https://github.com/tomasroag20/Lowcost/blob/main/proyecto/src/assets/Lowcost.png",
+    "grupo": "Viernes",
+    "fecha": "2026-11-12",
+    "id": 102,
+    "integrantes": [
+      "Tomás Jeronimo Roa García",
+      "Yesica González Zambrano"
+    ],
+    "actividad": "React Parejas",
+    "url": "https://drive.google.com/file/d/1WSpY_O1UhBenrQo2Vzu8IYKDFTG1BgRV/view?usp=drive_link"
   }
 ]
