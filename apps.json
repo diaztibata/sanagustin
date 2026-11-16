@@ -1402,5 +1402,19 @@
     ],
     "actividad": "Terminar Webview",
     "url": "https://drive.google.com/file/d/1GDJBFOGe3YONeXld5XXmdHqf7UNIQqi6/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "reddit",
+    "descripcion": "dashboard reddit - hecho por kent smith, jaime riaño, camilo soto",
+    "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/500px-Reddit_Logo_Icon.svg.png",
+    "grupo": "jueves",
+    "fecha": "2026-11-16",
+    "id": 104,
+    "integrantes": [
+      "Kent smith",
+      "jaime riaño"
+    ],
+    "actividad": "dashboard",
+    "url": "https://drive.google.com/file/d/14ph5kd99chNzxcIdX65Avix1SYWpoeya/view?usp=drive_link"
   }
 ]
