@@ -1389,5 +1389,18 @@
     ],
     "actividad": "React Parejas",
     "url": "https://drive.google.com/file/d/1WSpY_O1UhBenrQo2Vzu8IYKDFTG1BgRV/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Tindergalax",
+    "descripcion": "App donde puedes encontrar tus citas interespaciales",
+    "icono": "https://demalord.github.io/Relfex-Test/icon.png",
+    "grupo": "viernes",
+    "fecha": "2026-11-15",
+    "id": 103,
+    "integrantes": [
+      "Tomás Jerónimo Roa García"
+    ],
+    "actividad": "Terminar Webview",
+    "url": "https://drive.google.com/file/d/1GDJBFOGe3YONeXld5XXmdHqf7UNIQqi6/view?usp=drive_link"
   }
 ]
