@@ -1416,5 +1416,18 @@
     ],
     "actividad": "dashboard",
     "url": "https://drive.google.com/file/d/14ph5kd99chNzxcIdX65Avix1SYWpoeya/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Disneyverse",
+    "descripcion": "App donde puedes ver que tanto sabes de disney y agregar tus personajes favoritos",
+    "icono": "https://demalord.github.io/Relfex-Test/icon.png",
+    "grupo": "Viernes",
+    "fecha": "2026-11-16",
+    "id": 105,
+    "integrantes": [
+      "Tomás Jerónimo Roa García"
+    ],
+    "actividad": "Firebase",
+    "url": "https://drive.google.com/file/d/12F_jCLhUWp5t4vOP2ELlMRKK2hAL0jAO/view?usp=drive_link"
   }
 ]
