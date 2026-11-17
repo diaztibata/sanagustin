@@ -1459,5 +1459,18 @@
     ],
     "actividad": "Dashboard",
     "url": "https://drive.google.com/file/d/1VCUwUVI9jX-3gAsdcUh3lpF_eze1_nGG/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Webview Doom",
+    "descripcion": " Registrate para ganar puntos en Doom",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Doom_classic_box_art.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+    "grupo": "jueves ",
+    "fecha": "2026-11-17",
+    "id": 108,
+    "integrantes": [
+      "Kent smith"
+    ],
+    "actividad": "WEBINTOPAPP",
+    "url": "https://drive.google.com/file/d/1L1CgqeAkKHL0bbsWkeQYTBX0F64e_rOm/view?usp=drive_link"
   }
 ]
