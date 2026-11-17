@@ -1444,5 +1444,20 @@
     ],
     "actividad": "Réplica MVP",
     "url": "https://drive.google.com/file/d/1bt0a30DDajnBakn7f8JJaPwy82_gB9lE/view?usp=drivesdk"
+  },
+  {
+    "nombreapp": "Bookwarts",
+    "descripcion": "Una app donde te puedes comunicar entre casa de harry poter",
+    "icono": "https://demalord.github.io/Relfex-Test/icon.png",
+    "grupo": "Viernes",
+    "fecha": "2026-11-16",
+    "id": 107,
+    "integrantes": [
+      "Tomás Jerónimo Roa García",
+      "Yesica González Zambrano",
+      "Manuel Felipe Marín Rodriguez"
+    ],
+    "actividad": "Dashboard",
+    "url": "https://drive.google.com/file/d/1VCUwUVI9jX-3gAsdcUh3lpF_eze1_nGG/view?usp=drive_link"
   }
 ]
