@@ -1429,5 +1429,20 @@
     ],
     "actividad": "Firebase",
     "url": "https://drive.google.com/file/d/12F_jCLhUWp5t4vOP2ELlMRKK2hAL0jAO/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Picaboo",
+    "descripcion": "App del MVP de Snapchat",
+    "icono": "https://i.postimg.cc/0NNYfY9F/Screenshot-20261116-202518-Files-de-Google-(1).jpg",
+    "grupo": "jueves",
+    "fecha": "2026-11-16",
+    "id": 106,
+    "integrantes": [
+      "Ramses Daniel Vilchez García",
+      "Juan Diego Cardona Torres",
+      "Kevin Andrés Bernal Rojas"
+    ],
+    "actividad": "Réplica MVP",
+    "url": "https://drive.google.com/file/d/1bt0a30DDajnBakn7f8JJaPwy82_gB9lE/view?usp=drivesdk"
   }
 ]
