@@ -1485,5 +1485,19 @@
     ],
     "actividad": "Terminar app",
     "url": "https://drive.google.com/file/d/1BL6bMwT91oIh2_fV7ahQ6YKb-VXrQlGU/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "División",
+    "descripcion": "permite dividir gastos compartidos entre varias personas, calculando automáticamente cuánto debe pagar cada integrante según los participantes",
+    "icono": "https://github.com/soohwa189-hub/Cost/blob/main/Icono%20de%20reparto%20de%20dinero.png?raw=true",
+    "grupo": "Jueves",
+    "fecha": "2026-11-17",
+    "id": 110,
+    "integrantes": [
+      "Karoll Dayhan Castillo Ortiz",
+      "Samuel Angel Galindo"
+    ],
+    "actividad": "Capacitor Original",
+    "url": "https://drive.google.com/file/d/1Ud5BSxjFauiZZYNP0KRKa0ehz89i7Blt/view"
   }
 ]
