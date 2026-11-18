@@ -1513,5 +1513,18 @@
     ],
     "actividad": "Dashboard SQL Replica",
     "url": "https://drive.google.com/file/d/12hCc_xW6tzi_htCQECUCwC4gC5o98BTf/view?usp=sharing"
+  },
+  {
+    "nombreapp": "Twitter",
+    "descripcion": "twitter",
+    "icono": "https://www.iconsdb.com/icons/preview/green/twitter-xxl.png",
+    "grupo": "jueves",
+    "fecha": "2026-11-18",
+    "id": 112,
+    "integrantes": [
+      "Samuel Angel Galindo"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1JN5xeVKHNoj_ordnyTexmF6PCuwMUrm9/view?usp=drive_link"
   }
 ]
