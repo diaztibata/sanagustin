@@ -1499,5 +1499,19 @@
     ],
     "actividad": "Capacitor Original",
     "url": "https://drive.google.com/file/d/1Ud5BSxjFauiZZYNP0KRKa0ehz89i7Blt/view"
+  },
+  {
+    "nombreapp": "Youtube MVP",
+    "descripcion": "MVP de la aplicacion Youtube",
+    "icono": "https://raw.githubusercontent.com/DevGabrx/Youtube/9e7fce9861682bb362afc726021cd6c98728b37b/youtube.png",
+    "grupo": "jueves",
+    "fecha": "2026-11-18",
+    "id": 111,
+    "integrantes": [
+      "Jhan Sebastián Rivera Aguirre",
+      "Gabriel Pino"
+    ],
+    "actividad": "Dashboard SQL Replica",
+    "url": "https://drive.google.com/file/d/12hCc_xW6tzi_htCQECUCwC4gC5o98BTf/view?usp=sharing"
   }
 ]
